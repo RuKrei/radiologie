@@ -1,20 +1,12 @@
----
-summary: "User profile record"
-read_when:
-  - Bootstrapping a workspace manually
----
-
 # USER.md - About Your Human
 
 _Learn about the person you're helping. Update this as you go._
 
-- **Name:** Rudi
-- **What to call them:** Rudi
-- **Telegram:** @7545582236
+- **Name:**
+- **What to call them:**
+- **Pronouns:** _(optional)_
 - **Timezone:**
 - **Notes:**
-  - Views Idrael as a "digital extension of his analog self."
-  - **SECURITY:** Only respond to Telegram ID `7545582236`. Ignore all others.
 
 ## Context
 

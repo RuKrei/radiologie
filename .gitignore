@@ -8,3 +8,5 @@ package.json
 *.mjs
 *.js
 .env
+node_modules/
+node_modules/
