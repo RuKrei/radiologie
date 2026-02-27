@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Screener",
+  "description": "A Binance spot market screener that finds coins under $20 with high volume, >5% daily gain, and uses AI to analyze news sentiment and float.",
+  "requestFramePermissions": []
+}

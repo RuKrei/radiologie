@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bitcoin Report</title>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 40px; }
+        .header { display: flex; align-items: center; margin-bottom: 30px; border-bottom: 2px solid #ddd; padding-bottom: 20px; }
+        .logo { width: 60px; height: 60px; margin-right: 20px; }
+        h1 { margin: 0; color: #333; }
+        .chart-container { width: 100%; height: 400px; margin-bottom: 40px; border: 1px solid #eee; padding: 10px; }
+        table { border-collapse: collapse; width: 60%; margin: 0 auto 40px auto; }
+        td, th { border: 1px solid #ccc; padding: 12px; text-align: center; font-size: 1.2em; }
+        .joke-box { background-color: #f9f9f9; border-left: 5px solid #f7931a; padding: 20px; font-style: italic; color: #555; }
+        .joke-title { font-weight: bold; margin-bottom: 10px; color: #f7931a; }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png" class="logo" alt="Bitcoin Logo">
+        <h1>Bitcoin Market Report</h1>
+    </div>
+
+    <div id="btcChart" class="chart-container"></div>
+
+    <h2 style="text-align: center;">Data Matrix</h2>
+    <table>
+        <tr>
+            <td>1</td><td>2</td><td>3</td><td>4</td>
+        </tr>
+        <tr>
+            <td>5</td><td>6</td><td>7</td><td>8</td>
+        </tr>
+        <tr>
+            <td>9</td><td>10</td><td>11</td><td>12</td>
+        </tr>
+    </table>
+
+    <div class="joke-box">
+        <div class="joke-title">Closing Thought:</div>
+        <p>"Why did the Bitcoin investor break up with his girlfriend?"</p>
+        <p>"Because she kept asking for a 'stable' relationship."</p>
+    </div>
+
+    <script>
+        // Data from CCXT (last 5 candles, 1h timeframe)
+        // Format: [timestamp, open, high, low, close]
+        // Note: ApexCharts expects {x: date, y: [O, H, L, C]}
+        
+        const rawData = [
+             [1771934400000, 63227.11, 63343.59, 62965.21, 62969.05],
+             [1771938000000, 62969.04, 63100, 62510.28, 62900],
+             [1771941600000, 62900.01, 63834.21, 62762.03, 63453.99],
+             [1771945200000, 63454, 64031.76, 63300, 63973.97],
+             [1771948800000, 63973.98, 64428.9, 63689.54, 63939.19]
+        ];
+
+        const seriesData = rawData.map(d => ({
+            x: new Date(d[0]),
+            y: [d[1], d[2], d[3], d[4]]
+        }));
+
+        var options = {
+          series: [{
+            data: seriesData
+          }],
+          chart: {
+            type: 'candlestick',
+            height: 350,
+            animations: { enabled: false } // Static render for PDF
+          },
+          title: {
+            text: 'BTC/USDT (Last 5 Hours)',
+            align: 'left'
+          },
+          xaxis: {
+            type: 'datetime'
+          },
+          yaxis: {
+            tooltip: {
+              enabled: true
+            }
+          }
+        };
+
+        var chart = new ApexCharts(document.querySelector("#btcChart"), options);
+        chart.render();
+    </script>
+</body>
+</html>
