@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1771946648149
+    },
+    "stealth-browser": {
+      "version": "1.0.0",
+      "installedAt": 1771946653987
+    },
+    "youtube-transcript": {
+      "version": "1.0.1",
+      "installedAt": 1772121546970
+    }
+  }
+}

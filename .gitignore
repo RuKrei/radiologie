@@ -1,0 +1,10 @@
+# Obsidian
+.obsidian/
+.trash/
+*.pdf
+node_modules/
+package-lock.json
+package.json
+*.mjs
+*.js
+.env
