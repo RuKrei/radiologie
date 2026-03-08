@@ -98,4 +98,7 @@ Ischämische Kolitis: Kann sich durch Wandverdickungen und "Thumbprinting" (daum
 Therapeutisch stehen je nach Ursache verschiedene Optionen zur Verfügung. Bei Ösophagusvarizenblutungen kommen Ligatur, Sklerosierung, Ballontamponade oder ein TIPS (transjugulärer intrahepatischer portosystemischer Shunt) infrage. In der Angiografie besteht die Möglichkeit zur Blutstillung mittels Coil-Embolisation; Partikel-Embolisationen bergen ein hohes Risiko für Darmnekrosen. Der klinische Erfolg bei detektierter Blutung liegt bei über 80 Prozent. Bei bekanntem Ulcus duodeni wird eine Embolisation der Arteria gastroduodenalis empfohlen, selbst wenn keine aktiven Blutungszeichen vorliegen. Ein typischer Fehler ist der verzögerte Einsatz radiologischer Verfahren bei unklarer Blutungsquelle oder wenn die Blutung endoskopisch nicht gestillt werden kann.
 
 # Quellen
+
+- [Radiopaedia Suche: Gastrointestinale Blutung](https://radiopaedia.org/search?q=gastrointestinale+hemorrhage)
+
  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

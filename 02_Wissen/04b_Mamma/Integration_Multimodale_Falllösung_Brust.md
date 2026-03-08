@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Integration Multimodale Falllösung Brust](https://radiopaedia.org/search?q=integration+multimodale+falllösung+breast)
+

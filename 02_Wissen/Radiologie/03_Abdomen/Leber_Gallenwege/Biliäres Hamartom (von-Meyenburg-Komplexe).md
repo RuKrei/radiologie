@@ -74,4 +74,7 @@ Metastasen: Diese sind selten rein zystisch (Ausnahme gastrointestinale Stromatu
 Ein typischer Fehler ist die Verwechslung mit Metastasen, sowohl in der Bildgebung als auch bei Laparoskopien und Operationen. Die zufällige Verteilung multipler kleiner Knötchen in der Leber ohne größere Raumforderungen und ohne extrahepatische Erkrankung spricht für biliäre Hamartome. Für den zuweisenden Kollegen ist die Abgrenzung zu Metastasen die wichtigste Information.
 
 # Quellen
+
+- [Radiopaedia Suche: Biliäres Hamartom (von-Meyenburg-Komplexe)](https://radiopaedia.org/search?q=biliäres+hamartom+(von-meyenburg-komplexe))
+
 :,,,,,,,,,,

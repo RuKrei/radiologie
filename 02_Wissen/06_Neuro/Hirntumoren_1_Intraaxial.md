@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Hirntumoren 1 Intraaxial](https://radiopaedia.org/search?q=hirntumoren+1+intraaxial)
+

@@ -81,4 +81,7 @@ Metastasen (serosal): Metastasen im Douglas-Raum (z. B. von Magen-, Pankreas- od
 Ein typischer Fehler in der Schnittbilddiagnostik ist eine unzureichende Füllung des Rektosigmoids mit Wasser, was die Beurteilung erschwert. Die Untersuchung sollte idealerweise prämenstruell angesetzt werden. Für den Zuweiser ist der Ausschluss eines malignen Tumors oder einer entzündlichen Darmerkrankung entscheidend. Das ektopische Gewebe unterliegt zyklischen Veränderungen (Proliferation und Desquamation), was zu Fibrose führt.
 
 # Quellen
+
+- [Radiopaedia Suche: Intestinale Endometriose](https://radiopaedia.org/search?q=intestinale+endometriose)
+
 :,,,,,,,,,,,,,

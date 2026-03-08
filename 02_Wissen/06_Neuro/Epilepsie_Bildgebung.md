@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Epilepsie Bildgebung](https://radiopaedia.org/search?q=epilepsie+bildgebung)
+

@@ -87,4 +87,7 @@ Postbulbäres Ulkus mit Stenose: Zeigt narbige Veränderungen, aber kein umgeben
 Die Therapie ist abhängig von der Symptomatik. Bei klinisch relevanter Stenose oder Komplikationen erfolgt meist eine operative Umgehung mittels Duodeno-Duodenostomie oder Duodeno-Jejunostomie,. Eine Resektion oder Durchtrennung des Pankreasrings wird vermieden, um das Risiko einer Pankreasfistel zu minimieren. Bei Kindern ist das Pankreas anulare eine wichtige Ursache für eine Duodenalobstruktion (ca. 10 Prozent der Fälle).
 
 # Quellen
+
+- [Radiopaedia Suche: Pankreas anulare](https://radiopaedia.org/search?q=pankreas+anulare)
+
 ,,,,,,,,,,,,

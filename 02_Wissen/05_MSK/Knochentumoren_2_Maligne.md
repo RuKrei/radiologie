@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Knochentumoren 2 Maligne](https://radiopaedia.org/search?q=knochentumoren+2+maligne)
+

@@ -90,4 +90,7 @@ Amoebenabszess: Kann morphologisch ähnlich aussehen, Unterscheidung oft durch S
 Eine diagnostische Punktion sollte wegen der Gefahr eines anaphylaktischen Schocks und der Disseminierung von Parasiten vermieden werden, es sei denn, sie erfolgt unter speziellen Vorsichtsmaßnahmen (PAIR-Therapie) bei bestimmten Zystentypen. Die Diagnose wird meist durch Bildgebung und Serologie (Antikörpernachweis) gesichert. Die Therapie besteht je nach Stadium aus antiparasitärer Medikation (Mebendazol/Albendazol), PAIR oder chirurgischer Resektion (Perizystektomie), wobei eine Eröffnung der Zyste intraoperativ vermieden werden muss,,.
 
 # Quellen
+
+- [Radiopaedia Suche: Zystische Echinokokkose](https://radiopaedia.org/search?q=zystische+echinokokkose)
+
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,

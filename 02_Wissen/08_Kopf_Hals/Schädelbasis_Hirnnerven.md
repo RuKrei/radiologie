@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Schädelbasis Hirnnerven](https://radiopaedia.org/search?q=schädelbasis+hirnnerven)
+

@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Mundhöhle Kiefer](https://radiopaedia.org/search?q=mundhöhle+kiefer)
+

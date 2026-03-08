@@ -77,4 +77,7 @@ Hepatozelluläres Karzinom: Ist häufig mit einer Leberzirrhose assoziiert, zeig
 In der PET/PET-CT zeigt sich eine intensive Anreicherung von FDG in der Region der Gallenblase, was vor allem beim Nachweis ansonsten unentdeckter Metastasen von Vorteil ist. Ein typischer Fehler ist die Fehlinterpretation als chronische Cholezystitis. Die mittlere Überlebenszeit beträgt etwa 6 Monate nach Diagnose, die 5-Jahres-Überlebensrate liegt bei 5 bis 13 Prozent.
 
 # Quellen
+
+- [Radiopaedia Suche: Gallenblasenkarzinom](https://radiopaedia.org/search?q=gallenblasenkarzinom)
+
 ,,,,,,,,,

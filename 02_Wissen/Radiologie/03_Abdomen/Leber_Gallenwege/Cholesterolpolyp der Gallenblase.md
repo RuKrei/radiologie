@@ -78,4 +78,7 @@ Lipom der Gallenblasenwand: Dieses zeigt sich in der Sonografie als sehr echorei
 Ein typischer Fehler ist die Fehldiagnose als Adenom mit der Konsequenz einer Cholezystektomie. Für den zuweisenden Kollegen ist die Abgrenzung von Gallenblasensteinen und Gallenblasenadenomen wichtig.
 
 # Quellen
+
+- [Radiopaedia Suche: Cholesterolpolyp der Gallenblase](https://radiopaedia.org/search?q=cholesterolpolyp+der+gallenblase)
+
 ,,,,,,,

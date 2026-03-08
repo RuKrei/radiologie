@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Thoraxtrauma Post OP](https://radiopaedia.org/search?q=thoraxtrauma+post+op)
+

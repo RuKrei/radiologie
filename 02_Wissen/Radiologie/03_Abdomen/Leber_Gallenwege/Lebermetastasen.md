@@ -87,4 +87,7 @@ Fokale Fettverteilungsstörung: Zeigt typische Lokalisationen, keinen raumforder
 Ein typischer Fehler ist, dass kleine Leberherde (unter 1,5 cm) im CT selbst bei maligner Grunderkrankung zu häufig vorschnell als Metastasen interpretiert werden, obwohl 50 Prozent dieser Herde gutartig sind. Unter Therapie mit Tyrosinkinase-Inhibitoren (z.B. bei GIST) kann es zu einer Pseudoprogression kommen, bei der Metastasen durch Nekrose hypodenser und scheinbar größer werden oder neue zystische Läsionen erscheinen, was ein Ansprechen auf die Therapie darstellt (Choi-Kriterien),. Therapeutische Optionen bei solitären Herden umfassen Resektion oder Radiofrequenzablation; bei diffuseren Befunden sind Chemoembolisation (TACE) oder selektive interne Radiotherapie (SIRT) möglich.
 
 # Quellen
+
+- [Radiopaedia Suche: Lebermetastasen](https://radiopaedia.org/search?q=lebermetastasen)
+
 :,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

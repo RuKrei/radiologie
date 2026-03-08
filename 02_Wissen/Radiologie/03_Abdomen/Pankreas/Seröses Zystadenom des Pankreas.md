@@ -86,4 +86,7 @@ Solider pseudopapillärer Tumor: Tritt meist bei jungen Frauen auf und zeigt hä
 Da seröse Zystadenome als benigne gelten, ist bei asymptomatischen Patienten mit typischem Bildbefund eine konservative Überwachung (Watchful Waiting) gerechtfertigt. Eine Operationsindikation besteht bei symptomatischer Größenzunahme, Komplikationen (z. B. Obstruktion) oder wenn die Dignität nicht sicher geklärt werden kann (z. B. Ausschluss eines muzinösen Tumors). Die Wachstumsrate ist in der Regel langsam (etwa 4 mm pro Jahr),.
 
 # Quellen
+
+- [Radiopaedia Suche: Seröses Zystadenom des Pankreas](https://radiopaedia.org/search?q=seröses+zystadenom+des+pankreas)
+
  ,,,,,,,,,,,,,

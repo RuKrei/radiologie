@@ -71,3 +71,6 @@ Alles andere
 Das Kartagener-Syndrom ist durch die Trias Situs inversus, Sinusitis und Bronchiektasen gekennzeichnet. Das Williams-Campbell-Syndrom resultiert aus einer Knorpeldefizienz der Bronchien 4. bis 6. Ordnung.
 
 Quellen ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# Quellen
+
+- [Radiopaedia Suche: Bronchiektasen](https://radiopaedia.org/search?q=bronchiektasen)

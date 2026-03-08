@@ -84,4 +84,7 @@ Hypervaskularisierte Metastasen (z.B. neuroendokrin, Nierenzellkarzinom): Zeigen
 Eine Therapie ist bei asymptomatischer FNH in der Regel nicht erforderlich (konservatives Vorgehen, ggf. Absetzen von Hormonpräparaten). Eine Resektion ist nur bei symptomatischer Raumforderung oder diagnostischer Unsicherheit (insbesondere bei atypischer FNH) indiziert. Während der Schwangerschaft besteht kein erhöhtes Risiko für Wachstum oder Ruptur. Etwa 20 Prozent der Patienten mit FNH haben gleichzeitig Hämangiome.
 
 # Quellen
+
+- [Radiopaedia Suche: Fokal noduläre Hyperplasie (FNH) der Leber](https://radiopaedia.org/search?q=fokal+noduläre+hyperplasie+(fnh)+der+liver)
+
 :,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

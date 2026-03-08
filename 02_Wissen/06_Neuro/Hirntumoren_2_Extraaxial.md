@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Hirntumoren 2 Extraaxial](https://radiopaedia.org/search?q=hirntumoren+2+extraaxial)
+

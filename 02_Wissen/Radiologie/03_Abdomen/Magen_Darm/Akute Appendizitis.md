@@ -126,4 +126,7 @@ Infektiöse Enteritis/Typhlitis: Durch Erreger wie Yersinien, Salmonellen oder C
 Die Standardtherapie ist die Appendektomie, heute meist laparoskopisch durchgeführt. Eine primär konservative Therapie mit Antibiotika ist bei unkomplizierten Verläufen möglich, wird aber kontrovers diskutiert und gilt noch nicht als allgemeiner Standard.
 
 # Quellen
+
+- [Radiopaedia Suche: Akute Appendizitis](https://radiopaedia.org/search?q=akute+appendizitis)
+
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -37,3 +37,7 @@ In einer Range achten wir auf **Delta-Rotation**.
 3.  Gleichzeitig sehen wir **positives Delta**, aber der Preis bewegt sich kaum (Absorption durch Limit-Seller).
 4.  **Der Trigger:** Plötzlich verschwindet die Absorption oder wird überrannt. Der Preis springt (Liquidity Vacuum).
 5.  **Einstieg:** Sofort beim Bruch oder beim ersten Retest der Imbalance.
+
+# Quellen
+
+- [Radiopaedia Suche: 03 Footprint Chart Deep Dive](https://radiopaedia.org/search?q=03+footprint+chart+deep+dive)

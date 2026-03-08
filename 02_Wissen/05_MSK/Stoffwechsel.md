@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Stoffwechsel](https://radiopaedia.org/search?q=stoffwechsel)
+

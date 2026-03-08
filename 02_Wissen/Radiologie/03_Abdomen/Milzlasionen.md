@@ -88,5 +88,8 @@ Fokale vs. diffuse Läsionen. Splenomegalie (Kraniokaudal > 12 cm, Volumen > 400
 - **Gamna-Gandy-Körperchen:** Siderotische Knötchen (Hämosiderin + Kalzium) bei portaler Hypertension (Leberzirrhose).
 
 # Quellen
+
+- [Radiopaedia Suche: Milzlasionen](https://radiopaedia.org/search?q=milzlasionen)
+
 - Radiopaedia.org
 - Facharztwissen Radiologie

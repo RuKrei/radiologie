@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Benigne Veränderungen](https://radiopaedia.org/search?q=benigne+veränderungen)
+

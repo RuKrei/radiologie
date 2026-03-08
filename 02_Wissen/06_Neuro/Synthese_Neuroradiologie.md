@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Synthese Neuroradiologie](https://radiopaedia.org/search?q=synthese+neuroradiologie)
+

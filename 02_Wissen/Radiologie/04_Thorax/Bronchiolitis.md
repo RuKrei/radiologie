@@ -73,3 +73,6 @@ Alles andere
 Das Swyer-James-MacLeod-Syndrom ist eine Folge einer Bronchiolitis obliterans im Kindesalter. Radiologisch zeigt sich eine einseitig helle Lunge (Hyperluzenz) mit verminderter Gefäßzeichnung und fehlender oder geringer Volumenzunahme (im Gegensatz zum Ventilpneu oder der Fremdkörperaspiration) sowie Air Trapping in der Exspiration. Die follikuläre Bronchiolitis ist eine lymphoproliferative Erkrankung, assoziiert mit rheumatoider Arthritis oder Sjögren-Syndrom, und zeigt zentrilobuläre Noduli und peribronchiale Verdichtungen.
 
 Quellen ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+# Quellen
+
+- [Radiopaedia Suche: Bronchiolitis](https://radiopaedia.org/search?q=bronchiolitis)

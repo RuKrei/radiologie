@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Trauma 1 Frakturlehre Heilung Komplikationen](https://radiopaedia.org/search?q=trauma+1+frakturlehre+heilung+komplikationen)
+

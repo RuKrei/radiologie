@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Schilddruese Nebenschilddruese](https://radiopaedia.org/search?q=thyroid+nebenschilddruese)
+

@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Lungenanatomie Zeichen](https://radiopaedia.org/search?q=lungenanatomie+zeichen)
+

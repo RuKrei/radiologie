@@ -35,3 +35,7 @@ Ein Setup für Fortgeschrittene.
 4.  Der Preis springt zurück über die Unterstützung.
 5.  **Die Falle schnappt zu:** Alle, die beim Ausbruch Short gegangen sind, sind nun "under water". Sie müssen zurückkaufen (Short Squeeze).
 6.  **Einstieg:** Long, sobald der Preis wieder in die Range eintritt. Ziel: Das andere Ende der Range.
+
+# Quellen
+
+- [Radiopaedia Suche: 04 Delta Management](https://radiopaedia.org/search?q=04+delta+management)

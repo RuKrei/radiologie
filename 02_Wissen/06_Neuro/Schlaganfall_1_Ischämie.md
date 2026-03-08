@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Schlaganfall 1 Ischämie](https://radiopaedia.org/search?q=schlaganfall+1+ischämie)
+

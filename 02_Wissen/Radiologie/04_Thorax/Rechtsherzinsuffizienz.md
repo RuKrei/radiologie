@@ -80,4 +80,7 @@ Perikarderguss: Kann im Röntgenbild eine Kardiomegalie vortäuschen (Bocksbeute
 Bei der Beurteilung der Rechtsherzvergrößerung im Röntgenbild ist auf die pulmonale Gefäßzeichnung zu achten: Eine Erweiterung der zentralen Pulmonalarterien mit Kalibersprung zur Peripherie spricht für eine pulmonale Hypertonie als Ursache,. Ein prominenter Azygosschatten und eine verbreiterte V. cava superior sind Zeichen der Rechtsherzinsuffizienz.
 
 # Quellen
+
+- [Radiopaedia Suche: Rechtsherzinsuffizienz](https://radiopaedia.org/search?q=rechtsherzinsuffizienz)
+
  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -86,4 +86,7 @@ Phrygische Mütze: Eine umgeschlagene Gallenblase kann in bestimmten Schnitteben
 Für den zuweisenden Chirurgen ist der präoperative Hinweis auf zwei Gallenblasen und deren anatomischen Typus essenziell, um intraoperative Komplikationen zu vermeiden und sicherzustellen, dass beide Organe entfernt werden, sofern sie pathologisch verändert sind. Ein typischer Fehler ist die Fehldiagnose als Leberzyste, insbesondere bei Patienten nach bereits erfolgter Cholezystektomie.
 
 # Quellen
+
+- [Radiopaedia Suche: Dopplung der Gallenblase](https://radiopaedia.org/search?q=dopplung+der+gallenblase)
+
 ,,,,,,,

@@ -80,4 +80,7 @@ Hypervaskularisierte Metastasen: Treten meist multipel auf, sind oft kleiner und
 Leberhämangiome können während einer Schwangerschaft an Größe zunehmen. Eine Therapie (Embolisation oder Resektion) ist nur bei Symptomen oder Komplikationen indiziert. Ein typischer Fehler in der Diagnostik ist eine Überdiagnostik (zu viel Diagnostik) bei diesem häufigen benignen Befund.
 
 # Quellen
+
+- [Radiopaedia Suche: Kavernöses Hämangiom der Leber](https://radiopaedia.org/search?q=kavernöses+hämangiom+der+liver)
+
 ,,,,,,,,,,,,,,,,,,,,,,,,,

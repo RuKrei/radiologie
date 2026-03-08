@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Wirbelsäule 3 Trauma Vaskulär](https://radiopaedia.org/search?q=wirbelsäule+3+trauma+vaskulär)
+

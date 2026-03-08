@@ -21,3 +21,7 @@ Tags:
 Perilunate dislocation --> Capitatum geht nach dorsal
 Lunate dislocation --> Lunatum geht nach ventral
 
+
+# Quellen
+
+- [Radiopaedia Suche: Lunatum dislokation](https://radiopaedia.org/search?q=lunatum+dislokation)

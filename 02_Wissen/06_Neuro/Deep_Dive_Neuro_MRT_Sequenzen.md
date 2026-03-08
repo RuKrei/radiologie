@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Deep Dive Neuro MRT Sequenzen](https://radiopaedia.org/search?q=deep+dive+neuro+mrt+sequenzen)
+

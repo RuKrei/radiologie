@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Arthritis 2 Kristallarthropathien Degenerativ](https://radiopaedia.org/search?q=arthritis+2+kristallarthropathien+degenerativ)
+

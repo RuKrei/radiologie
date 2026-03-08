@@ -81,4 +81,7 @@ Analkarzinom: Kann sich insbesondere bei lang bestehenden Fisteln entwickeln und
 Die Therapie richtet sich nach der Ätiologie und dem Fisteltyp. Einfache Fisteln werden oft gespalten (Fistulotomie), während komplexe Fisteln zunächst mittels Fadendrainage konditioniert und später rekonstruiert werden. Bei Morbus Crohn erfolgt die chirurgische Therapie sehr zurückhaltend. Die Rezidivrate kann bis zu 70 Prozent betragen.
 
 # Quellen
+
+- [Radiopaedia Suche: Perianale Fisteln und Abszesse](https://radiopaedia.org/search?q=perianale+fisteln+und+abszesse)
+
 ,,,,,,,,,,,,,,,,,,

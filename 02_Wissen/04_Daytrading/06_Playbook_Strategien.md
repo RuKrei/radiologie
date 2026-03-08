@@ -39,3 +39,7 @@ tags:
 2.  **Level:** Sind wir an einem HVN, LVN, VAH/VAL?
 3.  **Signal:** Was sagt das Delta? Was sagt der Footprint?
 4.  **Risk:** Ist das CRV (Chance-Risiko-Verhältnis) > 2:1?
+
+# Quellen
+
+- [Radiopaedia Suche: 06 Playbook Strategien](https://radiopaedia.org/search?q=06+playbook+strategien)

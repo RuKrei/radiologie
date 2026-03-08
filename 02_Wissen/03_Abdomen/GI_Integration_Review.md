@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: GI Integration Review](https://radiopaedia.org/search?q=gi+integration+review)
+

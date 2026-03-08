@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Deep Dive HRCT Mustererkennung](https://radiopaedia.org/search?q=deep+dive+hrct+mustererkennung)
+

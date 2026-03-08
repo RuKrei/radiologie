@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Deep Dive Prostata MRT](https://radiopaedia.org/search?q=deep+dive+prostata+mrt)
+

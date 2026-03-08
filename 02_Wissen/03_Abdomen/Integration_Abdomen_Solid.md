@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Integration Abdomen Solid](https://radiopaedia.org/search?q=integration+abdomen+solid)
+

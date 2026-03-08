@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Niere 3 Vaskulär Transplantat Trauma](https://radiopaedia.org/search?q=kidney+3+vaskulär+transplantat+trauma)
+

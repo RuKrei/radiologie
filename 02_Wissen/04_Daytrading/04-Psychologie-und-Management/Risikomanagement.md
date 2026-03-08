@@ -49,3 +49,7 @@ Wenn "Nein": **Kein Trade.**
 
 ## Fazit
 Gutes Trading ist langweilig. Es ist die disziplinierte Ausführung eines Risikomanagement-Plans. Die Gewinne kommen dann von selbst als Nebenprodukt guter Entscheidungen.
+
+# Quellen
+
+- [Radiopaedia Suche: Risikomanagement](https://radiopaedia.org/search?q=risikomanagement)

@@ -25,3 +25,7 @@ Tags:
 ![[Pasted image 20251227153141.png]]
 ![[Pasted image 20251227153221.png]]
 ![[Pasted image 20251227153439.png]]
+
+# Quellen
+
+- [Radiopaedia Suche: Radiusfraktur](https://radiopaedia.org/search?q=radiusfraktur)

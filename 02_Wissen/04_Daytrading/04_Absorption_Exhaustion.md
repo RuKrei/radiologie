@@ -37,3 +37,7 @@ Unterscheidung ist wichtig für die Handelsentscheidung:
 *   **Dünnes Profil:** Am Ende der Kerze stehen sehr kleine Zahlen im Footprint (z.B. 5x0 oder 12x2).
 *   **Delta:** Delta geht gegen Null.
 *   **Unfinished Auction:** Oft KEINE Unfinished Auction, sondern ein sauberes "Tapering" (Volumen wird zur Spitze hin immer dünner).
+
+# Quellen
+
+- [Radiopaedia Suche: 04 Absorption Exhaustion](https://radiopaedia.org/search?q=04+absorption+exhaustion)

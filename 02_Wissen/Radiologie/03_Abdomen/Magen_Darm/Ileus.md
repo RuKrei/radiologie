@@ -88,4 +88,7 @@ Sigmavolvulus: Mechanischer Ileus durch Verdrehung des Sigmas, typisch ist das K
 Die Gabe von wasserlöslichem Kontrastmittel (Gastrografin) kann diagnostisch zur Bestimmung der Passagezeit und therapeutisch aufgrund der laxierenden Wirkung genutzt werden; erreicht das Kontrastmittel innerhalb von 24 Stunden das Kolon, ist eine operative Intervention oft nicht notwendig,. Bei Verdacht auf Strangulation ist jedoch eine sofortige Operation indiziert.
 
 # Quellen
+
+- [Radiopaedia Suche: Ileus](https://radiopaedia.org/search?q=ileus)
+
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

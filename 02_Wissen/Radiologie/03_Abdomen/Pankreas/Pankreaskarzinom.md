@@ -107,3 +107,6 @@ Lymphom: Zeigt oft eine homogene, hypovaskuläre Masse, seltener Gangobstruktion
 
 
 Das Tumorstaging erfolgt nach der TNM-Klassifikation. Die einzige kurative Therapieoption ist die chirurgische Resektion (z. B. Kausch-Whipple-Operation, Pankreaslinksresektion) in Kombination mit adjuvanter Chemotherapie,. Nur etwa 15 bis 20 Prozent der Patienten sind bei Diagnosestellung primär resektabel,. Bei lokal fortgeschrittenen oder metastasierten Tumoren kommen palliative Chemotherapien (z. B. Gemcitabin, FOLFIRINOX) zum Einsatz. Die FDG-PET/CT kann beim Staging hilfreich sein, um okkulte Fernmetastasen zu detektieren oder Rezidive zu erkennen, gehört aber nicht zur Standard-Primärdiagnostik,,.
+# Quellen
+
+- [Radiopaedia Suche: Pankreaskarzinom](https://radiopaedia.org/search?q=pankreaskarzinom)

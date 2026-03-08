@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Hoden Skrotum](https://radiopaedia.org/search?q=hoden+skrotum)
+

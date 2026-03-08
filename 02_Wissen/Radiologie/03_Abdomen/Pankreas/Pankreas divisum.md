@@ -83,4 +83,7 @@ Pankreas minus: Eine Agenesie der dorsalen Pankreasanlage führt dazu, dass nur 
 Das Pancreas divisum kann als inkomplette Form vorliegen, bei der eine dünne Verbindung zwischen den beiden Gangsystemen existiert, die jedoch funktionell oft nicht ausreicht. Therapeutisch kann bei symptomatischer Form eine endoskopische Sphinkterotomie der Papilla minor (Papillotomie) durchgeführt werden.
 
 # Quellen
+
+- [Radiopaedia Suche: Pankreas divisum](https://radiopaedia.org/search?q=pankreas+divisum)
+
  

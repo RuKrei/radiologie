@@ -78,4 +78,7 @@ Fokale noduläre Hyperplasie: Zeigt eine sehr kräftige Anreicherung von Knoten,
 Ein typischer Fehler ist die Verwechslung mit Lebertumoren oder mit einem Abszess, was zur fälschlichen Einlage einer Drainage führen kann. Für den zuweisenden Kollegen sind das Ausmaß der Blutung oder Schädigung sowie die Differenzierung von Tumoren und Metastasen relevant.
 
 # Quellen
+
+- [Radiopaedia Suche: Peliosis](https://radiopaedia.org/search?q=peliosis)
+
 :,,,,,

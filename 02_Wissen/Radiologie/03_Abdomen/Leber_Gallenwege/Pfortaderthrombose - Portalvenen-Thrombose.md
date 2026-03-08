@@ -83,4 +83,7 @@ Flussphänomene (Pseudothrombose): Diese treten meist in der arteriellen Phase a
 Ein typischer Fehler ist die Verwechslung einer Tumorinfiltration mit einem benignen Thrombus oder die Fehlinterpretation eines Flussphänomens als Thrombose. Für den zuweisenden Kollegen sind die Ausdehnung der Thrombose (insbesondere eine Beteiligung der Mesenterialvenen wegen der Gefahr eines Darminfarkts) und die Ursache relevant. Therapeutisch kommen bei akuten Formen Antikoagulation und bei chronischen Formen Maßnahmen zur Senkung des Pfortaderdrucks (TIPS) oder Blutungsprophylaxe in Betracht,.
 
 # Quellen
+
+- [Radiopaedia Suche: Pfortaderthrombose - Portalvenen-Thrombose](https://radiopaedia.org/search?q=pfortaderthrombose+-+portalvenen-thrombose)
+
 ,,,,,,,,,,,,,,,

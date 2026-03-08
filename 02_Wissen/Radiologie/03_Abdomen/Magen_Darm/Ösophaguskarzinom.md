@@ -80,4 +80,7 @@ Gefäßimpressionen: Werden durch aberrante Gefäße verursacht (z. B. A. lusori
 Die PET/CT mit F18-FDG ist sensitiver als die CT für den Nachweis von Fernmetastasen und Lymphknotenmetastasen, hat jedoch Einschränkungen bei der Bestimmung der Infiltrationstiefe. Die Therapie ist stadienabhängig und reicht von der endoskopischen Resektion (frühe Stadien) über die operative Ösophagektomie (oft mit Magenhochzug) bis hin zur neoadjuvanten Radiochemotherapie bei lokal fortgeschrittenen Tumoren. Die Prognose ist insgesamt ernst, mit einer 5-Jahres-Überlebensrate von etwa 30 bis 40 Prozent nach kurativer Resektion.
 
 # Quellen
+
+- [Radiopaedia Suche: Ösophaguskarzinom](https://radiopaedia.org/search?q=ösophaguskarzinom)
+
 :,,,,,,,,,,,,,,,,,,,,,

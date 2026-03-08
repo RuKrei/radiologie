@@ -87,6 +87,9 @@ Regionen unterschiedlicher Dichte.
 - **Klinik:** Spricht exzellent auf Kortison an.
 
 # Quellen
+
+- [Radiopaedia Suche: HRCT-Muster](https://radiopaedia.org/search?q=hrct-muster)
+
 - Fleischner Society Glossary of Terms for Thoracic Imaging
 - Radiopaedia.org
 - Webb, Müller, Naidich: High-Resolution CT of the Lung

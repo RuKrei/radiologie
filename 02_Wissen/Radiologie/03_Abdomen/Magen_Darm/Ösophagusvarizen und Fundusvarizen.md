@@ -74,4 +74,7 @@ Lymphom oder Leukämie: Können multifokale submuköse Knoten oder verdickte Fal
 Ein wichtiger klinischer Hinweis ist das Auftreten isolierter Fundusvarizen ohne Ösophagusvarizen; dies deutet spezifisch auf eine Milzvenenthrombose (z. B. durch Pankreasprozesse) hin, bei der die venöse Drainage über die kurzen Magenvenen erfolgt. Therapeutisch stehen endoskopische Verfahren (Ligatur, Sklerosierung), medikamentöse Drucksenkung (Betablocker) und radiologisch-interventionelle Verfahren wie der transjuguläre intrahepatische portosystemische Shunt (TIPS) oder die retrograde transvenöse Obliteration (BRTO) zur Verfügung. Downhill-Varizen erfordern meist keine spezifische Therapie der Varizen selbst, sondern die Behandlung der zugrunde liegenden Obstruktion der Vena cava superior.
 
 # Quellen
+
+- [Radiopaedia Suche: Ösophagusvarizen und Fundusvarizen](https://radiopaedia.org/search?q=ösophagusvarizen+und+fundusvarizen)
+
 :,,,,,,,,,,,,,

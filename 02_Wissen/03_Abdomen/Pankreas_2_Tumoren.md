@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Pankreas 2 Tumoren](https://radiopaedia.org/search?q=pankreas+2+tumoren)
+

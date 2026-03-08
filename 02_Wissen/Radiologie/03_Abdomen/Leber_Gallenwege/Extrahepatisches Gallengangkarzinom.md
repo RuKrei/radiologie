@@ -76,4 +76,7 @@ Primär sklerosierende Cholangitis: Zeigt ein perlschnurartiges Bild der Gallenw
 Ein typischer Fehler ist die Fehlinterpretation nach Stent-Implantation oder Einlage von Drainagen, da die vermehrte Kontrastierung der Gallengangswand durch Entzündung kaum von einer Tumorausbreitung zu unterscheiden ist; daher sollte die Schnittbildgebung möglichst vor drainierenden Maßnahmen erfolgen. Für den zuweisenden Kollegen sind die Abgrenzung von gutartigen Gallengangobstruktionen (Strikturen, Steine) sowie die Information über eine Infiltration ins Leberparenchym oder die Gefäße zur Beurteilung der Resektabilität entscheidend. Etwa 10 bis 15 Prozent der Hilusstenosen sind nicht durch Tumoren bedingt.,
 
 # Quellen
+
+- [Radiopaedia Suche: Extrahepatisches Gallengangkarzinom](https://radiopaedia.org/search?q=extrahepatisches+gallengangkarzinom)
+
 ,,,,,,,,,,,

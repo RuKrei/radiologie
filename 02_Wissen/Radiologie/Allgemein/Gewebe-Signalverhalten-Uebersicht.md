@@ -55,3 +55,7 @@ Diese Tabelle bietet eine detaillierte Übersicht über das Erscheinungsbild ver
 *   Dient zur Detektion von **mikroskopischem Fett** (intrazellulär).
 *   **Signalabfall in Opposed-Phase** gegenüber In-Phase spricht für Fettanteil (z.B. hepatische Steatose, Nebennierenrinden-Adenom).
 *   Ein schwarzer Rand um Organe in Opposed-Phase ("India Ink Artefakt") ist normal an Fett-Wasser-Grenzflächen.
+
+# Quellen
+
+- [Radiopaedia Suche: Gewebe-Signalverhalten-Uebersicht](https://radiopaedia.org/search?q=gewebe-signalverhalten-uebersicht)

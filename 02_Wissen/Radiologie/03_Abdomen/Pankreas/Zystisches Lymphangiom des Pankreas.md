@@ -88,4 +88,7 @@ Lymphoepitheliale Zysten: Zeigen eine inhomogene Struktur und Schichten mit Kera
 Ein typischer Fehler ist die Verwechslung mit anderen zystischen Tumoren des Pankreas, was zu unnötigen Operationen führen kann. Für den zuweisenden Kollegen ist die Abgrenzung von zystischen Tumoren, die einer chirurgischen Therapie bedürfen, sowie der Ausschluss von Komplikationen wie Hämorrhagie oder Entzündung wichtig.
 
 # Quellen
+
+- [Radiopaedia Suche: Zystisches Lymphangiom des Pankreas](https://radiopaedia.org/search?q=zystisches+lymphangiom+des+pankreas)
+
 ,,,,,,,

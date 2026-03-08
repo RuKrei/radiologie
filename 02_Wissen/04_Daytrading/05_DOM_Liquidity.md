@@ -35,3 +35,7 @@ Große Player zeigen nie ihre volle Hand (1000 Kontrakte). Sie zeigen 10.
 Ein echtes Zeichen von Stärke.
 Ein Käufer kauft das Ask leer. Sofort stellen Verkäufer neue Offers rein. Der Käufer kauft *wieder* alles weg.
 -> Dies zeigt echte, aggressive Nachfrage. **Go with the flow.**
+
+# Quellen
+
+- [Radiopaedia Suche: 05 DOM Liquidity](https://radiopaedia.org/search?q=05+dom+liquidity)

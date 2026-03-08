@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Gallenblase Gallenwege](https://radiopaedia.org/search?q=gallenblase+gallenwege)
+

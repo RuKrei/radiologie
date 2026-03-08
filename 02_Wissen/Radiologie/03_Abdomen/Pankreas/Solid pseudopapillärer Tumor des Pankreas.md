@@ -92,4 +92,7 @@ Pankreatoblastom: Tritt fast ausschließlich bei Kindern auf.
 Der solide pseudopapilläre Tumor hat eine gute Prognose bei kompletter Tumorentfernung mit einer Heilungsrate von über 95 Prozent. In Fällen, in denen der Tumor auf das Pankreas beschränkt ist, ist die Prognose nach Resektion exzellent,. Bei höherem Alter oder Metastasierung ist die Prognose schlechter.
 
 # Quellen
+
+- [Radiopaedia Suche: Solid pseudopapillärer Tumor des Pankreas](https://radiopaedia.org/search?q=solid+pseudopapillärer+tumor+des+pankreas)
+
 ,,,,,,,,,,,,,,,,,,,,

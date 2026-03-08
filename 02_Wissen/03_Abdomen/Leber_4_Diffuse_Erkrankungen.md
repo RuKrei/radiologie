@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Leber 4 Diffuse Erkrankungen](https://radiopaedia.org/search?q=liver+4+diffuse+erkrankungen)
+

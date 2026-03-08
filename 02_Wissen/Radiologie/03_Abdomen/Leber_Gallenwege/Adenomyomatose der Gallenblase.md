@@ -86,4 +86,7 @@ Varizen der Gallenblasenwand: Können eine Wandverdickung vortäuschen, sind abe
 Die Adenomyomatose gilt nicht als Präkanzerose. In der FDG-PET zeigt die Adenomyomatose im Gegensatz zum Gallenblasenkarzinom typischerweise keine Tracer-Anreicherung. Eine Therapie ist bei asymptomatischen Patienten in der Regel nicht notwendig; bei Beschwerden oder unklarem Bildbefund erfolgt eine Cholezystektomie.
 
 # Quellen
+
+- [Radiopaedia Suche: Adenomyomatose der Gallenblase](https://radiopaedia.org/search?q=adenomyomatose+der+gallenblase)
+
  ,,,,,,,,,,,,,,,,,,

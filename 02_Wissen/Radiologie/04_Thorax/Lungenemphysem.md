@@ -88,3 +88,6 @@ Alles andere
 Das Emphysem kann quantifiziert werden (Densitometrie, Pixel unter -950 HU), was für die Planung von lungenvolumenreduzierenden Eingriffen (LVRS, Ventile) wichtig ist,,. Ein "Saber-Sheath"-Trachea (Säbelscheidentrachea) ist ein starker Indikator für eine COPD/Emphysem,,.
 
 Quellen ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# Quellen
+
+- [Radiopaedia Suche: Lungenemphysem](https://radiopaedia.org/search?q=lungenemphysem)

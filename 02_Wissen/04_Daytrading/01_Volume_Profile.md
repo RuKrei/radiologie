@@ -101,3 +101,7 @@ Das Volumen Profil ist keine Glaskugel, aber es ist die Landkarte. Es zeigt dir,
 *   **Außerhalb der Value Area:** Der Markt ist unzufrieden, erwarte eine Suche nach neuem Wert (Trend).
 
 Weiter zu: [[Glossar|Glossar]]
+
+# Quellen
+
+- [Radiopaedia Suche: 01 Volume Profile](https://radiopaedia.org/search?q=01+volume+profile)

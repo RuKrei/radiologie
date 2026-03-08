@@ -22,3 +22,7 @@ Tags:
 
 
 ![[Pasted image 20251227151105.png]]
+
+# Quellen
+
+- [Radiopaedia Suche: Grünholzfraktur](https://radiopaedia.org/search?q=grünholzfraktur)

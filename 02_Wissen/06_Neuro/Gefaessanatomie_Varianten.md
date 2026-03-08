@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Gefaessanatomie Varianten](https://radiopaedia.org/search?q=gefaessanatomie+varianten)
+

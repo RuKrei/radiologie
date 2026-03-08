@@ -84,4 +84,7 @@ Bronchogene Zysten: Enthalten keine Luft (außer bei Infektion/Fistel) und haben
 Die Unterscheidung zwischen Typ I und Typ II/III ist entscheidend für die Therapie: Während axiale Hernien per se keine Operationsindikation darstellen, besteht bei paraösophagealen Hernien aufgrund des Risikos für Volvulus und Inkarzeration oft eine Operationsindikation,. Ein Magenvolvulus kann als Komplikation auftreten, wobei der Magen um seine Längsachse (organoaxial) oder um die Mesenterialachse (mesenteroaxial) rotiert.
 
 # Quellen
+
+- [Radiopaedia Suche: Hiatushernie](https://radiopaedia.org/search?q=hiatushernie)
+
 :,,,,,,,,,,,,,,,,,,,

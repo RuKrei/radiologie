@@ -20,3 +20,7 @@ Tags:
 - zB bei Metastatsen
 
 ![[Pasted image 20251227151806.png]]
+
+# Quellen
+
+- [Radiopaedia Suche: Pathologische Fraktur](https://radiopaedia.org/search?q=pathologische+fracture)

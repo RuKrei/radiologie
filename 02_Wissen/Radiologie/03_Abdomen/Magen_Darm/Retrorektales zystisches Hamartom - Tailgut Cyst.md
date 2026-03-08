@@ -92,4 +92,7 @@ Chordom des Sakrums: Zeichnet sich durch eine knöcherne Destruktion des Os sacr
 Aufgrund der Seltenheit der Erkrankung kommt es häufig zu falschen oder verzögerten Diagnosen, was zu inadäquaten Therapien wie einer bloßen Drainage führen kann. Für den Zuweiser sind Informationen über eine mögliche Entzündung oder maligne Entartung sowie die genaue Ausdehnung und Beziehung zu benachbarten Strukturen entscheidend. Eine sichere Abgrenzung von Tumoren ist für die weitere Behandlungsplanung essenziell.
 
 # Quellen
+
+- [Radiopaedia Suche: Retrorektales zystisches Hamartom - Tailgut Cyst](https://radiopaedia.org/search?q=retrorektales+zystisches+hamartom+-+tailgut+cyst)
+
 :,,,,,,

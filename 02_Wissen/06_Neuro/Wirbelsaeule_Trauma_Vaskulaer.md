@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Wirbelsaeule Trauma Vaskulaer](https://radiopaedia.org/search?q=spine+trauma+vaskulaer)
+

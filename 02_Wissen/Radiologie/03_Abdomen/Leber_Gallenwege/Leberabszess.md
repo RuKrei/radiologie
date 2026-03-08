@@ -86,4 +86,7 @@ Amöbenabszess: Morphologisch schwer vom pyogenen Abszess zu unterscheiden; die 
 Ein typischer Fehler ist die Fehldeutung als gewöhnliche Zyste, zystisch zerfallender Tumor oder Metastase. Für den Zuweiser ist die frühzeitige Erkennung, die Angabe der zugrunde liegenden Erkrankung und die Option der interventionellen Sanierung mittels Drainage wichtig.
 
 # Quellen
+
+- [Radiopaedia Suche: Leberabszess](https://radiopaedia.org/search?q=leberabszess)
+
 ,,,,,,,,,,,

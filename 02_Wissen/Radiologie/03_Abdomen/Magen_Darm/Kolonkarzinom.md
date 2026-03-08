@@ -83,4 +83,7 @@ Endometriose: Kann eine Kompression von extern und eine einseitige sägezahnarti
 Jeder histologische Nachweis eines Karzinoms im nicht metastasierten Stadium stellt eine Operationsindikation dar. Die Therapie umfasst die onkologische Resektion mit radikaler En-Bloc-Resektion und systematischer Lymphadenektomie,. Die Prognose und Therapieplanung hängen entscheidend vom TNM-Stadium ab. In der Rezidivdiagnostik kann die PET/CT hilfreich sein, insbesondere zum Nachweis extraintestinaler Rezidive im Narbengewebe.
 
 # Quellen
+
+- [Radiopaedia Suche: Kolonkarzinom](https://radiopaedia.org/search?q=kolonkarzinom)
+
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -80,4 +80,7 @@ Liposarkom: Kann ebenfalls Fett und Weichteilanteile enthalten, zeigt aber meist
 Die wichtigste klinische Konsequenz der korrekten Diagnose ist die Vermeidung einer unnötigen Operation oder Antibiotikatherapie, da die Appendagitis in der Regel konservativ mit Schmerzmitteln (NSAR) behandelt wird und selbstlimitierend ist,.
 
 # Quellen
+
+- [Radiopaedia Suche: Appendagitis](https://radiopaedia.org/search?q=appendagitis)
+
 :,,,,,,,,,,,,,,

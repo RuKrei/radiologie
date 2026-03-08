@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Wirbelsäule 1 Degenerativ](https://radiopaedia.org/search?q=wirbelsäule+1+degenerativ)
+

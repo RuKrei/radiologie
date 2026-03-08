@@ -34,3 +34,7 @@ Risiko-Management ist der einzige Faktor, den ein Trader zu 100% kontrollieren k
     1.  Positionsgröße halbieren.
     2.  Anzahl der Trades pro Tag begrenzen.
     3.  Pause machen (Reset).
+
+# Quellen
+
+- [Radiopaedia Suche: 06 Risk Management](https://radiopaedia.org/search?q=06+risk+management)

@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Peritoneum Mesenterium](https://radiopaedia.org/search?q=peritoneum+mesenterium)
+

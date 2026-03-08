@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Intervention Leber Galle](https://radiopaedia.org/search?q=intervention+liver+biliary)
+

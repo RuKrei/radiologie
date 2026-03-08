@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Knie Menisken Bänder Knorpel](https://radiopaedia.org/search?q=knie+menisken+bänder+knorpel)
+

@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Schlaganfall Blutung](https://radiopaedia.org/search?q=schlaganfall+hemorrhage)
+

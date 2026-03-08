@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Integration Kardiovaskuläre Fälle](https://radiopaedia.org/search?q=integration+kardiovaskuläre+fälle)
+

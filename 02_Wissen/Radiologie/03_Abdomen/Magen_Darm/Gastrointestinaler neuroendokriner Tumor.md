@@ -81,4 +81,7 @@ Hypervaskuläre Metastasen (z.B. Nierenzellkarzinom, Melanom): Können bildmorph
 Die funktionelle Bildgebung mittels PET/CT unter Verwendung von Gallium-68-markierten Somatostatinanaloga (z.B. DOTATOC, DOTATATE) ist das sensitivste Verfahren zum Nachweis gut differenzierter NETs (G1/G2), da diese Somatostatinrezeptoren exprimieren. Für entdifferenzierte Karzinome (G3), die weniger Rezeptoren exprimieren, ist die FDG-PET/CT besser geeignet. Eine Leberbiopsie von Metastasen kann bei Karzinoiden eine hypotensive Krise (Karzinoid-Krise) auslösen.
 
 # Quellen
+
+- [Radiopaedia Suche: Gastrointestinaler neuroendokriner Tumor](https://radiopaedia.org/search?q=gastrointestinaler+neuroendokriner+tumor)
+
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

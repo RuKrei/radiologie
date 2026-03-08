@@ -90,4 +90,7 @@ IgG4-assoziierte Cholangitis: Tritt im Rahmen einer Autoimmunpankreatitis auf un
 Ein typischer Fehler ist die Überschätzung der MRCP bei Frühformen sowie die Fehlinterpretation vergrößerter abdominaler Lymphknoten als maligne, obwohl diese bei der PSC häufig vorkommen und meist gutartig sind. Für den zuweisenden Kollegen sind die Erkennung von Frühformen, die Entwicklung einer Zirrhose mit portaler Hypertension sowie Hinweise auf die Entwicklung eines Gallenwegskarzinoms von zentraler Bedeutung.
 
 # Quellen
+
+- [Radiopaedia Suche: Primär sklerosierende Cholangitis (PSC)](https://radiopaedia.org/search?q=primär+sklerosierende+cholangitis+(psc))
+
 ,,,,,,,,,,,,,,,

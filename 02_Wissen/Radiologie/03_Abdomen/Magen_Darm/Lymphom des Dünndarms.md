@@ -85,4 +85,7 @@ Tuberkulose: Kann das terminale Ileum und Zäkum befallen (konisches Zäkum) und
 Therapeutisch ist bei einem lokal begrenzten Befall die chirurgische Resektion möglich, während bei multilokulärer Manifestation oder systemischem Lymphom die Chemotherapie im Vordergrund steht,. Komplikationen wie Stenosen oder Perforationen werden chirurgisch behandelt. Das primäre Lymphom des Dünndarms muss vom systemischen Lymphom mit intestinaler Beteiligung abgegrenzt werden.
 
 # Quellen
+
+- [Radiopaedia Suche: Lymphom des Dünndarms](https://radiopaedia.org/search?q=lymphom+des+dünndarms)
+
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: BI RADS Lexikon Kategorisierung](https://radiopaedia.org/search?q=bi+rads+lexikon+kategorisierung)
+

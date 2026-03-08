@@ -83,4 +83,7 @@ Biliäres Hamartom: Dies sind multipel verstreute kleine Knötchen (0,5 bis 1,5 
 Ein typischer Fehler ist die Fehldeutung als Metastase oder Abszess. Einfache (dysontogenetische), nicht parasitäre Leberzysten können bei entsprechender klinischer Symptomatik durch Punktion oder chirurgisch durch eine laparoskopische Fensterung therapiert werden.
 
 # Quellen
+
+- [Radiopaedia Suche: Leberzyste](https://radiopaedia.org/search?q=leberzyste)
+
 ,,,,,,,,,,,,,,,,

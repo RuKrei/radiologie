@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Schilddrüse Nebenschilddrüse](https://radiopaedia.org/search?q=schilddrüse+nebenschilddrüse)
+

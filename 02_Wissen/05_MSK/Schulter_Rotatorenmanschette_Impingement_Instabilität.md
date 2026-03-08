@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Schulter Rotatorenmanschette Impingement Instabilität](https://radiopaedia.org/search?q=schulter+rotatorenmanschette+impingement+instabilität)
+

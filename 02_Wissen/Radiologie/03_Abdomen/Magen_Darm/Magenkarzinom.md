@@ -85,4 +85,7 @@ Morbus Ménétrier: Geht mit riesenfaltiger Schleimhauthyperplasie einher.
 Therapeutisch ist bei lokal begrenzten Tumoren die chirurgische Resektion (Gastrektomie mit D2-Lymphadenektomie) die einzige kurative Option,. Bei lokal fortgeschrittenen Tumoren (ab T3 oder N+) wird heute standardmäßig eine perioperative Chemotherapie (z. B. FLOT-Schema) empfohlen,. Die Prognose ist stark stadienabhängig; die 5-Jahres-Überlebensrate liegt insgesamt bei etwa 25 bis 30 Prozent.
 
 # Quellen
+
+- [Radiopaedia Suche: Magenkarzinom](https://radiopaedia.org/search?q=magenkarzinom)
+
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

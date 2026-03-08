@@ -88,4 +88,7 @@ Intrapankreatische Nebenmilz: Kann eine hypervaskuläre Metastase vortäuschen, 
 Eine Fehldeutung als duktales Adenokarzinom ist ein typischer Fehler, insbesondere bei hypovaskulären Metastasen. Die Indikation zur Resektion von Pankreasmetastasen beschränkt sich nach aktueller Datenlage im Wesentlichen auf Metastasen eines Nierenzellkarzinoms, wenn dadurch Tumorfreiheit erzielt werden kann. Die PET/CT mit FDG ist sehr sensitiv zum Nachweis auch kleiner Tumoren und Metastasen, wobei falsch positive Befunde bei Entzündungen möglich sind.
 
 # Quellen
+
+- [Radiopaedia Suche: Metastasen im Pankreas](https://radiopaedia.org/search?q=metastasen+im+pankreas)
+
 ,,,,,,,,,,,,

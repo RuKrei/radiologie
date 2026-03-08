@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Deep Dive Leber MRT](https://radiopaedia.org/search?q=deep+dive+liver+mrt)
+

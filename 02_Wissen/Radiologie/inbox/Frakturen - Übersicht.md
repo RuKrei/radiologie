@@ -55,3 +55,6 @@ Tags:
 	- rotiert
 - Einbruch/ Impression
 - verkürzt, verlängert
+# Quellen
+
+- [Radiopaedia Suche: Frakturen - Übersicht](https://radiopaedia.org/search?q=frakturen+-+übersicht)

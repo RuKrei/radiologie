@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Trauma 2 Wirbelsäule](https://radiopaedia.org/search?q=trauma+2+wirbelsäule)
+

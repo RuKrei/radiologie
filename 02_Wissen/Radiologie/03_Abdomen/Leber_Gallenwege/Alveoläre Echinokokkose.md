@@ -62,4 +62,7 @@ Metastasen: Gehen meist nicht mit einem Galleaufstau einher; konfluierende Metas
 Die FDG-PET-CT ist derzeit der Goldstandard für die Beurteilung der Aktivität der Erkrankung, wobei eine FDG-Mehrbelegung einer Läsion als Marker der Vitalität des Parasiten beziehungsweise als Zeichen der konsekutiven Entzündungsreaktion gewertet wird. Die WHO hat für die Erkrankung ein PNM-Staging (P = parasitic mass, N = involvement of neighbouring organs, M = metastasis) etabliert. Die Prognose ist schlecht, da die Erkrankung zum Zeitpunkt der Diagnose meist nicht mehr resezierbar ist,.
 
 # Quellen
+
+- [Radiopaedia Suche: Alveoläre Echinokokkose](https://radiopaedia.org/search?q=alveoläre+echinokokkose)
+
  ,,,,,,,

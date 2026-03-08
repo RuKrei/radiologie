@@ -81,4 +81,7 @@ Gastritis: Führt zu diffuser Wandverdickung und Faltenvergröberung ohne umschr
 Ein "Riesenulkus" (Giant Ulcer) ist definiert als Ulkus größer als 2 cm (im Duodenum) und birgt ein höheres Risiko für Blutungen und Perforationen. Das Zollinger-Ellison-Syndrom (Gastrinom) führt zu multiplen, oft atypisch gelegenen Ulzera (z. B. im distalen Duodenum oder Jejunum) und ausgeprägter Faltenverdickung. Ein Ulkus im Pyloruskanal (Dragstead-Ulkus) kann das "Double Pyloric Channel"-Zeichen erzeugen. Bei Verdacht auf Perforation ist Bariumsulfat kontraindiziert.
 
 # Quellen
+
+- [Radiopaedia Suche: Magen- und Duodenalulcus](https://radiopaedia.org/search?q=magen-+und+duodenalulcus)
+
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

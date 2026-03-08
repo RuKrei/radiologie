@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Fallbasiertes Lernen Stroke](https://radiopaedia.org/search?q=fallbasiertes+lernen+stroke)
+

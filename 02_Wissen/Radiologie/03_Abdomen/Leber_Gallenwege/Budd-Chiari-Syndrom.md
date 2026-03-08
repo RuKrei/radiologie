@@ -74,4 +74,7 @@ Konstriktive Perikarditis: Auch hier kann das Bild einer Muskatnussleber auftret
 Ein typischer Fehler ist die Fehlinterpretation von anreichernden Regeneratknoten als hepatozelluläres Karzinom, insbesondere bei gleichzeitiger Leberzirrhose,. Die Prognose ist abhängig vom Ausmaß der Gefäßobstruktion; die Mortalität liegt bei der akuten Form bei etwa 10 Prozent. Therapeutisch kommen die Behandlung der Gerinnungsstörung, die Anlage eines TIPS (transjugulärer intrahepatischer portosystemischer Shunt) oder eine Lebertransplantation in Betracht,,. Operative Shunts wie der mesokavale oder splenorenale Shunt sind ebenfalls möglich,.
 
 # Quellen
+
+- [Radiopaedia Suche: Budd-Chiari-Syndrom](https://radiopaedia.org/search?q=budd-chiari-syndrom)
+
  ,,,,,,,,,,,,,,,,,

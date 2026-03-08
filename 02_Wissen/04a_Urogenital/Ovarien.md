@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Ovarien](https://radiopaedia.org/search?q=ovarien)
+

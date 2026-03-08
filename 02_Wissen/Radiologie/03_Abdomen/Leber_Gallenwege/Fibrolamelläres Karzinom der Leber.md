@@ -83,4 +83,7 @@ Hypervaskularisierte Metastasen: Treten meist als multiple und kleinere Herde au
 Das fibrolamelläre Karzinom hat eine bessere Überlebensrate im Vergleich zum gewöhnlichen HCC (5-Jahres-Überlebensrate bis 67 Prozent), weist aber eine höhere Rezidivrate auf. Ein typischer Fehler ist die Verwechslung mit einer FNH, insbesondere aufgrund der zentralen Narbe und des Auftretens bei jungen Patienten. Biopsien sollten möglichst groß sein, da auch histologisch Fehlbeurteilungen möglich sind, und nicht an der Leberoberfläche entnommen werden.
 
 # Quellen
+
+- [Radiopaedia Suche: Fibrolamelläres Karzinom der Leber](https://radiopaedia.org/search?q=fibrolamelläres+karzinom+der+liver)
+
 :,,,,,,,,,,,,,,,,,,,,,,

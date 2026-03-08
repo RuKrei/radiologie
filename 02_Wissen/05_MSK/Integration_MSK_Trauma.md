@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Integration MSK Trauma](https://radiopaedia.org/search?q=integration+msk+trauma)
+

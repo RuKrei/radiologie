@@ -95,4 +95,7 @@ Zystisches Lymphangiom: Liegt dem Pankreas an, zeigt keine Gallengangerweiterung
 Ein typischer Fehler ist die Fehldeutung als Pseudozyste oder zystischer Tumor sowie die Punktion vor weitergehender Abklärung. Für den zuweisenden Kollegen sind Zeichen einer Ruptur oder von Fisteln zum Gallengang oder Pankreasgang wichtig. Eine endoskopische retrograde Cholangiopankreatikografie (ERCP) ermöglicht den sicheren Nachweis einer Fistel zum Gallengang oder Pankreasgang und kann zum Nachweis von Hydatiden im Gangsystem hilfreich sein. Eine endoskopisch ultraschallgesteuerte (EUS) Punktion kann zum Nachweis der Hydatiden dienen, muss jedoch aufgrund der Gefahr eines anaphylaktischen Schocks mit Zurückhaltung erfolgen.
 
 # Quellen
+
+- [Radiopaedia Suche: Echinokokkus-Infektion des Pankreas](https://radiopaedia.org/search?q=echinokokkus-infektion+des+pankreas)
+
 ,,,,,,,,,

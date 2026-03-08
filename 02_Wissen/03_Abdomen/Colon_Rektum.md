@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Colon Rektum](https://radiopaedia.org/search?q=colon+rektum)
+

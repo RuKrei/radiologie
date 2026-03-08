@@ -54,3 +54,7 @@ Bevor du einen Trade eingehst, frage dich immer: **"Sind wir in Balance oder Imb
 *   In Balance: Sei geduldig, handle die Ränder.
 *   In Imbalance: Sei aggressiv, folge dem Momentum.
 Verwechsle diese Zustände nicht – das ist eine der teuersten Fehlerquellen im Trading.
+
+# Quellen
+
+- [Radiopaedia Suche: Balance-vs-Imbalance](https://radiopaedia.org/search?q=balance-vs-imbalance)

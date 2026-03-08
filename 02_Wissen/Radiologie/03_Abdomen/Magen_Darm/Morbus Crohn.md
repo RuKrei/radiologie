@@ -87,4 +87,7 @@ Lymphom: Kann zu verdickten Darmwänden und aneurysmatischer Dilatation führen,
 Die Therapie ist primär medikamentös und zielt auf Remission ab. Eine Operation ist in der Regel nur bei Komplikationen wie Stenosen, Fisteln, Abszessen oder Perforation indiziert. Es gilt das Prinzip der darmsparenden Resektion, da Rezidive häufig sind. Abszesse können oft interventionell drainiert werden, um eine Operation in ein elektives Stadium zu verschieben.
 
 # Quellen
+
+- [Radiopaedia Suche: Morbus Crohn](https://radiopaedia.org/search?q=morbus+crohn)
+
  ,,,,,,,,,,,,,,,,,,,,,,,

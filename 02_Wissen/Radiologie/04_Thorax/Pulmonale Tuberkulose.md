@@ -71,3 +71,6 @@ Alles andere
 Historische Therapieformen wie Thorakoplastik, Plombage (Einbringen von Material in die Thoraxhöhle) oder Oleothorax können als Residualbefunde sichtbar sein. Ein kalzifizierter Primärkomplex (Ghon-Herd und Lymphknoten) belegt eine stattgehabte Infektion.
 
 Quellen ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# Quellen
+
+- [Radiopaedia Suche: Pulmonale Tuberkulose](https://radiopaedia.org/search?q=pulmonale+tuberkulose)

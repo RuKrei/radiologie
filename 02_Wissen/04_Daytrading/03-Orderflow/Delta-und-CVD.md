@@ -58,3 +58,7 @@ CVD und Delta sind unser Röntgengerät.
 *   Volumen ist das Benzin.
 *   Delta ist das Gaspedal.
 Traue niemals dem Preis allein. Wenn der Preis steigt, aber das Delta fällt, ist etwas faul. Achte auf Divergenzen an Schlüsselllevels (Key Levels) für High-Probability Trades.
+
+# Quellen
+
+- [Radiopaedia Suche: Delta-und-CVD](https://radiopaedia.org/search?q=delta-und-cvd)

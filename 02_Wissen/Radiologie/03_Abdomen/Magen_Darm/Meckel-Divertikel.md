@@ -90,4 +90,7 @@ Morbus Crohn: Kann ebenfalls zu Wandverdickungen und Entzündungen im terminalen
 In der Nuklearmedizin kann mittels Szintigrafie mit Technetium-99m-Pertechnetat ektopische Magenschleimhaut im Divertikel nachgewiesen werden, was besonders bei Kindern eine hohe Sensitivität aufweist,. Befindet sich ein Meckel-Divertikel in einer Hernie (z. B. Leistenhernie), spricht man von einer Littre-Hernie,. Symptomatische Divertikel werden in der Regel chirurgisch reseziert.
 
 # Quellen
+
+- [Radiopaedia Suche: Meckel-Divertikel](https://radiopaedia.org/search?q=meckel-divertikel)
+
 ,,,,,,,,,,,,,,,,,,

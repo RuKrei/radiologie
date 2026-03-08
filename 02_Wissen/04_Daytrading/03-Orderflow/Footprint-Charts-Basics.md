@@ -50,3 +50,7 @@ Wichtig ist der Kontext: Eine Kerze mit positivem Delta, die aber *nicht* steigt
 
 ## Fazit
 Der Footprint Chart nimmt das Raten aus dem Trading. Wir sehen nicht nur, dass der Preis gestiegen ist, sondern *wie* er gestiegen ist (mit Aggression oder mangels Verkäufern). Er ist unser Mikroskop für den genauen Einstieg (Timing).
+
+# Quellen
+
+- [Radiopaedia Suche: Footprint-Charts-Basics](https://radiopaedia.org/search?q=footprint-charts-basics)

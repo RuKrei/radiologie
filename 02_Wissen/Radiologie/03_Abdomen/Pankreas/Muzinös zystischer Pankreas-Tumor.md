@@ -86,4 +86,7 @@ Solider papillärer Tumor: Tritt überwiegend bei jungen Frauen auf, zeigt solid
 Aufgrund des malignen Potenzials (ca. 18 Prozent) besteht bei der muzinös-zystischen Neoplasie die Indikation zur onkologisch-chirurgischen Resektion,. Die Prognose ist gut, wenn der Tumor komplett entfernt werden kann (5-Jahres-Überlebensrate über 95 Prozent). Eine Punktion sollte nur bei Verdacht auf Malignität oder zur Differenzialdiagnose erfolgen, wobei der Zysteninhalt typischerweise muzinös ist, erhöhte Tumormarker (CEA) und keine erhöhte Amylase aufweist,. Bei Schwangeren wurde eine erhöhte Wachstumsrate beobachtet.
 
 # Quellen
+
+- [Radiopaedia Suche: Muzinös zystischer Pankreas-Tumor](https://radiopaedia.org/search?q=muzinös+zystischer+pankreas-tumor)
+
  ,,,,,,,,,,,,,,,,,,,,,,

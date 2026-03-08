@@ -65,3 +65,6 @@ Alles andere
 Bei Patienten unter Pentamidin-Inhalationsprophylaxe kann die PcP atypische Verteilungsmuster zeigen, insbesondere eine Betonung der Oberlappen. Mischinfektionen (z. B. CMV und PcP) sind bei Immunsuppression häufig und können das radiologische Bild verkomplizieren.
 
 Quellen ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# Quellen
+
+- [Radiopaedia Suche: Opportunistische Lungeninfektionen](https://radiopaedia.org/search?q=opportunistische+lungeninfektionen)

@@ -78,3 +78,6 @@ Cholangiokarzinom: Muss bei Vorliegen von Gallenwegsstrikturen ausgeschlossen we
 ## Alles andere
 
 Die Diagnose erfolgt oft anhand der HISORt-Kriterien (Histologie, Imaging, Serologie, Other organ involvement, Response to therapy) oder der ICDC-Kriterien,. Ein wesentliches Merkmal ist das schnelle und gute Ansprechen auf eine Steroidtherapie, was auch diagnostisch als Therapieversuch ("ex juvantibus") genutzt werden kann,,. Bei der Typ-1-AIP sollten extrapankreatische Manifestationen (z. B. IgG4-assoziierte Cholangitis, retroperitoneale Fibrose, Sialadenitis) gesucht werden,.
+# Quellen
+
+- [Radiopaedia Suche: Autoimmunpankreatitis](https://radiopaedia.org/search?q=autoimmunpankreatitis)

@@ -116,4 +116,7 @@ Pseudomembranöse Kolitis: Tritt als Komplikation von Antibiotika oder Zytostati
 Das toxische Megakolon ist eine seltene, aber lebensbedrohliche Komplikation, die primär klinisch und mittels Abdomenübersichtsaufnahme diagnostiziert wird. Bei Verdacht auf ein toxisches Megakolon sollte wegen der Perforationsgefahr keine endoluminale Diagnostik erfolgen. Die operative Therapie (Proktokolektomie) ist bei therapierefraktärem Verlauf oder bei Nachweis von Dysplasien/Karzinomen indiziert.
 
 # Quellen
+
+- [Radiopaedia Suche: Colitis ulcerosa](https://radiopaedia.org/search?q=colitis+ulcerosa)
+
  ,,,,,,,,,,,,,,,,,,,,,,,,

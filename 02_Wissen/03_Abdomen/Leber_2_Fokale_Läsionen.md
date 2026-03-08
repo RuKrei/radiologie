@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Leber 2 Fokale Läsionen](https://radiopaedia.org/search?q=liver+2+fokale+läsionen)
+

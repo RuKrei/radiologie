@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Harnblase Urethra](https://radiopaedia.org/search?q=harnblase+urethra)
+

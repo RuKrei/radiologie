@@ -72,3 +72,6 @@ Alles andere
 Bei Kleinkindern kann die akute Bronchitis radiologisch als zentrale obstruktive Bronchopneumonie gewertet werden. Patienten mit milder Hämoptyse und normalem Röntgenbild haben in der Mehrzahl der Fälle eine akute Bronchitis und benötigen oft keine weitere Bildgebung, sofern das Röntgenbild in zwei Ebenen unauffällig ist.
 
 Quellen ,,,,,,,,,
+# Quellen
+
+- [Radiopaedia Suche: Akute Bronchitis](https://radiopaedia.org/search?q=akute+bronchitis)

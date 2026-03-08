@@ -74,4 +74,7 @@ Diffuse Ösophagusspasmen: Können klinisch ähnlich sein, zeigen aber im Röntg
 Der Goldstandard der Diagnostik beinhaltet neben der Bildgebung die Endoskopie und die Manometrie. Die High-Resolution-Manometrie erlaubt eine Einteilung in drei Typen nach der Chicago-Klassifikation (Typ I: klassisch, Typ II: mit Kompression, Typ III: spasmodisch). Therapeutisch stehen interventionelle und operative Verfahren zur Verfügung, die auf eine Beseitigung der Hochdruckzone am unteren Ösophagussphinkter abzielen, da eine kausale Heilung nicht möglich ist,. Dazu gehören die laparoskopische Myotomie nach Heller (meist mit Fundoplikatio),, die perorale endoskopische Myotomie (POEM),, die Ballondilatation und die Botulinumtoxin-Injektion.
 
 # Quellen
+
+- [Radiopaedia Suche: Achalasie](https://radiopaedia.org/search?q=achalasie)
+
  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

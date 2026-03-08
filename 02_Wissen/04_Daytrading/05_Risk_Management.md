@@ -22,3 +22,7 @@ Risikomanagement ist wichtiger als die Strategie. Selbst mit einem perfekten Edg
 *   **Stop verschieben:** Den Stop weiter wegziehen, weil man "hofft", dass der Preis dreht. -> Todsünde!
 *   **Averaging Down:** Nachkaufen im Verlust, um den Einstiegspreis zu verbilligen.
 *   **Overleverage:** Zu große Positionen für die Kontogröße handeln.
+
+# Quellen
+
+- [Radiopaedia Suche: 05 Risk Management](https://radiopaedia.org/search?q=05+risk+management)

@@ -85,4 +85,7 @@ Desmoid-Tumor (Mesenteriale Fibromatose): Tritt häufig bei jüngeren Frauen ode
 Für die Beurteilung des Therapieansprechens unter Imatinib werden die Choi-Kriterien verwendet, da eine reine Größenmessung (RECIST) oft nicht ausreicht. Ein Ansprechen wird definiert als eine Größenabnahme von mehr als 10 Prozent oder eine Abnahme der Dichte in der CT um mehr als 15 Prozent,. Die PET-CT mit FDG ist bei GIST sehr sensitiv, da die Tumoren meist eine hohe FDG-Avidität zeigen; sie eignet sich besonders zur frühen Beurteilung des Therapieansprechens, da die metabolische Aktivität oft vor der Größenreduktion abnimmt,,.
 
 # Quellen
+
+- [Radiopaedia Suche: Gastrointestinaler Stromatumor (GIST)](https://radiopaedia.org/search?q=gastrointestinaler+stromatumor+(gist))
+
  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

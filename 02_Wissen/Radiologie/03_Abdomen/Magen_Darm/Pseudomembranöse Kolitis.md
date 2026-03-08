@@ -77,4 +77,7 @@ Hämorrhagische Kolitis: Wird durch Klebsiellen verursacht und tritt bevorzugt i
 Die Diagnose wird durch den Toxinnachweis im Stuhl und den endoskopischen Nachweis von Pseudomembranen gesichert,. Es besteht oft nur eine schwache Korrelation zwischen den schweren morphologischen Veränderungen in der Bildgebung und dem klinischen Bild.
 
 # Quellen
+
+- [Radiopaedia Suche: Pseudomembranöse Kolitis](https://radiopaedia.org/search?q=pseudomembranöse+kolitis)
+
 ,,,,,,,,,

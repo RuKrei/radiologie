@@ -87,4 +87,7 @@ Hypervaskuläre Metastasen: Zum Beispiel von Nierenzellkarzinomen, können ähnl
 Die funktionelle Bildgebung spielt eine entscheidende Rolle, wenn die morphologische Bildgebung negativ bleibt. Da viele neuroendokrine Tumoren Somatostatinrezeptoren exprimieren, ist die PET/CT mit Gallium-68-markierten Somatostatinanaloga (z. B. Ga-68-DOTATOC/DOTATATE) sehr sensitiv, insbesondere für gut differenzierte Tumoren,. Wenig differenzierte Tumoren (G3) sind eher FDG-avid. Die Therapie ist in erster Linie die chirurgische Resektion (Enukleation oder Teilresektion), da dies die einzige kurative Option darstellt und auch zur Symptomkontrolle dient,. Bei Lebermetastasen können interventionelle Verfahren wie die transarterielle Chemoembolisation (TACE) oder Radiofrequenzablation (RFA) zum Einsatz kommen.
 
 # Quellen
+
+- [Radiopaedia Suche: Hormonaktiver endokriner Pankreastumor](https://radiopaedia.org/search?q=hormonaktiver+endokriner+pankreastumor)
+
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

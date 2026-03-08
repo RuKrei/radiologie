@@ -76,4 +76,7 @@ Periportales Ödem: Dieses erscheint als dünner Halo von niedriger Dichte um di
 Ein typischer Fehler ist die Verwechslung mit einem Gallengangtumor oder die Fehlbeurteilung als Caroli-Erkrankung. Die Abgrenzung ist wichtig, da peribiliäre Zysten meist keine Konsequenzen haben, aber ernstere Pathologien imitieren können.
 
 # Quellen
+
+- [Radiopaedia Suche: Peribiliäre Zysten](https://radiopaedia.org/search?q=peribiliäre+zysten)
+
 ,,,,,,,,

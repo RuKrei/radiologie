@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Gefäßanatomie Varianten](https://radiopaedia.org/search?q=gefäßanatomie+varianten)
+

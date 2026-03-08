@@ -80,4 +80,7 @@ Fibrolamelläres Karzinom: Weist oft eine zentrale Narbe auf, die im Gegensatz z
 Ein typischer Fehler ist die Fehlinterpretation nach Stent-Implantation oder Einlage von Drainagen, da die entzündliche Kontrastierung der Gallengangswand kaum von einer Tumorausbreitung zu unterscheiden ist; eine Schnittbildgebung sollte daher möglichst vor drainierenden Maßnahmen erfolgen. Die Prognose ist schlecht, mit einer 5-Jahres-Überlebensrate zwischen 0 und 30 Prozent. Nur etwa 20 bis 25 Prozent der Tumoren sind zum Zeitpunkt der Diagnose resektabel.
 
 # Quellen
+
+- [Radiopaedia Suche: Cholangiozelluläres Karzinom (CCC)](https://radiopaedia.org/search?q=cholangiozelluläres+karzinom+(ccc))
+
  ,,,,,,,,,,,,,,,,,,,,,,

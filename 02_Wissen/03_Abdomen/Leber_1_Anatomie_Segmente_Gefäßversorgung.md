@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Leber 1 Anatomie Segmente Gefäßversorgung](https://radiopaedia.org/search?q=liver+1+anatomie+segmente+gefäßversorgung)
+

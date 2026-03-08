@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Trauma 3 Obere Extremität](https://radiopaedia.org/search?q=trauma+3+obere+extremität)
+

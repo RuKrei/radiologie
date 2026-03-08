@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Trauma Gesichtsschaedel](https://radiopaedia.org/search?q=trauma+gesichtsschaedel)
+

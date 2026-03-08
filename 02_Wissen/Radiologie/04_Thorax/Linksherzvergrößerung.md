@@ -80,3 +80,6 @@ Perikarderguss: Führt im Röntgen zur Bocksbeutelform bei oft fehlender pulmona
 Bei der Beurteilung einer Linksherzvergrößerung im Röntgenbild ist stets auf begleitende Zeichen der pulmonalvenösen Hypertonie zu achten: Kranialisation der Gefäße, Unschärfe der Hili, Kerley-Linien (interstitielles Ödem) und Pleuraergüsse. Ein vergrößerter linker Vorhof kann den linken Hauptbronchus anheben und die Karina spreizen.
 
 # Quellen
+
+- [Radiopaedia Suche: Linksherzvergrößerung](https://radiopaedia.org/search?q=linksherzvergrößerung)
+

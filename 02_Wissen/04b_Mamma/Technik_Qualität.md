@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Technik Qualität](https://radiopaedia.org/search?q=technik+qualität)
+

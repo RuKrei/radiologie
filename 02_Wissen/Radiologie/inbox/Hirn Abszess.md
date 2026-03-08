@@ -19,3 +19,7 @@ Tags:
 -----
 ## MRT
 Ring enhancing lesion, T2 hypointenser Ring, vasogenes Ödem und ==(flächige) Diffusionsstörung in der Läsion (Eiter)==
+
+# Quellen
+
+- [Radiopaedia Suche: Hirn Abszess](https://radiopaedia.org/search?q=brain+abszess)

@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Fallbasiertes Lernen Tumor Neuro](https://radiopaedia.org/search?q=fallbasiertes+lernen+tumor+neuro)
+

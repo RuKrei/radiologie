@@ -27,3 +27,7 @@ Tags:
 - mit Dislokation?
 ![[Pasted image 20251227153852.png]]
 
+
+# Quellen
+
+- [Radiopaedia Suche: Humerusfraktur](https://radiopaedia.org/search?q=humerusfraktur)

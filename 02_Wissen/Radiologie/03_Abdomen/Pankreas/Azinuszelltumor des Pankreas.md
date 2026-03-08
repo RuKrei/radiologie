@@ -107,4 +107,7 @@ Pankreatoblastom: Tritt fast ausschließlich bei Kindern auf.
 Die Prognose des Azinuszelltumors ist etwas besser als beim duktalen Adenokarzinom. Eine schlechtere Prognose ist assoziiert mit höherem Alter, lipaseproduzierenden Tumoren, Lage im Pankreaskopf und dem Vorliegen von Lebermetastasen. Gelegentlich können der Tumormarker AFP stark erhöht sein und eine Eosinophilie vorliegen.
 
 # Quellen
+
+- [Radiopaedia Suche: Azinuszelltumor des Pankreas](https://radiopaedia.org/search?q=azinuszelltumor+des+pankreas)
+
 ,,,,,,,,

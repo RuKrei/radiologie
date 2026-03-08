@@ -66,3 +66,5 @@ Der AHA sollte > 7 mm sein, zwischen 5 und 7 mm besteht eine unterschiedlich aus
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Impingement Subakromial](https://radiopaedia.org/search?q=impingement+subakromial)

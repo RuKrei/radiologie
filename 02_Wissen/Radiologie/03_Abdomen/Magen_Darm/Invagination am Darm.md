@@ -80,4 +80,7 @@ Volvulus: Zeigt das Whirl-Sign (Verdrehung des Mesenteriums), unterscheidet sich
 Bei Kindern wird oft eine hydrostatische oder pneumatische Desinvagination versucht, sofern keine Perforation vorliegt,. Bei Erwachsenen ist aufgrund der hohen Wahrscheinlichkeit eines malignen Führungsherdes meist eine chirurgische Resektion indiziert, und eine präoperative Reduktion wird oft vermieden, um eine Disseminierung von Tumorzellen oder Perforation bei ischämischem Darm zu verhindern,,.
 
 # Quellen
+
+- [Radiopaedia Suche: Invagination am Darm](https://radiopaedia.org/search?q=invagination+am+bowel)
+
 ,,,,,,,,,,,,,,,,,,,,,,,,,

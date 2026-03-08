@@ -93,4 +93,7 @@ Luft in den Gallenwegen (Aerobilie): Luftblasen steigen nach ventral auf (in Rü
 Die Wahl der Diagnostik ist von der Vortestwahrscheinlichkeit abhängig: Bei hoher Wahrscheinlichkeit ist eine ERCP (therapeutisch) indiziert, bei niedrigerer Wahrscheinlichkeit eine MRCP oder Endosonografie. Ein typischer Fehler ist die Verwechslung von Luftblasen, Kontraktionen des Sphinkter Oddi oder Pulsationsartefakten mit Steinen in der MRCP. Beim Sarcoma botryoides im Kindesalter führt die Verwechslung mit Steinen oft zu überflüssigen ERCP-Versuchen.
 
 # Quellen
+
+- [Radiopaedia Suche: Choledocholithiasis](https://radiopaedia.org/search?q=choledocholithiasis)
+
 ,,,,,,,,,,,,,,,,,,,

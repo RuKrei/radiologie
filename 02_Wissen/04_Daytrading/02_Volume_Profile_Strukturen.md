@@ -49,3 +49,7 @@ Das Volume Profile zeigt **Volumen pro Preis** (nicht Zeit). Es ist der wichtigs
 ## Composite Profiles (Mehrtages-Profile)
 Schaue nicht nur auf den aktuellen Tag. Merge die letzten 3-5 Tage (oder eine ganze Woche), um die **große Balance** zu sehen.
 *   **Breakout aus einer 5-Tages-Balance:** Das ist der Startschuss für große Trends ("Energy Release").
+
+# Quellen
+
+- [Radiopaedia Suche: 02 Volume Profile Strukturen](https://radiopaedia.org/search?q=02+volume+profile+strukturen)

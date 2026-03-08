@@ -70,4 +70,7 @@ Pilzinfektion (Kandidose): Beim miliaren Typ des Lymphoms sind Mikroabszesse auf
 Ein typischer Fehler ist die Verwechslung mit einem hepatozellulären Karzinom oder die Fehldeutung als Metastasen. Auch bioptisch ist eine Fehldeutung als niedrig differenziertes Karzinom möglich. In der PET/PET-CT zeigt sich eine starke FDG-Aufnahme.
 
 # Quellen
+
+- [Radiopaedia Suche: Lymphom der Leber](https://radiopaedia.org/search?q=lymphom+der+liver)
+
  ,,,,,,,

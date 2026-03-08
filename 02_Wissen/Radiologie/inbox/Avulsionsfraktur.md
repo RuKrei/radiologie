@@ -19,3 +19,7 @@ Tags:
 ![[Pasted image 20251223123407.png]]
 
 ![[Pasted image 20251227151622.png]]
+
+# Quellen
+
+- [Radiopaedia Suche: Avulsionsfraktur](https://radiopaedia.org/search?q=avulsionsfraktur)

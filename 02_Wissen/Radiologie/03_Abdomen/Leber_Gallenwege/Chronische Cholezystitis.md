@@ -86,4 +86,7 @@ Akute Hepatitis: Führt klinisch und laborchemisch zu typischen Hepatitiszeichen
 In der FDG-PET können entzündliche Veränderungen, insbesondere bei der xanthogranulomatösen Cholezystitis, zu falsch-positiven Resultaten führen. Ein typischer Fehler in der Diagnostik ist das Nichterkennen einer malignen Entartung. Für den Zuweiser sind Zeichen einer akuten Entzündung, Komplikationen wie Abszesse oder Fisteln sowie Hinweise auf eine maligne Entartung relevant.
 
 # Quellen
+
+- [Radiopaedia Suche: Chronische Cholezystitis](https://radiopaedia.org/search?q=chronische+cholezystitis)
+
 ,,,,,,,,

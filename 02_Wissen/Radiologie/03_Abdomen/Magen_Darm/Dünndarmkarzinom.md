@@ -75,4 +75,7 @@ Morbus Crohn: Die Hauptlokalisation ist im terminalen Ileum, es zeigt sich meist
 Das Therapieprinzip besteht in der radikalen Resektion. Da sich Adenokarzinome am häufigsten im Duodenum finden, ist die Duodenopankreatektomie nach Traverso-Longmire oft das Verfahren der Wahl, während bei Tumoren im Jejunum und proximalen Ileum eine Segmentresektion erfolgt. Eine typische Fehlerquelle in der Diagnostik ist die Fehldiagnose als entzündliche Veränderung oder als Dünndarmtumor anderer Genese. Für den Zuweiser sind Informationen über Lokalisation, Ausdehnung und bestehende Metastasierung (lokale Lymphknoten, Fernmetastasen vor allem Leber) entscheidend.
 
 # Quellen
+
+- [Radiopaedia Suche: Dünndarmkarzinom](https://radiopaedia.org/search?q=dünndarmkarzinom)
+
  ,,,,,,,,

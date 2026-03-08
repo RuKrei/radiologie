@@ -104,3 +104,6 @@ Klinisch präsentieren sich infektiöse Formen oft mit schleichendem Beginn, mä
 Bei der _Akuten Interstitiellen Pneumonie (AIP)_ bzw. dem _Hamman-Rich-Syndrom_ handelt es sich um eine Ausschlussdiagnose bei einem idiopathischen ARDS. Radiologisch unterscheidet es sich kaum von einem ARDS anderer Genese (diffuse Verschattungen, Konsolidierungen in abhängigen Partien).
 
 **Quellen** ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# Quellen
+
+- [Radiopaedia Suche: Interstitielle Pneumonie](https://radiopaedia.org/search?q=interstitielle+pneumonie)

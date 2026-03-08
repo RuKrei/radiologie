@@ -84,4 +84,7 @@ Noduläre regenerative Hyperplasie: Kann eine portale Hypertension verursachen u
 Eine Wandverdickung des Kolons, insbesondere des rechten Hemikolons, ist ein häufiger Befund bei Patienten mit Zirrhose und portaler Hypertension, bedingt durch venöse Stauung, und sollte nicht mit einer Kolitis oder einem Karzinom verwechselt werden,. Zudem kann eine Vergrößerung der supradiaphragmalen Lymphknoten bei Zirrhose auftreten.
 
 # Quellen
+
+- [Radiopaedia Suche: Leberzirrhose](https://radiopaedia.org/search?q=leberzirrhose)
+
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

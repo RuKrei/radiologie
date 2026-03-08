@@ -81,4 +81,7 @@ Fibrolamelläres Karzinom: Tritt ebenfalls bei jüngeren Patienten auf, hat aber
 Eine Sonderform ist die Adenomatose der Leber, bei der mehr als 10 Adenome vorliegen; diese Form ist nicht mit der Einnahme von Hormonen assoziiert. Bei Schwangeren besteht ein erhöhtes Risiko für Wachstum und Blutung der Adenome, insbesondere im ersten Trimester, weshalb regelmäßige sonografische Kontrollen empfohlen werden. Die telangiektatische Form des Adenoms zeigt prominente vaskuläre Merkmale und kann in der Bildgebung einem Hämangiom ähneln.
 
 # Quellen
+
+- [Radiopaedia Suche: Leberzelladenom](https://radiopaedia.org/search?q=leberzelladenom)
+
 ,,,,,,,,,,,,,,,,,,,,,

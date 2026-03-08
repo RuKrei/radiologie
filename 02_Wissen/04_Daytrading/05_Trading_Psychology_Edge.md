@@ -29,3 +29,7 @@ Ein **Edge** (Vorteil) ist eine statistisch belegbare Wahrscheinlichkeit, dass e
 *   **Pre-Market:** Analyse der Overnight-Session, News, Key Levels (Pivots, VA). Erstellung von "If-Then"-Szenarien.
 *   **In-Market:** Geduld! Warten, bis der Preis zu den Levels kommt. Nicht dem Preis hinterherjagen.
 *   **Post-Market:** Journaling. Nicht nur PnL (Profit and Loss), sondern: Habe ich meine Regeln eingehalten? Wo war ich emotional?
+
+# Quellen
+
+- [Radiopaedia Suche: 05 Trading Psychology Edge](https://radiopaedia.org/search?q=05+trading+psychology+edge)

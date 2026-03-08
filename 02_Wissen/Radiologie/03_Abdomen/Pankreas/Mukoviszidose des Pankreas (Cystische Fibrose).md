@@ -106,4 +106,7 @@ Shwachman-Diamond-Syndrom: Eine seltene Erkrankung, bei der das Pankreas bis zur
 Der Schweißtest gilt als die zuverlässigste Methode zum Nachweis der Erkrankung. Eine pränatale Diagnose ist möglich.
 
 # Quellen
+
+- [Radiopaedia Suche: Mukoviszidose des Pankreas (Cystische Fibrose)](https://radiopaedia.org/search?q=mukoviszidose+des+pankreas+(cystische+fibrose))
+
 ,,,,,,,,,,,

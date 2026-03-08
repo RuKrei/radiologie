@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Intensivmedizinische Thoraxradiologie](https://radiopaedia.org/search?q=intensivmedizinische+thoraxradiologie)
+

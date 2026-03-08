@@ -92,4 +92,7 @@ Zystisch degenerierte Tumoren: Zeigen oft ein infiltratives Wachstum und häufig
 Ein typischer Fehler ist die Verwechslung mit anderen zystischen Raumforderungen des Pankreas, was therapeutische Konsequenzen haben kann. Für den zuweisenden Kollegen ist die Abgrenzung von zystischen Tumoren, die einer chirurgischen Therapie bedürfen, sowie das Erkennen von Komplikationen entscheidend.
 
 # Quellen
+
+- [Radiopaedia Suche: Lymphoepitheliale Zysten des Pankreas](https://radiopaedia.org/search?q=lymphoepitheliale+zysten+des+pankreas)
+
  ,,,,,,

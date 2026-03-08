@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Niere 2 Entzündung Steine Obstruktion](https://radiopaedia.org/search?q=kidney+2+entzündung+steine+obstruktion)
+

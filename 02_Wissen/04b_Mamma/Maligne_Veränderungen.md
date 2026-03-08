@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Maligne Veränderungen](https://radiopaedia.org/search?q=maligne+veränderungen)
+

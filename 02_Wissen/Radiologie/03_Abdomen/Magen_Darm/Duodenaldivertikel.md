@@ -80,4 +80,7 @@ Retroperitoneale Adenopathie: Flüssigkeitsgefüllte Divertikel können nekrotis
 Ein typischer Fehler ist die Fehlinterpretation des Divertikels als Pankreaspseudozyste, zystischer Tumor des Pankreaskopfs oder Abszess,,. Für den zuweisenden Kollegen ist der Ausschluss eines Tumors relevant. In der FDG-PET kann ein Duodenaldivertikel eine hypermetabole Raumforderung vortäuschen.
 
 # Quellen
+
+- [Radiopaedia Suche: Duodenaldivertikel](https://radiopaedia.org/search?q=duodenaldivertikel)
+
 :,,,,,,,,,,,,,,,,,,,,,,,,,,,

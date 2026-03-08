@@ -45,3 +45,7 @@ In LVNs gibt es kaum Liquidität. Wenn der Markt in einen LVN eintritt, beschleu
 Statt nur das Tagesprofil zu betrachten, füge die Profile der letzten Tage zusammen (Composite).
 *   **Micro-Balance:** Ein Tag Range.
 *   **Macro-Balance:** Eine Range über Wochen. Die Ausbrüche aus diesen großen Balances führen zu den größten Trends ("Energy Release").
+
+# Quellen
+
+- [Radiopaedia Suche: 02 Volume Profile Masterclass](https://radiopaedia.org/search?q=02+volume+profile+masterclass)

@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Magen Duodenum](https://radiopaedia.org/search?q=stomach+duodenum)
+

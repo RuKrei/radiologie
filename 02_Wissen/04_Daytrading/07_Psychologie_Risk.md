@@ -32,3 +32,7 @@ Bewerte deinen Tag nicht nach PnL ($), sondern nach Exekution.
 *   Hast du dich an die Regeln gehalten?
 *   Hast du Fehler gemacht?
 Wenn du gut exekutierst, folgt das Geld automatisch.
+
+# Quellen
+
+- [Radiopaedia Suche: 07 Psychologie Risk](https://radiopaedia.org/search?q=07+psychologie+risk)

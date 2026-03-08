@@ -25,3 +25,7 @@ Um einen Edge zu definieren, muss man weg vom "Raten" hin zum "Wissen".
 *   **Wiederholbarkeit:** Das Setup taucht regelmäßig auf und ist klar definierbar (keine subjektive "Bauchgefühl"-Entscheidung).
 *   **Definiertes Risiko:** Man weiß *vor* dem Einstieg genau, wo das Setup invalide ist (Stop Loss).
 *   **Positiver Erwartungswert:** (Trefferquote x Durchschnittsgewinn) - (Verlustquote x Durchschnittsverlust) > 0.
+
+# Quellen
+
+- [Radiopaedia Suche: 04 Finding an Edge](https://radiopaedia.org/search?q=04+finding+an+edge)

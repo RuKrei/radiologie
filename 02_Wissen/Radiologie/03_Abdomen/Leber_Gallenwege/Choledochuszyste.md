@@ -93,4 +93,7 @@ Intraduktale papillär-muzinöse Neoplasie der Gallenwege: Zeigt intraduktale Ko
 Wegen des erhöhten Risikos für die Entwicklung eines Cholangiokarzinoms (etwa 20-fach erhöht) ist die chirurgische Exzision der Zyste notwendig. Das operative Standardverfahren umfasst meist die Resektion der Zyste in Kombination mit einer Cholezystektomie und einer Rekonstruktion mittels Roux-Y-Hepaticojejunostomie.
 
 # Quellen
+
+- [Radiopaedia Suche: Choledochuszyste](https://radiopaedia.org/search?q=choledochuszyste)
+
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Gefäße Abdomen](https://radiopaedia.org/search?q=gefäße+abdomen)
+

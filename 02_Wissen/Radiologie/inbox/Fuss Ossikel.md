@@ -9,3 +9,7 @@ mnemo_run: 1
 ---
 
 ![[Pasted image 20260112224117.png]]
+
+# Quellen
+
+- [Radiopaedia Suche: Fuss Ossikel](https://radiopaedia.org/search?q=fuss+ossikel)

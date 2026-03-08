@@ -107,4 +107,7 @@ Intrapankreatische Nebenmilz: Weist nativ und nach Kontrastmittelgabe die gleich
 Die PET/CT kann zur weiteren Charakterisierung eingesetzt werden. Gut differenzierte Tumoren sind im Octreotid-Scan positiv und im FDG-PET negativ, während schlecht differenzierte Tumoren ein umgekehrtes Verhalten zeigen. Die Therapie besteht in der chirurgischen Resektion, sofern möglich (z. B. Enukleation, Pankreaslinksresektion, Whipple-Operation). Bei fortgeschrittenen Befunden kommen interventionelle Verfahren wie Radiofrequenzablation oder transarterielle Chemoembolisation von Lebermetastasen in Betracht.
 
 # Quellen
+
+- [Radiopaedia Suche: Nicht hormonaktiver endokriner Pnakreastumor (PNET)](https://radiopaedia.org/search?q=nicht+hormonaktiver+endokriner+pnakreastumor+(pnet))
+
  ,,,,,,,,,,,,,

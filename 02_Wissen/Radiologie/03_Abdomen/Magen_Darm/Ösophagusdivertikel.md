@@ -80,4 +80,7 @@ Malignes Ulkus: Kann bei intramuraler Ausbreitung oder großen ulzerierenden Tum
 Das Zenker-Divertikel ist praktisch immer eine Indikation zur Operation (z. B. mittels Stapler oder offener Resektion und Myotomie), da es progredient wächst und Aspirationsgefahr birgt,. Epiphrenische Divertikel werden meist nur bei symptomatischer Ausprägung operiert, wobei oft auch die zugrunde liegende Motilitätsstörung (Myotomie) behandelt werden muss. Das seltene Traktionsdivertikel bedarf in der Regel keiner Therapie. Intramurale Pseudodivertikulose ist oft mit Candida-Infektionen assoziiert.
 
 # Quellen
+
+- [Radiopaedia Suche: Ösophagusdivertikel](https://radiopaedia.org/search?q=ösophagusdivertikel)
+
  ,,,,,,,,,,,,,,,,,,,,,,

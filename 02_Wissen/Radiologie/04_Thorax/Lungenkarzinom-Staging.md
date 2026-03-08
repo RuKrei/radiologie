@@ -90,6 +90,9 @@ Beurteilung von Primärtumor (T), Lymphknoten (N) und Fernmetastasen (M) nach UI
 - **Liquid Biopsy:** Nachweis von Tumorzellen/DNA im Blut (z.B. EGFR-Mutation).
 
 # Quellen
+
+- [Radiopaedia Suche: Lungenkarzinom-Staging](https://radiopaedia.org/search?q=lungenkarzinom-staging)
+
 - TNM Classification of Malignant Tumours (8th Edition)
 - IASLC Staging Manual
 - Radiopaedia.org

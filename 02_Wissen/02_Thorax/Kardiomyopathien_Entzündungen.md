@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Kardiomyopathien Entzündungen](https://radiopaedia.org/search?q=kardiomyopathien+entzündungen)
+

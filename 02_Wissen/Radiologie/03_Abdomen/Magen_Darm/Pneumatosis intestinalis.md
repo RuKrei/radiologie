@@ -85,4 +85,7 @@ Enteritis/Kolitis: Infektiöse oder entzündliche Ursachen (z. B. durch C. diffi
 Portalvenöses Gas ist ein prognostisch ungünstiges Zeichen, das häufig mit Darmnekrose assoziiert ist, aber auch bei nicht-ischämischen Ursachen vorkommen kann,. Bei der benignen Pneumatosis cystoides intestinalis kann es zu einem Pneumoperitoneum ohne Peritonitis kommen, wenn eine der subserösen Zysten rupturiert; dies erfordert in der Regel keine chirurgische Intervention, sofern keine klinischen Zeichen einer Peritonitis vorliegen,.
 
 # Quellen
+
+- [Radiopaedia Suche: Pneumatosis intestinalis](https://radiopaedia.org/search?q=pneumatosis+intestinalis)
+
 ,,,,,,,,,,,,,,,,,,,,,,,,,

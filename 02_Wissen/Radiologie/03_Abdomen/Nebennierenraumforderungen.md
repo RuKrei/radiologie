@@ -90,5 +90,8 @@ Chemical-Shift-Imaging (CSI) zur Detektion von intrazellulärem Fett.
 - **FDG-PET/CT:** Hilfreich bei Unterscheidung benigne/maligne (Adenome meist photopenisch oder isometabol zur Leber; Metastasen/ACC hypermetabol).
 
 # Quellen
+
+- [Radiopaedia Suche: Nebennierenraumforderungen](https://radiopaedia.org/search?q=nebennierenraumforderungen)
+
 - Radiopaedia.org (Adrenal Adenoma, Washout)
 - Facharztwissen Radiologie

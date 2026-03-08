@@ -80,3 +80,7 @@ Warum traden wir Krypto?
 Vergiss Chartmuster wie "Kopf-Schulter" oder trendige Indikatoren. Wir tauchen jetzt ein in das, was den Preis wirklich bewegt.
 
 Weiter zu: [[Marktmechanik-und-AMT|Marktmechanik & Auction Market Theory]]
+
+# Quellen
+
+- [Radiopaedia Suche: 01 Daytrading Realitaet Daten](https://radiopaedia.org/search?q=01+daytrading+realitaet+daten)

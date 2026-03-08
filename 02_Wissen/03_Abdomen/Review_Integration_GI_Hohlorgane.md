@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Review Integration GI Hohlorgane](https://radiopaedia.org/search?q=review+integration+gi+hohlorgane)
+

@@ -19,3 +19,7 @@ Tags:
 -----
 ![[Pasted image 20260112224757.png]]
 ![[Pasted image 20260112224912.png]]
+
+# Quellen
+
+- [Radiopaedia Suche: Femurfraktur](https://radiopaedia.org/search?q=femurfraktur)

@@ -69,4 +69,7 @@ Pankreaspseudozyste: Kann ein Pseudoaneurysma vortäuschen, zeigt aber im Dopple
 Eine therapeutische Indikation besteht vor allem bei Aneurysmen über 2 cm. Bei Aneurysmen der A. gastroduodenalis oder der Aa. pancreaticoduodenales sowie bei Pseudoaneurysmen ist die Indikation aufgrund der höheren Rupturgefahr früher zu stellen,. Therapeutisch wird der Versuch einer interventionellen Therapie mittels Coils (Embolisation), Stent-Grafts oder Thrombininjektion (bei Pseudoaneurysmen) bevorzugt,,. Die offene chirurgische Therapie (Ligatur, Resektion) ist meist Reserveverfahren bei Versagen der Intervention.
 
 # Quellen
+
+- [Radiopaedia Suche: Aneurysmen der viszeralen Gefäße](https://radiopaedia.org/search?q=aneurysmen+der+viszeralen+gefäße)
+
 :,,,,,,,,,,,,,,,,,,,,,,,

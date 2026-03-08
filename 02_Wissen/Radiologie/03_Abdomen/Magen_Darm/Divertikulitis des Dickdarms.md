@@ -86,4 +86,7 @@ Chronisch entzündliche Darmerkrankungen: Colitis ulcerosa beginnt im Rektum und
 Nach Abklingen einer akuten Divertikulitis sollte im Intervall (ca. 4-6 Wochen) eine Koloskopie zum Ausschluss eines Karzinoms durchgeführt werden, da die Bildgebung allein im Akutstadium nicht beweisend ist. Die Therapie richtet sich nach dem Stadium (z. B. CDD-Klassifikation): Unkomplizierte Formen werden konservativ behandelt, Abszesse über 4-5 cm können CT-gesteuert drainiert werden, und bei freier Perforation oder Therapieversagen ist eine Operation indiziert,,.
 
 # Quellen
+
+- [Radiopaedia Suche: Divertikulitis des Dickdarms](https://radiopaedia.org/search?q=divertikulitis+des+dickdarms)
+
 ,,,,,,,,,,,,,,,,,,,,,

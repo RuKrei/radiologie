@@ -18,3 +18,7 @@ Tags:
 
 -----
 
+
+# Quellen
+
+- [Radiopaedia Suche: Verletzungen Obere Extremität](https://radiopaedia.org/search?q=verletzungen+obere+extremität)

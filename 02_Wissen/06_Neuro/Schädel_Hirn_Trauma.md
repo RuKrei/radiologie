@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Schädel Hirn Trauma](https://radiopaedia.org/search?q=schädel+brain+trauma)
+

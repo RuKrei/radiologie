@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Klappenvitien Angeborene Herzfehler beim Erwachsenen](https://radiopaedia.org/search?q=klappenvitien+angeborene+herzfehler+beim+erwachsenen)
+

@@ -83,4 +83,7 @@ Endometriose: Kann zu einer Kompression von extern und einer einseitigen sägeza
 Das prätherapeutische Tumor-Staging bildet die Grundlage für die Therapieentscheidung zwischen lokaler Exzision und radikaler Resektion mit totaler mesorektaler Exzision. Die MRT ermöglicht die Identifikation von Hochrisikotumoren (z. B. bei geringem Abstand zur mesorektalen Faszie), die den Einsatz einer neoadjuvanten Therapie begründen. T1-Karzinome mit Low-Risk-Konstellation können einer lokalen Therapie zugeführt werden.
 
 # Quellen
+
+- [Radiopaedia Suche: Rektumkarzinom](https://radiopaedia.org/search?q=rektumkarzinom)
+
 :,,,,,,,,,,,,,,,,,,,,,

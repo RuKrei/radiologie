@@ -84,4 +84,7 @@ Dünndarmlymphom: Zeigt oft eine verdickte Wand und weites Lumen ohne Perfusions
 Ein typischer Fehler ist die verzögerte Indikationsstellung zur CT, da die Zeit bis zur Diagnose prognoseentscheidend ist (time is intestine),. Laborchemisch ist Laktat ein Spätmarker und im Frühstadium oft unauffällig. Die Therapie umfasst je nach Ursache die Embolektomie, Revaskularisierung (Bypass, Stent), Antikoagulation (bei Venenthrombose), intraarterielle Gabe von Vasodilatatoren (bei NOMI) und die Resektion von nekrotischen Darmabschnitten,,.
 
 # Quellen
+
+- [Radiopaedia Suche: Akute mesenteriale Ischämie](https://radiopaedia.org/search?q=akute+mesenteriale+ischämie)
+
 :,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -71,3 +71,6 @@ Alles andere
 Bei der Beurteilung der pulmonalen Hypertonie ist auf eine Dilatation der Vena cava inferior und der Lebervenen sowie auf Perikardergüsse zu achten, die Zeichen einer Rechtsherzinsuffizienz sein können. Die Dual-Energy-CT kann Jod-Verteilungskarten (Perfusionskarten) erstellen, die bei CTEPH segmentale Defekte zeigen, während bei idiopathischer PAH eher diffuse, fleckige Defekte auftreten,,.
 
 Quellen ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# Quellen
+
+- [Radiopaedia Suche: Pulmonalarterielle Hypertonie](https://radiopaedia.org/search?q=pulmonalarterielle+hypertonie)

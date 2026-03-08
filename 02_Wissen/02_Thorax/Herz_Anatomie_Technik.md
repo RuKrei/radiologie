@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Herz Anatomie Technik](https://radiopaedia.org/search?q=heart+anatomie+technik)
+

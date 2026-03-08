@@ -76,4 +76,7 @@ Lipom: Diese zeigen in der Computertomografie und Magnetresonanztomografie fett�
 Ein typischer Fehler ist die Fehldiagnose als Cholesterolpolyp oder Gallenstein. Für den klinisch tätigen Kollegen sind Zeichen einer malignen Entartung sowie die Abgrenzung zu Cholesterolpolypen und Steinen von Bedeutung.
 
 # Quellen
+
+- [Radiopaedia Suche: Adenom der Gallenblase](https://radiopaedia.org/search?q=adenom+der+gallenblase)
+
 ,,,

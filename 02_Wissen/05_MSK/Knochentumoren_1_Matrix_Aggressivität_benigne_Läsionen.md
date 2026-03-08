@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Knochentumoren 1 Matrix Aggressivität benigne Läsionen](https://radiopaedia.org/search?q=knochentumoren+1+matrix+aggressivität+benigne+läsionen)
+

@@ -40,3 +40,7 @@ Ein Edge (Vorteil) ist nutzlos ohne Disziplin.
 Am Ende dieses Kurses wirst du nicht mehr fragen "Wohin geht der Kurs?", sondern "Wo findet der Markt Akzeptanz und wo lehnt er Preise ab?". Du wirst lernen, Wahrscheinlichkeiten zu handeln, statt Vorhersagen zu treffen.
 
 **Legen wir los!** Beginne mit [[Was-ist-Daytrading|Was ist Daytrading?]].
+
+# Quellen
+
+- [Radiopaedia Suche: 00 Kurs-Uebersicht](https://radiopaedia.org/search?q=00+kurs-uebersicht)

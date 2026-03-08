@@ -42,3 +42,7 @@ Hier findest du die wichtigsten Begriffe aus dem World Class Edge (WCE) Universu
 
 ---
 *Nutze dieses Glossar als Nachschlagewerk, während du die Lektionen durcharbeitest.*
+
+# Quellen
+
+- [Radiopaedia Suche: Glossar](https://radiopaedia.org/search?q=glossar)

@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Ösophagus](https://radiopaedia.org/search?q=ösophagus)
+

@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Integration Thorax Differentialdiagnosen](https://radiopaedia.org/search?q=integration+thorax+differentialdiagnosen)
+

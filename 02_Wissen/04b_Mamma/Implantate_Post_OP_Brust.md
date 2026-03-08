@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Implantate Post OP Brust](https://radiopaedia.org/search?q=implantate+post+op+breast)
+

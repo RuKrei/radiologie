@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Vaskuläre Thoraxerkrankungen](https://radiopaedia.org/search?q=vaskuläre+thoraxerkrankungen)
+

@@ -86,4 +86,7 @@ Dünndarmlymphom: Kann sekundär auf dem Boden einer Zöliakie entstehen oder ä
 Der Goldstandard der Diagnostik ist die Endoskopie mit tiefer Biopsieentnahme zum Nachweis der villösen Atrophie. Ein typischer Fehler ist die zu späte Diagnose eines assoziierten Malignoms, insbesondere eines Dünndarmlymphoms oder Karzinoms. Für den zuweisenden Kollegen ist entscheidend, ob die bildgebenden Befunde zum klinischen Bild passen und ob Hinweise auf Malignität vorliegen.
 
 # Quellen
+
+- [Radiopaedia Suche: Zöliakie](https://radiopaedia.org/search?q=zöliakie)
+
 :,,,,,,,,,,,

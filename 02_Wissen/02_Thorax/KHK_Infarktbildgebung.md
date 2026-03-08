@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: KHK Infarktbildgebung](https://radiopaedia.org/search?q=khk+infarktbildgebung)
+

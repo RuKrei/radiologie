@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Deep Dive Herz MRT Sequenzen Auswertung](https://radiopaedia.org/search?q=deep+dive+heart+mrt+sequenzen+auswertung)
+

@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Integration Kopf Hals](https://radiopaedia.org/search?q=integration+head+neck)
+

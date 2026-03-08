@@ -71,3 +71,6 @@ Alles andere
 Die radiologische Bildgebung dient bei der chronischen Bronchitis primär dem Ausschluss anderer Ursachen für Husten (z.B. Karzinom, Tuberkulose, Bronchiektasen) und der Detektion von Komplikationen wie Pneumonien bei akuter Exazerbation (AECOPD).
 
 Quellen ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# Quellen
+
+- [Radiopaedia Suche: Chronische Bronchitis](https://radiopaedia.org/search?q=chronische+bronchitis)

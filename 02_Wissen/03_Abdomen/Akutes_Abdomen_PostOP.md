@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Akutes Abdomen PostOP](https://radiopaedia.org/search?q=akutes+abdomen+postop)
+

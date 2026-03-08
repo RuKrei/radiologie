@@ -72,3 +72,6 @@ Alles andere
 Bei "Slowly resolving pneumonia" (fehlende Rückbildung nach antibiotischer Therapie) muss an maligne Prozesse (Bronchialkarzinom), resistente Keime, Tuberkulose oder nicht-infektiöse Ursachen (COP, Vaskulitis) gedacht werden,. Das "Golden S Sign" (umgekehrtes S der Lappenspalte) deutet auf eine zentrale Raumforderung (Tumor) mit poststenotischer Atelektase/Pneumonie hin.
 
 Quellen ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# Quellen
+
+- [Radiopaedia Suche: Alveoläre Pneumonie](https://radiopaedia.org/search?q=alveoläre+pneumonie)

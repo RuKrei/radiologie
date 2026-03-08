@@ -78,5 +78,8 @@ Alternativmethode (z.B. Schwangere) oder zur Abklärung des Gallengangssystems (
     -   Mirizzi-Syndrom (Stein im Ductus cysticus komprimiert Ductus hepaticus communis -> Ikterus).
 
 # Quellen
+
+- [Radiopaedia Suche: Akute Cholezystitis](https://radiopaedia.org/search?q=akute+cholezystitis)
+
 - Radiopaedia.org
 - Facharztwissen Radiologie

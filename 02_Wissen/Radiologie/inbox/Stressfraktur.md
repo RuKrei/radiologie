@@ -7,3 +7,7 @@ Zwei Arten:
 ## Insuffizienzbruch
 zB bei Osteoporose
 ![[Pasted image 20251227152133.png]]
+
+# Quellen
+
+- [Radiopaedia Suche: Stressfraktur](https://radiopaedia.org/search?q=stressfraktur)

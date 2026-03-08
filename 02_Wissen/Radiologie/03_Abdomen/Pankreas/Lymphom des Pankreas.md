@@ -80,4 +80,7 @@ Autoimmunpankreatitis: Geht ohne vergrößerte Lymphknoten einher, zeigt häufig
 Die Unterscheidung zum duktalen Adenokarzinom ist essenziell, da beim primären Lymphom die Biopsie für die Therapieentscheidung (Chemotherapie statt Operation) entscheidend ist. In der PET/PET-CT zeigt sich eine starke Anreicherung von FDG (Fluorodesoxyglucose) im Tumor und in den befallenen Lymphknoten.
 
 # Quellen
+
+- [Radiopaedia Suche: Lymphom des Pankreas](https://radiopaedia.org/search?q=lymphom+des+pankreas)
+
 ,,,,,,,,,,

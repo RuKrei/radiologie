@@ -83,4 +83,7 @@ Pankreaspseudozyste: Meist liegt eine Anamnese einer Pankreatitis vor. Pseudozys
 Das therapeutische Vorgehen hängt vom Typ und dem Risikoprofil ab. Hauptgang-IPMNs und der gemischte Typ haben ein hohes Entartungsrisiko und werden in der Regel reseziert,. Bei Seitenast-IPMNs ohne Risikofaktoren (Größe unter 3 cm, keine Knoten, keine Symptome) kann unter Umständen eine Überwachung erfolgen,. Die FDG-PET/CT kann bei der Differenzierung zwischen benignen und malignen IPMNs hilfreich sein, da maligne Anteile oft einen erhöhten Glukosestoffwechsel zeigen. Ein Kolloidkarzinom des Pankreas ist häufig mit einer IPMN assoziiert.
 
 # Quellen
+
+- [Radiopaedia Suche: Intraduktale papilläre muzinöse Neoplasie (IPMN)](https://radiopaedia.org/search?q=intraduktale+papilläre+muzinöse+neoplasie+(ipmn))
+
  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

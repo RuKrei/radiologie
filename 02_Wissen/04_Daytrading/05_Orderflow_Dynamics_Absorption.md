@@ -39,3 +39,7 @@ Große Orders im Buch, die *gelöscht* werden, sobald der Preis näher kommt.
 *   Zweck: Andere Trader dazu bringen, vor der großen Order zu front-runnen (Preis in die gewünschte Richtung drücken).
 *   **Erkennung:** Order verschwindet ohne Ausführung (Volume traded = 0).
 *   **Regel:** Glaube keiner Limit-Order, bis sie ausgeführt wurde! Nur der Footprint (Executed Volume) lügt nicht.
+
+# Quellen
+
+- [Radiopaedia Suche: 05 Orderflow Dynamics Absorption](https://radiopaedia.org/search?q=05+orderflow+dynamics+absorption)

@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Synthese Thorax Herz](https://radiopaedia.org/search?q=synthese+thorax+heart)
+

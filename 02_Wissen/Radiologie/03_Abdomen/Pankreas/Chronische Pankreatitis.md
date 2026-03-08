@@ -61,3 +61,6 @@ Die Sekretin-MRCP kann die Sensitivität für frühe Gangveränderungen und die 
 # Alles Andere
 Für die Stadieneinteilung der chronischen Pankreatitis wird häufig die ==[[Cambridge-Klassifikation (Pankreatitis)]]== verwendet, die morphologische Veränderungen der Gänge und des Parenchyms in den verschiedenen bildgebenden Verfahren (ERCP, US, CT/MRT) bewertet. Die Therapie umfasst Alkoholkarenz, Schmerztherapie (WHO-Stufenschema), Enzymsubstitution bei exokriner Insuffizienz sowie endoskopische oder chirurgische Interventionen bei Komplikationen wie Stenosen oder symptomatischen Pseudozysten.
 # Quellen
+
+- [Radiopaedia Suche: Chronische Pankreatitis](https://radiopaedia.org/search?q=chronische+pankreatitis)
+

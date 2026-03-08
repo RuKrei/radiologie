@@ -18,3 +18,7 @@ Tags:
 
 -----
 ![[Pasted image 20260113204102.png]]
+
+# Quellen
+
+- [Radiopaedia Suche: Hüfte Avulsionsfrakturen](https://radiopaedia.org/search?q=hüfte+avulsionsfrakturen)

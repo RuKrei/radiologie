@@ -35,3 +35,7 @@ Delta hilft, die "Geschichte hinter dem Preis" zu verstehen. Es zeigt, ob die Pr
     *   CVD macht **kein** neues Hoch (Lower High).
     *   **Interpretation:** Käufer kaufen aggressiv, aber passive Verkäufer (Limit Sell Wall) absorbieren die Nachfrage. Der Preis kommt nicht höher.
 *   **Delta Surge:** Plötzlicher, massiver Anstieg/Abfall im Delta ohne signifikante Preisbewegung -> Vorsicht, oft Absorption oder Stop-Run.
+
+# Quellen
+
+- [Radiopaedia Suche: 03 Delta Cumulative Delta](https://radiopaedia.org/search?q=03+delta+cumulative+delta)

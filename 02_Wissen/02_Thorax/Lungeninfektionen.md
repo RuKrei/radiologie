@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Lungeninfektionen](https://radiopaedia.org/search?q=lungeninfektionen)
+

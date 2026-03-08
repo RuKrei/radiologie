@@ -40,3 +40,7 @@ Beide zusammen ergeben ein mächtiges Bild. Ein Preis kann viel Zeit (TPO) an ei
 
 ## Fazit
 TPO Charts helfen uns, den Lärm der kurzfristigen Bewegungen auszublenden und die wahre Absicht des Marktes zu sehen. Sie beantworten die Frage: "Ist der Markt glücklich mit diesem Preis?"
+
+# Quellen
+
+- [Radiopaedia Suche: TPO-Charts-verstehen](https://radiopaedia.org/search?q=tpo-charts-verstehen)

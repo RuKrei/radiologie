@@ -71,4 +71,7 @@ Adenomyomatose: Zeigt intramurale Divertikel (Rokitansky-Aschoff-Sinus), die Ste
 Bei symptomatischen Gallensteinen (symptomatische Cholezystolithiasis) oder akuter/chronischer Cholezystitis ist die laparoskopische Cholezystektomie der therapeutische Goldstandard. Bei 10 Prozent der symptomatischen Gallenblasensteinträger finden sich gleichzeitig Steine in den Gallengängen (Choledocholithiasis).
 
 # Quellen
+
+- [Radiopaedia Suche: Gallenblasensteine - Cholezystolithiasis](https://radiopaedia.org/search?q=gallenblasensteine+-+cholezystolithiasis)
+
 :,,,,,,,,,,,,,,,,,,,,,,

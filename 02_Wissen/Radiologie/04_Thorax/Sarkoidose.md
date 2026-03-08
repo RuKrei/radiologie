@@ -75,6 +75,9 @@ Nicht verkäsende Granulome in Lunge (lymphangitische Ausbreitung entlang der Br
 - **Therapie:** Oft spontane Remission (Löfgren). Bei Organbeteiligung (Herz, Augen, ZNS) oder progredienter Lungenfunktion: Steroide.
 
 # Quellen
+
+- [Radiopaedia Suche: Sarkoidose](https://radiopaedia.org/search?q=sarkoidose)
+
 - Radiopaedia.org
 - ATS/ERS/WASOG Statement on Sarcoidosis
 - Facharztwissen Radiologie

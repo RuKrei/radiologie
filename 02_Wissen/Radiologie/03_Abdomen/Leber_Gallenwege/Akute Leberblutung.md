@@ -79,4 +79,7 @@ Koagulopathie: Gekennzeichnet durch niedrige Thrombozytenzahl, Gerinnungsdefekte
 Ein typischer Fehler ist die Fehlinterpretation einer intraabdominalen Blutung als Aszites. Für den zuweisenden Kollegen sind das Ausmaß der Blutung, das Vorliegen einer Ruptur in die Bauchhöhle und die Möglichkeit interventioneller Maßnahmen (z.B. transarterielle Embolisation) entscheidend. Die Angiografie ist bei therapeutischer Option zur Embolisation indiziert und weist den Blutaustritt nach,.
 
 # Quellen
+
+- [Radiopaedia Suche: Akute Leberblutung](https://radiopaedia.org/search?q=akute+leberblutung)
+
 :,,,,,,,,,,,,

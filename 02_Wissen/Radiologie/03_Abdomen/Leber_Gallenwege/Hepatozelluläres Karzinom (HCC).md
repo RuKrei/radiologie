@@ -87,4 +87,7 @@ Regeneratknoten: Sind in der MRT meist T1-iso- bis hyperintens und T2-hypointens
 Die Überlebensrate ohne Therapie liegt meist unter einem Jahr. Therapeutische Optionen hängen von der Tumorgröße, Lage und Leberfunktion ab und umfassen Resektion, Lebertransplantation, transarterielle Chemoembolisation (TACE) und Radiofrequenzablation (RFA). Nur in etwa 20 Prozent der Fälle ist eine operative Therapie möglich. Für die Transplantation sind die Milan-Kriterien (ein Herd bis 5 cm oder maximal 3 Herde bis je 3 cm) entscheidend. TACE ist eine wichtige palliative Methode oder dient dem Bridging zur Transplantation. Die selektive interne Radiotherapie (SIRT) ist eine Alternative bei fortgeschritteneren Stadien. Ein typischer Fehler ist die Verwechslung von Regeneratknoten oder dysplastischen Knoten mit einem HCC.
 
 # Quellen
+
+- [Radiopaedia Suche: Hepatozelluläres Karzinom (HCC)](https://radiopaedia.org/search?q=hepatozelluläres+karzinom+(hcc))
+
 :,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

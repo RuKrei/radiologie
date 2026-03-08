@@ -32,3 +32,7 @@ Tags:
 ![[Pasted image 20251226174200.png]]
 ![[Pasted image 20251226174232.png]]
 ![[Pasted image 20251226174259.png]]
+
+# Quellen
+
+- [Radiopaedia Suche: Schulter Anatomie](https://radiopaedia.org/search?q=schulter+anatomie)

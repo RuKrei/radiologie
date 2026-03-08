@@ -42,3 +42,7 @@ Es gibt zwei Arten, wie eine Bewegung endet, und Delta hilft, sie zu unterscheid
 Bei einem echten Ausbruch (Breakout) wollen wir **Delta-Konfluenz** sehen.
 *   Preis bricht aus -> Delta muss explodieren (in Ausbruchsrichtung).
 *   Wenn der Preis ausbricht, aber das Delta "faul" ist, ist es oft ein Fake-Out.
+
+# Quellen
+
+- [Radiopaedia Suche: 04 Delta Management Advanced](https://radiopaedia.org/search?q=04+delta+management+advanced)

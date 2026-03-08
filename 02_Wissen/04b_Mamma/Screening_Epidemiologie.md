@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Screening Epidemiologie](https://radiopaedia.org/search?q=screening+epidemiologie)
+

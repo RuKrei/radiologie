@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: COPD Atemwege](https://radiopaedia.org/search?q=copd+atemwege)
+

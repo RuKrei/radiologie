@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Degenerativ Demenz](https://radiopaedia.org/search?q=degenerativ+demenz)
+

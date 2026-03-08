@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Leber 3 Maligne Tumoren](https://radiopaedia.org/search?q=liver+3+maligne+tumoren)
+

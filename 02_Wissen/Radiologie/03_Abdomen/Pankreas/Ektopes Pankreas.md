@@ -86,4 +86,7 @@ Peptisches Ulkus: Kann bei ödematösem Randsaum ebenfalls als Target-Läsion (B
 Ein typischer Fehler ist die Verwechslung des ektopen Pankreas mit einem GIST oder Leiomyom. Für den zuweisenden Kollegen ist der Ausschluss eines malignen Tumors sowie der Hinweis auf mögliche Komplikationen wie eine Entzündung im aberranten Gewebe relevant.
 
 # Quellen
+
+- [Radiopaedia Suche: Ektopes Pankreas](https://radiopaedia.org/search?q=ektopes+pankreas)
+
 ,,,,,,,,,,

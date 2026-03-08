@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Pankreas 1 Entzündungen](https://radiopaedia.org/search?q=pankreas+1+entzündungen)
+

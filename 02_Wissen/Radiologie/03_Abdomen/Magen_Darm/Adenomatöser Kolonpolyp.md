@@ -75,4 +75,7 @@ Lipome: Weisen in der CT fettäquivalente Dichtewerte auf.
 Eine wichtige Sonderform sind die serratierten Polypen, die häufig flach wachsen und ein relativ hohes Entartungsrisiko von 15 bis 30 Prozent aufweisen. Ein häufiger Fehler in der virtuellen Kolografie (CT oder MRT) ist eine unzureichende Darmreinigung oder schlechte Distension des Darms mit Luft oder CO2, was die Beurteilung erschwert. Wenn ein Polyp entdeckt wird, besteht ein Risiko von etwa 25 Prozent, dass ein weiterer Polyp vorhanden ist. Die klinische Relevanzschwelle für den Nachweis liegt in der gastroenterologischen Literatur oft bei 1 cm, in der radiologischen Literatur ab 6 mm.
 
 # Quellen
+
+- [Radiopaedia Suche: Adenomatöser Kolonpolyp](https://radiopaedia.org/search?q=adenomatöser+kolonpolyp)
+
 :,,,,,,,,,,,,,,,,

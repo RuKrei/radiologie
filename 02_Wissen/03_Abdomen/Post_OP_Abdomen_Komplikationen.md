@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Post OP Abdomen Komplikationen](https://radiopaedia.org/search?q=post+op+abdomen+komplikationen)
+

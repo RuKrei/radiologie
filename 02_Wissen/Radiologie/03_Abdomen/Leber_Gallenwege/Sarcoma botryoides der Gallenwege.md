@@ -83,4 +83,7 @@ Intraduktale Steine: Diese sind bei Kindern sehr selten. Die Klinik ist durch ei
 Ein typischer Fehler ist die Interpretation der intraduktalen Aussparungen als Konkremente, was oft zu frustranen Versuchen einer endoskopischen Steinextraktion führt. Für den zuweisenden Kollegen sind die Ausdehnung der Erkrankung in die intrahepatischen Gangabschnitte, eine Infiltration der Leber sowie Fernmetastasen relevant. In der PET/PET-CT zeigt sich eine erhöhte metabolische Aktivität der verdickten Wand.
 
 # Quellen
+
+- [Radiopaedia Suche: Sarcoma botryoides der Gallenwege](https://radiopaedia.org/search?q=sarcoma+botryoides+der+gallenwege)
+
 ,,,,,,,,

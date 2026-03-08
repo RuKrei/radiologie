@@ -44,3 +44,6 @@ Tags:
 # Alles andere
 
 # Quellen
+
+- [Radiopaedia Suche: Deep Dive Gelenk MRT Protokolle](https://radiopaedia.org/search?q=deep+dive+joint+mrt+protokolle)
+
