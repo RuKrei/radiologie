@@ -149,8 +149,12 @@ Die exakte Klassifikation ist essenziell für die idiopathischen interstitiellen
     *   Unteres Mediastinum (Station 8 paraösophageal, Station 9 Ligamentum pulmonale)
     *   Hilär/Interlobär/Peripher (Station 10-14) [Radiopaedia: IASLC lymph node map](https://radiopaedia.org/articles/iaslc-lymph-node-map)
 *   **Größenkriterium:** Ein Kurzachsendurchmesser (short axis) von > 10 mm gilt im Allgemeinen als pathologisch (cave: entzündlich vs. maligne). Bei Vorliegen im Lungen-Ca-Staging Verdacht auf N-Stadium (PET-CT/EBUS Bestätigung nötig).
+*   **Morphologie:** Nekrotischer (hypodenser) Kern mit Randenhancement = typisch für Mykobakterien (Tbc), Plattenepithelkarzinom-Filiae, oder Pilzinfektionen. [Radiopaedia: Necrotic lymph nodes](https://radiopaedia.org/articles/necrotic-lymph-nodes)
+*   **Verkalkungen:** Eierschalenartig ("Egg-shell") bei Silikose, Sarkoidose, behandelter Tbc. [Radiopaedia: Egg-shell calcification](https://radiopaedia.org/articles/eggshell-calcification-lymph-nodes)
+*   **Azygos-Ösophagealer Recessus & AP-Fenster:** Diese Grenzflächen müssen scharf abgrenzbar sein. Eine Vorwölbung spricht für eine Lymphadenopathie oder primäre mediastinale Raumforderungen. [Radiopaedia: Azygo-oesophageal recess](https://radiopaedia.org/articles/azygo-oesophageal-recess)
 
 ---
+
 # Quellen
-- Eigene Modifikationen nach Fleischner Society Glossary.
-- Referenzierte Radiopaedia Links im Text.
+- Fleischner Society: Glossary of Terms for Thoracic Imaging (Hansell et al., Radiology 2008)
+- Eigene Aufzeichnungen und Syllabus-Analysen
