@@ -4,6 +4,11 @@
 Durchgehende Sichtbarkeit des Zwerchfells unter dem Herzen (verbindet linke und rechte Kuppel).
 
 ## Radiologisches Erscheinungsbild
+
+> 🖼️ **Fleischner Referenzbild (Glossary):**
+> ![Continuous Diaphragm Sign](../../../media/continuous_diaphragm_sign_fleischner.png)
+> *(Bitte entsprechendes Bild aus dem Fleischner-PDF hierher ziehen und als `continuous_diaphragm_sign_fleischner.png` im Ordner `media/` speichern)*
+
 **Röntgen / CT:**
 - Siehe Definition.
 - Wichtiges Erkennungsmerkmal in der Thoraxdiagnostik.

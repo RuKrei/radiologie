@@ -4,6 +4,11 @@
 Aufgeweitete zentrale Pulmonalarterie.
 
 ## Radiologisches Erscheinungsbild
+
+> 🖼️ **Fleischner Referenzbild (Glossary):**
+> ![Fleischner Sign](../../../media/fleischner_sign_fleischner.png)
+> *(Bitte entsprechendes Bild aus dem Fleischner-PDF hierher ziehen und als `fleischner_sign_fleischner.png` im Ordner `media/` speichern)*
+
 **Röntgen / CT:**
 - Siehe Definition.
 - Wichtiges Erkennungsmerkmal in der Thoraxdiagnostik.

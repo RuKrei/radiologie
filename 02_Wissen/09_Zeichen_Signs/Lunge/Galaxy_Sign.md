@@ -4,6 +4,11 @@
 Zentrale konfluierende noduläre Verdichtung umgeben von zahlreichen, kleineren Satelliten-Knötchen (Makronodulus bestehend aus Mikronoduli).
 
 ## Radiologisches Erscheinungsbild
+
+> 🖼️ **Fleischner Referenzbild (Fleischner Glossary):**
+> ![Galaxy_Sign](../../../media/galaxy_sign_fleischner.png)
+> *(Bitte entsprechendes Bild aus dem Fleischner-PDF hierher ziehen und als `galaxy_sign_fleischner.png` im Ordner `media/` speichern)*
+
 - Typisches Zeichen in der Thorax-Bildgebung (Röntgen oder HRCT).
 - Dient der Eingrenzung spezifischer, oft pathognomonischer Differenzialdiagnosen (Fleischner Glossary Criteria).
 

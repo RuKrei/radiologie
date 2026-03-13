@@ -4,6 +4,11 @@
 Sichelförmige Luftansammlung um den Aortenbogen.
 
 ## Radiologisches Erscheinungsbild
+
+> 🖼️ **Fleischner Referenzbild (Glossary):**
+> ![Luftsichel Sign](../../../media/luftsichel_sign_fleischner.png)
+> *(Bitte entsprechendes Bild aus dem Fleischner-PDF hierher ziehen und als `luftsichel_sign_fleischner.png` im Ordner `media/` speichern)*
+
 **Röntgen / CT:**
 - Siehe Definition.
 - Wichtiges Erkennungsmerkmal in der Thoraxdiagnostik.

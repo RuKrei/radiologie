@@ -4,6 +4,11 @@
 Vorwölbung der Lobärfissur (meist kleine Fissur rechts) durch massive exsudative entzündliche Schwellung eines Lappens.
 
 ## Radiologisches Erscheinungsbild
+
+> 🖼️ **Fleischner Referenzbild (Glossary):**
+> ![Bulging Fissure Sign](../../../media/bulging_fissure_sign_fleischner.png)
+> *(Bitte entsprechendes Bild aus dem Fleischner-PDF hierher ziehen und als `bulging_fissure_sign_fleischner.png` im Ordner `media/` speichern)*
+
 - Typisches Zeichen in der Thorax-Bildgebung (Röntgen oder HRCT).
 - Dient der Eingrenzung spezifischer, oft pathognomonischer Differenzialdiagnosen (Fleischner Glossary Criteria).
 

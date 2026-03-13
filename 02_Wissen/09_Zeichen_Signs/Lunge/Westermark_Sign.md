@@ -4,6 +4,11 @@
 Fokale Oligämie (Hypertransparenz) distal eines embolischen Gefäßverschlusses.
 
 ## Radiologisches Erscheinungsbild
+
+> 🖼️ **Fleischner Referenzbild (Glossary):**
+> ![Westermark Sign](../../../media/westermark_sign_fleischner.png)
+> *(Bitte entsprechendes Bild aus dem Fleischner-PDF hierher ziehen und als `westermark_sign_fleischner.png` im Ordner `media/` speichern)*
+
 **Röntgen / CT:**
 - Siehe Definition.
 - Wichtiges Erkennungsmerkmal in der Thoraxdiagnostik.

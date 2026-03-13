@@ -4,6 +4,11 @@
 Milchglasartige Zone um einen pulmonalen Rundherd oder eine Konsolidierung.
 
 ## Radiologisches Erscheinungsbild
+
+> 🖼️ **Fleischner Referenzbild (Fig. 41):**
+> ![Halo Sign](../../../media/halo_sign_fleischner.png)
+> *(Bitte entsprechendes Bild aus dem Fleischner-PDF hierher ziehen und als `halo_sign_fleischner.png` im Ordner `media/` speichern)*
+
 **Röntgen / CT:**
 - Siehe Definition.
 - Wichtiges Erkennungsmerkmal in der Thoraxdiagnostik.

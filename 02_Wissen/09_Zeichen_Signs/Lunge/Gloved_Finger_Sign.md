@@ -4,6 +4,11 @@
 Tubuläre, verzweigte Verdichtungen (Y- oder V-förmig), ausgehend vom Hilus.
 
 ## Radiologisches Erscheinungsbild
+
+> 🖼️ **Fleischner Referenzbild (Glossary):**
+> ![Finger-in-Glove Sign](../../../media/gloved_finger_sign_fleischner.png)
+> *(Bitte entsprechendes Bild aus dem Fleischner-PDF hierher ziehen und als `gloved_finger_sign_fleischner.png` im Ordner `media/` speichern)*
+
 **Röntgen / CT:**
 - Siehe Definition.
 - Wichtiges Erkennungsmerkmal in der Thoraxdiagnostik.

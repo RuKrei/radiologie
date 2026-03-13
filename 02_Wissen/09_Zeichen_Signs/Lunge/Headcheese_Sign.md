@@ -4,6 +4,11 @@
 Gleichzeitiges Auftreten von drei verschiedenen Dichtewerten auf einem Inspirations-CT: Normales Parenchym, Ground-Glass (Milchglas) und Mosaik-Oligämie/Air-Trapping (sehr dunkel).
 
 ## Radiologisches Erscheinungsbild
+
+> 🖼️ **Fleischner Referenzbild (Fig. 53):**
+> ![Headcheese Sign / Mosaic Attenuation](../../../media/headcheese_sign_fleischner.png)
+> *(Bitte entsprechendes Bild aus dem Fleischner-PDF hierher ziehen und als `headcheese_sign_fleischner.png` im Ordner `media/` speichern)*
+
 - Typisches Zeichen in der Thorax-Bildgebung (Röntgen oder HRCT).
 - Dient der Eingrenzung spezifischer, oft pathognomonischer Differenzialdiagnosen (Fleischner Glossary Criteria).
 

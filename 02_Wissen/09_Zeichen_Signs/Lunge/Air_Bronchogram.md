@@ -4,6 +4,11 @@
 Lufthaltige Bronchien, die sich als strahlendurchlässige Strukturen innerhalb einer Lungenkonsolidierung abzeichnen.
 
 ## Radiologisches Erscheinungsbild
+
+> 🖼️ **Fleischner Referenzbild (Fig. 3):**
+> ![Air Bronchogram](../../../media/air_bronchogram_fleischner.png)
+> *(Bitte entsprechendes Bild aus dem Fleischner-PDF hierher ziehen und als `air_bronchogram_fleischner.png` im Ordner `media/` speichern)*
+
 **Röntgen / CT:**
 - Siehe Definition.
 - Wichtiges Erkennungsmerkmal in der Thoraxdiagnostik.
