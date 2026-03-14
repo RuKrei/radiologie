@@ -25,7 +25,11 @@ Ein Teil der Patienten entwickelt einen Lungeninfarkt (hämorrhagisch, da die Lu
 
 ### Zu welchen morphologischen Veränderungen kommt es?
 - Intraluminaler Füllungsdefekt in den Pulmonalarterien.
-- Konsekutive Rechtsherzbelastung (Verbreiterung des rechten Ventrikels, Septumbowing).
+- Konsekutive Rechtsherzbelastung 
+	- Verbreiterung des rechten Ventrikels (RV > LV) 
+	- Septumbowing oder Abflachung des Septum interventriculare
+	- Trunc. pulm. > 2,9 cm oder > Aorta
+	- KM Reflux ad IVC UND Lebervenen
 - Lungeninfarkte (periphere Konsolidierungen).
 
 ### Zu welchen Komplikationen kann es kommen?
@@ -57,6 +61,7 @@ Spezifische, aber seltene Zeichen:
   - RV/LV-Quotient > 1.0 (axial gemessen).
   - Bowing des interventrikulären Septums nach links.
   - Reflux von Kontrastmittel in die Vena cava inferior und die Lebervenen.
+  - Trunc. pulmonalis > 2,9 cm oder > Aorta
 - **Chronische LAE (CTEPH):** Wandadhärente, verkalkte oder exzentrische Thromben, "Webs" (Bänder) im Gefäß, Mosaikperfusion des Parenchyms, Kalibersprung, kollaterale Bronchialarterienhypertrophie.
 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
