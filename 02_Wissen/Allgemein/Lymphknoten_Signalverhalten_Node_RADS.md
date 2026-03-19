@@ -106,12 +106,17 @@ Wenn ein Lymphknoten abnorm (z.B. Node-RADS 4 oder 5) ist, muss unterschieden we
 3. **Granulomatöse Erkrankung (Tbc, Sarkoidose):** Können Lymphome und Metastasen *perfekt imitieren* (inklusive Nekrosen bei Tbc = "kalte Abszesse"). Bei Sarkoidose oft perilymphatische Lungenherde und (egg-shell) Verkalkungen.
 
 ---
+![[Pasted image 20260314194311.png]]
+![[Pasted image 20260314194459.png]]
+![[Pasted image 20260314194522.png]]
+![[Pasted image 20260314194543.png]]
+![[Pasted image 20260314194602.png]]
 
 # Quellen & Video-Empfehlung
 - [Radiopaedia Suche: Normal Lymph Node](https://radiopaedia.org/search?q=normal+lymph+node)
 - [Radiopaedia: Cervical lymph node assessment](https://radiopaedia.org/articles/cervical-lymph-node-assessment)
 - [Radiopaedia: Node-RADS](https://radiopaedia.org/articles/node-rads)
-- **Referenz:** Elshafei et al., "Node-RADS: A reporting and data system for assessing lymph nodes", *European Radiology* (2021).
+- **Referenz:** Elshafei et al., "Node-RADS: A reporting and data system for assessing lymph nodes", *European Radiology* (2021). https://epos.myesr.org/poster/esr/ecr2022/C-19273
 
 ## Video-Empfehlung
 - [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/results?search_query=Radiology+Lymph+Node+Ultrasound+Node+RADS)
