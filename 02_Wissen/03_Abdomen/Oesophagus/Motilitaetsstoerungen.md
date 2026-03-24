@@ -7,7 +7,7 @@ Zuletzt gelesen:
 Tags: #Radiologie #Oesophagus #Abdomen
 -----
 # Wer? (Epidemiologie und Symptome)
-Oesophageale Motilitaetsstoerungen betreffen die Propulsivitaet der Speiseroehre. Zu den wichtigsten zaehlen die Achalasie (Stoerung der Relaxation des unteren Oesophagussphinkters (LES) und Verlust der Peristaltik; oft bei juengeren und mittelalten Patienten), der Diffuse Oesophagusspasmus (unkordinierte, starke, nicht-peristaltische Kontraktionen; retrosternale Schmerzen ahmen oft Angina pectoris nach) und die Sklerodermie (Kollagenose mit Atrophie der glatten Muskulatur in den distalen zwei Dritteln und Verlust der LES-Funktion, was zu schwerem Reflux fuehrt). Symptome sind Dysphagie (oft paradox: mehr für Flüssigkeiten als feste Speisen bei Achalasie), Thoraxschmerzen und Regurgitation.
+Oesophageale Motilitaetsstoerungen betreffen die Propulsivitaet der Speiseroehre. Zu den wichtigsten zaehlen die Achalasie (Stoerung der Relaxation des unteren Oesophagussphinkters (LES) und Verlust der Peristaltik; oft bei juengeren und mittelalten Patienten), der Diffuse Oesophagusspasmus (unkoordinierte, starke, nicht-peristaltische Kontraktionen; retrosternale Schmerzen ahmen oft Angina pectoris nach) und die Sklerodermie (Kollagenose mit Atrophie der glatten Muskulatur in den distalen zwei Dritteln und Verlust der LES-Funktion, was zu schwerem Reflux fuehrt). Symptome sind Dysphagie (oft paradox: mehr für Flüssigkeiten als feste Speisen bei Achalasie), Thoraxschmerzen und Regurgitation.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
