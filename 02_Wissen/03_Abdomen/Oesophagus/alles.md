@@ -1,3 +1,21 @@
+# Lehrziele
+ Gefordert sind Kenntnisse in der Identifizierung pathologischer Veränderungen des Schluckaktes in der Videokinematografie und ihrer Auswirkungen auf die Therapie. Aspiration und ihre Ursachen, Pharynxparesen, Membranstenosen (Webs) und Tumore sollen erkannt werden. 
+
+ Gefordert sind Kenntnisse und Fertigkeiten der Anwendung unterschiedlicher Kontrastmittel und Testboli bei Schluckstörungen (Brot, definierte Tabletten, etc.), um eine Dysphagie beurteilen zu können. 
+
+ Neoplasien der Speiseröhre, eine Kompression von außen, Divertikel, Fisteln, parösophageale und axiale Hiatushernien, benigne Strukturen, Oesophagusvarizen und verschiedene Formen der Ösophagitis sollen an Kontrastmittel- untersuchungen der Speiseröhre erkannt werden. 
+
+ Eine Motilitätsprüfung des Oesophagus mit Kontrastmittel soll durchgeführt werden können, wobei verschiedene Erscheinungsformen (Achalasie, Diffuser Spasmus, Sklerodermie) von Motilitätsstörungen der Speiseröhre zu kennen sind. 
+
+ Gefordert sind basale Kenntnisse chirurgischer Techniken an der Speiseröhre und Kenntnisse der postoperativen Röntgenanatomie der Speiseröhre. 
+
+ In der Computertomographie sollen ein Megaoesophagus, Ösophagusdivertikel, Hiatushernien, Ösophagusvarizen, ein Pneumomediastinum und die Zeichen der Ösophagusperforation erkannt werden. 
+
+ Es müssen die morphologischen Veränderungen des Ösophaguskarzinoms in der Computertomographie gekannt werden, wobei insbesondere Kriterien der fehlenden Resezierbarkeit und Kriterien zur Diagnose von Lymphknotenetastasen zu kennen sind.
+
+
+
+
 # Hiatushernie
 *Wenn der Magen beschließt, dass es im Thorax viel gemütlicher ist.*
 
