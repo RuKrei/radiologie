@@ -20,7 +20,7 @@ Der Erreger Pneumocystis jirovecii proliferiert in den Alveolarraeumen und fuehr
 Mehr zur Pathologie auf [Radiopaedia](https://radiopaedia.org/articles/pneumocystis-jirovecii-pneumonia).
 
 ### Zu welchen morphologischen Veraenderungen kommt es?
-Morphologisch dominiert initial eine interstitielle Verdickung, die rasch in eine intraalveolaere Exsudation uebergeht. Typisch ist das Auftreten von Milchglastruebungen. Im Verlauf koennen sich zystische Veraenderungen, sogenannte Pneumatozelen, ausbilden.
+Morphologisch dominiert initial eine interstitielle Verdickung, die rasch in eine intraalveolaere Exsudation uebergeht. Typisch ist das Auftreten von Milchglastruebungen. Im Verlauf koennen sich (in ca. 30% der Fälle) zystische Veraenderungen, sogenannte Pneumatozelen, ausbilden.
 
 ### Zu welchen Komplikationen kann es kommen?
 Eine haeufige und klinisch hochrelevante Komplikation ist die Ruptur subpleuraler Zysten beziehungsweise Pneumatozelen, welche zu einem Spontanpneumothorax fuehren kann. Ein beidseitiger Pneumothorax ist ebenfalls moeglich.
