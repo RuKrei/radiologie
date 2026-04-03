@@ -13,6 +13,10 @@ Lufthaltige Bronchien, die sich als strahlendurchlässige Strukturen innerhalb e
 - Siehe Definition.
 - Wichtiges Erkennungsmerkmal in der Thoraxdiagnostik.
 
+![[Pasted image 20260402210012.png]]
+![[Pasted image 20260402210058.png]]
+
+
 ## Ätiologie / Differentialdiagnosen
 - Pneumonie
 - Lungenödem (alveolär)
