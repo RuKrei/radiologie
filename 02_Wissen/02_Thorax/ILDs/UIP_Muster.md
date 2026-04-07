@@ -53,6 +53,9 @@ Die Veraenderungen sind klassischerweise basal und in der Peripherie der Lunge a
 Bei fortgeschrittener Erkrankung kommt es zu einem Volumenverlust der Lunge, der sich als Zwerchfellhochstand und Verkleinerung der Unterfelder darstellt.
 Ein ausgepraegtes [Honigwabenmuster](https://radiopaedia.org/articles/honeycombing) kann als grobmaschige zystische Aufhellungen in den basalen Lungenabschnitten sichtbar werden.
 
+![[Pasted image 20260407193414.png]]
+
+
 ### Was kann man nicht sehen?
 Fruehe retikulaere Veraenderungen, feine [Traktionsbronchiektasien](https://radiopaedia.org/articles/traction-bronchiectasis) und geringgradige [Milchglastruebungen](https://radiopaedia.org/articles/ground-glass-opacity) entziehen sich der Aufloesung des Roentgenthorax.
 Die exakte anatomische Zuordnung der Veraenderungen zur sekundären pulmonalen Lobulusstruktur ist nicht möglich.
@@ -70,6 +73,14 @@ Begleitend muessen retikulaere Veraenderungen vorliegen.
 [Traktionsbronchiektasien](https://radiopaedia.org/articles/traction-bronchiectasis) und Traktionsbronchiolektasien in den fibrotischen Arealen sind essenziell.
 Die Verteilung muss zwingend basal, subpleural und peripher praedominant sein, wobei eine kraniokaudale Gradiente (Zunahme der Veraenderungen nach basal) typisch ist.
 Bei einem wahrscheinlichen UIP-Muster fehlen die Waben, waehrend retikulaere Veraenderungen und Traktionsbronchiektasien im typischen Verteilungsmuster vorhanden sind.
+
+![[Pasted image 20260407193604.png]]
+![[Pasted image 20260407193623.png]]
+![[Pasted image 20260407194032.png]]
+Axial chest CT (E) and coronal reconstruction (F) shows honeycombing with subpleural and basal predominance with some mild ground glass opacity. Magnified view of the left lower lobe (G) showing typical characteristics of honeycombing, consisting of clustered cystic airspaces with well-defined walls and variable diameters, seen in single or multiple layers (arrows). Axial chest CT (H) and coronal reconstruction (I) of both lungs and magnified sagittal view of the right lower lobe (J) showing a reticular pattern with peripheral bronchiolectasis with subpleural and basal predominance. Depending on their orientation relative to the plane of the CT section, peripheral traction bronchiolectasis appear as tubular (arrows) or cystic (arrowheads) structures. Note the concurrent presence of mild ground glass attenuation in the subpleural areas of both lungs and the absence of honeycombing.
+![[Pasted image 20260407200642.png]]
+![[Pasted image 20260407200722.png]]
+![[Pasted image 20260407200857.png]]
 
 ### Was kann man nicht sehen?
 Die zeitliche und raeumliche Heterogenitaet der Fibroblasten-Foci kann im CT nicht direkt visualisiert werden, da sie eine mikroskopische Diagnose darstellt.
