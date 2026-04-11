@@ -1,4 +1,4 @@
-# Dense MCA Sign
+# [[Dense_MCA_Sign|Dense MCA Sign]]
 
 ## Definition
 Hyperdense A. cerebri media im Nativ-CT, Hinweis auf Thrombus/Embolus.
@@ -15,3 +15,7 @@ Hyperdense A. cerebri media im Nativ-CT, Hinweis auf Thrombus/Embolus.
 
 ---
 Tags: #Radiologie #Neuro #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=4LzUVFDJvHg)
+

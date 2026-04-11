@@ -27,7 +27,7 @@ Diese Tabelle bietet eine detaillierte Übersicht über das Erscheinungsbild ver
 | **Knochenmark (Gelb / Fettreich)** | Wie Fettgewebe | Negativ (Fettwerte) | N/A | **Hyperintens** | **Hyperintens** | N/A | **Signalabfall** | Intermediär | Normales Mark beim Erwachsenen. |
 | **Knochenmark (Rot / Zellreich)** | Weichteildichte | Weichteildichte (~40-60 HU) | N/A | **Intermediär / Hypointens** (dunkler als gelbes Mark) | **Intermediär / Hyperintens** (heller als Muskel) | Variabel | Hyperintens (relativ zu gelbem Mark) | Intermediär | Bei Kindern, Anämie oder Infiltration (Tumor). |
 | **Muskel** | Hellgrau | **40 - 50 HU** | **Hypoechoisch** mit pennären, echoreichen Faszien | **Intermediär** (Referenzgewebe Grau) | **Intermediär** (Grau, dunkler als Fett) | Keine Restriktion | Intermediär | Intermediär | Dient oft als interne Referenz für Signalintensitäten. |
-| **Leberparenchym** | Hellgrau | **50 - 70 HU** (Heller als Milz ohne KM) | **Isoechoisch** (Referenz zur Niere: Leber ≥ Niere) | **Hyperintens** (relativ zur Milz) | **Hypointens** (relativ zur Milz) | Keine Restriktion | Intermediär | Intermediär | Bei Steatose: Dichteabfall im CT (< 40 HU) und Signalabfall in Opposed-Phase MRT. |
+| **Leberparenchym** | Hellgrau | **50 - 70 HU** (Heller als [[Milz|Milz]] ohne KM) | **Isoechoisch** (Referenz zur Niere: Leber ≥ Niere) | **Hyperintens** (relativ zur [[Milz|Milz]]) | **Hypointens** (relativ zur [[Milz|Milz]]) | Keine Restriktion | Intermediär | Intermediär | Bei Steatose: Dichteabfall im CT (< 40 HU) und Signalabfall in Opposed-Phase MRT. |
 | **Fibrose / Narbe (alt)** | Hellgrau | Weichteildichte | Hyperechoisch (oft) | **Hypointens** | **Hypointens** | Keine Restriktion | Hypointens | Isointens | Kollagenreich, zellarm, wenig freies Wasser. |
 | **Fibrose / Narbe (aktiv/vaskularisiert)** | Hellgrau | Nimmt KM auf | Variabel | **Hypointens** | **Hyperintens** | Variabel | Hyperintens | Isointens | "T2 shine-through" möglich. Nimmt Kontrastmittel auf (Delayed Enhancement). |
 | **Hyaliner Knorpel** | Hellgrau | Weichteildichte | Hypoechoisch (glatt begrenzt) | **Intermediär / Isointens** | **Intermediär** | N/A | Intermediär | Intermediär | Strukturbeurteilung am besten in PD-w (Protonendichte) Sequenzen. |
@@ -55,6 +55,10 @@ Diese Tabelle bietet eine detaillierte Übersicht über das Erscheinungsbild ver
 *   Dient zur Detektion von **mikroskopischem Fett** (intrazellulär).
 *   **Signalabfall in Opposed-Phase** gegenüber In-Phase spricht für Fettanteil (z.B. hepatische Steatose, Nebennierenrinden-Adenom).
 *   Ein schwarzer Rand um Organe in Opposed-Phase ("India Ink Artefakt") ist normal an Fett-Wasser-Grenzflächen.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=LyCqYq5n67M)
 
 # Quellen
 

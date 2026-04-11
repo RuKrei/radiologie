@@ -15,8 +15,8 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 Selten (<1% aller Ösophagustumoren, meist asymptomatisch).
 **Leiomyom:** Häufigster benigner Tumor (ca. 70%). Ursprung glatte Muskulatur (Mesenchymal).
-Andere: Fibrovascular polyp, GIST (sehr selten im Ösophagus, meist maligne gewertet), Hämangiom, Lipom, Papillom (HPV-assoziiert).
-Klinik: Dysphagie (wenn groß), Schmerzen, Blutung (Ulzeration).
+Andere: Fibrovascular polyp, GIST (sehr selten im [[Ösophagus|Ösophagus]], meist [[Knochentumoren_2_Maligne|maligne]] gewertet), Hämangiom, Lipom, Papillom (HPV-assoziiert).
+Klinik: Dysphagie (wenn groß), Schmerzen, [[Schlaganfall_2_Blutung|Blutung]] (Ulzeration).
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -41,7 +41,7 @@ Biopsie bei Leiomyom kontraindiziert (Gefahr der Vernarbung/Perforation, erschwe
 ### Was sieht man korrelierend in dieser Methode?
 - **Leiomyom:** Homogene, hypodense bis isodense Wandverdickung/Masse. Verkalkungen möglich (DD zum Ca!). Keine Infiltration.
 - **Lipom:** Fettäquivalente Dichte (-50 bis -100 HU).
-- **GIST:** Heterogenes Enhancement, evtl. zentrale Nekrose/Blutung (selten).
+- **GIST:** Heterogenes Enhancement, evtl. zentrale Nekrose/[[Schlaganfall_2_Blutung|Blutung]] (selten).
 
 ## Endosonografie (EUS)
 ### Was sieht man korrelierend in dieser Methode?
@@ -60,6 +60,10 @@ Therapie:
 - Klein/asymptomatisch: Verlaufskontrolle.
 - Groß/symptomatisch: Chirurgische Enukleation (VATS/Thoraskopie) oder endoskopische Resektion.
 - Fibrovaskuläre Polypen: Resektion (Erstickungsgefahr!).
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Mp2j1Dkq-lM)
 
 # Quellen
 - [Oesophageal leiomyoma](https://radiopaedia.org/articles/oesophageal-leiomyoma)

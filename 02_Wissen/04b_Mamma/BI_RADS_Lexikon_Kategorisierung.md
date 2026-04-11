@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=ZM9631KDzvY)
+
 # Quellen
 
 - [Radiopaedia Suche: BI RADS Lexikon Kategorisierung](https://radiopaedia.org/search?q=bi+rads+lexikon+kategorisierung)

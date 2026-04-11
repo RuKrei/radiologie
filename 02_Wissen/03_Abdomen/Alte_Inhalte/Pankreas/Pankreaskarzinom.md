@@ -3,7 +3,7 @@ date: 2025-12-16
 tags:
   - review
   - GI
-  - maligne
+  - [[Knochentumoren_2_Maligne|maligne]]
   - radiologie
   - pankreas
 ---
@@ -21,7 +21,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Das duktale Adenokarzinom ist der häufigste maligne Tumor des Pankreas und macht etwa 80 bis 95 Prozent aller exokrinen Pankreastumoren aus,,. Die Erkrankung tritt vorwiegend im höheren Lebensalter auf mit einem Häufigkeitsgipfel zwischen dem 60. und 80. Lebensjahr und ist bei Patienten unter 40 Jahren selten,. Männer sind etwas häufiger betroffen als Frauen,. Zu den Risikofaktoren zählen Rauchen, Adipositas, Diabetes mellitus, chronische Pankreatitis sowie genetische Prädispositionen wie hereditäre Pankreatitis oder das Peutz-Jeghers-Syndrom,,. Klinische Symptome treten oft erst spät auf und umfassen schmerzlosen Ikterus (bei Tumoren im Pankreaskopf), Oberbauch- oder Rückenschmerzen, Appetitlosigkeit, Gewichtsverlust und neu aufgetretenen Diabetes mellitus,,,.
+Das duktale Adenokarzinom ist der häufigste [[Knochentumoren_2_Maligne|maligne]] Tumor des Pankreas und macht etwa 80 bis 95 Prozent aller exokrinen Pankreastumoren aus,,. Die Erkrankung tritt vorwiegend im höheren Lebensalter auf mit einem Häufigkeitsgipfel zwischen dem 60. und 80. Lebensjahr und ist bei Patienten unter 40 Jahren selten,. Männer sind etwas häufiger betroffen als Frauen,. Zu den Risikofaktoren zählen Rauchen, Adipositas, Diabetes mellitus, [[Chronische Pankreatitis|chronische Pankreatitis]] sowie genetische Prädispositionen wie hereditäre Pankreatitis oder das Peutz-Jeghers-Syndrom,,. Klinische Symptome treten oft erst spät auf und umfassen schmerzlosen Ikterus (bei [[Pankreas_2_Tumoren|Tumoren]] im Pankreaskopf), Oberbauch- oder Rückenschmerzen, Appetitlosigkeit, Gewichtsverlust und neu aufgetretenen Diabetes mellitus,,,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -41,15 +41,15 @@ Das duktale Adenokarzinom ist der häufigste maligne Tumor des Pankreas und mach
 ## Sonografie
  
 ### Was sieht man korrelierend in dieser Methode?
- Der Tumor stellt sich meist als echoarme, unscharf begrenzte Raumforderung dar,. Indirekte Zeichen wie die Erweiterung des Gallen- und Pankreasgangs (Double-Duct) sind oft gut zu erkennen. Lebermetastasen können ebenfalls detektiert werden.
+ Der Tumor stellt sich meist als echoarme, unscharf begrenzte Raumforderung dar,. Indirekte Zeichen wie die Erweiterung des Gallen- und Pankreasgangs (Double-Duct) sind oft gut zu erkennen. [[Lebermetastasen|Lebermetastasen]] können ebenfalls detektiert werden.
 
 
 ### Was kann man nicht sehen?
- Kleine Tumoren können insbesondere bei Gasüberlagerung durch Magen und Darm oder bei Adipositas der sonografischen Detektion entgehen. Die Beurteilung der Gefäßinfiltration ist im Vergleich zur CT oder MRT oft eingeschränkt.
+ Kleine [[Pankreas_2_Tumoren|Tumoren]] können insbesondere bei Gasüberlagerung durch Magen und Darm oder bei Adipositas der sonografischen Detektion entgehen. Die Beurteilung der Gefäßinfiltration ist im Vergleich zur CT oder MRT oft eingeschränkt.
 
 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Kleine Tumoren ohne Gangobstruktion oder Tumoren im Pankreasschwanz sind sonografisch schwer zu erfassen. Die Endosonografie ist hier sensitiver und ermöglicht zudem die Feinnadelpunktion zur histologischen Sicherung,.
+ Kleine [[Pankreas_2_Tumoren|Tumoren]] ohne Gangobstruktion oder Tumoren im Pankreasschwanz sind sonografisch schwer zu erfassen. Die Endosonografie ist hier sensitiver und ermöglicht zudem die Feinnadelpunktion zur histologischen Sicherung,.
 
 ## Röntgen
  
@@ -67,7 +67,7 @@ Das duktale Adenokarzinom ist der häufigste maligne Tumor des Pankreas und mach
 ## CT
  
 ### Was sieht man korrelierend in dieser Methode?
- Die kontrastmittelverstärkte Multidetektor-CT ist die Methode der Wahl für Diagnostik und Staging,. Das Pankreaskarzinom ist typischerweise hypovaskulär und stellt sich in der arteriellen/pankreatischen Phase als hypodense (dunkle) Läsion im Vergleich zum kräftig anreichernden normalen Pankreasparenchym dar,. In der portalvenösen Phase kann der Dichteunterschied geringer sein. Indirekte Zeichen wie das Double-Duct-Sign, der abrupte Gangabbruch und die distale Parenchymatrophie sind gut beurteilbar,.
+ Die kontrastmittelverstärkte Multidetektor-CT ist die Methode der Wahl für Diagnostik und Staging,. Das [[Pankreaskarzinom|Pankreaskarzinom]] ist typischerweise hypovaskulär und stellt sich in der arteriellen/pankreatischen Phase als hypodense (dunkle) Läsion im Vergleich zum kräftig anreichernden normalen Pankreasparenchym dar,. In der portalvenösen Phase kann der Dichteunterschied geringer sein. Indirekte Zeichen wie das Double-Duct-Sign, der abrupte Gangabbruch und die distale Parenchymatrophie sind gut beurteilbar,.
 
 
 ### Was kann man nicht sehen?
@@ -75,7 +75,7 @@ Das duktale Adenokarzinom ist der häufigste maligne Tumor des Pankreas und mach
 
 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Die Beurteilung der Gefäßinfiltration (Truncus coeliacus, A. mesenterica superior, V. mesenterica superior, Pfortader) ist entscheidend für die Resektabilität,. Ein Kontakt von mehr als 180 Grad zum Gefäßumfang (Encasement) gilt meist als irresektabel,. Kleine Lebermetastasen oder eine Peritonealkarzinose können der CT entgehen.
+ Die Beurteilung der Gefäßinfiltration (Truncus coeliacus, A. mesenterica superior, V. mesenterica superior, Pfortader) ist entscheidend für die Resektabilität,. Ein Kontakt von mehr als 180 Grad zum Gefäßumfang (Encasement) gilt meist als irresektabel,. Kleine [[Lebermetastasen|Lebermetastasen]] oder eine Peritonealkarzinose können der CT entgehen.
 
 ## MRT
  
@@ -88,14 +88,14 @@ Das duktale Adenokarzinom ist der häufigste maligne Tumor des Pankreas und mach
 
 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Die diffusionsgewichtete Bildgebung (DWI) zeigt oft eine Diffusionsrestriktion im Tumor und kann helfen, isointense Tumoren zu erkennen oder zwischen Tumor und entzündlichen Veränderungen (z. B. bei Autoimmunpankreatitis) zu differenzieren, wobei Karzinome tendenziell niedrigere ADC-Werte aufweisen,. Die MRT ist sensitiver als die CT für den Nachweis kleiner Lebermetastasen.
+ Die diffusionsgewichtete Bildgebung (DWI) zeigt oft eine Diffusionsrestriktion im Tumor und kann helfen, isointense Tumoren zu erkennen oder zwischen Tumor und entzündlichen Veränderungen (z. B. bei [[Autoimmunpankreatitis|Autoimmunpankreatitis]]) zu differenzieren, wobei Karzinome tendenziell niedrigere ADC-Werte aufweisen,. Die MRT ist sensitiver als die CT für den Nachweis kleiner [[Lebermetastasen|Lebermetastasen]].
 
 # Differenzialdiagnosen
 
 
-Fokale chronische Pankreatitis: Kann als Pseudotumor imponieren. Das Duct-penetrating Sign (Gang zieht durch die Masse) spricht für Entzündung, ein abrupter Gangabbruch eher für Karzinom. Fehlende Gefäßinfiltration und vorhandene Verkalkungen sprechen ebenfalls eher für Pankreatitis,.
+Fokale [[Chronische Pankreatitis|chronische Pankreatitis]]: Kann als Pseudotumor imponieren. Das Duct-penetrating Sign (Gang zieht durch die Masse) spricht für Entzündung, ein abrupter Gangabbruch eher für Karzinom. Fehlende Gefäßinfiltration und vorhandene Verkalkungen sprechen ebenfalls eher für Pankreatitis,.
 
-Autoimmunpankreatitis (fokal): Zeigt oft keine ausgeprägte Gangdilatation proximal der Stenose, kann eine kapselartige Randsaumzeichnung haben und spricht auf Steroide an,,. In der DWI können die ADC-Werte niedriger sein als bei normalem Gewebe, aber oft höher als bei Karzinomen, wobei Überlappungen bestehen.
+[[Autoimmunpankreatitis|Autoimmunpankreatitis]] (fokal): Zeigt oft keine ausgeprägte Gangdilatation proximal der Stenose, kann eine kapselartige Randsaumzeichnung haben und spricht auf Steroide an,,. In der DWI können die ADC-Werte niedriger sein als bei normalem Gewebe, aber oft höher als bei Karzinomen, wobei Überlappungen bestehen.
 
 Neuroendokrine Tumoren (PNET): Sind typischerweise hypervaskulär und zeigen eine kräftige arterielle Kontrastmittelanreicherung, im Gegensatz zum hypovaskulären Adenokarzinom,,.
 
@@ -107,6 +107,10 @@ Lymphom: Zeigt oft eine homogene, hypovaskuläre Masse, seltener Gangobstruktion
 
 
 Das Tumorstaging erfolgt nach der TNM-Klassifikation. Die einzige kurative Therapieoption ist die chirurgische Resektion (z. B. Kausch-Whipple-Operation, Pankreaslinksresektion) in Kombination mit adjuvanter Chemotherapie,. Nur etwa 15 bis 20 Prozent der Patienten sind bei Diagnosestellung primär resektabel,. Bei lokal fortgeschrittenen oder metastasierten Tumoren kommen palliative Chemotherapien (z. B. Gemcitabin, FOLFIRINOX) zum Einsatz. Die FDG-PET/CT kann beim Staging hilfreich sein, um okkulte Fernmetastasen zu detektieren oder Rezidive zu erkennen, gehört aber nicht zur Standard-Primärdiagnostik,,.
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=f-yaMXpIKeU)
+
 # Quellen
 
 - [Radiopaedia Suche: Pankreaskarzinom](https://radiopaedia.org/search?q=pankreaskarzinom)

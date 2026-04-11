@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=IBqoGGijW6A)
+
 # Quellen
 
 - [Radiopaedia Suche: Arthritis 2 Kristallarthropathien Degenerativ](https://radiopaedia.org/search?q=arthritis+2+kristallarthropathien+degenerativ)

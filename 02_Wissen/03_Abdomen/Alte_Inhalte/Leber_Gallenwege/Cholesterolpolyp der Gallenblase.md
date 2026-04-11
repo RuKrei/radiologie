@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Der Cholesterolpolyp ist eine polypöse, nicht neoplastische und nicht entzündliche Veränderung der Gallenblasenwand. Er setzt sich aus cholesterinhaltigen Makrophagen zusammen, die von einem normalen Epithel überzogen sind. Es besteht keine maligne Potenz und sie sind nur selten mit Gallensteinen assoziiert. Mit einer Prävalenz von 1 bis 4 Prozent sind sie die häufigste polypöse Veränderung der Gallenblasenwand und machen 60 bis 90 Prozent aller Polypen der Gallenblase aus. Der Altersgipfel liegt zwischen 40 und 50 Jahren, wobei Männer etwas häufiger betroffen sind als Frauen. Klinisch sind die Patienten meist symptomlos.
+Der Cholesterolpolyp ist eine polypöse, nicht neoplastische und nicht entzündliche Veränderung der Gallenblasenwand. Er setzt sich aus cholesterinhaltigen Makrophagen zusammen, die von einem normalen Epithel überzogen sind. Es besteht keine [[Knochentumoren_2_Maligne|maligne]] Potenz und sie sind nur selten mit Gallensteinen assoziiert. Mit einer Prävalenz von 1 bis 4 Prozent sind sie die häufigste polypöse Veränderung der Gallenblasenwand und machen 60 bis 90 Prozent aller Polypen der Gallenblase aus. Der Altersgipfel liegt zwischen 40 und 50 Jahren, wobei Männer etwas häufiger betroffen sind als Frauen. Klinisch sind die Patienten meist symptomlos.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -76,6 +76,10 @@ Lipom der Gallenblasenwand: Dieses zeigt sich in der Sonografie als sehr echorei
 
 
 Ein typischer Fehler ist die Fehldiagnose als Adenom mit der Konsequenz einer Cholezystektomie. Für den zuweisenden Kollegen ist die Abgrenzung von Gallenblasensteinen und Gallenblasenadenomen wichtig.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=oxR_3GAkQ6M)
 
 # Quellen
 

@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=pRY27OLFlZQ)
+
 # Quellen
 
 - [Radiopaedia Suche: Integration MSK Tumor Rheuma](https://radiopaedia.org/search?q=integration+msk+tumor+rheuma)

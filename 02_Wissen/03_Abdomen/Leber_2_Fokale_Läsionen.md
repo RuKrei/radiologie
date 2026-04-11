@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=eRAsWxW6Klg)
+
 # Quellen
 
 - [Radiopaedia Suche: Leber 2 Fokale Läsionen](https://radiopaedia.org/search?q=liver+2+fokale+läsionen)

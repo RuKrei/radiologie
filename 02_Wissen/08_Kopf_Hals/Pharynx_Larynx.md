@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=s7_skaCUhNI)
+
 # Quellen
 
 - [Radiopaedia Suche: Pharynx Larynx](https://radiopaedia.org/search?q=pharynx+larynx)

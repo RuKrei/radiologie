@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=moS3XulZ7Ug)
+
 # Quellen
 
 - [Radiopaedia Suche: Skelett Peds](https://radiopaedia.org/search?q=skelett+peds)

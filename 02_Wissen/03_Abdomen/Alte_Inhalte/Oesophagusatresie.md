@@ -27,7 +27,7 @@ Klassifikation nach **Vogt** (oder Gross):
 - **Typ II (Vogt II):** Atresie mit oberer Fistel (selten, <1%). Oberer Blindsack -> Trachea. Aspirationsgefahr extrem hoch!
 - **Typ IIIb (Vogt IIIb):** Atresie mit unterer Fistel (ca. 85-90%, häufigster Typ!). Oberer Blindsack endet blind, distales Segment entspringt aus Trachea (Carina-Nähe). -> Luft im Magen!
 - **Typ IIIa (Vogt IIIa):** Atresie mit Fisteln oben und unten (selten).
-- **H-Fistel (Vogt IV):** Keine Atresie (kontinuierlicher Ösophagus), aber fistulöse Verbindung zur Trachea (H-Form). Oft spät diagnostiziert (rezidivierende Pneumonien).
+- **H-Fistel (Vogt IV):** Keine Atresie (kontinuierlicher [[Ösophagus|Ösophagus]]), aber fistulöse Verbindung zur Trachea (H-Form). Oft spät diagnostiziert (rezidivierende Pneumonien).
 
 ### Zu welchen morphologischen Veränderungen kommt es?
 Dilatierter oberer Blindsack (gefüllt mit Luft/Sekret). Distal kollabierter oder luftgefüllter Magen (je nach Fistel).
@@ -35,9 +35,9 @@ Dilatierter oberer Blindsack (gefüllt mit Luft/Sekret). Distal kollabierter ode
 ## Röntgen
 ### Was sieht man korrelierend in dieser Methode?
 Thorax/Abdomen ("Babygramm"):
-- **Sondierung:** Magensonde (NGT) lässt sich nicht vorschieben, rollt sich im oberen Mediastinum (Blindsack) auf (bei Th2-Th4).
+- **Sondierung:** Magensonde (NGT) lässt sich nicht vorschieben, rollt sich im oberen [[Mediastinum|Mediastinum]] (Blindsack) auf (bei Th2-Th4).
 - **Luft im Magen/Darm?**
-  - Ja -> Fistel zum distalen Ösophagus (Typ IIIb).
+  - Ja -> Fistel zum distalen [[Ösophagus|Ösophagus]] (Typ IIIb).
   - Nein -> Keine distale Fistel (Typ I oder II). "Weißes Abdomen".
 - Wirbelkörperanomalien? (VACTERL -> Halbwirbel etc.).
 - Herzgröße? (VACTERL -> Vitien).
@@ -67,6 +67,10 @@ Therapie:
 - Präoperativ: Oberkörperhochlagerung, ständiges Absaugen des Blindsacks (Replogle-Sonde), Nulldiät, Antibiotika.
 - Operativ: Ligatur der Fistel + End-zu-End-Anastomose der Ösophagusstümpfe (primär oder zweizeitig bei "Long gap").
 - Komplikationen post-OP: Anastomoseninsuffizienz (Leckage), Stenose (Ballondilatation), Rezidivfistel, Tracheomalazie, GERD (fast alle Patienten haben später Reflux!).
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=oJJObVlDJ-k)
 
 # Quellen
 - [Oesophageal atresia](https://radiopaedia.org/articles/oesophageal-atresia)

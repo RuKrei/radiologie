@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=9L-Sj6HaB4Y)
+
 # Quellen
 
 - [Radiopaedia Suche: Ovarien](https://radiopaedia.org/search?q=ovarien)

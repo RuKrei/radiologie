@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=jxgBccY1AiM)
+
 # Quellen
 
 - [Radiopaedia Suche: Niere 3 Vaskulär Transplantat Trauma](https://radiopaedia.org/search?q=kidney+3+vaskulär+transplantat+trauma)

@@ -28,6 +28,10 @@ Tags:
 ![[Pasted image 20251227153852.png]]
 
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=oTYjm2HO5Zo)
+
 # Quellen
 
 - [Radiopaedia Suche: Humerusfraktur](https://radiopaedia.org/search?q=humerusfraktur)

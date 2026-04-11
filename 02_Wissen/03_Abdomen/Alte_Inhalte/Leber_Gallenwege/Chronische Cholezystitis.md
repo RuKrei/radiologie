@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Die chronische Cholezystitis ist durch eine Verdickung der Gallenblasenwand infolge einer Fibrose sowie eine Verminderung der Kontraktilität gekennzeichnet, was in über 80 Prozent der Fälle mit dem Vorhandensein von Gallenblasensteinen assoziiert ist. Zu den Sonderformen zählen die Porzellangallenblase, die eine teilweise oder komplette Verkalkung der Wand aufweist und als Maximalvariante der chronischen Entzündung gilt, sowie die xanthogranulomatöse Cholezystitis, die durch eine granulomatöse Entzündungsreaktion mit Ansammlung von Schaumzellen und ausgeprägter Fibrose charakterisiert ist. Die Häufigkeit der Erkrankung korreliert mit der Inzidenz von Gallensteinen, wobei Frauen deutlich häufiger betroffen sind als Männer und die Prävalenz mit dem Alter zunimmt. Klinisch präsentiert sich die Erkrankung häufig mit dem Bild einer rezidivierenden Cholezystitis mit rechtsseitigen Oberbauchschmerzen, Koliken und Fieber, kann jedoch auch symptomlos verlaufen, was insbesondere auf die Porzellangallenblase zutrifft,. Die xanthogranulomatöse Cholezystitis geht meist mit rechtsseitigen Oberbauchschmerzen und Fieber einher.
+Die [[Chronische Cholezystitis|chronische Cholezystitis]] ist durch eine Verdickung der Gallenblasenwand infolge einer Fibrose sowie eine Verminderung der Kontraktilität gekennzeichnet, was in über 80 Prozent der Fälle mit dem Vorhandensein von Gallenblasensteinen assoziiert ist. Zu den Sonderformen zählen die Porzellangallenblase, die eine teilweise oder komplette Verkalkung der Wand aufweist und als Maximalvariante der chronischen Entzündung gilt, sowie die xanthogranulomatöse Cholezystitis, die durch eine granulomatöse Entzündungsreaktion mit Ansammlung von Schaumzellen und ausgeprägter Fibrose charakterisiert ist. Die Häufigkeit der Erkrankung korreliert mit der Inzidenz von Gallensteinen, wobei Frauen deutlich häufiger betroffen sind als Männer und die Prävalenz mit dem Alter zunimmt. Klinisch präsentiert sich die Erkrankung häufig mit dem Bild einer rezidivierenden Cholezystitis mit rechtsseitigen Oberbauchschmerzen, Koliken und Fieber, kann jedoch auch symptomlos verlaufen, was insbesondere auf die Porzellangallenblase zutrifft,. Die xanthogranulomatöse Cholezystitis geht meist mit rechtsseitigen Oberbauchschmerzen und Fieber einher.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -67,14 +67,14 @@ Die chronische Cholezystitis ist durch eine Verdickung der Gallenblasenwand info
 ### Was kann man nicht sehen?
  Verkalkungen sind in der MRT schlechter zu erkennen als im CT. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Die diffusionsgewichtete Bildgebung (DWI) kann bei der Porzellangallenblase hilfreich sein, um eine maligne Entartung zu erkennen.
+ Die diffusionsgewichtete Bildgebung (DWI) kann bei der Porzellangallenblase hilfreich sein, um eine [[Knochentumoren_2_Maligne|maligne]] Entartung zu erkennen.
 
 # Differenzialdiagnosen
 
 
-Akute Cholezystitis: Diese zeigt ein Murphy-Zeichen (Schmerz bei Druck mit dem Schallkopf), eine vermehrt durchblutete Wand sowie Flüssigkeit oder ein Ödem um die Gallenblase.
+[[Akute Cholezystitis|Akute Cholezystitis]]: Diese zeigt ein Murphy-Zeichen (Schmerz bei Druck mit dem Schallkopf), eine vermehrt durchblutete Wand sowie Flüssigkeit oder ein Ödem um die Gallenblase.
 
-Gallenblasenkarzinom: Weist meist eine irreguläre Verdickung der Wand auf und zeigt bei großen Tumoren oft nur eine periphere Kontrastierung; häufig liegen Lebermetastasen vor.
+[[Gallenblasenkarzinom|Gallenblasenkarzinom]]: Weist meist eine irreguläre Verdickung der Wand auf und zeigt bei großen [[Pankreas_2_Tumoren|Tumoren]] oft nur eine periphere Kontrastierung; häufig liegen [[Lebermetastasen|Lebermetastasen]] vor.
 
 Adenomyomatose: Zeigt glatte Außenkonturen der Gallenblase und intramurale Divertikel (Rokitansky-Aschoff-Sinus), oft ist der Befall nur segmental.
 
@@ -83,7 +83,11 @@ Akute Hepatitis: Führt klinisch und laborchemisch zu typischen Hepatitiszeichen
 # Alles andere
 
 
-In der FDG-PET können entzündliche Veränderungen, insbesondere bei der xanthogranulomatösen Cholezystitis, zu falsch-positiven Resultaten führen. Ein typischer Fehler in der Diagnostik ist das Nichterkennen einer malignen Entartung. Für den Zuweiser sind Zeichen einer akuten Entzündung, Komplikationen wie Abszesse oder Fisteln sowie Hinweise auf eine maligne Entartung relevant.
+In der FDG-PET können entzündliche Veränderungen, insbesondere bei der xanthogranulomatösen Cholezystitis, zu falsch-positiven Resultaten führen. Ein typischer Fehler in der Diagnostik ist das Nichterkennen einer malignen Entartung. Für den Zuweiser sind Zeichen einer akuten Entzündung, Komplikationen wie Abszesse oder Fisteln sowie Hinweise auf eine [[Knochentumoren_2_Maligne|maligne]] Entartung relevant.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=_KOy7dD_zvU)
 
 # Quellen
 

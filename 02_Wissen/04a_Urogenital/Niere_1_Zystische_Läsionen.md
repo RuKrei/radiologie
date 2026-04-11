@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=smObkY2Lato)
+
 # Quellen
 
 - [Radiopaedia Suche: Niere 1 Zystische Läsionen](https://radiopaedia.org/search?q=kidney+1+zystische+läsionen)

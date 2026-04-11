@@ -21,14 +21,14 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Adenomatöse Kolonpolypen sind Vorwölbungen der Kolonschleimhaut in das Darmlumen, die eine potenzielle Vorstufe des kolorektalen Karzinoms darstellen. Etwa 90 Prozent der kolorektalen Karzinome entwickeln sich über die sogenannte Adenom-Karzinom-Sequenz aus diesen Adenomen,. Die Prävalenz von Kolonpolypen in der Bevölkerung liegt bei etwa 10 Prozent und steigt mit dem Alter deutlich an, sodass sie bei über 60-Jährigen bei etwa 30 Prozent liegt,. Histologisch werden tubuläre Adenome (am häufigsten mit ca. 80 bis 87 Prozent), tubulovillöse Adenome und villöse Adenome unterschieden, wobei der villöse Typ das höchste Entartungsrisiko birgt,. Zu den prädisponierenden Faktoren zählen genetische Belastungen wie bei der familiären adenomatösen Polyposis (FAP) oder dem Lynch-Syndrom,,. Zudem spielen Lebensstilfaktoren wie faserarme, fleisch- und fettreiche Ernährung sowie geringe körperliche Aktivität eine Rolle,. Klinisch bleiben diese Polypen meist symptomlos, wobei okkultes oder sichtbares Blut im Stuhl ein Frühzeichen für eine maligne Transformation sein kann.
+Adenomatöse Kolonpolypen sind Vorwölbungen der Kolonschleimhaut in das Darmlumen, die eine potenzielle Vorstufe des kolorektalen Karzinoms darstellen. Etwa 90 Prozent der kolorektalen Karzinome entwickeln sich über die sogenannte Adenom-Karzinom-Sequenz aus diesen Adenomen,. Die Prävalenz von Kolonpolypen in der Bevölkerung liegt bei etwa 10 Prozent und steigt mit dem Alter deutlich an, sodass sie bei über 60-Jährigen bei etwa 30 Prozent liegt,. Histologisch werden tubuläre Adenome (am häufigsten mit ca. 80 bis 87 Prozent), tubulovillöse Adenome und villöse Adenome unterschieden, wobei der villöse Typ das höchste Entartungsrisiko birgt,. Zu den prädisponierenden Faktoren zählen genetische Belastungen wie bei der familiären adenomatösen Polyposis (FAP) oder dem Lynch-Syndrom,,. Zudem spielen Lebensstilfaktoren wie faserarme, fleisch- und fettreiche Ernährung sowie geringe körperliche Aktivität eine Rolle,. Klinisch bleiben diese Polypen meist symptomlos, wobei okkultes oder sichtbares Blut im Stuhl ein Frühzeichen für eine [[Knochentumoren_2_Maligne|maligne]] Transformation sein kann.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
 ## Allgemeines (auf alle Methoden anwendbar)
  
 ### Zu welchen pathologischen Veränderungen kommt es?
- Es handelt sich um polypöse Schleimhautveränderungen, die entweder gestielt (pedunkuliert) oder breitbasig (sessil) aufsitzen,. Sessile Polypen gelten als gefährlicher, da maligne Zellen schneller die Darmwand erreichen können. Die Darmwand ist an der Basis des Polypen in der Regel normal dick. 
+ Es handelt sich um polypöse Schleimhautveränderungen, die entweder gestielt (pedunkuliert) oder breitbasig (sessil) aufsitzen,. Sessile Polypen gelten als gefährlicher, da [[Knochentumoren_2_Maligne|maligne]] Zellen schneller die Darmwand erreichen können. Die Darmwand ist an der Basis des Polypen in der Regel normal dick. 
 ### Zu welchen morphologischen Veränderungen kommt es?
  Die Größe ist ein entscheidender Risikofaktor: Polypen unter 5 mm (diminutive Polypen) haben ein sehr geringes Malignitätsrisiko, während Polypen zwischen 1 und 2 cm ein Risiko von etwa 10 Prozent und solche über 2 cm ein Risiko von 30 bis 40 Prozent tragen,. Eine Sonderform sind flächige, teppichartige Läsionen (Carpet lesions), die häufig villösen Adenomen entsprechen und vorwiegend im Zäkum oder Rektum auftreten. 
 ### Zu welchen Komplikationen kann es kommen?
@@ -61,7 +61,7 @@ Adenomatöse Kolonpolypen sind Vorwölbungen der Kolonschleimhaut in das Darmlum
 
 Hyperplastische Polypen: Sind meist kleiner als 1 cm und nehmen in der MRT kein Kontrastmittel auf.
 
-Entzündliche Pseudopolypen: Treten im Rahmen chronisch entzündlicher Darmerkrankungen (wie Colitis ulcerosa) auf und stellen verbliebene Schleimhautinseln nach Ulzerationen dar,.
+Entzündliche Pseudopolypen: Treten im Rahmen chronisch entzündlicher Darmerkrankungen (wie [[Colitis ulcerosa|Colitis ulcerosa]]) auf und stellen verbliebene Schleimhautinseln nach Ulzerationen dar,.
 
 Stuhlreste: Enthalten oft Lufteinschlüsse, ändern ihre Position bei Umlagerung des Patienten und nehmen kein Kontrastmittel auf,.
 
@@ -73,6 +73,10 @@ Lipome: Weisen in der CT fettäquivalente Dichtewerte auf.
 
 
 Eine wichtige Sonderform sind die serratierten Polypen, die häufig flach wachsen und ein relativ hohes Entartungsrisiko von 15 bis 30 Prozent aufweisen. Ein häufiger Fehler in der virtuellen Kolografie (CT oder MRT) ist eine unzureichende Darmreinigung oder schlechte Distension des Darms mit Luft oder CO2, was die Beurteilung erschwert. Wenn ein Polyp entdeckt wird, besteht ein Risiko von etwa 25 Prozent, dass ein weiterer Polyp vorhanden ist. Die klinische Relevanzschwelle für den Nachweis liegt in der gastroenterologischen Literatur oft bei 1 cm, in der radiologischen Literatur ab 6 mm.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=2vCI9uiWBSA)
 
 # Quellen
 

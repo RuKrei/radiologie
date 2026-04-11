@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=KSoTsk7x16M)
+
 # Quellen
 
 - [Radiopaedia Suche: Weichteiltumoren](https://radiopaedia.org/search?q=weichteiltumoren)

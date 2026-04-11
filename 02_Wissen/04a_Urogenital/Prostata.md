@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=40EYyizdb8c)
+
 # Quellen
 
 - [Radiopaedia Suche: Prostata](https://radiopaedia.org/search?q=prostata)

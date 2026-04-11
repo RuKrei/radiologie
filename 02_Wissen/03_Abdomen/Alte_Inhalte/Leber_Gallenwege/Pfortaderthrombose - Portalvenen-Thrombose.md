@@ -21,7 +21,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Die Portalvenenthrombose ist eine akute oder chronische Thrombose des Pfortadersystems, die komplett oder partiell auftreten kann. Das Lebenszeitrisiko in der normalen Bevölkerung liegt bei 1 Prozent, während die Prävalenz bei Patienten mit kompensierter Lebererkrankung zwischen 0,6 und 16 Prozent liegt und bei Patienten mit Leberzirrhose und hepatozellulärem Karzinom auf bis zu 44 Prozent ansteigt. Zu den lokalen prädisponierenden Faktoren zählen Tumoren in der Region der Pfortader, Leberzirrhose, abdominelle Entzündungen wie Pankreatitis, Cholezystitis oder Divertikulitis sowie Verletzungen durch Trauma oder Operationen. Allgemeine Risikofaktoren umfassen Gerinnungsstörungen, myeloproliferative Erkrankungen sowie orale Kontrazeptiva und Schwangerschaft. Klinisch präsentiert sich die akute Form mit plötzlich einsetzenden Bauch- oder Rückenschmerzen, Fieber und CRP-Erhöhung, während die Leberwerte meist nicht erhöht sind. Die chronische Form verläuft oft asymptomatisch oder äußert sich durch Zeichen der portalen Hypertension wie Aszites, Splenomegalie und Varizenblutungen. Die Mortalität der akuten Form liegt bei etwa 10 Prozent,,,.
+Die Portalvenenthrombose ist eine akute oder chronische Thrombose des Pfortadersystems, die komplett oder partiell auftreten kann. Das Lebenszeitrisiko in der normalen Bevölkerung liegt bei 1 Prozent, während die Prävalenz bei Patienten mit kompensierter Lebererkrankung zwischen 0,6 und 16 Prozent liegt und bei Patienten mit [[Leberzirrhose|Leberzirrhose]] und hepatozellulärem Karzinom auf bis zu 44 Prozent ansteigt. Zu den lokalen prädisponierenden Faktoren zählen [[Pankreas_2_Tumoren|Tumoren]] in der Region der Pfortader, [[Leberzirrhose|Leberzirrhose]], abdominelle [[Pankreas_1_Entzündungen|Entzündungen]] wie Pankreatitis, Cholezystitis oder Divertikulitis sowie Verletzungen durch Trauma oder Operationen. Allgemeine Risikofaktoren umfassen Gerinnungsstörungen, myeloproliferative Erkrankungen sowie orale Kontrazeptiva und Schwangerschaft. Klinisch präsentiert sich die akute Form mit plötzlich einsetzenden Bauch- oder Rückenschmerzen, Fieber und CRP-Erhöhung, während die Leberwerte meist nicht erhöht sind. Die chronische Form verläuft oft asymptomatisch oder äußert sich durch Zeichen der portalen Hypertension wie Aszites, Splenomegalie und Varizenblutungen. Die Mortalität der akuten Form liegt bei etwa 10 Prozent,,,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -32,7 +32,7 @@ Die Portalvenenthrombose ist eine akute oder chronische Thrombose des Pfortaders
 ### Zu welchen morphologischen Veränderungen kommt es?
  Bei einem malignen Thrombus (z. B. durch ein HCC) ist die Pfortader oft auf über 23 mm erweitert. Chronische Thrombosen führen zu einer Schrumpfung des Gefäßes und Ausbildung von Kollateralen. 
 ### Zu welchen Komplikationen kann es kommen?
- Mögliche Komplikationen sind eine intestinale Ischämie bei Ausbreitung in die Mesenterialvenen sowie die Folgen einer portalen Hypertension wie Varizenblutungen,.
+ Mögliche Komplikationen sind eine intestinale [[Schlaganfall_1_Ischämie|Ischämie]] bei Ausbreitung in die Mesenterialvenen sowie die Folgen einer portalen Hypertension wie Varizenblutungen,.
 
 ## Sonografie
  
@@ -50,7 +50,7 @@ Die Portalvenenthrombose ist eine akute oder chronische Thrombose des Pfortaders
 ### Was kann man nicht sehen?
  Das Gefäßsystem ist nicht beurteilbar. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Indirekte Zeichen wie Ileus bei Mesenterialischämie können sichtbar sein, sind aber unspezifisch.
+ Indirekte Zeichen wie [[Ileus|Ileus]] bei Mesenterialischämie können sichtbar sein, sind aber unspezifisch.
 
 ## CT
  
@@ -75,12 +75,16 @@ Die Portalvenenthrombose ist eine akute oder chronische Thrombose des Pfortaders
 
 Tumoreinbruch in das Pfortadersystem: Hierbei liegt ein Tumor (HCC, CCC oder Metastase) im Lebergewebe vor. Der Tumorthrombus nimmt im Gegensatz zum blanden Thrombus Kontrastmittel auf, weitet das Gefäß oft stärker auf und zeigt im Doppler arterielle Flussmuster,.
 
-Flussphänomene (Pseudothrombose): Diese treten meist in der arteriellen Phase auf und gleichen sich in der portalvenösen Phase aus. Sie entstehen durch ungleiche Kontrastierung des Blutes aus Milz- und Mesenterialvenen,.
+Flussphänomene (Pseudothrombose): Diese treten meist in der arteriellen Phase auf und gleichen sich in der portalvenösen Phase aus. Sie entstehen durch ungleiche Kontrastierung des Blutes aus [[Milz|Milz]]- und Mesenterialvenen,.
 
 # Alles andere
 
 
 Ein typischer Fehler ist die Verwechslung einer Tumorinfiltration mit einem benignen Thrombus oder die Fehlinterpretation eines Flussphänomens als Thrombose. Für den zuweisenden Kollegen sind die Ausdehnung der Thrombose (insbesondere eine Beteiligung der Mesenterialvenen wegen der Gefahr eines Darminfarkts) und die Ursache relevant. Therapeutisch kommen bei akuten Formen Antikoagulation und bei chronischen Formen Maßnahmen zur Senkung des Pfortaderdrucks (TIPS) oder Blutungsprophylaxe in Betracht,.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=NuLiOOJc6EM)
 
 # Quellen
 

@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Die fokal noduläre Hyperplasie (FNH) ist der zweithäufigste benigne Tumor der Leber, wobei sie seltener als das kavernöse Hämangiom, aber häufiger als das Leberzelladenom auftritt,. Die Prävalenz in der Bevölkerung liegt bei etwa 0,9 Prozent. Es besteht eine deutliche Geschlechtspräferenz zugunsten von Frauen, die etwa 80 bis 90 Prozent der Fälle ausmachen (Verhältnis 4:1 bis 8:1),. Der Altersgipfel liegt im Durchschnitt zwischen dem 30. und 50. Lebensjahr,. Die FNH ist wahrscheinlich eine hyperplastische Reaktion auf eine arterielle Malformation (angeboren oder erworben) und enthält alle Parenchymanteile des normalen Lebergewebes, einschließlich Hepatozyten, Kupffer-Zellen und Gallengangsproloferaten, die jedoch keinen regulären Anschluss an das Gallengangsystem haben,. Eine maligne Entartung findet nicht statt. Hormone (z. B. Kontrazeptiva) gelten nicht als ursächlich für die Entstehung, können aber das Wachstum fördern,. Klinisch ist die FNH meist ein asymptomatischer Zufallsbefund, kann aber bei erheblicher Größe ein Druckgefühl verursachen,. Spontanrupturen oder Blutungen sind extrem selten und kommen wahrscheinlich nur bei telangiektatischen Formen vor,.
+Die fokal noduläre Hyperplasie (FNH) ist der zweithäufigste benigne Tumor der Leber, wobei sie seltener als das kavernöse Hämangiom, aber häufiger als das [[Leberzelladenom|Leberzelladenom]] auftritt,. Die Prävalenz in der Bevölkerung liegt bei etwa 0,9 Prozent. Es besteht eine deutliche Geschlechtspräferenz zugunsten von Frauen, die etwa 80 bis 90 Prozent der Fälle ausmachen (Verhältnis 4:1 bis 8:1),. Der Altersgipfel liegt im Durchschnitt zwischen dem 30. und 50. Lebensjahr,. Die FNH ist wahrscheinlich eine hyperplastische Reaktion auf eine arterielle Malformation (angeboren oder erworben) und enthält alle Parenchymanteile des normalen Lebergewebes, einschließlich Hepatozyten, Kupffer-Zellen und Gallengangsproloferaten, die jedoch keinen regulären Anschluss an das Gallengangsystem haben,. Eine [[Knochentumoren_2_Maligne|maligne]] Entartung findet nicht statt. Hormone (z. B. Kontrazeptiva) gelten nicht als ursächlich für die Entstehung, können aber das Wachstum fördern,. Klinisch ist die FNH meist ein asymptomatischer Zufallsbefund, kann aber bei erheblicher Größe ein Druckgefühl verursachen,. Spontanrupturen oder Blutungen sind extrem selten und kommen wahrscheinlich nur bei telangiektatischen Formen vor,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -29,7 +29,7 @@ Die fokal noduläre Hyperplasie (FNH) ist der zweithäufigste benigne Tumor der 
 ### Zu welchen pathologischen Veränderungen kommt es?
  Es handelt sich um eine gutartige, noduläre Läsion, die durch fibröse Septen unterteilt ist und oft eine zentrale Narbe aufweist. Die Läsion wird über eine zentral gelegene Arterie versorgt, die in den Septen verläuft (radspeichenartiges Gefäßmuster),. 
 ### Zu welchen morphologischen Veränderungen kommt es?
- Die FNH ist meist eine gut abgrenzbare, nicht gekapselte, solide Raumforderung, die typischerweise kleiner als 5 cm ist. Charakteristisch ist eine zentrale, sternförmige Narbe, die jedoch nur bei etwa 50 Prozent der Tumoren (insbesondere bei größeren Läsionen) bildgebend nachweisbar ist,,. In etwa 20 bis 30 Prozent der Fälle treten multiple FNH-Knoten auf,. 
+ Die FNH ist meist eine gut abgrenzbare, nicht gekapselte, solide Raumforderung, die typischerweise kleiner als 5 cm ist. Charakteristisch ist eine zentrale, sternförmige Narbe, die jedoch nur bei etwa 50 Prozent der [[Pankreas_2_Tumoren|Tumoren]] (insbesondere bei größeren Läsionen) bildgebend nachweisbar ist,,. In etwa 20 bis 30 Prozent der Fälle treten multiple FNH-Knoten auf,. 
 ### Zu welchen Komplikationen kann es kommen?
  Komplikationen wie Einblutungen oder Nekrosen sind untypisch und fehlen meist, da die Blutversorgung exzellent ist,.
 
@@ -68,7 +68,7 @@ Die fokal noduläre Hyperplasie (FNH) ist der zweithäufigste benigne Tumor der 
 # Differenzialdiagnosen
 
 
-Leberzelladenom (HCA): Zeigt meist eine heterogene Binnenstruktur (durch Einblutung oder Fett), hat keine zentrale Narbe (oder eine Narbe durch Blutung/Nekrose), ist mit der Einnahme von Kontrazeptiva assoziiert und nimmt in der hepatobiliären Phase typischerweise kein Kontrastmittel auf (hypointens), da es keine Gallekanälchen besitzt,,,.
+[[Leberzelladenom|Leberzelladenom]] (HCA): Zeigt meist eine heterogene Binnenstruktur (durch Einblutung oder Fett), hat keine zentrale Narbe (oder eine Narbe durch [[Schlaganfall_2_Blutung|Blutung]]/Nekrose), ist mit der Einnahme von Kontrazeptiva assoziiert und nimmt in der hepatobiliären Phase typischerweise kein Kontrastmittel auf (hypointens), da es keine Gallekanälchen besitzt,,,.
 
 Kavernöses Hämangiom: Zeigt in der T2-Wichtung ein sehr starkes hyperintenses Signal („light bulb“), ein typisches Irisblenden-Phänomen (zentripetale Füllung) in der Dynamik und keine Aufnahme von hepatobiliärem Kontrastmittel,,.
 
@@ -82,6 +82,10 @@ Hypervaskularisierte Metastasen (z.B. neuroendokrin, Nierenzellkarzinom): Zeigen
 
 
 Eine Therapie ist bei asymptomatischer FNH in der Regel nicht erforderlich (konservatives Vorgehen, ggf. Absetzen von Hormonpräparaten). Eine Resektion ist nur bei symptomatischer Raumforderung oder diagnostischer Unsicherheit (insbesondere bei atypischer FNH) indiziert. Während der Schwangerschaft besteht kein erhöhtes Risiko für Wachstum oder Ruptur. Etwa 20 Prozent der Patienten mit FNH haben gleichzeitig Hämangiome.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=ggunlxu2Nso)
 
 # Quellen
 

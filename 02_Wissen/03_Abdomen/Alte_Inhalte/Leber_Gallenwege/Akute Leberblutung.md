@@ -19,7 +19,7 @@ Tags:
 -----
 Wer? (Epidemiology und Symptome)
 
-Die akute Leberblutung ist eine seltene, aber lebensbedrohliche Akutsituation. Sie kann traumatisch bedingt sein, mit oder ohne zugrunde liegende Lebererkrankung, oder als spontane Einblutung bei prädisponierenden Erkrankungen auftreten. Zu den prädisponierenden Faktoren für spontane Blutungen zählen Tumoren wie das Leberzelladenom, das hepatozelluläre Karzinom (HCC) oder Riesenhämangiome, vaskuläre Erkrankungen wie Morbus Osler, idiopathische Aneurysmen oder Periarteriitis nodosa, sowie Koagulopathien und das HELLP-Syndrom im Rahmen einer Präeklampsie. Klinisch präsentiert sich der Patient mit akuten Schmerzen und Symptomen des akuten Blutverlusts bis hin zum hämorrhagischen Schock. Ein plötzlicher Hämoglobinabfall oder ein prolongierter Transfusionsbedarf können auf eine zweizeitige Hämorrhagie hinweisen,,.
+Die [[Akute Leberblutung|akute Leberblutung]] ist eine seltene, aber lebensbedrohliche Akutsituation. Sie kann traumatisch bedingt sein, mit oder ohne zugrunde liegende Lebererkrankung, oder als spontane Einblutung bei prädisponierenden Erkrankungen auftreten. Zu den prädisponierenden Faktoren für spontane Blutungen zählen [[Pankreas_2_Tumoren|Tumoren]] wie das [[Leberzelladenom|Leberzelladenom]], das hepatozelluläre Karzinom (HCC) oder Riesenhämangiome, vaskuläre Erkrankungen wie Morbus Osler, idiopathische Aneurysmen oder Periarteriitis nodosa, sowie Koagulopathien und das HELLP-Syndrom im Rahmen einer Präeklampsie. Klinisch präsentiert sich der Patient mit akuten Schmerzen und Symptomen des akuten Blutverlusts bis hin zum hämorrhagischen Schock. Ein plötzlicher Hämoglobinabfall oder ein prolongierter Transfusionsbedarf können auf eine zweizeitige Hämorrhagie hinweisen,,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -28,9 +28,9 @@ Die akute Leberblutung ist eine seltene, aber lebensbedrohliche Akutsituation. S
 ### Zu welchen pathologischen Veränderungen kommt es?
  Es kommt zu einer Zunahme der Lebergröße und zu Flüssigkeitsansammlungen im Leberparenchym, subkapsulär und häufig auch perihepatisch. 
 ### Zu welchen morphologischen Veränderungen kommt es?
- Nach Traumen finden sich Risse im Parenchym. Bei aktiver Blutung tritt Kontrastmittel in das Parenchym aus. Pseudoaneurysmen können entstehen, bei denen die Intima einreißt und es zu einer Einblutung in das Parenchym kommt, die von einer fibrösen Kapsel begrenzt wird. 
+ Nach Traumen finden sich Risse im Parenchym. Bei aktiver [[Schlaganfall_2_Blutung|Blutung]] tritt Kontrastmittel in das Parenchym aus. Pseudoaneurysmen können entstehen, bei denen die Intima einreißt und es zu einer Einblutung in das Parenchym kommt, die von einer fibrösen Kapsel begrenzt wird. 
 ### Zu welchen Komplikationen kann es kommen?
- Bei Ausbreitung der Blutung in die Bauchhöhle besteht eine erhöhte Mortalität. Pseudoaneurysmen sind instabil und können im Intervall zu einer Blutung in das Gallengangssystem (Hämobilie) oder zu einem Hämoperitoneum führen,,.
+ Bei Ausbreitung der [[Schlaganfall_2_Blutung|Blutung]] in die Bauchhöhle besteht eine erhöhte Mortalität. Pseudoaneurysmen sind instabil und können im Intervall zu einer [[Schlaganfall_2_Blutung|Blutung]] in das Gallengangssystem (Hämobilie) oder zu einem Hämoperitoneum führen,,.
 
 ## Sonografie
  
@@ -65,7 +65,7 @@ Die akute Leberblutung ist eine seltene, aber lebensbedrohliche Akutsituation. S
 
 Hepatozelluläres Karzinom: Findet sich meist in einer zirrhotischen Leber und geht oft mit einem erhöhten Alpha-Fetoprotein einher.
 
-Leberzelladenom: Tritt typischerweise bei jüngeren Frauen mit langjähriger Einnahme von Antikonzeptiva auf.
+[[Leberzelladenom|Leberzelladenom]]: Tritt typischerweise bei jüngeren Frauen mit langjähriger Einnahme von Antikonzeptiva auf.
 
 HELLP-Syndrom: Ist eine Variante der Präeklampsie mit typischer Laborkonstellation (Hämolyse, erhöhte Leberenzyme, niedrige Thrombozytenzahl) und tritt meist im dritten Trimenon oder postpartal auf,.
 
@@ -77,6 +77,10 @@ Koagulopathie: Gekennzeichnet durch niedrige Thrombozytenzahl, Gerinnungsdefekte
 
 
 Ein typischer Fehler ist die Fehlinterpretation einer intraabdominalen Blutung als Aszites. Für den zuweisenden Kollegen sind das Ausmaß der Blutung, das Vorliegen einer Ruptur in die Bauchhöhle und die Möglichkeit interventioneller Maßnahmen (z.B. transarterielle Embolisation) entscheidend. Die Angiografie ist bei therapeutischer Option zur Embolisation indiziert und weist den Blutaustritt nach,.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=MHgzSApBN7M)
 
 # Quellen
 

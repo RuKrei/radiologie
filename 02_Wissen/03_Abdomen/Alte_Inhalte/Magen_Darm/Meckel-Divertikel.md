@@ -4,7 +4,7 @@ tags:
   - review
   - GI
   - radiologie
-  - Dünndarm
+  - [[Dünndarm|Dünndarm]]
   - angeboren
   - Kind
 ---
@@ -22,7 +22,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Das Meckel-Divertikel ist die häufigste angeborene Anomalie des Gastrointestinaltrakts mit einer Inzidenz von etwa 1 bis 3 Prozent,. Es handelt sich um ein Relikt des Ductus omphaloentericus (Ductus vitellinus), der sich nicht vollständig zurückgebildet hat,. Anatomisch folgt es oft der sogenannten Zweier-Regel: Es tritt bei 2 Prozent der Bevölkerung auf, befindet sich etwa 2 Fuß (ca. 60 cm) proximal der Bauhin-Klappe, ist etwa 2 Zoll lang und wird häufig vor dem 2. Lebensjahr symptomatisch,. In bis zu 60 Prozent der Fälle enthält das Divertikel ektopes Gewebe, wobei es sich meist um Magenschleimhaut oder Pankreasgewebe handelt. Obwohl viele Träger asymptomatisch sind, treten Komplikationen häufiger bei männlichen Patienten auf. Bei Kindern ist die schmerzlose gastrointestinale Blutung, verursacht durch Ulzerationen der ektopen Magenschleimhaut, das führende Symptom,. Erwachsene präsentieren sich eher mit Symptomen einer Obstruktion oder einer Divertikulitis, die klinisch oft kaum von einer Appendizitis zu unterscheiden ist,.
+Das [[Meckel-Divertikel|Meckel-Divertikel]] ist die häufigste angeborene Anomalie des Gastrointestinaltrakts mit einer Inzidenz von etwa 1 bis 3 Prozent,. Es handelt sich um ein Relikt des Ductus omphaloentericus (Ductus vitellinus), der sich nicht vollständig zurückgebildet hat,. Anatomisch folgt es oft der sogenannten Zweier-Regel: Es tritt bei 2 Prozent der Bevölkerung auf, befindet sich etwa 2 Fuß (ca. 60 cm) proximal der Bauhin-Klappe, ist etwa 2 Zoll lang und wird häufig vor dem 2. Lebensjahr symptomatisch,. In bis zu 60 Prozent der Fälle enthält das Divertikel ektopes Gewebe, wobei es sich meist um Magenschleimhaut oder Pankreasgewebe handelt. Obwohl viele Träger asymptomatisch sind, treten Komplikationen häufiger bei männlichen Patienten auf. Bei Kindern ist die schmerzlose [[Gastrointestinale [[Schlaganfall_2_Blutung|Blutung]]|gastrointestinale [[Schlaganfall_2_Blutung|Blutung]]]], verursacht durch Ulzerationen der ektopen Magenschleimhaut, das führende Symptom,. Erwachsene präsentieren sich eher mit Symptomen einer Obstruktion oder einer Divertikulitis, die klinisch oft kaum von einer Appendizitis zu unterscheiden ist,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -31,7 +31,7 @@ Das Meckel-Divertikel ist die häufigste angeborene Anomalie des Gastrointestina
 ### Zu welchen pathologischen Veränderungen kommt es?
  Es handelt sich um eine sackartige Ausstülpung am antimesenterialen Rand des distalen Ileums,. Das Divertikel enthält alle Wandschichten des Dünndarms. 
 ### Zu welchen morphologischen Veränderungen kommt es?
- Pathologische Prozesse umfassen Entzündungen (Divertikulitis), die Bildung von Enterolithen im Divertikel, Invaginationen (wobei das Divertikel als Führungsstruktur dient) und Volvulus,. 
+ Pathologische Prozesse umfassen [[Pankreas_1_Entzündungen|Entzündungen]] (Divertikulitis), die Bildung von Enterolithen im Divertikel, Invaginationen (wobei das Divertikel als Führungsstruktur dient) und Volvulus,. 
 ### Zu welchen Komplikationen kann es kommen?
  Mögliche Komplikationen sind gastrointestinale Blutungen, Dünndarmobstruktion (durch Invagination, Volvulus oder Hernierung), Perforation und Divertikulitis,.
 
@@ -60,7 +60,7 @@ Das Meckel-Divertikel ist die häufigste angeborene Anomalie des Gastrointestina
 ### Was kann man nicht sehen?
  Unkomplizierte Divertikel werden in der CT häufig übersehen. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Ein invertiertes Meckel-Divertikel kann als intraluminale fettisodense Struktur erscheinen und ein Lipom vortäuschen. Ein spezifisches Zeichen in der CT-Angiografie ist der Nachweis der Arteria vitellina, einem persistierenden Endast der Arteria mesenterica superior, der das Divertikel versorgt,.
+ Ein invertiertes [[Meckel-Divertikel|Meckel-Divertikel]] kann als intraluminale fettisodense Struktur erscheinen und ein Lipom vortäuschen. Ein spezifisches Zeichen in der CT-Angiografie ist der Nachweis der Arteria vitellina, einem persistierenden Endast der Arteria mesenterica superior, der das Divertikel versorgt,.
 
 ## MRT
  
@@ -80,14 +80,18 @@ Divertikulitis des Zäkums oder Kolons: Diese geht mit einer Wandverdickung des 
 
 Andere Dünndarmdivertikel: Diese sind oft multipel und treten eher im Duodenum oder Jejunum auf.
 
-Urachuszyste: Bei einer Lage in der Mittellinie kann ein Meckel-Divertikel mit einer infizierten Urachuszyste verwechselt werden.
+Urachuszyste: Bei einer Lage in der Mittellinie kann ein [[Meckel-Divertikel|Meckel-Divertikel]] mit einer infizierten Urachuszyste verwechselt werden.
 
-Morbus Crohn: Kann ebenfalls zu Wandverdickungen und Entzündungen im terminalen Ileum führen.
+[[Morbus Crohn|Morbus Crohn]]: Kann ebenfalls zu Wandverdickungen und [[Pankreas_1_Entzündungen|Entzündungen]] im terminalen Ileum führen.
 
 # Alles andere
 
 
 In der Nuklearmedizin kann mittels Szintigrafie mit Technetium-99m-Pertechnetat ektopische Magenschleimhaut im Divertikel nachgewiesen werden, was besonders bei Kindern eine hohe Sensitivität aufweist,. Befindet sich ein Meckel-Divertikel in einer Hernie (z. B. Leistenhernie), spricht man von einer Littre-Hernie,. Symptomatische Divertikel werden in der Regel chirurgisch reseziert.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=tvMBAs0gVt4)
 
 # Quellen
 

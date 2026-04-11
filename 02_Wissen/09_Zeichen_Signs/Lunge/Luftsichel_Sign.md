@@ -1,4 +1,4 @@
-# Luftsichel Sign
+# [[Luftsichel_Sign|Luftsichel Sign]]
 
 ## Definition
 Sichelförmige Luftansammlung um den Aortenbogen.
@@ -21,3 +21,7 @@ Sichelförmige Luftansammlung um den Aortenbogen.
 
 ---
 Tags: #Radiologie #Thorax #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=6ZriADrurKg)
+

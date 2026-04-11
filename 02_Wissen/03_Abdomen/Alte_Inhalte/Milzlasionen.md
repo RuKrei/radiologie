@@ -3,19 +3,19 @@ date: 2026-02-28
 tags:
 - Radiologie
 - Abdomen
-- Milz
+- [[Milz|Milz]]
 ---
 ------
 PEG = Splenomegalie, Milzabszess, Milzmetastasen
 Erstellt: 2026-02-28
 Zuletzt bearbeitet: 2026-02-28
 Zuletzt gelesen: 2026-02-28
-Tags: #Radiologie #Abdomen #Milz
+Tags: #Radiologie #Abdomen #[[Milz|Milz]]
 -----
 # Wer? (Epidemiologie und Symptome)
-Läsionen der Milz sind häufig Zufallsbefunde (Zysten, Hämangiome) oder treten im Rahmen systemischer Erkrankungen (Lymphome, Infektionen) auf.
+Läsionen der [[Milz|Milz]] sind häufig Zufallsbefunde (Zysten, Hämangiome) oder treten im Rahmen systemischer Erkrankungen (Lymphome, [[Infektionen|Infektionen]]) auf.
 - **Benigne:** Zysten, Hämangiome, Hamartome, Lymphangiome.
-- **Maligne:** Lymphome (häufigster Milztumor!), Metastasen, Angiosarkome (selten).
+- **[[Knochentumoren_2_Maligne|Maligne]]:** Lymphome (häufigster Milztumor!), Metastasen, Angiosarkome (selten).
 - **Infektiös:** Abszesse (Endokarditis!), Tuberkulose, Pilze (Candidiasis bei Immunsuppression).
 - **Vaskulär:** Infarkte.
 - **Traumatisch:** Ruptur, Hämatom.
@@ -60,10 +60,10 @@ Fokale vs. diffuse Läsionen. Splenomegalie (Kraniokaudal > 12 cm, Volumen > 400
     - Grad II: Riss 1-3 cm.
     - Grad III: Riss > 3 cm oder Hilusbeteiligung.
     - Grad IV: Hilusgefäßverletzung (Devaskularisation > 25%).
-    - Grad V: "Zertrümmerte Milz" / Totaler Gefäßabriss.
+    - Grad V: "Zertrümmerte [[Milz|Milz]]" / Totaler Gefäßabriss.
 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
-- **Arterielles Enhancement der Milz ist physiologisch inhomogen ("Tigermilz" / "Arciform enhancement")!** In der frühen Phase (20-40s) normal. Beurteilung von Läsionen erst in der portalvenösen Phase (70-90s) sicher möglich!
+- **Arterielles Enhancement der [[Milz|Milz]] ist physiologisch inhomogen ("Tigermilz" / "Arciform enhancement")!** In der frühen Phase (20-40s) normal. Beurteilung von Läsionen erst in der portalvenösen Phase (70-90s) sicher möglich!
 
 ## MRT
 ### Was sieht man korrelierend in dieser Methode?
@@ -78,14 +78,18 @@ Fokale vs. diffuse Läsionen. Splenomegalie (Kraniokaudal > 12 cm, Volumen > 400
 - Kleine Verkalkungen (Gamna-Gandy-Körperchen bei portaler Hypertension) besser im CT oder T2*-Gradientenecho (Blooming).
 
 # Differenzialdiagnosen
-1.  **Nebenmilz (Splenunculus):** Rund, hilusnah, gleiches KM-Verhalten wie Milz (Szintigraphie mit denaturierten Erythrozyten beweist es).
+1.  **Nebenmilz (Splenunculus):** Rund, hilusnah, gleiches KM-Verhalten wie [[Milz|Milz]] (Szintigraphie mit denaturierten Erythrozyten beweist es).
 2.  **Hämangiom vs. Lymphom:** Hämangiom T2-hyperintens + typ. KM; Lymphom DWI-Restriktion + T2-intermediär + Klinik (B-Symptome).
 3.  **Infarkt vs. Abszess:** Infarkt keilförmig, steril; Abszess rundlich/komplex, randständig anreichernd, Fieber.
-4.  **Sarkoidose:** Multiple kleine hypodense Granulome (ähnlich Tuberkulose/Pilz), oft hiläre Lymphadenopathie.
+4.  **[[Sarkoidose|Sarkoidose]]:** Multiple kleine hypodense Granulome (ähnlich Tuberkulose/Pilz), oft hiläre Lymphadenopathie.
 
 # Alles andere
 - **Impfungen nach Splenektomie:** Pneumokokken, Meningokokken, Hämophilus influenzae (OPSI-Syndrom Gefahr!).
-- **Gamna-Gandy-Körperchen:** Siderotische Knötchen (Hämosiderin + Kalzium) bei portaler Hypertension (Leberzirrhose).
+- **Gamna-Gandy-Körperchen:** Siderotische Knötchen (Hämosiderin + Kalzium) bei portaler Hypertension ([[Leberzirrhose|Leberzirrhose]]).
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=GCtAI9FAANE)
 
 # Quellen
 

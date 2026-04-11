@@ -10,7 +10,7 @@ Zuletzt bearbeitet: 2026-02-26
 Zuletzt gelesen: 2026-02-26
 Tags: 
 -----
-# Ösophagusdivertikel
+# [[Ösophagusdivertikel|Ösophagusdivertikel]]
 
 # Wer? (Epidemiologie und Symptome)
 **Echte Divertikel** (alle Wandschichten, Traktionsdivertikel) vs. **Falsche Divertikel** (nur Mukosa/Submukosa durch Muskellücke, Pulsionsdivertikel).
@@ -20,12 +20,12 @@ Tags:
    - Lokalisation: Kilian-Dreieck (dorsal, zwischen M. thyropharyngeus und M. cricopharyngeus).
    - Klinik: Dysphagie, Regurgitation unverdauter Speisen (nachts -> Aspiration!), Foetor ex ore, Globusgefühl.
 2. **Traktionsdivertikel** (Echtes Divertikel):
-   - Lokalisation: Mittlerer Ösophagus (parabronchial).
-   - Ursache: Entzündliche Prozesse im Mediastinum (Tuberkulose, Histoplasmose) ziehen Wand nach außen.
+   - Lokalisation: Mittlerer [[Ösophagus|Ösophagus]] (parabronchial).
+   - Ursache: Entzündliche Prozesse im [[Mediastinum|Mediastinum]] (Tuberkulose, Histoplasmose) ziehen Wand nach außen.
    - Klinik: Meist asymptomatisch.
 3. **Epiphrenisches Divertikel** (Pulsionsdivertikel):
-   - Lokalisation: Distaler Ösophagus (oberhalb Zwerchfell).
-   - Ursache: Motilitätsstörungen (Achalasie, diffuser Ösophagusspasmus).
+   - Lokalisation: Distaler [[Ösophagus|Ösophagus]] (oberhalb Zwerchfell).
+   - Ursache: Motilitätsstörungen ([[Achalasie|Achalasie]], diffuser Ösophagusspasmus).
    - Klinik: Dysphagie, retrosternaler Schmerz.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
@@ -36,12 +36,12 @@ Ausstülpung der Ösophaguswand. Retention von Speiseresten/Kontrastmittel.
 ### Zu welchen morphologischen Veränderungen kommt es?
 Sackförmige Struktur, die mit dem Ösophaguslumen kommuniziert.
 ### Zu welchen Komplikationen kann es kommen?
-Aspiration (Pneumonie!), Perforation (selten), Blutung, Divertikulitis, Fistelbildung.
+Aspiration (Pneumonie!), Perforation (selten), [[Schlaganfall_2_Blutung|Blutung]], Divertikulitis, Fistelbildung.
 
 ## Röntgen
 ### Was sieht man korrelierend in dieser Methode?
 Ösophagusbreischluck (Methode der Wahl):
-- **Zenker:** Kontrastmittelsack dorsal am hypopharyngealen Übergang. Füllt sich oft vor dem eigentlichen Ösophagus. Spiegelbildung.
+- **Zenker:** Kontrastmittelsack dorsal am hypopharyngealen Übergang. Füllt sich oft vor dem eigentlichen [[Ösophagus|Ösophagus]]. Spiegelbildung.
 - **Traktionsdivertikel:** Dreieckige Ausziehung der Wand, meist Breitbasig, Entleerung gut (da Spitze oft nach oben/horizontal zeigt).
 - **Epiphrenisch:** Rundliche KM-Ansammlung distal, oft rechtsseitig.
 
@@ -62,7 +62,7 @@ Kann als mediastinale Raumforderung/Abszess fehgedeutet werden.
 
 # Differenzialdiagnosen
 - [Killian-Jamieson-Divertikel](https://radiopaedia.org/articles/killian-jamieson-diverticulum): Ventrolateral (unterhalb M. cricopharyngeus).
-- Ösophaguskarzinom (exophytisch/zerfallend).
+- [[Ösophaguskarzinom|Ösophaguskarzinom]] (exophytisch/zerfallend).
 - Ösophagusperforation (gedeckte Perforation/Pseudodivertikel).
 
 # Alles andere
@@ -70,6 +70,10 @@ Therapie:
 - Zenker: Chirurgisch (Divertikulektomie + Myotomie) oder endoskopisch (Schwellenspaltung).
 - Traktion: Meist keine Therapie.
 - Epiphrenisch: Nur bei Symptomen (Resektion + Myotomie).
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=-n0tiRuBu_4)
 
 # Quellen
 - [Zenker diverticulum](https://radiopaedia.org/articles/zenker-diverticulum)

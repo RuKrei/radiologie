@@ -15,13 +15,13 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 Entzündung der Ösophagusschleimhaut.
 Ursachen:
-1. **Refluxösophagitis (GERD):** Häufigste Ursache. Insuffizienz des unteren Ösophagussphinkters (UÖS), Hiatushernie. Klinik: Sodbrennen (Heartburn), Regurgitation, Dysphagie.
+1. **Refluxösophagitis (GERD):** Häufigste Ursache. Insuffizienz des unteren Ösophagussphinkters (UÖS), [[Hiatushernie|Hiatushernie]]. Klinik: Sodbrennen (Heartburn), Regurgitation, Dysphagie.
 2. **Infektiöse Ösophagitis:** Meist bei Immunsuppression (HIV, Chemo, Diabetes).
    - *Candida albicans*: Häufigste infektiöse Form.
    - *Herpes simplex (HSV)*.
    - *Cytomegalievirus (CMV)*.
-3. **Eosinophile Ösophagitis (EoE):** "Asthma des Ösophagus". Allergisch bedingt (Nahrungsmittel). Junge Männer mit Dysphagie/Bolusimpaktierung ("Steakhouse syndrome").
-4. **Andere:** Medikamentös ("pill esophagitis"), Strahlentherapie, Verätzung (Lauge/Säure), Morbus Crohn.
+3. **Eosinophile Ösophagitis (EoE):** "Asthma des [[Ösophagus|Ösophagus]]". Allergisch bedingt (Nahrungsmittel). Junge Männer mit Dysphagie/Bolusimpaktierung ("Steakhouse syndrome").
+4. **Andere:** Medikamentös ("pill esophagitis"), Strahlentherapie, Verätzung (Lauge/Säure), [[Morbus Crohn|Morbus Crohn]].
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -41,7 +41,7 @@ Unregelmäßige Mukosa, Wandstarre, Stenosen.
   - Peptische Striktur (glatt begrenzt, konisch zulaufend, meist distal).
   - [Barrett-Ösophagus](https://radiopaedia.org/articles/barrett-oesophagus): Retikuläres Schleimhautmuster proximal einer Striktur ("High stricture").
 - **Candida:**
-  - Plaque-artig ("Shaggy esophagus" / "Zottiger Ösophagus"). Multiple längliche/rundliche Füllungsdefekte.
+  - Plaque-artig ("Shaggy esophagus" / "Zottiger [[Ösophagus|Ösophagus]]"). Multiple längliche/rundliche Füllungsdefekte.
 - **Herpes (HSV):**
   - Kleine, *multiple*, diskrete Ulzera. "Vulkan-Krater" (Halo um Ulkus).
 - **CMV:**
@@ -58,7 +58,7 @@ Frühe Stadien oft radiologisch stumm. Endoskopie ist Goldstandard!
 ## CT
 ### Was sieht man korrelierend in dieser Methode?
 - Wandverdickung (>3-5mm).
-- Target-Zeichen (Mukosaenhancement, hypodenses Ödem).
+- [[Target-Zeichen|Target-Zeichen]] (Mukosaenhancement, hypodenses Ödem).
 - Umgebungsreaktion (Fettgewebsinfiltration bei schwerer Entzündung/Perforation).
 ### Was kann man nicht sehen?
 Mukosale Details (Erosionen).
@@ -78,6 +78,10 @@ Therapie:
 - EoE: Diät (Elimination), topische Steroide (geschluckt), Dilatation bei Strikturen (Vorsicht Perforation!).
 
 Klassifikation (Los Angeles - LA): Endoskopisch für Refluxösophagitis (A-D).
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=9qG4e6iuh40)
 
 # Quellen
 - [Reflux oesophagitis](https://radiopaedia.org/articles/reflux-oesophagitis)

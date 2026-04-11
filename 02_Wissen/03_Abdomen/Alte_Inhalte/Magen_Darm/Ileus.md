@@ -4,7 +4,7 @@ tags:
   - review
   - GI
   - radiologie
-  - Dünndarm
+  - [[Dünndarm|Dünndarm]]
 ---
 
 ------
@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Als Ileus oder Darmverschluss wird eine Störung der Darmpassage bezeichnet, die entweder durch ein mechanisches Hindernis oder eine Lähmung der Darmmuskulatur verursacht wird. Man unterscheidet dabei den kompletten Ileus vom Subileus. Etwa 2 bis 3 Prozent aller Laparotomien werden aufgrund eines Ileus durchgeführt, wobei in circa 70 Prozent der Fälle der Dünndarm betroffen ist. In entwickelten Ländern sind postoperative Verwachsungen (Briden) mit etwa 80 Prozent die häufigste Ursache, während in Entwicklungsländern inkarzerierte Hernien im Vordergrund stehen,. Das Leitsymptom ist der Meteorismus, begleitet von abdominalen Schmerzen, Übelkeit und Erbrechen (insbesondere bei hohem Ileus) bis hin zum Koterbrechen (Miserere) sowie dem fehlenden Abgang von Stuhl und Winden. Klinisch zeigen sich beim mechanischen Ileus zunächst hochgestellte, spritzende Darmgeräusche, die später fehlen können, während beim paralytischen Ileus die Darmgeräusche typischerweise von Beginn an fehlen ("Totenstille"). Eine besondere, lebensbedrohliche Form ist der Strangulationsileus, bei dem die Blutversorgung eines Darmabschnitts durch Inkarzeration oder Torsion unterbrochen ist, was eine sofortige Operation erfordert. Risikofaktoren für einen paralytischen Ileus sind unter anderem vorangegangene Bauchoperationen, Hypokaliämie, Sepsis oder die Einnahme von Opiaten.
+Als [[Ileus|Ileus]] oder Darmverschluss wird eine Störung der Darmpassage bezeichnet, die entweder durch ein mechanisches Hindernis oder eine Lähmung der Darmmuskulatur verursacht wird. Man unterscheidet dabei den kompletten [[Ileus|Ileus]] vom Subileus. Etwa 2 bis 3 Prozent aller Laparotomien werden aufgrund eines [[Ileus|Ileus]] durchgeführt, wobei in circa 70 Prozent der Fälle der [[Dünndarm|Dünndarm]] betroffen ist. In entwickelten Ländern sind postoperative Verwachsungen (Briden) mit etwa 80 Prozent die häufigste Ursache, während in Entwicklungsländern inkarzerierte Hernien im Vordergrund stehen,. Das Leitsymptom ist der Meteorismus, begleitet von abdominalen Schmerzen, Übelkeit und Erbrechen (insbesondere bei hohem Ileus) bis hin zum Koterbrechen (Miserere) sowie dem fehlenden Abgang von Stuhl und Winden. Klinisch zeigen sich beim mechanischen Ileus zunächst hochgestellte, spritzende Darmgeräusche, die später fehlen können, während beim paralytischen Ileus die Darmgeräusche typischerweise von Beginn an fehlen ("Totenstille"). Eine besondere, lebensbedrohliche Form ist der Strangulationsileus, bei dem die Blutversorgung eines Darmabschnitts durch Inkarzeration oder Torsion unterbrochen ist, was eine sofortige Operation erfordert. Risikofaktoren für einen paralytischen Ileus sind unter anderem vorangegangene Bauchoperationen, Hypokaliämie, Sepsis oder die Einnahme von Opiaten.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -47,7 +47,7 @@ Als Ileus oder Darmverschluss wird eine Störung der Darmpassage bezeichnet, die
 ### Was sieht man korrelierend in dieser Methode?
  In der Abdomenübersichtsaufnahme (im Stehen oder in Linksseitenlage) zeigen sich dilatierte Darmschlingen mit Luft-Flüssigkeits-Spiegeln. Ein mechanischer Ileus zeichnet sich typischerweise durch Spiegelbildungen auf unterschiedlichen Höhen innerhalb derselben Darmschlinge aus (stehende Schlingen), während beim paralytischen Ileus die Spiegel auf gleicher Höhe stehen (Waage-Zeichen),. Beim Sigmavolvulus kann das "Kaffeebohnen"-Zeichen sichtbar sein, eine massiv dilatierte, umgekehrte U-förmige Schlinge. 
 ### Was kann man nicht sehen?
- Die Sensitivität der Röntgenübersicht ist mit 50 bis 60 Prozent relativ gering, und in etwa einem Drittel der Fälle ist das Bild unauffällig. Eine einfache Obstruktion lässt sich im Röntgenbild nicht sicher von einer Strangulation mit Ischämie unterscheiden. 
+ Die Sensitivität der Röntgenübersicht ist mit 50 bis 60 Prozent relativ gering, und in etwa einem Drittel der Fälle ist das Bild unauffällig. Eine einfache Obstruktion lässt sich im Röntgenbild nicht sicher von einer Strangulation mit [[Schlaganfall_1_Ischämie|Ischämie]] unterscheiden. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
  Freie Luft als Zeichen einer Perforation ist im Röntgenbild erst ab einer gewissen Menge sicher nachweisbar, während die CT auch kleine Mengen detektiert.
 
@@ -58,7 +58,7 @@ Als Ileus oder Darmverschluss wird eine Störung der Darmpassage bezeichnet, die
 ### Was kann man nicht sehen?
  Postoperative Verwachsungen (Briden) sind selbst in der CT oft nicht direkt sichtbar und werden als Ausschlussdiagnose angenommen, wenn ein Kalibersprung ohne erkennbare Raumforderung vorliegt. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Zeichen einer Strangulation (geschlossene Schlinge, Closed-Loop) müssen erkannt werden: reduziertes Wandenhancement, Wandverdickung, mesenteriale Flüssigkeit oder Infiltration, gestaute Mesenterialvenen, Aszites und das "Whirl-Sign" (Verdrehung der Mesenterialgefäße),. Pneumatosis intestinalis und portalvenöses Gas sind Spätzeichen einer Ischämie.
+ Zeichen einer Strangulation (geschlossene Schlinge, Closed-Loop) müssen erkannt werden: reduziertes Wandenhancement, Wandverdickung, mesenteriale Flüssigkeit oder Infiltration, gestaute Mesenterialvenen, Aszites und das "Whirl-Sign" (Verdrehung der Mesenterialgefäße),. [[Pneumatosis intestinalis|Pneumatosis intestinalis]] und portalvenöses Gas sind Spätzeichen einer [[Schlaganfall_1_Ischämie|Ischämie]].
 
 ## MRT
  
@@ -78,7 +78,7 @@ Intestinale Pseudoobstruktion (Ogilvie-Syndrom): Eine massive Dilatation des Kol
 
 Ischämische Kolitis/Enteritis: Kann mit Wandverdickung und Dilatation einhergehen, zeigt aber primär vaskuläre Ursachen (Verschluss, Low-Flow) und typische Schleimhautveränderungen (Thumbprinting),.
 
-Toxisches Megakolon: Komplikation bei fulminanter Kolitis (z. B. Colitis ulcerosa, C. difficile), charakterisiert durch extreme Wandverdünnung, Dilatation und fehlende Haustrierung bei schwer kranken Patienten,.
+Toxisches Megakolon: Komplikation bei fulminanter Kolitis (z. B. [[Colitis ulcerosa|Colitis ulcerosa]], C. difficile), charakterisiert durch extreme Wandverdünnung, Dilatation und fehlende Haustrierung bei schwer kranken Patienten,.
 
 Sigmavolvulus: Mechanischer Ileus durch Verdrehung des Sigmas, typisch ist das Kaffeebohnen-Zeichen und das Whirl-Sign im CT; erfordert oft endoskopische Entlastung oder Operation,.
 
@@ -86,6 +86,10 @@ Sigmavolvulus: Mechanischer Ileus durch Verdrehung des Sigmas, typisch ist das K
 
 
 Die Gabe von wasserlöslichem Kontrastmittel (Gastrografin) kann diagnostisch zur Bestimmung der Passagezeit und therapeutisch aufgrund der laxierenden Wirkung genutzt werden; erreicht das Kontrastmittel innerhalb von 24 Stunden das Kolon, ist eine operative Intervention oft nicht notwendig,. Bei Verdacht auf Strangulation ist jedoch eine sofortige Operation indiziert.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=jYYp5v0ndEY)
 
 # Quellen
 

@@ -14,9 +14,9 @@ Zuletzt gelesen: 2026-02-28
 Tags: #Radiologie #Abdomen #Leber_Gallenwege #Notfall
 -----
 # Wer? (Epidemiologie und Symptome)
-Die akute Cholezystitis ist eine akute Entzündung der Gallenblasenwand.
+Die [[Akute Cholezystitis|akute Cholezystitis]] ist eine akute Entzündung der Gallenblasenwand.
 -   **Ursache:** > 90% durch Gallensteine (Cholezystolithiasis) -> Obstruktion des Ductus cysticus.
--   **Sonderform:** Akalkulöse Cholezystitis (< 10%) bei schwerkranken Intensivpatienten (Ischämie, Stase, Sepsis) - hohe Mortalität!
+-   **Sonderform:** Akalkulöse Cholezystitis (< 10%) bei schwerkranken Intensivpatienten ([[Schlaganfall_1_Ischämie|Ischämie]], Stase, Sepsis) - hohe Mortalität!
 -   **Klinik:** Rechtsseitiger Oberbauchschmerz (oft nach fettreicher Mahlzeit), Fieber, Leukozytose.
 -   **Murphy-Zeichen:** Schmerzbedingter Atemstopp bei tiefer Palpation unter dem rechten Rippenbogen.
 
@@ -24,7 +24,7 @@ Die akute Cholezystitis ist eine akute Entzündung der Gallenblasenwand.
 
 ## Allgemeines (auf alle Methoden anwendbar)
 ### Zu welchen pathologischen Veränderungen kommt es?
-Obstruktion -> Distension -> Ischämie/Entzündung der Wand -> Ödem -> Nekrose/Perforation.
+Obstruktion -> Distension -> [[Schlaganfall_1_Ischämie|Ischämie]]/Entzündung der Wand -> Ödem -> Nekrose/Perforation.
 
 ### Zu welchen morphologischen Veränderungen kommt es?
 -   Wandverdickung (> 3-4 mm).
@@ -42,7 +42,7 @@ Obstruktion -> Distension -> Ischämie/Entzündung der Wand -> Ödem -> Nekrose/
 -   **Hyperämie:** Im Farbdoppler vermehrte Vaskularisation der Wand.
 
 ### Was kann man nicht sehen?
--   Steine im Ductus choledochus (DHC) oft durch Luft im Duodenum überlagert (Distale Choledocholithiasis).
+-   Steine im Ductus choledochus (DHC) oft durch Luft im Duodenum überlagert (Distale [[Choledocholithiasis|Choledocholithiasis]]).
 
 ## CT
 ### Was sieht man korrelierend in dieser Methode?
@@ -65,17 +65,21 @@ Alternativmethode (z.B. Schwangere) oder zur Abklärung des Gallengangssystems (
 -   **Entzündung:** T1-KM-Enhancement der Wand und des angrenzenden Leberparenchyms.
 
 # Differenzialdiagnosen
-1.  **Chronische Cholezystitis:** Kleine, geschrumpfte Gallenblase ("Porzellangallenblase" bei Wandverkalkung -> Karzinomrisiko!), keine akute Flüssigkeit/Schmerzen.
+1.  **[[Chronische Cholezystitis|Chronische Cholezystitis]]:** Kleine, geschrumpfte Gallenblase ("Porzellangallenblase" bei Wandverkalkung -> Karzinomrisiko!), keine akute Flüssigkeit/Schmerzen.
 2.  **Akute Pankreatitis:** Lipase erhöht, Pankreasödem.
-3.  **Rechtsherzinsuffizienz / Hepatitis:** Systemische Ursachen für Gallenblasenwandödem (aber ohne Steine, ohne lokales Murphy-Zeichen!).
+3.  **[[Rechtsherzinsuffizienz|Rechtsherzinsuffizienz]] / Hepatitis:** Systemische Ursachen für Gallenblasenwandödem (aber ohne Steine, ohne lokales Murphy-Zeichen!).
 4.  **Pyelonephritis rechts:** Klopfschmerz Nierenlager, Urinstatus.
-5.  **Gallenblasenkarzinom:** Unregelmäßige Wandverdickung, invasion in Leber, Lymphknoten.
+5.  **[[Gallenblasenkarzinom|Gallenblasenkarzinom]]:** Unregelmäßige Wandverdickung, invasion in Leber, Lymphknoten.
 
 # Alles andere
 -   **Komplikationen:**
     -   Perforation (gedeckt oder frei).
     -   Gallensteinileus (Stein perforiert in Duodenum und verschließt terminales Ileum -> Pneumobilie!).
     -   Mirizzi-Syndrom (Stein im Ductus cysticus komprimiert Ductus hepaticus communis -> Ikterus).
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=_KOy7dD_zvU)
 
 # Quellen
 

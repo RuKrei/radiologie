@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=tskxRnV8oNc)
+
 # Quellen
 
 - [Radiopaedia Suche: Milz](https://radiopaedia.org/search?q=spleen)

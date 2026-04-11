@@ -19,6 +19,10 @@ Tags:
 -----
 
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Sz3V8Xl2izU)
+
 # Quellen
 
 - [Radiopaedia Suche: Verletzungen Obere Extremität](https://radiopaedia.org/search?q=verletzungen+obere+extremität)

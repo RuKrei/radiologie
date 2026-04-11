@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=4BuGKSCVX5Q)
+
 # Quellen
 
 - [Radiopaedia Suche: Integration Urogenital](https://radiopaedia.org/search?q=integration+urogenital)

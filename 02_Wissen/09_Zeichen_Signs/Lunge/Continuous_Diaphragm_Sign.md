@@ -1,4 +1,4 @@
-# Continuous Diaphragm Sign
+# [[Continuous_Diaphragm_Sign|Continuous Diaphragm Sign]]
 
 ## Definition
 Durchgehende Sichtbarkeit des Zwerchfells unter dem Herzen (verbindet linke und rechte Kuppel).
@@ -21,3 +21,7 @@ Durchgehende Sichtbarkeit des Zwerchfells unter dem Herzen (verbindet linke und 
 
 ---
 Tags: #Radiologie #Thorax #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=YZ6f0l_tcng)
+

@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=MmT0cR01JUk)
+
 # Quellen
 
 - [Radiopaedia Suche: Schulter Rotatorenmanschette Impingement Instabilität](https://radiopaedia.org/search?q=schulter+rotatorenmanschette+impingement+instabilität)

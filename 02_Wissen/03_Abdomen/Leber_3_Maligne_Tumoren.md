@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=ugqwqaV_7N8)
+
 # Quellen
 
 - [Radiopaedia Suche: Leber 3 Maligne Tumoren](https://radiopaedia.org/search?q=liver+3+maligne+tumoren)

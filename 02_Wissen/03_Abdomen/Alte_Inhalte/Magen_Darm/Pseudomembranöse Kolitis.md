@@ -21,7 +21,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Die pseudomembranöse Kolitis ist eine entzündliche Erkrankung des Dickdarms, die durch eine Überwucherung der Darmflora mit dem Bakterium Clostridium difficile im Rahmen einer antibiotischen Therapie verursacht wird, wobei die Erkrankung durch Toxine des Keims ausgelöst wird. Clostridium difficile ist der häufigste Erreger nosokomialer Durchfallerkrankungen, und die Häufigkeit nimmt weltweit zu. Zu den prädisponierenden Faktoren zählen neben der Antibiotikatherapie auch Immunsuppression, Chemotherapie, Intensivtherapie und größere Operationen. Das klinische Spektrum ist breit und reicht von leichter Diarrhö bis zur schweren Kolitis mit starken, wässrigen, seltener blutigen Durchfällen, Bauchkrämpfen und Fieber. Die Beschwerden können unmittelbar nach Beginn der Antibiotikagabe oder erst nach Wochen einsetzen.
+Die [[Pseudomembranöse Kolitis|pseudomembranöse Kolitis]] ist eine entzündliche Erkrankung des Dickdarms, die durch eine Überwucherung der Darmflora mit dem Bakterium Clostridium difficile im Rahmen einer antibiotischen Therapie verursacht wird, wobei die Erkrankung durch Toxine des Keims ausgelöst wird. Clostridium difficile ist der häufigste Erreger nosokomialer Durchfallerkrankungen, und die Häufigkeit nimmt weltweit zu. Zu den prädisponierenden Faktoren zählen neben der Antibiotikatherapie auch Immunsuppression, Chemotherapie, Intensivtherapie und größere Operationen. Das klinische Spektrum ist breit und reicht von leichter Diarrhö bis zur schweren Kolitis mit starken, wässrigen, seltener blutigen Durchfällen, Bauchkrämpfen und Fieber. Die Beschwerden können unmittelbar nach Beginn der Antibiotikagabe oder erst nach Wochen einsetzen.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -49,7 +49,7 @@ Die pseudomembranöse Kolitis ist eine entzündliche Erkrankung des Dickdarms, d
 ## CT
  
 ### Was sieht man korrelierend in dieser Methode?
- Die CT zeigt eine geschwollene Darmwand, die manchmal mehrschichtig als Target Sign (Schießscheibenzeichen) imponiert. Charakteristisch ist eine kräftige mukosale Kontrastmittelaufnahme, während die ödematöse Wand selbst keine Kontrastierung zeigt. Ein typischer Befund ist das Akkordeon-Zeichen, bei dem sich oral oder rektal verabreichtes Kontrastmittel zwischen den geschwollenen Schleimhautfalten fängt. Zudem kann durch die allseitige Wandverdickung unter Einschluss der Plicae semicirculares der Bildeindruck eines Giraffenfells entstehen. In sehr schweren Fällen ist Aszites möglich. Meist findet sich nur eine geringe perikolische Entzündung. 
+ Die CT zeigt eine geschwollene Darmwand, die manchmal mehrschichtig als [[Target_Sign|Target Sign]] (Schießscheibenzeichen) imponiert. Charakteristisch ist eine kräftige mukosale Kontrastmittelaufnahme, während die ödematöse Wand selbst keine Kontrastierung zeigt. Ein typischer Befund ist das Akkordeon-Zeichen, bei dem sich oral oder rektal verabreichtes Kontrastmittel zwischen den geschwollenen Schleimhautfalten fängt. Zudem kann durch die allseitige Wandverdickung unter Einschluss der Plicae semicirculares der Bildeindruck eines Giraffenfells entstehen. In sehr schweren Fällen ist Aszites möglich. Meist findet sich nur eine geringe perikolische Entzündung. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
  Ein normaler CT-Befund schließt eine Clostridium-difficile-Kolitis nicht aus.
 
@@ -65,7 +65,7 @@ Ischämische Kolitis: Betrifft meist ältere Patienten mit Gefäßpathologie und
 
 Divertikulitis: Zeigt Divertikel, eine umschriebene Wandverdickung durch submuköses Ödem und Hämorrhagie, eine perikolische Entzündung im Fettgewebe sowie verdickte Faszien und ist meist im Sigma am stärksten ausgeprägt,.
 
-Morbus Crohn: Häufig mit Dünndarmbefall, transmuraler Entzündung (Fisteln, Abszesse), fibrös-fettiger Proliferation und einer Ausbreitung vom terminalen Ileum in Richtung Rektum assoziiert.
+[[Morbus Crohn|Morbus Crohn]]: Häufig mit Dünndarmbefall, transmuraler Entzündung (Fisteln, Abszesse), fibrös-fettiger Proliferation und einer Ausbreitung vom terminalen Ileum in Richtung Rektum assoziiert.
 
 Einfache antibiotikaassoziierte Kolitis: Geht mit wässrigen, nicht blutigen Durchfällen einher, die nach Absetzen des Antibiotikums spontan sistieren, und zeigt keine Plaques oder Membranen.
 
@@ -75,6 +75,10 @@ Hämorrhagische Kolitis: Wird durch Klebsiellen verursacht und tritt bevorzugt i
 
 
 Die Diagnose wird durch den Toxinnachweis im Stuhl und den endoskopischen Nachweis von Pseudomembranen gesichert,. Es besteht oft nur eine schwache Korrelation zwischen den schweren morphologischen Veränderungen in der Bildgebung und dem klinischen Bild.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=103QhKLFQrg)
 
 # Quellen
 

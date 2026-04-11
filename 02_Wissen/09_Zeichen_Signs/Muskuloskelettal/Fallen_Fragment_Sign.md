@@ -1,4 +1,4 @@
-# Fallen Fragment Sign
+# [[Fallen_Fragment_Sign|Fallen Fragment Sign]]
 
 ## Definition
 Knochenfragment, das in einer zystischen Läsion nach unten gesunken ist (pathognomonisch für juvenile Knochenzyste).
@@ -15,3 +15,7 @@ Knochenfragment, das in einer zystischen Läsion nach unten gesunken ist (pathog
 
 ---
 Tags: #Radiologie #Muskuloskelettal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Cqv1IKiGYfA)
+

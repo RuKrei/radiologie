@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=wS39MlI3Mw8)
+
 # Quellen
 
 - [Radiopaedia Suche: Epilepsie Bildgebung](https://radiopaedia.org/search?q=epilepsie+bildgebung)

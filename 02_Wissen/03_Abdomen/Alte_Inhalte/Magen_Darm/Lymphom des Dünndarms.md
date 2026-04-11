@@ -4,8 +4,8 @@ tags:
   - review
   - GI
   - radiologie
-  - Dünndarm
-  - maligne
+  - [[Dünndarm|Dünndarm]]
+  - [[Knochentumoren_2_Maligne|maligne]]
 ---
 
 ------
@@ -21,7 +21,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Das Lymphom des Dünndarms ist der dritthäufigste maligne Tumor des Dünndarms und macht etwa 25 Prozent aller primären Dünndarmmalignome aus. In den meisten Fällen handelt es sich um Non-Hodgkin-Lymphome vom B-Zell-Typ (95 Prozent), während T-Zell-Lymphome seltener sind (5 Prozent). Die Erkrankung manifestiert sich bevorzugt im Ileum (65 Prozent), gefolgt vom Jejunum (25 Prozent), während das Duodenum seltener betroffen ist. Der Altersgipfel liegt im 5. bis 6. Lebensjahrzehnt, wobei bestimmte Formen wie das Burkitt-Lymphom auch bei Kindern auftreten. Es besteht keine Geschlechtspräferenz. Zu den prädisponierenden Faktoren zählen Zöliakie, Immunsuppression (nach Organtransplantation oder bei HIV/AIDS) sowie Infektionen mit Helicobacter pylori. Das klinische Bild ist oft unspezifisch und umfasst gastrointestinale Blutungen, Diarrhö, Gewichtsverlust, uncharakteristische Schmerzen und Fieber.
+Das [[Lymphom des Dünndarms|Lymphom des Dünndarms]] ist der dritthäufigste [[Knochentumoren_2_Maligne|maligne]] Tumor des Dünndarms und macht etwa 25 Prozent aller primären Dünndarmmalignome aus. In den meisten Fällen handelt es sich um Non-Hodgkin-Lymphome vom B-Zell-Typ (95 Prozent), während T-Zell-Lymphome seltener sind (5 Prozent). Die Erkrankung manifestiert sich bevorzugt im Ileum (65 Prozent), gefolgt vom Jejunum (25 Prozent), während das Duodenum seltener betroffen ist. Der Altersgipfel liegt im 5. bis 6. Lebensjahrzehnt, wobei bestimmte Formen wie das Burkitt-Lymphom auch bei Kindern auftreten. Es besteht keine Geschlechtspräferenz. Zu den prädisponierenden Faktoren zählen [[Zöliakie|Zöliakie]], Immunsuppression (nach Organtransplantation oder bei HIV/AIDS) sowie [[Infektionen|Infektionen]] mit Helicobacter pylori. Das klinische Bild ist oft unspezifisch und umfasst gastrointestinale Blutungen, Diarrhö, Gewichtsverlust, uncharakteristische Schmerzen und Fieber.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -57,32 +57,36 @@ Das Lymphom des Dünndarms ist der dritthäufigste maligne Tumor des Dünndarms 
 ### Was kann man nicht sehen?
  Die Unterscheidung zwischen verschiedenen histologischen Subtypen ist bildmorphologisch schwierig. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Das Burkitt-Lymphom ist einer der aggressivsten Tumoren mit sehr schneller Verdopplungszeit und kann als große intraabdominale Masse im distalen Ileum oder Zäkum auftreten,.
+ Das Burkitt-Lymphom ist einer der aggressivsten [[Pankreas_2_Tumoren|Tumoren]] mit sehr schneller Verdopplungszeit und kann als große intraabdominale Masse im distalen Ileum oder Zäkum auftreten,.
 
 ## MRT
  
 ### Was sieht man korrelierend in dieser Methode?
  In T1-gewichteten Sequenzen zeigt sich das Lymphom homogen hypointens oder isointens, in T2-gewichteten Sequenzen leicht hyperintens. Es besteht meist eine homogene, gelegentlich auch inhomogene, aber nur geringe Kontrastmittelaufnahme. In der MR-Enterografie zeigt sich bei der infiltrativen Form eine verdickte Wand ohne Schichtung und ein aufgehobenes Faltenrelief. Die mesenteriale Form zeigt Lymphknotenpakete, die Gefäße ummauern, und eine Infiltration des Fettgewebes. 
 ### Was kann man nicht sehen?
- Die Methode ist nicht bei klinischen Zeichen einer akuten Passagestörung (Ileus) indiziert. 
+ Die Methode ist nicht bei klinischen Zeichen einer akuten Passagestörung ([[Ileus|Ileus]]) indiziert. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
  Die DWI (diffusionsgewichtete Bildgebung) kann helfen, befallene Anteile besser zu erkennen und das Ansprechen auf die Therapie zu beurteilen.
 
 # Differenzialdiagnosen
 
 
-Dünndarmkarzinom (Adenokarzinom): Tritt häufiger im Jejunum auf, wächst zirkulär stenosierend („Apfelbutzen“), führt früher zur Obstruktion und ist weniger kräftig perfundiert als andere Tumoren,.
+[[Dünndarmkarzinom|Dünndarmkarzinom]] (Adenokarzinom): Tritt häufiger im Jejunum auf, wächst zirkulär stenosierend („Apfelbutzen“), führt früher zur Obstruktion und ist weniger kräftig perfundiert als andere [[Pankreas_2_Tumoren|Tumoren]],.
 
-Morbus Crohn: Zeigt Fisteln, führt zu Strikturen (statt Aneurysma) und weist im akuten Stadium eine starke Kontrastmittelaufnahme der entzündeten Wand auf. Zudem ist oft das terminale Ileum betroffen und das Mesenterium zeigt das „Creeping Fat“-Zeichen.
+[[Morbus Crohn|Morbus Crohn]]: Zeigt Fisteln, führt zu Strikturen (statt Aneurysma) und weist im akuten Stadium eine starke Kontrastmittelaufnahme der entzündeten Wand auf. Zudem ist oft das terminale Ileum betroffen und das Mesenterium zeigt das „Creeping Fat“-Zeichen.
 
-Gastrointestinaler Stromatumor (GIST): Bildet oft große, exophytische Tumoren mit zentralen Nekrosen und zeigt selten die für Lymphome typische massive Lymphadenopathie,.
+Gastrointestinaler Stromatumor (GIST): Bildet oft große, exophytische [[Pankreas_2_Tumoren|Tumoren]] mit zentralen Nekrosen und zeigt selten die für Lymphome typische massive Lymphadenopathie,.
 
-Tuberkulose: Kann das terminale Ileum und Zäkum befallen (konisches Zäkum) und ähnelt dem Morbus Crohn oder Lymphom, zeigt aber oft nekrotische Lymphknoten,.
+Tuberkulose: Kann das terminale Ileum und Zäkum befallen (konisches Zäkum) und ähnelt dem [[Morbus Crohn|Morbus Crohn]] oder Lymphom, zeigt aber oft nekrotische Lymphknoten,.
 
 # Alles andere
 
 
-Therapeutisch ist bei einem lokal begrenzten Befall die chirurgische Resektion möglich, während bei multilokulärer Manifestation oder systemischem Lymphom die Chemotherapie im Vordergrund steht,. Komplikationen wie Stenosen oder Perforationen werden chirurgisch behandelt. Das primäre Lymphom des Dünndarms muss vom systemischen Lymphom mit intestinaler Beteiligung abgegrenzt werden.
+Therapeutisch ist bei einem lokal begrenzten Befall die chirurgische Resektion möglich, während bei multilokulärer Manifestation oder systemischem Lymphom die Chemotherapie im Vordergrund steht,. Komplikationen wie Stenosen oder Perforationen werden chirurgisch behandelt. Das primäre [[Lymphom des Dünndarms|Lymphom des Dünndarms]] muss vom systemischen Lymphom mit intestinaler Beteiligung abgegrenzt werden.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=nND3u2hDLjU)
 
 # Quellen
 

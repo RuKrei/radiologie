@@ -18,7 +18,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Das seröse Zystadenom ist ein gutartiger, primär zystischer Tumor des Pankreas. Es macht etwa 1 bis 2 Prozent aller exokrinen Pankreastumoren aus und tritt überwiegend bei Frauen auf (Geschlechterverhältnis etwa 4:1 zugunsten der Frauen), was zur Bezeichnung Grandma lesion geführt hat. Der Altersgipfel liegt im Durchschnitt zwischen dem 60. und 70. Lebensjahr, wobei die makrozystische Variante tendenziell bei jüngeren Patienten und häufiger bei Männern vorkommt. Die Mehrzahl der Tumoren tritt sporadisch auf, jedoch besteht eine starke Assoziation mit dem von-Hippel-Lindau-Syndrom; etwa 60 bis 80 Prozent dieser Patienten weisen seröse Zystadenome auf. Klinisch sind die meisten Patienten asymptomatisch, und der Tumor wird oft als Zufallsbefund entdeckt. Bei größeren Tumoren kann es zu unspezifischen Symptomen wie Druckgefühl im Oberbauch oder Schmerzen kommen. Ein Ikterus ist selten, kann aber bei Lokalisation im Pankreaskopf durch Kompression der Gallenwege auftreten,,.
+Das seröse Zystadenom ist ein gutartiger, primär zystischer Tumor des Pankreas. Es macht etwa 1 bis 2 Prozent aller exokrinen Pankreastumoren aus und tritt überwiegend bei Frauen auf (Geschlechterverhältnis etwa 4:1 zugunsten der Frauen), was zur Bezeichnung Grandma lesion geführt hat. Der Altersgipfel liegt im Durchschnitt zwischen dem 60. und 70. Lebensjahr, wobei die makrozystische Variante tendenziell bei jüngeren Patienten und häufiger bei Männern vorkommt. Die Mehrzahl der [[Pankreas_2_Tumoren|Tumoren]] tritt sporadisch auf, jedoch besteht eine starke Assoziation mit dem von-Hippel-Lindau-Syndrom; etwa 60 bis 80 Prozent dieser Patienten weisen seröse Zystadenome auf. Klinisch sind die meisten Patienten asymptomatisch, und der Tumor wird oft als Zufallsbefund entdeckt. Bei größeren [[Pankreas_2_Tumoren|Tumoren]] kann es zu unspezifischen Symptomen wie Druckgefühl im Oberbauch oder Schmerzen kommen. Ein Ikterus ist selten, kann aber bei Lokalisation im Pankreaskopf durch Kompression der Gallenwege auftreten,,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -29,7 +29,7 @@ Das seröse Zystadenom ist ein gutartiger, primär zystischer Tumor des Pankreas
 ### Zu welchen morphologischen Veränderungen kommt es?
  Charakteristisch ist eine gut abgrenzbare, lobulierte Raumforderung. Beim mikrozystischen Typ finden sich zahllose kleine Zysten (oft unter 2 cm, teils millimetergroß). Pathognomonisch, aber nur in etwa 20 bis 30 Prozent der Fälle vorhanden, ist eine zentrale, sternförmige Narbe, die oft Verkalkungen (Sunburst-Phänomen) aufweist. Ein entscheidendes Merkmal zur Abgrenzung von anderen zystischen Läsionen (wie IPMN) ist das Fehlen einer Kommunikation mit dem Pankreasgangsystem. 
 ### Zu welchen Komplikationen kann es kommen?
- Komplikationen sind selten, können aber durch lokales Größenwachstum entstehen und umfassen Kompression benachbarter Strukturen wie des Gallengangs (Ikterus) oder des Duodenums. Eine maligne Entartung zum serösen Zystadenokarzinom ist extrem selten und wird in der Literatur oft als anekdotisch beschrieben,,,.
+ Komplikationen sind selten, können aber durch lokales Größenwachstum entstehen und umfassen Kompression benachbarter Strukturen wie des Gallengangs (Ikterus) oder des Duodenums. Eine [[Knochentumoren_2_Maligne|maligne]] Entartung zum serösen Zystadenokarzinom ist extrem selten und wird in der Literatur oft als anekdotisch beschrieben,,,.
 
 ## Sonografie
  
@@ -38,12 +38,12 @@ Das seröse Zystadenom ist ein gutartiger, primär zystischer Tumor des Pankreas
 ### Was kann man nicht sehen?
  Die zentrale Narbe und feine Verkalkungen sind sonografisch oft schwer zu differenzieren. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Im kontrastverstärkten Ultraschall lässt sich die wabenartige Struktur und die Vaskularisation der Septen gut darstellen, was die Abgrenzung zu soliden Tumoren erleichtert,.
+ Im kontrastverstärkten Ultraschall lässt sich die wabenartige Struktur und die Vaskularisation der Septen gut darstellen, was die Abgrenzung zu soliden [[Pankreas_2_Tumoren|Tumoren]] erleichtert,.
 
 ## Röntgen
  
 ### Was sieht man korrelierend in dieser Methode?
- In der konventionellen Abdomenübersicht können bei großen Tumoren zentrale, sternförmige Verkalkungen (Sunburst-Calcification) sichtbar sein. 
+ In der konventionellen Abdomenübersicht können bei großen [[Pankreas_2_Tumoren|Tumoren]] zentrale, sternförmige Verkalkungen (Sunburst-Calcification) sichtbar sein. 
 ### Was kann man nicht sehen?
  Die zystische Natur und die genaue Ausdehnung des Tumors sind im Röntgen nicht beurteilbar. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
@@ -54,7 +54,7 @@ Das seröse Zystadenom ist ein gutartiger, primär zystischer Tumor des Pankreas
 ### Was sieht man korrelierend in dieser Methode?
  Die Computertomografie zeigt eine hypodense, lobulierte Läsion. Beim klassischen mikrozystischen Typ erscheint der Tumor aufgrund der vielen kleinen Zysten oft wie ein Schwamm oder eine Honigwabe. Nach Kontrastmittelgabe reichern die dünnen Septen und die zentrale Narbe an, was dem Tumor ein hypervaskuläres Erscheinungsbild verleihen kann. Zentrale Verkalkungen sind in der CT am besten nachweisbar. 
 ### Was kann man nicht sehen?
- Bei sehr kleinen Zysten kann der Tumor im CT homogen solide wirken und mit hypervaskulären soliden Tumoren (z. B. neuroendokrinen Tumoren) verwechselt werden. 
+ Bei sehr kleinen Zysten kann der Tumor im CT homogen solide wirken und mit hypervaskulären soliden [[Pankreas_2_Tumoren|Tumoren]] (z. B. neuroendokrinen [[Pankreas_2_Tumoren|Tumoren]]) verwechselt werden. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
  Die oligozystische Variante kann morphologisch schwer von muzinösen zystischen Neoplasien oder Pseudozysten zu unterscheiden sein,,.
 
@@ -74,7 +74,7 @@ Muzinöse zystische Neoplasie (MCN): Diese tritt fast ausschließlich bei Frauen
 
 Intraduktale papilläre muzinöse Neoplasie (IPMN): Insbesondere der Seitenast-Typ kann wie ein oligozystisches seröses Zystadenom aussehen. Das entscheidende Unterscheidungsmerkmal ist der Nachweis einer Kommunikation mit dem Pankreasgangsystem bei der IPMN.
 
-Pankreaspseudozyste: In der Anamnese findet sich meist eine akute oder chronische Pankreatitis. Pseudozysten sind in der Regel uniloculär, haben keine echten Septen und enthalten amylasereiche Flüssigkeit.
+Pankreaspseudozyste: In der Anamnese findet sich meist eine akute oder [[Chronische Pankreatitis|chronische Pankreatitis]]. Pseudozysten sind in der Regel uniloculär, haben keine echten Septen und enthalten amylasereiche Flüssigkeit.
 
 Neuroendokriner Tumor (zystisch/solide): Die seltene solide Variante des serösen Zystadenoms kann einen hypervaskulären neuroendokrinen Tumor imitieren.
 
@@ -84,6 +84,10 @@ Solider pseudopapillärer Tumor: Tritt meist bei jungen Frauen auf und zeigt hä
 
 
 Da seröse Zystadenome als benigne gelten, ist bei asymptomatischen Patienten mit typischem Bildbefund eine konservative Überwachung (Watchful Waiting) gerechtfertigt. Eine Operationsindikation besteht bei symptomatischer Größenzunahme, Komplikationen (z. B. Obstruktion) oder wenn die Dignität nicht sicher geklärt werden kann (z. B. Ausschluss eines muzinösen Tumors). Die Wachstumsrate ist in der Regel langsam (etwa 4 mm pro Jahr),.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=7BAspp2zWhk)
 
 # Quellen
 

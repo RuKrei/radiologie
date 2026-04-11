@@ -18,7 +18,7 @@ Tags:
 -----
 Wer? (Epidemiologie und Symptome)
 
-Die chronische Bronchitis ist klinisch definiert als produktiver Husten (Husten und Auswurf) an den meisten Tagen für mindestens drei Monate in zwei aufeinanderfolgenden Jahren, sofern andere Ursachen für den chronischen Husten ausgeschlossen wurden. Sie betrifft überwiegend Raucher und ist häufig mit einem Lungenemphysem vergesellschaftet, was zusammenfassend als chronisch obstruktive Lungenerkrankung (COPD) bezeichnet wird. Klinisch werden oft zwei Patiententypen unterschieden: Der Blue Bloater, bei dem die Bronchitis mit Zyanose und Rechtsherzinsuffizienz im Vordergrund steht, und der Pink Puffer, bei dem das Emphysem dominiert. Die Symptomatik umfasst chronischen Husten, Auswurf und Dyspnoe.
+Die [[Chronische Bronchitis|chronische Bronchitis]] ist klinisch definiert als produktiver Husten (Husten und Auswurf) an den meisten Tagen für mindestens drei Monate in zwei aufeinanderfolgenden Jahren, sofern andere Ursachen für den chronischen Husten ausgeschlossen wurden. Sie betrifft überwiegend Raucher und ist häufig mit einem [[Lungenemphysem|Lungenemphysem]] vergesellschaftet, was zusammenfassend als chronisch obstruktive Lungenerkrankung (COPD) bezeichnet wird. Klinisch werden oft zwei Patiententypen unterschieden: Der Blue Bloater, bei dem die Bronchitis mit Zyanose und [[Rechtsherzinsuffizienz|Rechtsherzinsuffizienz]] im Vordergrund steht, und der Pink Puffer, bei dem das Emphysem dominiert. Die Symptomatik umfasst chronischen Husten, Auswurf und Dyspnoe.
 
 Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -28,7 +28,7 @@ Zu welchen pathologischen Veränderungen kommt es? Pathologisch liegt eine Hyper
 
 Zu welchen morphologischen Veränderungen kommt es? Morphologisches Korrelat ist primär die Verdickung der Bronchialwände und die vermehrte Schleimproduktion. Im Verlauf kann es zu einer Obstruktion der kleinen Atemwege kommen.
 
-Zu welchen Komplikationen kann es kommen? Wichtige Komplikationen sind die akute Exazerbation (AECOPD), die Entwicklung einer pulmonalen Hypertonie und eines Cor pulmonale sowie sekundäre Bronchiektasen. Bei langjährigem Verlauf besteht ein erhöhtes Risiko für Bronchialkarzinome.
+Zu welchen Komplikationen kann es kommen? Wichtige Komplikationen sind die akute Exazerbation (AECOPD), die Entwicklung einer pulmonalen Hypertonie und eines Cor pulmonale sowie sekundäre [[Bronchiektasen|Bronchiektasen]]. Bei langjährigem Verlauf besteht ein erhöhtes Risiko für Bronchialkarzinome.
 
 Sonografie
 
@@ -48,15 +48,15 @@ Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Periphere mikronodul�
 
 CT
 
-Was sieht man korrelierend in dieser Methode? Die CT ist sensitiver und zeigt Bronchialwandverdickungen sowie Schleimretentionen (Mucous Plugging) direkt. Ein Mosaikmuster der Lungendichte (Mosaic Attenuation) kann auf eine Erkrankung der kleinen Atemwege hinweisen, wobei in Exspirationsaufnahmen ein Air Trapping (fehlende Dichtezunahme des Parenchyms) typisch ist. Zentrilobuläre Noduli können Ausdruck einer respiratorischen Bronchiolitis sein.
+Was sieht man korrelierend in dieser Methode? Die CT ist sensitiver und zeigt Bronchialwandverdickungen sowie Schleimretentionen (Mucous Plugging) direkt. Ein Mosaikmuster der Lungendichte (Mosaic Attenuation) kann auf eine Erkrankung der kleinen Atemwege hinweisen, wobei in Exspirationsaufnahmen ein Air Trapping (fehlende Dichtezunahme des Parenchyms) typisch ist. Zentrilobuläre Noduli können Ausdruck einer respiratorischen [[Bronchiolitis|Bronchiolitis]] sein.
 
 Was kann man nicht sehen? Reine funktionelle Obstruktionen ohne morphologisches Korrelat sind auch im CT schwer zu quantifizieren, wenn keine dynamischen Studien (Exspiration) durchgeführt werden.
 
-Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Die Differenzierung zu frühen Bronchiektasen kann fließend sein. Eine Säbelscheidentrachea ist ein zuverlässiges Zeichen für eine COPD und sollte beachtet werden.
+Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Die Differenzierung zu frühen [[Bronchiektasen|Bronchiektasen]] kann fließend sein. Eine Säbelscheidentrachea ist ein zuverlässiges Zeichen für eine COPD und sollte beachtet werden.
 
 MRT
 
-Was sieht man korrelierend in dieser Methode? Die MRT ist derzeit kein Standardverfahren für die chronische Bronchitis. Funktionelle MRT kann Perfusionsdefekte und Ventilationsstörungen visualisieren, die mit der Obstruktion korrelieren.
+Was sieht man korrelierend in dieser Methode? Die MRT ist derzeit kein Standardverfahren für die [[Chronische Bronchitis|chronische Bronchitis]]. Funktionelle MRT kann Perfusionsdefekte und Ventilationsstörungen visualisieren, die mit der Obstruktion korrelieren.
 
 Was kann man nicht sehen? Die morphologische Detailauflösung der feinen Bronchialstrukturen ist der CT unterlegen.
 
@@ -64,13 +64,17 @@ Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Strukturelle Details 
 
 Differenzialdiagnosen
 
-Bronchiektasen: Irreversible Erweiterung der Bronchien, oft mit Siegelring-Zeichen im CT, klinisch meist größere Mengen Sputum. Bronchialkarzinom: Muss bei chronischem Husten und Raucheranamnese ausgeschlossen werden. Tuberkulose: Kann ähnliche klinische Symptome verursachen. Asthma bronchiale: Klinisch durch Reversibilität gekennzeichnet, radiologisch oft nur Überblähung, aber im CT ebenfalls Bronchialwandverdickung möglich. Linksherzinsuffizienz: Kann interstitielle Zeichnungsvermehrung verursachen, meist mit Kerley-Linien und Kardiomegalie.
+[[Bronchiektasen|Bronchiektasen]]: Irreversible Erweiterung der Bronchien, oft mit Siegelring-Zeichen im CT, klinisch meist größere Mengen Sputum. Bronchialkarzinom: Muss bei chronischem Husten und Raucheranamnese ausgeschlossen werden. Tuberkulose: Kann ähnliche klinische Symptome verursachen. Asthma bronchiale: Klinisch durch Reversibilität gekennzeichnet, radiologisch oft nur Überblähung, aber im CT ebenfalls Bronchialwandverdickung möglich. [[Linksherzinsuffizienz|Linksherzinsuffizienz]]: Kann interstitielle Zeichnungsvermehrung verursachen, meist mit Kerley-Linien und Kardiomegalie.
 
 Alles andere
 
 Die radiologische Bildgebung dient bei der chronischen Bronchitis primär dem Ausschluss anderer Ursachen für Husten (z.B. Karzinom, Tuberkulose, Bronchiektasen) und der Detektion von Komplikationen wie Pneumonien bei akuter Exazerbation (AECOPD).
 
 Quellen ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Q7lQpWtEfOg)
+
 # Quellen
 
 - [Radiopaedia Suche: Chronische Bronchitis](https://radiopaedia.org/search?q=chronische+bronchitis)

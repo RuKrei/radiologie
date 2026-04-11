@@ -13,7 +13,7 @@ Tags:
 # Andere Ösophagusmotilitätsstörungen
 
 # Wer? (Epidemiologie und Symptome)
-Heterogene Gruppe. Klinik: Dysphagie ("Korkenzieher-Ösophagus"), retrosternaler Schmerz, Regurgitation.
+Heterogene Gruppe. Klinik: Dysphagie ("Korkenzieher-[[Ösophagus|Ösophagus]]"), retrosternaler Schmerz, Regurgitation.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -25,15 +25,15 @@ Störung der Peristaltik (primär oder sekundär), Hyperkontraktilität oder Hyp
 ### Was sieht man korrelierend in dieser Methode?
 Ösophagusbreischluck (Videocinematografie):
 - **Diffuser Ösophagusspasmus (DES):**
-  - Perlschnurartige Einschnürungen ("Korkenzieher-Ösophagus", "Rosary bead esophagus").
+  - Perlschnurartige Einschnürungen ("Korkenzieher-[[Ösophagus|Ösophagus]]", "Rosary bead esophagus").
   - Tertiäre Kontraktionen (nicht-peristaltisch, simulieren Peristaltik).
-  - WICHTIG: Sphinkter (UÖS) relaxiert *normal* (Abgrenzung zur Achalasie!).
-- **Nussknacker-Ösophagus (Jackhammer esophagus):**
+  - WICHTIG: Sphinkter (UÖS) relaxiert *normal* (Abgrenzung zur [[Achalasie|Achalasie]]!).
+- **Nussknacker-[[Ösophagus|Ösophagus]] (Jackhammer esophagus):**
   - Hohe Amplitude der Peristaltik (>180 mmHg). Radiologisch oft unauffällig oder "hyperkontraktil". Diagnostik: Manometrie!
 - **Sklerodermie (Systemische Sklerose):**
-  - "Glasrohr-Ösophagus" (Dilatation, Aperistaltik in den unteren 2/3 - glatte Muskulatur betroffen).
+  - "Glasrohr-[[Ösophagus|Ösophagus]]" (Dilatation, Aperistaltik in den unteren 2/3 - glatte Muskulatur betroffen).
   - UÖS insuffizient -> massiver Reflux, peptische Stenose, Barrett-Metaplasie.
-  - Oft Luft im Ösophagus im CT ("Air oesophagogram").
+  - Oft Luft im [[Ösophagus|Ösophagus]] im CT ("Air oesophagogram").
 - **Presbyösophagus (Altersösophagus):**
   - Tertiäre Kontraktionen, Dilatation, aber meist asymptomatisch oder milde Dysphagie.
 
@@ -46,6 +46,10 @@ Störung der Peristaltik (primär oder sekundär), Hyperkontraktilität oder Hyp
 Therapie:
 - DES/Nussknacker: Calciumantagonisten, Nitrate, PPI (bei Reflux), Botox, Myotomie (POEM) bei therapierefraktären Fällen.
 - Sklerodermie: Aggressive Refluxtherapie (PPI), Prokinetika.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Rwsin97R37U)
 
 # Quellen
 - [Diffuse oesophageal spasm](https://radiopaedia.org/articles/diffuse-oesophageal-spasm)

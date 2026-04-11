@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=vp30nl7jDvk)
+
 # Quellen
 
 - [Radiopaedia Suche: Schaedel Hirn Trauma](https://radiopaedia.org/search?q=skull+brain+trauma)

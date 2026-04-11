@@ -18,6 +18,10 @@ Tags:
 
 -----
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=QOx8r4jRlSc)
+
 # Quellen
 
 - [Radiopaedia Suche: Untitled](https://radiopaedia.org/search?q=untitled)

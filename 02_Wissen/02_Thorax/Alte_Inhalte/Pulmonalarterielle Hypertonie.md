@@ -18,13 +18,13 @@ Tags:
 -----
 Wer? (Epidemiologie und Symptome)
 
-Die pulmonale Hypertonie ist hämodynamisch definiert als eine Erhöhung des mittleren pulmonalarteriellen Drucks auf 25 mmHg oder mehr in Ruhe,. Die primäre pulmonale Hypertonie betrifft tendenziell Frauen unter 40 Jahren. Zu den klinischen Symptomen gehören Belastungsdyspnoe, reduzierte Belastungstoleranz, Müdigkeit, belastungsabhängige Brustschmerzen und Synkopen,. Im fortgeschrittenen Stadium treten Zeichen der Rechtsherzinsuffizienz wie Ödeme und Hepatomegalie auf. Da die Symptome unspezifisch sind, erfolgt die Diagnose oft verzögert.
+Die pulmonale Hypertonie ist hämodynamisch definiert als eine Erhöhung des mittleren pulmonalarteriellen Drucks auf 25 mmHg oder mehr in Ruhe,. Die primäre pulmonale Hypertonie betrifft tendenziell Frauen unter 40 Jahren. Zu den klinischen Symptomen gehören Belastungsdyspnoe, reduzierte Belastungstoleranz, Müdigkeit, belastungsabhängige Brustschmerzen und Synkopen,. Im fortgeschrittenen Stadium treten Zeichen der [[Rechtsherzinsuffizienz|Rechtsherzinsuffizienz]] wie Ödeme und Hepatomegalie auf. Da die Symptome unspezifisch sind, erfolgt die Diagnose oft verzögert.
 
 Bildgebung (morphologische/ pathologische Veränderungen)
 
 Allgemeines (auf alle Methoden anwendbar)
 
-Zu welchen pathologischen Veränderungen kommt es? Es kommt zu einer dauerhaften Erhöhung des pulmonalarteriellen Drucks, die sekundär zu drei grundlegenden Mechanismen auftreten kann: erhöhter pulmonaler Blutfluss (z. B. Links-Rechts-Shunt), verringerter Querschnitt der pulmonalen Strombahn (z. B. chronische Lungenembolie) oder erhöhter Widerstand gegen den venösen Abfluss (z. B. Mitralklappenerkrankung). Die aktuelle Klassifikation (Nizza) unterteilt die Erkrankung in fünf Gruppen: pulmonalarterielle Hypertonie (PAH), PH infolge von Linksherzerkrankungen, PH infolge von Lungenerkrankungen/Hypoxie, chronisch thrombembolische PH (CTEPH) und PH mit unklaren Mechanismen,.
+Zu welchen pathologischen Veränderungen kommt es? Es kommt zu einer dauerhaften Erhöhung des pulmonalarteriellen Drucks, die sekundär zu drei grundlegenden Mechanismen auftreten kann: erhöhter pulmonaler Blutfluss (z. B. Links-Rechts-Shunt), verringerter Querschnitt der pulmonalen Strombahn (z. B. chronische Lungenembolie) oder erhöhter Widerstand gegen den venösen Abfluss (z. B. Mitralklappenerkrankung). Die aktuelle Klassifikation (Nizza) unterteilt die Erkrankung in fünf Gruppen: [[Pulmonalarterielle Hypertonie|pulmonalarterielle Hypertonie]] (PAH), PH infolge von Linksherzerkrankungen, PH infolge von Lungenerkrankungen/Hypoxie, chronisch thrombembolische PH (CTEPH) und PH mit unklaren Mechanismen,.
 
 Zu welchen morphologischen Veränderungen kommt es? Die pulmonalen Gefäße sind typischerweise zentral dilatiert und peripher verengt (Kalibersprung),. Dies resultiert in einer Rechtsherzbelastung mit Hypertrophie und Dilatation des rechten Ventrikels sowie des rechten Vorhofs.
 
@@ -64,13 +64,17 @@ Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Ein verzögertes Kont
 
 Differenzialdiagnosen
 
-Chronisch thrombembolische pulmonale Hypertonie (CTEPH): Charakterisiert durch Mosaikperfusion, intravasale "webs and bands", Gefäßabbrüche und dilatierte Bronchialarterien,,. In der V/Q-Szintigrafie zeigen sich mismatchende Perfusionsdefekte. Pulmonale venookklusive Erkrankung (PVOD): Zeigt in der CT verdickte Interlobulärsepten, zentrilobuläre Milchglastrübungen und Lymphadenopathie bei normalen oder nur leicht erweiterten Pulmonalvenen,. Eisenmenger-Syndrom: Folge eines lange bestehenden Links-Rechts-Shunts mit Umkehr der Shuntrichtung; oft verbunden mit peripheren Verkalkungen der zentralen Pulmonalarterien,. Lungenparenchymerkrankungen: COPD oder interstitielle Lungenerkrankungen zeigen entsprechende Parenchymveränderungen (Emphysem, Fibrose) als Ursache der PH,.
+Chronisch thrombembolische pulmonale Hypertonie (CTEPH): Charakterisiert durch Mosaikperfusion, intravasale "webs and bands", Gefäßabbrüche und dilatierte Bronchialarterien,,. In der V/Q-Szintigrafie zeigen sich mismatchende Perfusionsdefekte. Pulmonale venookklusive Erkrankung (PVOD): Zeigt in der CT verdickte Interlobulärsepten, zentrilobuläre Milchglastrübungen und Lymphadenopathie bei normalen oder nur leicht erweiterten Pulmonalvenen,. Eisenmenger-Syndrom: Folge eines lange bestehenden Links-Rechts-Shunts mit Umkehr der Shuntrichtung; oft verbunden mit peripheren Verkalkungen der zentralen Pulmonalarterien,. Lungenparenchymerkrankungen: COPD oder [[Interstitielle_Lungenerkrankungen|interstitielle Lungenerkrankungen]] zeigen entsprechende Parenchymveränderungen (Emphysem, Fibrose) als Ursache der PH,.
 
 Alles andere
 
-Bei der Beurteilung der pulmonalen Hypertonie ist auf eine Dilatation der Vena cava inferior und der Lebervenen sowie auf Perikardergüsse zu achten, die Zeichen einer Rechtsherzinsuffizienz sein können. Die Dual-Energy-CT kann Jod-Verteilungskarten (Perfusionskarten) erstellen, die bei CTEPH segmentale Defekte zeigen, während bei idiopathischer PAH eher diffuse, fleckige Defekte auftreten,,.
+Bei der Beurteilung der pulmonalen Hypertonie ist auf eine Dilatation der Vena cava inferior und der Lebervenen sowie auf Perikardergüsse zu achten, die Zeichen einer [[Rechtsherzinsuffizienz|Rechtsherzinsuffizienz]] sein können. Die Dual-Energy-CT kann Jod-Verteilungskarten (Perfusionskarten) erstellen, die bei CTEPH segmentale Defekte zeigen, während bei idiopathischer PAH eher diffuse, fleckige Defekte auftreten,,.
 
 Quellen ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=mt0ZK64zmdk)
+
 # Quellen
 
 - [Radiopaedia Suche: Pulmonalarterielle Hypertonie](https://radiopaedia.org/search?q=pulmonalarterielle+hypertonie)

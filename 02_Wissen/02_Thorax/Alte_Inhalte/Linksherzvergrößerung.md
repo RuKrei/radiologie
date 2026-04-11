@@ -31,7 +31,7 @@ Zu welchen pathologischen Veränderungen kommt es? Es werden zwei pathologische 
 
 Zu welchen morphologischen Veränderungen kommt es? Der linke Ventrikel verändert seine Form von einer physiologischen Ellipse hin zu einer sphärischen Konfiguration bei Dilatation oder zeigt eine reine Wandverdickung bei konzentrischer Hypertrophie. Der linke Vorhof dehnt sich nach posterior und lateral aus.
 
-Zu welchen Komplikationen kann es kommen? Die wichtigste Folge ist die Linksherzinsuffizienz mit pulmonalvenöser Stauung, interstitiellem und alveolärem Lungenödem sowie Pleuraergüssen. Weitere Komplikationen umfassen Arrhythmien (insb. Vorhofflimmern bei LA-Dilatation) und die Bildung von Thromben, insbesondere im linken Herzohr oder bei Aneurysmen im Ventrikel.
+Zu welchen Komplikationen kann es kommen? Die wichtigste Folge ist die [[Linksherzinsuffizienz|Linksherzinsuffizienz]] mit pulmonalvenöser Stauung, interstitiellem und alveolärem Lungenödem sowie Pleuraergüssen. Weitere Komplikationen umfassen Arrhythmien (insb. Vorhofflimmern bei LA-Dilatation) und die Bildung von Thromben, insbesondere im linken Herzohr oder bei Aneurysmen im Ventrikel.
 
 ## Sonografie
 
@@ -72,12 +72,16 @@ Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Diffus verteilte Fibr
 # Differenzialdiagnosen
 
 
-Perikarderguss: Führt im Röntgen zur Bocksbeutelform bei oft fehlender pulmonaler Stauung und rascher Größenänderung im Verlauf. Rechtsherzvergrößerung: Führt im Röntgen zur Anhebung der Herzspitze und Einengung des Retrosternalraums in der Seitaufnahme. In der p.a.-Aufnahme kann der rechte Ventrikel randbildend werden. Mediastinale Raumforderungen: Können die Herzkontur überlagern oder verdrängen. Thoraxdeformitäten: Pectus excavatum verlagert das Herz nach links und dorsal. Epikardiales Fettpolster: Kann eine Verbreiterung der Herzsilhouette vortäuschen.
+Perikarderguss: Führt im Röntgen zur Bocksbeutelform bei oft fehlender pulmonaler Stauung und rascher Größenänderung im Verlauf. [[Rechtsherzvergrößerung|Rechtsherzvergrößerung]]: Führt im Röntgen zur Anhebung der Herzspitze und Einengung des Retrosternalraums in der Seitaufnahme. In der p.a.-Aufnahme kann der rechte Ventrikel randbildend werden. Mediastinale Raumforderungen: Können die Herzkontur überlagern oder verdrängen. Thoraxdeformitäten: Pectus excavatum verlagert das Herz nach links und dorsal. Epikardiales Fettpolster: Kann eine Verbreiterung der Herzsilhouette vortäuschen.
 
 # Alles andere
 
 
-Bei der Beurteilung einer Linksherzvergrößerung im Röntgenbild ist stets auf begleitende Zeichen der pulmonalvenösen Hypertonie zu achten: Kranialisation der Gefäße, Unschärfe der Hili, Kerley-Linien (interstitielles Ödem) und Pleuraergüsse. Ein vergrößerter linker Vorhof kann den linken Hauptbronchus anheben und die Karina spreizen.
+Bei der Beurteilung einer [[Linksherzvergrößerung|Linksherzvergrößerung]] im Röntgenbild ist stets auf begleitende Zeichen der pulmonalvenösen Hypertonie zu achten: Kranialisation der Gefäße, Unschärfe der Hili, Kerley-Linien (interstitielles Ödem) und Pleuraergüsse. Ein vergrößerter linker Vorhof kann den linken Hauptbronchus anheben und die Karina spreizen.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=WchsqsacEN8)
 
 # Quellen
 

@@ -20,18 +20,18 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Gallenblasensteine (Cholezystolithiasis) kommen in Europa bei etwa 10 bis 15 Prozent der Bevölkerung vor, wobei sie häufig (in 10 bis 20 Prozent der Fälle) als Zufallsbefund entdeckt werden. Frauen sind etwa doppelt so häufig betroffen wie Männer; nach dem 50. Lebensjahr liegt die Prävalenz bei Frauen bei 25 bis 30 Prozent. Der Altersgipfel liegt meist jenseits des 40. Lebensjahres. Zu den prädisponierenden Faktoren zählen Übergewicht, mehrere Schwangerschaften, genetische Disposition, Diabetes mellitus und Gallensäureverlustsyndrome (z. B. bei Morbus Crohn),. Man unterscheidet Cholesterinsteine (75–80 Prozent) und Pigmentsteine (20–25 Prozent). Klinisch werden nur etwa 15 bis 20 Prozent der Steinträger im Laufe ihres Lebens symptomatisch. Typische Beschwerden sind postprandiales Druckgefühl oder dumpfe Schmerzen im rechten Oberbauch, häufig ausgelöst durch fetthaltige Speisen oder Kaffee. Gallenkoliken entstehen meist durch einen passageren Verschluss des Ductus cysticus.
+Gallenblasensteine (Cholezystolithiasis) kommen in Europa bei etwa 10 bis 15 Prozent der Bevölkerung vor, wobei sie häufig (in 10 bis 20 Prozent der Fälle) als Zufallsbefund entdeckt werden. Frauen sind etwa doppelt so häufig betroffen wie Männer; nach dem 50. Lebensjahr liegt die Prävalenz bei Frauen bei 25 bis 30 Prozent. Der Altersgipfel liegt meist jenseits des 40. Lebensjahres. Zu den prädisponierenden Faktoren zählen Übergewicht, mehrere Schwangerschaften, genetische Disposition, Diabetes mellitus und Gallensäureverlustsyndrome (z. B. bei [[Morbus Crohn|Morbus Crohn]]),. Man unterscheidet Cholesterinsteine (75–80 Prozent) und Pigmentsteine (20–25 Prozent). Klinisch werden nur etwa 15 bis 20 Prozent der Steinträger im Laufe ihres Lebens symptomatisch. Typische Beschwerden sind postprandiales Druckgefühl oder dumpfe Schmerzen im rechten Oberbauch, häufig ausgelöst durch fetthaltige Speisen oder Kaffee. Gallenkoliken entstehen meist durch einen passageren Verschluss des Ductus cysticus.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
 ## Allgemeines (auf alle Methoden anwendbar)
  
 ### Zu welchen morphologischen Veränderungen kommt es?
- Es finden sich intraluminale, wandständige Konkremente in der Gallenblase. Bei Entzündungen (Cholezystitis) kommt es oft zu einer Verdickung der Gallenblasenwand.
+ Es finden sich intraluminale, wandständige Konkremente in der Gallenblase. Bei [[Pankreas_1_Entzündungen|Entzündungen]] (Cholezystitis) kommt es oft zu einer Verdickung der Gallenblasenwand.
 
 
 ### Zu welchen Komplikationen kann es kommen?
- Häufigste Komplikation ist die akute Cholezystitis, die in über 90 Prozent der Fälle durch Steine verursacht wird. Weitere Komplikationen sind der Gallenblasenhydrops, Perforationen, biliäre Pankreatitis und Leberabszesse. Das Mirizzi-Syndrom bezeichnet eine Kompression des Ductus hepaticus communis durch einen im Zystikus oder Gallenblasenhals impaktierten Stein,. Chronische Reizung kann zur Porzellangallenblase (Verkalkung der Wand) führen, die ein erhöhtes Karzinomrisiko birgt,. Ein Gallensteinileus entsteht durch Perforation eines großen Steins in den Darm (cholezystoenterische Fistel) mit Obstruktion meist im terminalen Ileum,.
+ Häufigste Komplikation ist die [[Akute Cholezystitis|akute Cholezystitis]], die in über 90 Prozent der Fälle durch Steine verursacht wird. Weitere Komplikationen sind der Gallenblasenhydrops, Perforationen, biliäre Pankreatitis und Leberabszesse. Das Mirizzi-Syndrom bezeichnet eine Kompression des Ductus hepaticus communis durch einen im Zystikus oder Gallenblasenhals impaktierten Stein,. Chronische Reizung kann zur Porzellangallenblase (Verkalkung der Wand) führen, die ein erhöhtes Karzinomrisiko birgt,. Ein Gallensteinileus entsteht durch Perforation eines großen Steins in den Darm (cholezystoenterische Fistel) mit Obstruktion meist im terminalen Ileum,.
 
 ## Sonografie
  
@@ -68,7 +68,11 @@ Adenomyomatose: Zeigt intramurale Divertikel (Rokitansky-Aschoff-Sinus), die Ste
 # Alles andere
 
 
-Bei symptomatischen Gallensteinen (symptomatische Cholezystolithiasis) oder akuter/chronischer Cholezystitis ist die laparoskopische Cholezystektomie der therapeutische Goldstandard. Bei 10 Prozent der symptomatischen Gallenblasensteinträger finden sich gleichzeitig Steine in den Gallengängen (Choledocholithiasis).
+Bei symptomatischen Gallensteinen (symptomatische Cholezystolithiasis) oder akuter/chronischer Cholezystitis ist die laparoskopische Cholezystektomie der therapeutische Goldstandard. Bei 10 Prozent der symptomatischen Gallenblasensteinträger finden sich gleichzeitig Steine in den Gallengängen ([[Choledocholithiasis|Choledocholithiasis]]).
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=344cf9mxeCs)
 
 # Quellen
 

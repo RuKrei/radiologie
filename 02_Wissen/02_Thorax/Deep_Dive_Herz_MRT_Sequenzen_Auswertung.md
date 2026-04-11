@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=G_VCwML0Vog)
+
 # Quellen
 
 - [Radiopaedia Suche: Deep Dive Herz MRT Sequenzen Auswertung](https://radiopaedia.org/search?q=deep+dive+heart+mrt+sequenzen+auswertung)

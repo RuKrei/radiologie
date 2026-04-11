@@ -21,7 +21,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Das Sarcoma botryoides der Gallenwege ist eine embryonale Variante des Rhabdomyosarkoms. Obwohl Rhabdomyosarkome bei Kindern an Kopf, Hals und im Urogenitaltrakt häufiger sind, ist die Lokalisation in den Gallenwegen mit circa 1 Prozent selten. Dennoch stellt es den häufigsten malignen Tumor der Gallenwege im Kindesalter dar. Der Altersgipfel liegt zwischen 1 und 9 Jahren (Median 3 Jahre), wobei etwa 2 Prozent der Tumoren bereits bei Geburt bestehen. Es zeigt sich ein leichtes Überwiegen des männlichen Geschlechts. Ein prädisponierender Faktor ist die Assoziation mit Choledochuszysten. Klinisch dominieren ein obstruktiv bedingter Ikterus, acholischer Stuhl und eine Hepatomegalie. Gelegentlich treten Übelkeit, Erbrechen und Fieber auf,,.
+Das [[Sarcoma botryoides der Gallenwege|Sarcoma botryoides der Gallenwege]] ist eine embryonale Variante des Rhabdomyosarkoms. Obwohl Rhabdomyosarkome bei Kindern an Kopf, Hals und im Urogenitaltrakt häufiger sind, ist die Lokalisation in den Gallenwegen mit circa 1 Prozent selten. Dennoch stellt es den häufigsten malignen Tumor der Gallenwege im Kindesalter dar. Der Altersgipfel liegt zwischen 1 und 9 Jahren (Median 3 Jahre), wobei etwa 2 Prozent der [[Pankreas_2_Tumoren|Tumoren]] bereits bei Geburt bestehen. Es zeigt sich ein leichtes Überwiegen des männlichen Geschlechts. Ein prädisponierender Faktor ist die Assoziation mit Choledochuszysten. Klinisch dominieren ein obstruktiv bedingter Ikterus, acholischer Stuhl und eine Hepatomegalie. Gelegentlich treten Übelkeit, Erbrechen und Fieber auf,,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -73,7 +73,7 @@ Das Sarcoma botryoides der Gallenwege ist eine embryonale Variante des Rhabdomyo
 # Differenzialdiagnosen
 
 
-Choledochuszyste mit Sludge: Zeigt dilatierte extra- oder intrahepatische Gallengangsabschnitte ohne Nachweis einer obstruierenden Ursache und ist häufig mit einer anomalen pankreatikobiliären Insertion assoziiert.
+[[Choledochuszyste|Choledochuszyste]] mit Sludge: Zeigt dilatierte extra- oder intrahepatische Gallengangsabschnitte ohne Nachweis einer obstruierenden Ursache und ist häufig mit einer anomalen pankreatikobiliären Insertion assoziiert.
 
 Intraduktale Steine: Diese sind bei Kindern sehr selten. Die Klinik ist durch eine Obstruktion mit Ikterus und Fieber gekennzeichnet.
 
@@ -81,6 +81,10 @@ Intraduktale Steine: Diese sind bei Kindern sehr selten. Die Klinik ist durch ei
 
 
 Ein typischer Fehler ist die Interpretation der intraduktalen Aussparungen als Konkremente, was oft zu frustranen Versuchen einer endoskopischen Steinextraktion führt. Für den zuweisenden Kollegen sind die Ausdehnung der Erkrankung in die intrahepatischen Gangabschnitte, eine Infiltration der Leber sowie Fernmetastasen relevant. In der PET/PET-CT zeigt sich eine erhöhte metabolische Aktivität der verdickten Wand.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=LY_-ky8pVqQ)
 
 # Quellen
 

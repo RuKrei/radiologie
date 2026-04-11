@@ -13,16 +13,16 @@ Tags:
 # Ösophagusvarizen
 
 # Wer? (Epidemiologie und Symptome)
-**Portale Hypertension** (Leberzirrhose >90%, Pfortaderthrombose).
+**Portale Hypertension** ([[Leberzirrhose|Leberzirrhose]] >90%, Pfortaderthrombose).
 Umgehungskreislauf über V. gastrica sinistra -> Ösophagusvenen (V. azygos/V. hemiazygos) -> V. cava superior.
-Klinik: Meist asymptomatisch bis zur Blutung.
-Blutung: Hämatemesis (kaffeesatzartig oder frisch rot), Meläna, Schock. **Lebensbedrohlich!** (Mortalität bei Erstblutung 15-20%).
+Klinik: Meist asymptomatisch bis zur [[Schlaganfall_2_Blutung|Blutung]].
+[[Schlaganfall_2_Blutung|Blutung]]: Hämatemesis (kaffeesatzartig oder frisch rot), Meläna, Schock. **Lebensbedrohlich!** (Mortalität bei Erstblutung 15-20%).
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
 ## Allgemeines (auf alle Methoden anwendbar)
 ### Zu welchen pathologischen Veränderungen kommt es?
-Dilatation submuköser Venen im distalen Ösophagus und Magenfundus.
+Dilatation submuköser Venen im distalen [[Ösophagus|Ösophagus]] und Magenfundus.
 ### Zu welchen morphologischen Veränderungen kommt es?
 Krampfaderartige, gewundene Gefäße, die in das Lumen vorwölben.
 
@@ -32,7 +32,7 @@ Krampfaderartige, gewundene Gefäße, die in das Lumen vorwölben.
 - **Serpiginöse Füllungsdefekte** (wurmartig, perlschnurartig).
 - Veränderung mit Atmung/Valsalva (Größenzunahme).
 - Verschwinden bei vollständiger Füllung/Distension (Daher Doppelkontrast und Relaxantien wichtig!).
-- "Downhill varices" (obere Einflussstauung, V. cava superior Syndrom): Varizen im *oberen* Ösophagus.
+- "Downhill varices" (obere Einflussstauung, V. cava superior Syndrom): Varizen im *oberen* [[Ösophagus|Ösophagus]].
 
 ### Was kann man nicht sehen?
 Kleine Varizen (Grad I). Magenfundusvarizen oft schwer abgrenzbar.
@@ -44,7 +44,7 @@ Können als Ösophagitis oder Karzinom (variköses Karzinom) fehgedeutet werden.
 KM-CT (portovenöse Phase):
 - Dilatierte, geschlängelte Gefäße in der distalen Ösophaguswand und perigastrisch.
 - Zeichen der portalen Hypertension: Splenomegalie, Aszites, Zirrhose, rekanalisierte V. umbilicalis, andere Kollateralen (splenorenal).
-- Blutungsquelle: Aktive Extravasation (selten, da Blutung in das Lumen erfolgt und Endoskopie primär ist).
+- Blutungsquelle: Aktive Extravasation (selten, da [[Schlaganfall_2_Blutung|Blutung]] in das Lumen erfolgt und Endoskopie primär ist).
 
 ### Was kann man nicht sehen?
 Kleine submuköse Varizen.
@@ -73,6 +73,10 @@ Klassifikation (Paquet):
 - Grad II: Einzelne Stränge, nicht konfluierend.
 - Grad III: Konfluierende Stränge, Lumeneinengung.
 - Grad IV: Gefäßkonvolute, "Kirschen", Erosionen (Red Spots).
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=hFje-f6y9kQ)
 
 # Quellen
 - [Oesophageal varices](https://radiopaedia.org/articles/oesophageal-varices)

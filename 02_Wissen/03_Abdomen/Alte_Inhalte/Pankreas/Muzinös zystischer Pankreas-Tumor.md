@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Der muzinöse zystische Pankreastumor (MCN) ist ein primär zystischer Tumor mit malignem Potenzial. Er macht etwa 1 bis 2 Prozent aller exokrinen Tumoren des Pankreas aus. Betroffen sind fast ausschließlich Frauen (über 99 Prozent), wobei das Vorhandensein von ovariellem Stroma im Tumor histologisch gefordert wird,. Der Altersgipfel liegt durchschnittlich zwischen 40 und 50 Jahren,. Die Tumoren sind häufig im Pankreaskörper und Pankreasschwanz lokalisiert,. Klinisch präsentieren sich Patienten bei größeren Tumoren mit Druckgefühl, Bauchschmerzen, Inappetenz und Gewichtsverlust. Etwa 75 Prozent der Tumoren sind zum Zeitpunkt der Diagnose noch gutartig.
+Der muzinöse zystische Pankreastumor (MCN) ist ein primär zystischer Tumor mit malignem Potenzial. Er macht etwa 1 bis 2 Prozent aller exokrinen [[Pankreas_2_Tumoren|Tumoren]] des Pankreas aus. Betroffen sind fast ausschließlich Frauen (über 99 Prozent), wobei das Vorhandensein von ovariellem Stroma im Tumor histologisch gefordert wird,. Der Altersgipfel liegt durchschnittlich zwischen 40 und 50 Jahren,. Die [[Pankreas_2_Tumoren|Tumoren]] sind häufig im Pankreaskörper und Pankreasschwanz lokalisiert,. Klinisch präsentieren sich Patienten bei größeren [[Pankreas_2_Tumoren|Tumoren]] mit Druckgefühl, Bauchschmerzen, Inappetenz und Gewichtsverlust. Etwa 75 Prozent der [[Pankreas_2_Tumoren|Tumoren]] sind zum Zeitpunkt der Diagnose noch gutartig.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -29,9 +29,9 @@ Der muzinöse zystische Pankreastumor (MCN) ist ein primär zystischer Tumor mit
 ### Zu welchen pathologischen Veränderungen kommt es?
  Es handelt sich um schleimhaltige Zysten, die von ovarienartigem Stroma umgeben sind. 
 ### Zu welchen morphologischen Veränderungen kommt es?
- Der Tumor ist meist gut abgrenzbar mit glatter Oberfläche und Septierungen. Er setzt sich in der Regel aus mehreren großen Zysten zusammen (über 2 cm, oligozystisch/makrozystisch),. Die Zystenwand kann dick sein. Ein entscheidendes Merkmal ist, dass keine Kommunikation mit dem Pankreasgangsystem besteht,. Gelegentlich finden sich periphere eierschalenartige Verkalkungen, die bei malignen Tumoren häufiger auftreten,. 
+ Der Tumor ist meist gut abgrenzbar mit glatter Oberfläche und Septierungen. Er setzt sich in der Regel aus mehreren großen Zysten zusammen (über 2 cm, oligozystisch/makrozystisch),. Die Zystenwand kann dick sein. Ein entscheidendes Merkmal ist, dass keine Kommunikation mit dem Pankreasgangsystem besteht,. Gelegentlich finden sich periphere eierschalenartige Verkalkungen, die bei malignen [[Pankreas_2_Tumoren|Tumoren]] häufiger auftreten,. 
 ### Zu welchen Komplikationen kann es kommen?
- Es kann zu einer Kompression des Gallengangs und des Pankreasgangs kommen. Die wichtigste Komplikation ist die maligne Entartung zum Zystadenokarzinom. Hinweise auf eine Malignität sind papilläre Proliferationen, Gefäßinfiltration und ein hypervaskuläres Muster.
+ Es kann zu einer Kompression des Gallengangs und des Pankreasgangs kommen. Die wichtigste Komplikation ist die [[Knochentumoren_2_Maligne|maligne]] Entartung zum Zystadenokarzinom. Hinweise auf eine Malignität sind papilläre Proliferationen, Gefäßinfiltration und ein hypervaskuläres Muster.
 
 ## Sonografie
  
@@ -54,7 +54,7 @@ Der muzinöse zystische Pankreastumor (MCN) ist ein primär zystischer Tumor mit
 ## CT
  
 ### Was sieht man korrelierend in dieser Methode?
- Im CT stellen sich unilokuläre oder wenig septierte, meist große Tumoren mit glatter Kontur dar. Es zeigt sich eine Kontrastmittelaufnahme in der Zystenwand und in den Septen. Manchmal sind eierschalenförmige Verkalkungen in der Wand erkennbar. 
+ Im CT stellen sich unilokuläre oder wenig septierte, meist große [[Pankreas_2_Tumoren|Tumoren]] mit glatter Kontur dar. Es zeigt sich eine Kontrastmittelaufnahme in der Zystenwand und in den Septen. Manchmal sind eierschalenförmige Verkalkungen in der Wand erkennbar. 
 ### Was kann man nicht sehen?
  Die Binnenstruktur und der Inhalt sind im Vergleich zur MRT oft weniger gut differenzierbar. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
@@ -67,7 +67,7 @@ Der muzinöse zystische Pankreastumor (MCN) ist ein primär zystischer Tumor mit
 ### Was kann man nicht sehen?
  Verkalkungen sind in der MRT generell schlechter zu erkennen als im CT. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Kontrastmittel anreichernde Knoten im Inneren der zystischen Tumoren sind Hinweise für eine maligne Entartung.
+ Kontrastmittel anreichernde Knoten im Inneren der zystischen Tumoren sind Hinweise für eine [[Knochentumoren_2_Maligne|maligne]] Entartung.
 
 # Differenzialdiagnosen
 
@@ -84,6 +84,10 @@ Solider papillärer Tumor: Tritt überwiegend bei jungen Frauen auf, zeigt solid
 
 
 Aufgrund des malignen Potenzials (ca. 18 Prozent) besteht bei der muzinös-zystischen Neoplasie die Indikation zur onkologisch-chirurgischen Resektion,. Die Prognose ist gut, wenn der Tumor komplett entfernt werden kann (5-Jahres-Überlebensrate über 95 Prozent). Eine Punktion sollte nur bei Verdacht auf Malignität oder zur Differenzialdiagnose erfolgen, wobei der Zysteninhalt typischerweise muzinös ist, erhöhte Tumormarker (CEA) und keine erhöhte Amylase aufweist,. Bei Schwangeren wurde eine erhöhte Wachstumsrate beobachtet.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=smObkY2Lato)
 
 # Quellen
 

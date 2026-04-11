@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Die akute mesenteriale Ischämie ist ein viszeral- und gefäßchirurgischer Notfall mit hoher Letalität, der durch eine Minderperfusion des Darms verursacht wird. Man unterscheidet die okklusive Form (ca. 75 Prozent), verursacht durch arterielle Embolien (meist A. mesenterica superior), arterielle Thrombosen oder Mesenterialvenenthrombosen, von der nicht okklusiven Form (NOMI, ca. 25 Prozent), die durch Hypovolämie, Hypotonie oder Medikamente ausgelöst wird. Die Erkrankung betrifft etwa 1 Prozent der Patienten mit akutem Abdomen, wobei die Inzidenz mit dem Alter steigt, insbesondere ab dem 6. Lebensjahrzehnt. Männer und Frauen sind etwa gleich häufig betroffen, wobei chronische Formen häufiger bei Frauen auftreten,. Wichtigste Risikofaktoren sind kardiale Erkrankungen wie Vorhofflimmern (für Embolien), Arteriosklerose (für Thrombosen) sowie Schockzustände und vasoaktive Medikamente (für NOMI),. Das klinische Bild ist oft dramatisch mit plötzlichen stärksten Schmerzen (bei Embolie), Übelkeit, Erbrechen und Durchfällen, die blutig sein können,. Charakteristisch ist das sogenannte freie Intervall (fauler Frieden), bei dem nach initialem Schmerz eine scheinbare Besserung eintritt, bevor es zur Verschlechterung durch Darmnekrose und Peritonitis kommt.
+Die [[Akute mesenteriale [[Schlaganfall_1_Ischämie|Ischämie]]|akute mesenteriale [[Schlaganfall_1_Ischämie|Ischämie]]]] ist ein viszeral- und gefäßchirurgischer Notfall mit hoher Letalität, der durch eine Minderperfusion des Darms verursacht wird. Man unterscheidet die okklusive Form (ca. 75 Prozent), verursacht durch arterielle Embolien (meist A. mesenterica superior), arterielle Thrombosen oder Mesenterialvenenthrombosen, von der nicht okklusiven Form (NOMI, ca. 25 Prozent), die durch Hypovolämie, Hypotonie oder Medikamente ausgelöst wird. Die Erkrankung betrifft etwa 1 Prozent der Patienten mit akutem Abdomen, wobei die Inzidenz mit dem Alter steigt, insbesondere ab dem 6. Lebensjahrzehnt. Männer und Frauen sind etwa gleich häufig betroffen, wobei chronische Formen häufiger bei Frauen auftreten,. Wichtigste Risikofaktoren sind kardiale Erkrankungen wie Vorhofflimmern (für Embolien), Arteriosklerose (für Thrombosen) sowie Schockzustände und vasoaktive Medikamente (für NOMI),. Das klinische Bild ist oft dramatisch mit plötzlichen stärksten Schmerzen (bei Embolie), Übelkeit, Erbrechen und Durchfällen, die blutig sein können,. Charakteristisch ist das sogenannte freie Intervall (fauler Frieden), bei dem nach initialem Schmerz eine scheinbare Besserung eintritt, bevor es zur Verschlechterung durch Darmnekrose und Peritonitis kommt.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -29,7 +29,7 @@ Die akute mesenteriale Ischämie ist ein viszeral- und gefäßchirurgischer Notf
 ### Zu welchen pathologischen Veränderungen kommt es?
  Es kommt zur Unterbrechung der Blutversorgung, was zu Ödemen, Hämorrhagien und schließlich zur transmuralen Nekrose der Darmwand führt. 
 ### Zu welchen morphologischen Veränderungen kommt es?
- Typisch sind Darmwandverdickungen, dilatierte Darmschlingen (Dünndarm über 3 cm), mesenteriales Ödem und bei Fortschreiten intramurales Gas (Pneumatosis intestinalis) sowie Gas in den Mesenterialvenen und der Pfortader. 
+ Typisch sind Darmwandverdickungen, dilatierte Darmschlingen ([[Dünndarm|Dünndarm]] über 3 cm), mesenteriales Ödem und bei Fortschreiten intramurales Gas ([[Pneumatosis intestinalis|Pneumatosis intestinalis]]) sowie Gas in den Mesenterialvenen und der Pfortader. 
 ### Zu welchen Komplikationen kann es kommen?
  Die schwerwiegendsten Folgen sind Darmgangrän, Perforation, Sepsis und Tod.
 
@@ -45,20 +45,20 @@ Die akute mesenteriale Ischämie ist ein viszeral- und gefäßchirurgischer Notf
 ## Röntgen
  
 ### Was sieht man korrelierend in dieser Methode?
- Konventionelle Röntgenaufnahmen sind in frühen Phasen oft unauffällig oder zeigen unspezifische Zeichen wie einen paralytischen Ileus. 
+ Konventionelle Röntgenaufnahmen sind in frühen Phasen oft unauffällig oder zeigen unspezifische Zeichen wie einen paralytischen [[Ileus|Ileus]]. 
 ### Was kann man nicht sehen?
  Die Gefäßverschlüsse selbst sind nicht darstellbar. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- In späten Stadien können Pneumatosis intestinalis (Gas in der Darmwand) oder freie Luft bei Perforation sichtbar sein. Das Fehlen dieser Zeichen schließt eine Ischämie keinesfalls aus.
+ In späten Stadien können [[Pneumatosis intestinalis|Pneumatosis intestinalis]] (Gas in der Darmwand) oder freie Luft bei Perforation sichtbar sein. Das Fehlen dieser Zeichen schließt eine [[Schlaganfall_1_Ischämie|Ischämie]] keinesfalls aus.
 
 ## CT
  
 ### Was sieht man korrelierend in dieser Methode?
- Die MDCT mit CT-Angiografie ist der diagnostische Goldstandard (Sensitivität 96 Prozent, Spezifität 94 Prozent). Man sieht den Verschluss oder die Einengung der Mesenterialgefäße (Arterien oder Venen). Die Darmwand zeigt eine verminderte oder fehlende Kontrastmittelanreicherung, was auf eine Minderperfusion hinweist. Bei der NOMI zeigt sich ein spastisches arterielles Gefäßbild mit diffusen Perfusionsstörungen. Ein wichtiges Zeichen ist das water halo oder target sign, bei dem eine hypodense Submukosa von hyperdenser Mukosa und Muskularis umgeben ist. 
+ Die MDCT mit CT-Angiografie ist der diagnostische Goldstandard (Sensitivität 96 Prozent, Spezifität 94 Prozent). Man sieht den Verschluss oder die Einengung der Mesenterialgefäße (Arterien oder Venen). Die Darmwand zeigt eine verminderte oder fehlende Kontrastmittelanreicherung, was auf eine Minderperfusion hinweist. Bei der NOMI zeigt sich ein spastisches arterielles Gefäßbild mit diffusen Perfusionsstörungen. Ein wichtiges Zeichen ist das water halo oder [[Target_Sign|target sign]], bei dem eine hypodense Submukosa von hyperdenser Mukosa und Muskularis umgeben ist. 
 ### Was kann man nicht sehen?
  In frühen Phasen kann der Darm unauffällig erscheinen, bevor Wandveränderungen eintreten. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Pneumatosis intestinalis und Gas im Pfortadersystem sind Warnsignale für eine fortgeschrittene Nekrose,. Portalvenöses Gas sammelt sich typischerweise in der Peripherie der Leber an, im Gegensatz zu biliärem Gas. Eine transiente Ischämie kann sich durch segmentale Wandverdickung und Aszites äußern, die reversibel sind.
+ [[Pneumatosis intestinalis|Pneumatosis intestinalis]] und Gas im Pfortadersystem sind Warnsignale für eine fortgeschrittene Nekrose,. Portalvenöses Gas sammelt sich typischerweise in der Peripherie der Leber an, im Gegensatz zu biliärem Gas. Eine transiente Ischämie kann sich durch segmentale Wandverdickung und Aszites äußern, die reversibel sind.
 
 ## MRT
  
@@ -68,7 +68,7 @@ Die akute mesenteriale Ischämie ist ein viszeral- und gefäßchirurgischer Notf
 # Differenzialdiagnosen
 
 
-Chronisch entzündliche Darmerkrankungen (Morbus Crohn): Zeigen meist eine längere Anamnese, keine akuten Gefäßverschlüsse und typischerweise eine Hyperämie (vermehrte Kontrastmittelaufnahme) der verdickten Wand.
+Chronisch entzündliche Darmerkrankungen ([[Morbus Crohn|Morbus Crohn]]): Zeigen meist eine längere Anamnese, keine akuten Gefäßverschlüsse und typischerweise eine Hyperämie (vermehrte Kontrastmittelaufnahme) der verdickten Wand.
 
 Strangulationsileus: Hier liegt eine mechanische Obstruktion (z.B. Briden, Volvulus) vor, oft mit dem Whirl-Sign der Mesenterialgefäße.
 
@@ -82,6 +82,10 @@ Dünndarmlymphom: Zeigt oft eine verdickte Wand und weites Lumen ohne Perfusions
 
 
 Ein typischer Fehler ist die verzögerte Indikationsstellung zur CT, da die Zeit bis zur Diagnose prognoseentscheidend ist (time is intestine),. Laborchemisch ist Laktat ein Spätmarker und im Frühstadium oft unauffällig. Die Therapie umfasst je nach Ursache die Embolektomie, Revaskularisierung (Bypass, Stent), Antikoagulation (bei Venenthrombose), intraarterielle Gabe von Vasodilatatoren (bei NOMI) und die Resektion von nekrotischen Darmabschnitten,,.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=h76DmXjX8ms)
 
 # Quellen
 

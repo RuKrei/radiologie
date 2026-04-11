@@ -9,3 +9,7 @@ Das [[Arrowhead-Zeichen]] bezeichnet eine fokale Zäkumwandverdickung, die auf d
 
 
 ![[Pasted image 20251217183039.png]]
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=M5mgwhhprio)
+

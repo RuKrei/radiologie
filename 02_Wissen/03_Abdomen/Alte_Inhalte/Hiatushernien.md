@@ -10,7 +10,7 @@ Zuletzt bearbeitet: 2026-02-26
 Zuletzt gelesen: 2026-02-26
 Tags: 
 -----
-# Hiatushernien
+# [[Hiatushernien|Hiatushernien]]
 
 # Wer? (Epidemiologie und Symptome)
 Häufig (bis zu 50% der >50-Jährigen).
@@ -19,7 +19,7 @@ Klassifikation (Akiyama):
 - **Typ I: Axiale Gleithernie** (ca. 90%). Kardia gleitet in den Thorax. Oft asymptomatisch oder Refluxbeschwerden (GERD).
 - **Typ II: Paraösophageale Hernie** (echte Hernie mit Bruchsack). Kardia bleibt infradiaphragmal, Fundus herniert daneben. Gefahr der Inkarzeration/Volvulus! Klinik: Druckgefühl postprandial, Dysphagie, Anämie (Cameron-Ulzera).
 - **Typ III: Mischform** (Axial + Paraösophageal). Häufigste Form der symptomatischen großen Hernien.
-- **Typ IV: Komplexe Hernie** (Upside-down stomach, andere Organe wie Colon/Milz herniieren mit).
+- **Typ IV: Komplexe Hernie** (Upside-down stomach, andere Organe wie Colon/[[Milz|Milz]] herniieren mit).
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -37,7 +37,7 @@ Thorax p.a. / seitlich:
 
 Ösophagusbreischluck / Magen-Darm-Passage (Trendelenburg-Lagerung!):
 - **Typ I:** Schatzki-Ring (B-Ring) oberhalb des Zwerchfells markiert den ÖGÜ -> Hernie. Mukosafalten des Magens ziehen durch den Hiatus.
-- **Typ II:** Fundusblase neben dem distalen Ösophagus. Kardia unterhalb des Zwerchfells.
+- **Typ II:** Fundusblase neben dem distalen [[Ösophagus|Ösophagus]]. Kardia unterhalb des Zwerchfells.
 - **Typ III/IV:** Großer Magenanteil intrathorakal, oft gedreht (Organoaxialer vs. Mesenterioaxialer Volvulus).
 
 ### Was kann man nicht sehen?
@@ -49,7 +49,7 @@ Cameron-Ulzera (lineare Erosionen/Ulkus am Schnürring des Zwerchfells) -> Anäm
 ### Was sieht man korrelierend in dieser Methode?
 - Detaillierte Anatomie des Bruchsacks und Inhalts.
 - Lage der Kardia und des Pylorus (wichtig für Volvulus-Typ).
-- Komplikationen: Inkarzeration, Perforation, Ischämie (Wandverdickung, Pneumatose).
+- Komplikationen: Inkarzeration, Perforation, [[Schlaganfall_1_Ischämie|Ischämie]] (Wandverdickung, Pneumatose).
 - Dehiszenz der Zwerchfellschenkel.
 
 ### Was kann man nicht sehen?
@@ -63,7 +63,7 @@ Im Längsschnitt subxiphoidal: Magenanteil zieht kranial durch den Hiatus.
 Refluxnachweis (Farbdoppler, KM-Sonografie).
 
 # Differenzialdiagnosen
-- [Epiphrenisches Divertikel](https://radiopaedia.org/articles/epiphrenic-diverticulum): Kommuniziert mit Ösophagus, aber Kardia ortständig.
+- [Epiphrenisches Divertikel](https://radiopaedia.org/articles/epiphrenic-diverticulum): Kommuniziert mit [[Ösophagus|Ösophagus]], aber Kardia ortständig.
 - [Lungenabszess](https://radiopaedia.org/articles/lung-abscess): Spiegelbildung im Lungenparenchym, Fieber.
 - [Relaxatio diaphragmatica](https://radiopaedia.org/articles/diaphragmatic-eventration): Zwerchfellhochstand, Magen darunter.
 - [Morgagni-Hernie](https://radiopaedia.org/articles/morgagni-hernia): Retrosternal rechts.
@@ -73,6 +73,10 @@ Refluxnachweis (Farbdoppler, KM-Sonografie).
 Therapie:
 - Typ I: Konservativ (PPI, Gewichtsreduktion). Antirefluxchirurgie (Fundoplicatio) nur bei therapierefraktärem Reflux.
 - Typ II-IV: Operativ (Hiatoraphie + Fundopexie/Gastropexie), da Inkarzerationsrisiko hoch.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Vj7rlCbyEdE)
 
 # Quellen
 - [Hiatus hernia](https://radiopaedia.org/articles/hiatus-hernia)

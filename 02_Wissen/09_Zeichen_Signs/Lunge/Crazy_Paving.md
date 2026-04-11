@@ -1,4 +1,4 @@
-# Crazy Paving
+# [[Crazy_Paving|Crazy Paving]]
 
 ## Definition
 Muster aus Milchglasverdichtungen mit überlagerten verdickten interlobulären Septen.
@@ -25,3 +25,7 @@ Muster aus Milchglasverdichtungen mit überlagerten verdickten interlobulären S
 
 ---
 Tags: #Radiologie #Thorax #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=ECqp_Z63sdI)
+

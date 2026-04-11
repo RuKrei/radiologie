@@ -1,7 +1,7 @@
-# Spinnaker Sail Sign
+# [[Spinnaker_Sail_Sign|Spinnaker Sail Sign]]
 
 ## Definition
-Das Thymusgewebe wird durch Luft im Mediastinum (Pneumomediastinum) von der Herzsilhouette abgehoben und sieht aus wie ein geblähtes Spinnaker-Segel. (Pädiatrie/Neugeborene).
+Das Thymusgewebe wird durch Luft im [[Mediastinum|Mediastinum]] (Pneumomediastinum) von der Herzsilhouette abgehoben und sieht aus wie ein geblähtes Spinnaker-Segel. (Pädiatrie/Neugeborene).
 
 ## Radiologisches Erscheinungsbild
 
@@ -20,3 +20,7 @@ Das Thymusgewebe wird durch Luft im Mediastinum (Pneumomediastinum) von der Herz
 
 ---
 Tags: #Radiologie #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=820uL7y3eqA)
+

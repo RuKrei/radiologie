@@ -1,7 +1,7 @@
-# Whirlpool Sign
+# [[Whirlpool_Sign|Whirlpool Sign]]
 
 ## Definition
-Strudelartige Konfiguration der Mesenterialgefäße bei Volvulus (Dünndarm oder Coecum).
+Strudelartige Konfiguration der Mesenterialgefäße bei Volvulus ([[Dünndarm|Dünndarm]] oder Coecum).
 
 ## Radiologisches Erscheinungsbild
 - Typisches Zeichen in der Bildgebung (Gastrointestinal).
@@ -15,3 +15,7 @@ Strudelartige Konfiguration der Mesenterialgefäße bei Volvulus (Dünndarm oder
 
 ---
 Tags: #Radiologie #Gastrointestinal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=cqZeMSYOKTw)
+

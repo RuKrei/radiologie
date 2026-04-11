@@ -8,7 +8,7 @@ tags:
   - search-pattern
 ---
 
-# Primer Lungenbefundung: Ein strukturierter Search Pattern
+# [[Primer_Lungenbefundung|Primer Lungenbefundung]]: Ein strukturierter Search Pattern
 
 Dieser Primer bietet einen pathologie-orientierten, kompartimentbasierten **Search Pattern** für die HRCT der Lunge. Er basiert auf der offiziellen Nomenklatur der Fleischner Society. Die Systematik arbeitet sich von zentral (Atemwege) nach peripher (Lungenparenchym, Gefäße, Pleura) vor.
 
@@ -17,7 +17,7 @@ Dieser Primer bietet einen pathologie-orientierten, kompartimentbasierten **Sear
 ## 1. Atemwege (Trachea und Bronchialsystem)
 
 ### Zentrale Atemwege (Trachea & Hauptbronchien)
-*   **Grundlegende Beurteilung:** Prüfe auf Lumeneinengungen, Tumoren, Wandverdickungen oder Einrisse.
+*   **Grundlegende Beurteilung:** Prüfe auf Lumeneinengungen, [[Pankreas_2_Tumoren|Tumoren]], Wandverdickungen oder Einrisse.
 *   **Säbelscheidentrachea (Saber-sheath trachea):** Koronare (seitliche) Einengung der Trachea, typischerweise unter Aussparung des extrathorakalen Anteils. Pathognomonisch für schwere chronisch obstruktive Lungenerkrankung (COPD). [Radiopaedia: Saber-sheath trachea](https://radiopaedia.org/articles/saber-sheath-trachea)
 *   **Wandverkalkungen und -verdickungen:**
     *   *Aussparung der Pars membranacea (Hinterwand):* Spricht für Tracheobronchopathia osteochondroplastica oder rezidivierende Polychondritis.
@@ -25,7 +25,7 @@ Dieser Primer bietet einen pathologie-orientierten, kompartimentbasierten **Sear
 
 ### Bronchiektasien
 *   **Definition:** Irreversible Dilatation des Bronchiallumens.
-*   **Zeichen:** Suche nach dem **Signet Ring Sign (Siegelring-Zeichen)**: Das Bronchuslumen ist größer als der Querschnitt der begleitenden Pulmonalarterie (Verhältnis > 1-1.5). [Radiopaedia: Signet ring sign](https://radiopaedia.org/articles/signet-ring-sign-bronchiectasis)
+*   **Zeichen:** Suche nach dem **[[Signet_Ring_Sign|Signet Ring Sign]] (Siegelring-Zeichen)**: Das Bronchuslumen ist größer als der Querschnitt der begleitenden Pulmonalarterie (Verhältnis > 1-1.5). [Radiopaedia: Signet ring sign](https://radiopaedia.org/articles/signet-ring-sign-bronchiectasis)
 *   **Morphologische Klassifikation:**
     *   Zylindrisch (röhrenförmig, fehlende Verjüngung zur Peripherie)
     *   Varikös (perlschnurartig)
@@ -35,9 +35,9 @@ Dieser Primer bietet einen pathologie-orientierten, kompartimentbasierten **Sear
     *   *Mittellappen/Lingula-betont:* Atypische Mykobakterien (MAC-Infektion) -> "Lady Windermere Syndrome". [Radiopaedia: Lady Windermere syndrome](https://radiopaedia.org/articles/lady-windermere-syndrome)
     *   *Unterlappenbetont:* Primäre ziliäre Dyskinesie (Kartagener-Syndrom), chronische Aspiration, idiopathisch, post-infektiös. [Radiopaedia: Primary ciliary dyskinesia](https://radiopaedia.org/articles/primary-ciliary-dyskinesia)
 
-### Kleine Atemwege (Bronchiolitis)
-*   **Tree-in-Bud-Muster (Knospender Baum):** Zeigt eine zelluläre Bronchiolitis mit exsudatimpacktierten zentrilobulären Bronchiolen an. **Fast immer infektiös** (bakteriell, endobronchiale Streuung bei Tuberkulose, viral, atypische Mykobakterien). [Radiopaedia: Tree-in-bud sign](https://radiopaedia.org/articles/tree-in-bud-sign)
-*   **Konstriktive Bronchiolitis:** Führt zu "Air-Trapping" und Mosaikperfusion, am deutlichsten in **Exspirations-Scans**. Typisch bei chronischer Transplantatabstoßung (Bronchiolitis obliterans) oder Graft-versus-Host-Disease. [Radiopaedia: Bronchiolitis obliterans](https://radiopaedia.org/articles/constrictive-bronchiolitis)
+### Kleine Atemwege ([[Bronchiolitis|Bronchiolitis]])
+*   **Tree-in-Bud-Muster (Knospender Baum):** Zeigt eine zelluläre [[Bronchiolitis|Bronchiolitis]] mit exsudatimpacktierten zentrilobulären Bronchiolen an. **Fast immer infektiös** (bakteriell, endobronchiale Streuung bei Tuberkulose, viral, atypische Mykobakterien). [Radiopaedia: Tree-in-bud sign](https://radiopaedia.org/articles/tree-in-bud-sign)
+*   **Konstriktive [[Bronchiolitis|Bronchiolitis]]:** Führt zu "Air-Trapping" und Mosaikperfusion, am deutlichsten in **Exspirations-Scans**. Typisch bei chronischer Transplantatabstoßung (Bronchiolitis obliterans) oder Graft-versus-Host-Disease. [Radiopaedia: Bronchiolitis obliterans](https://radiopaedia.org/articles/constrictive-bronchiolitis)
 
 ---
 
@@ -46,19 +46,19 @@ Dieser Primer bietet einen pathologie-orientierten, kompartimentbasierten **Sear
 ### Noduläre Muster (Verteilungsmuster im sekundären Lobulus)
 Die Zuordnung von Lungenrundherden erfolgt anhand ihrer Beziehung zur Pleura, den Fissuren und dem Bronchovaskulärbündel:
 *   **Zentrilobulär:** Sparen die subpleuralen Räume und Fissuren strikt aus. Liegen im Zentrum des Lobulus.
-    *   *Ursachen:* Meist inhalativ/endobronchial vermittelt. Hypersensitivitätspneumonitis (HP), respiratorische Bronchiolitis (RB-ILD), Infektionen (oft dann als Tree-in-Bud). [Radiopaedia: Centrilobular nodules](https://radiopaedia.org/articles/centrilobular-nodules)
+    *   *Ursachen:* Meist inhalativ/endobronchial vermittelt. Hypersensitivitätspneumonitis (HP), respiratorische Bronchiolitis (RB-ILD), [[Infektionen|Infektionen]] (oft dann als Tree-in-Bud). [Radiopaedia: Centrilobular nodules](https://radiopaedia.org/articles/centrilobular-nodules)
 *   **Perilymphatisch:** Noduli entlang des Lymphabflusses (bronchovaskuläres Bündel, interlobuläre Septen, subpleural/in den Fissuren).
-    *   *Ursachen:* Klassisch für **Sarkoidose** (oberlappenbetont, oft mit "Galaxy Sign"), Lymphangiosis carcinomatosa (oft asymmetrisch mit glatter oder nodulärer Septenverdickung) und Silikose. [Radiopaedia: Perilymphatic nodules](https://radiopaedia.org/articles/perilymphatic-nodules)
+    *   *Ursachen:* Klassisch für **[[Sarkoidose|Sarkoidose]]** (oberlappenbetont, oft mit "[[Galaxy_Sign|Galaxy Sign]]"), Lymphangiosis carcinomatosa (oft asymmetrisch mit glatter oder nodulärer Septenverdickung) und Silikose. [Radiopaedia: Perilymphatic nodules](https://radiopaedia.org/articles/perilymphatic-nodules)
 *   **Randomisiert (Miliar/Stochastisch):** Diffuse, völlig regellose und gleichmäßige Verteilung mit Pleurabeteiligung.
     *   *Ursachen:* Beweisend für hämatogene Streuung. Miliartuberkulose, hämatogene Metastasen (Schilddrüse, Melanom, Nierenzell-Ca), disseminierte Pilzinfektionen. [Radiopaedia: Random pulmonary nodules](https://radiopaedia.org/articles/random-pulmonary-nodules)
 
 ### Dichteanhebungen (Alveoläre Füllung vs. Interstitium)
 *   **Milchglasopazitäten (Ground-Glass Opacities, GGO):** Dichteanhebung, durch die Lungen- und Gefäßstrukturen noch hindurchscheinen.
     *   *Akut:* Lungenödem, Hämorrhagie, atypische Pneumonie (z.B. Mykoplasmen, Viren, Pneumocystis jirovecii - PCP).
-    *   *Chronisch:* Nicht-spezifische interstitielle Pneumonie (NSIP), zelluläre/subakute Hypersensitivitätspneumonitis, chronische eosinophile Pneumonie. [Radiopaedia: Ground-glass opacity](https://radiopaedia.org/articles/ground-glass-opacity-1)
+    *   *Chronisch:* Nicht-spezifische [[Interstitielle Pneumonie|interstitielle Pneumonie]] (NSIP), zelluläre/subakute Hypersensitivitätspneumonitis, chronische eosinophile Pneumonie. [Radiopaedia: Ground-glass opacity](https://radiopaedia.org/articles/ground-glass-opacity-1)
 *   **Konsolidierungen:** Kompletter Ersatz der alveolären Luft; Gefäße sind maskiert, oft positives Air-Bronchogramm.
     *   *Ursachen:* Lobärpneumonie, Lungenödem (ausgeprägt), invasives (muzinöses) Adenokarzinom, Lungeninfarkt. [Radiopaedia: Consolidation](https://radiopaedia.org/articles/consolidation-lungs)
-*   **Crazy Paving:** Kombination aus Milchglas (GGO) und überlagerter Verdickung der intra- und interlobulären Septen.
+*   **[[Crazy_Paving|Crazy Paving]]:** Kombination aus Milchglas (GGO) und überlagerter Verdickung der intra- und interlobulären Septen.
     *   *Differenzialdiagnosen:* Pulmonale Alveolarproteinose (PAP, klassisch), Pneumocystis-Pneumonie, pulmonale Hämorrhagie, ARDS, Lipoidpneumonie, Adenokarzinom. [Radiopaedia: Crazy paving pattern](https://radiopaedia.org/articles/crazy-paving-pattern)
 
 ### Spezifische Dichteanhebungs-Zeichen
@@ -66,17 +66,17 @@ Die Zuordnung von Lungenrundherden erfolgt anhand ihrer Beziehung zur Pleura, de
     *   *Klassisch bei:* Invasiver Aspergillose (angioinvasiv bei Neutropenie), hämorrhagischen Metastasen, Kaposi-Sarkom. [Radiopaedia: Halo sign](https://radiopaedia.org/articles/halo-sign-chest)
 *   **Reverse Halo / Atoll-Sign:** Zentrales Milchglas, umgeben von einem dichten Konsolidierungsring. 
     *   *Klassisch für:* Kryptogene organisierende Pneumonie (COP/BOOP). Auch bei Tuberkulose oder Infarkten möglich. [Radiopaedia: Reversed halo sign](https://radiopaedia.org/articles/reversed-halo-sign-atoll-sign)
-*   **Headcheese Sign:** Gleichzeitiges Auftreten von drei Dichten (Normal, Milchglas, Air-Trapping/Mosaik-Oligämie).
+*   **[[Headcheese_Sign|Headcheese Sign]]:** Gleichzeitiges Auftreten von drei Dichten (Normal, Milchglas, Air-Trapping/Mosaik-Oligämie).
     *   *Pathognomonisch für:* Chronische Hypersensitivitätspneumonitis. [Radiopaedia: Headcheese sign](https://radiopaedia.org/articles/headcheese-sign-lungs)
 
 ### Fibrotische Muster (UIP vs. NSIP vs. HP)
 Die exakte Klassifikation ist essenziell für die idiopathischen interstitiellen Pneumonien (IIPs).
 *   **UIP (Usual Interstitial Pneumonia):**
     *   Verteilung: Basal und subpleural dominant.
-    *   Muster: **Honeycombing** (Wabenumbau in Reihen, Pflicht für "definite UIP"), Traktionsbronchiektasen, retikuläre Netzzeichnung. *Kein* oder nur minimales Milchglas (falls vorhanden, GGO < Retikulation). [Radiopaedia: UIP](https://radiopaedia.org/articles/usual-interstitial-pneumonia)
+    *   Muster: **[[Honeycombing|Honeycombing]]** (Wabenumbau in Reihen, Pflicht für "definite UIP"), Traktionsbronchiektasen, retikuläre Netzzeichnung. *Kein* oder nur minimales Milchglas (falls vorhanden, GGO < Retikulation). [Radiopaedia: UIP](https://radiopaedia.org/articles/usual-interstitial-pneumonia)
 *   **NSIP (Non-Specific Interstitial Pneumonia):**
     *   Verteilung: Basal dominant, ABER charakteristisches Aussparen der direkten Subpleura (**Subpleural Sparing**).
-    *   Muster: Dominantes Milchglas mit feiner Retikulation und Traktionsbronchiektasen. *Kein* Honeycombing. [Radiopaedia: NSIP](https://radiopaedia.org/articles/non-specific-interstitial-pneumonia)
+    *   Muster: Dominantes Milchglas mit feiner Retikulation und Traktionsbronchiektasen. *Kein* [[Honeycombing|Honeycombing]]. [Radiopaedia: NSIP](https://radiopaedia.org/articles/non-specific-interstitial-pneumonia)
 *   **Chronische HP (Hypersensitivitätspneumonitis):**
     *   Verteilung: Oft Ober- und Mittelfeld-dominant (im Gegensatz zu UIP/NSIP).
     *   Muster: Fibrose kombiniert mit zentrilobulären Noduli, Air-Trapping und Milchglas. [Radiopaedia: Hypersensitivity pneumonitis](https://radiopaedia.org/articles/hypersensitivity-pneumonitis)
@@ -89,14 +89,14 @@ Die exakte Klassifikation ist essenziell für die idiopathischen interstitiellen
 *   **Zystische Lungenerkrankungen:** (echte Zysten mit dünner Wand < 2 mm)
     *   *LAM (Lymphangioleiomyomatose):* Diffuse, gleichmäßige, runde Zysten. Assoziiert mit Chylothorax und Tuberöser Sklerose. Junge Frauen. [Radiopaedia: LAM](https://radiopaedia.org/articles/pulmonary-lymphangioleiomyomatosis)
     *   *LCH (Langerhans-Zell-Histiozytose):* Bei Rauchern. Bizarre/irreguläre Zysten + Noduli, oberlappenbetont, Aussparung der Sinus phrenicocostales. [Radiopaedia: Pulmonary LCH](https://radiopaedia.org/articles/pulmonary-langerhans-cell-histiocytosis)
-    *   *LIP (Lymphoide interstitielle Pneumonie):* Bei Sjögren-Syndrom, wenige perivaskuläre Zysten + Milchglas. [Radiopaedia: LIP](https://radiopaedia.org/articles/lymphoid-interstitial-pneumonia)
+    *   *LIP (Lymphoide [[Interstitielle Pneumonie|interstitielle Pneumonie]]):* Bei Sjögren-Syndrom, wenige perivaskuläre Zysten + Milchglas. [Radiopaedia: LIP](https://radiopaedia.org/articles/lymphoid-interstitial-pneumonia)
 
 ### Solitärer Rundherd (SPN) & Bronchialkarzinom
-*   **Dignitätskriterien:** Größe (>8 mm Risiko hoch), Wachstumsdynamik (VDT: Volumendopplungszeit), Ränder (Spiculae/Corona radiata, Lobulierung = maligne; glatt = eher benigne). [Radiopaedia: Solitary pulmonary nodule](https://radiopaedia.org/articles/solitary-pulmonary-nodule)
-*   **Dichte:** Teilsolide Rundherde (part-solid) haben das höchste Malignitätsrisiko (lepidisches Wachstum beim Adenokarzinom). Subsolide/Milchglas-Herde wachsen langsam, aber oft maligne. [Radiopaedia: Subsolid pulmonary nodule](https://radiopaedia.org/articles/subsolid-pulmonary-nodule)
+*   **Dignitätskriterien:** Größe (>8 mm Risiko hoch), Wachstumsdynamik (VDT: Volumendopplungszeit), Ränder (Spiculae/Corona radiata, Lobulierung = [[Knochentumoren_2_Maligne|maligne]]; glatt = eher benigne). [Radiopaedia: Solitary pulmonary nodule](https://radiopaedia.org/articles/solitary-pulmonary-nodule)
+*   **Dichte:** Teilsolide Rundherde (part-solid) haben das höchste Malignitätsrisiko (lepidisches Wachstum beim Adenokarzinom). Subsolide/Milchglas-Herde wachsen langsam, aber oft [[Knochentumoren_2_Maligne|maligne]]. [Radiopaedia: Subsolid pulmonary nodule](https://radiopaedia.org/articles/subsolid-pulmonary-nodule)
 *   **Verkalkungsmuster:**
     *   *Benigne:* Zentral ("Bull's-eye", Granulome/Histoplasmose), Popcorn (Hamartom), Lamellär (post-infektiös), Diffus. [Radiopaedia: Benign calcification patterns](https://radiopaedia.org/articles/pulmonary-nodule-calcification-patterns)
-    *   *Maligne:* Exzentrisch, stippled (punktförmig).
+    *   *[[Knochentumoren_2_Maligne|Maligne]]:* Exzentrisch, stippled (punktförmig).
 
 ---
 
@@ -134,26 +134,30 @@ Die exakte Klassifikation ist essenziell für die idiopathischen interstitiellen
 
 ### Thoraxwand
 *   **Beurteilung:** Prüfe auf Destruktionen der Rippen, Arrosionen der Wirbelkörper. 
-*   **Bronchialkarzinom Invasions-Check:** Obligater Check bei peripheren Tumoren auf T3/T4-Stadium (stumpfer Winkel zur Thoraxwand, Einwachsen in Infiltration des extrapleuralen Fettes). [Radiopaedia: Lung cancer staging](https://radiopaedia.org/articles/lung-cancer-staging-1)
+*   **Bronchialkarzinom Invasions-Check:** Obligater Check bei peripheren [[Pankreas_2_Tumoren|Tumoren]] auf T3/T4-Stadium (stumpfer Winkel zur Thoraxwand, Einwachsen in Infiltration des extrapleuralen Fettes). [Radiopaedia: Lung cancer staging](https://radiopaedia.org/articles/lung-cancer-staging-1)
 *   **Pancoast-Tumor:** Apikales Bronchialkarzinom (meist Plattenepithel). Unbedingt in koronarer und sagittaler Schichtführung auf Infiltration des Plexus brachialis, Ganglion stellatum (Horner-Syndrom) und Gefäßstrukturen (A. subclavia) kontrollieren. [Radiopaedia: Pancoast tumor](https://radiopaedia.org/articles/pancoast-tumor)
 
 ---
 
-## 5. Hilus und Mediastinum (Lymphknoten-Staging)
+## 5. Hilus und [[Mediastinum|Mediastinum]] (Lymphknoten-Staging)
 
 *   **Lymphknoten-Map (IASLC):** Systematisches Scannen nach den internationalen IASLC/ATS-Stationen. Wichtige Stationen:
     *   Supraclaviculär (Station 1)
-    *   Oberes Mediastinum (Station 2, 3, 4 - Paratracheal, Prävasculär, Retrotracheal)
+    *   Oberes [[Mediastinum|Mediastinum]] (Station 2, 3, 4 - Paratracheal, Prävasculär, Retrotracheal)
     *   Aortopulmonales Fenster (Station 5) und Paraaortal (Station 6)
     *   Subcarinal (Station 7)
-    *   Unteres Mediastinum (Station 8 paraösophageal, Station 9 Ligamentum pulmonale)
+    *   Unteres [[Mediastinum|Mediastinum]] (Station 8 paraösophageal, Station 9 Ligamentum pulmonale)
     *   Hilär/Interlobär/Peripher (Station 10-14) [Radiopaedia: IASLC lymph node map](https://radiopaedia.org/articles/iaslc-lymph-node-map)
 *   **Größenkriterium:** Ein Kurzachsendurchmesser (short axis) von > 10 mm gilt im Allgemeinen als pathologisch (cave: entzündlich vs. maligne). Bei Vorliegen im Lungen-Ca-Staging Verdacht auf N-Stadium (PET-CT/EBUS Bestätigung nötig).
 *   **Morphologie:** Nekrotischer (hypodenser) Kern mit Randenhancement = typisch für Mykobakterien (Tbc), Plattenepithelkarzinom-Filiae, oder Pilzinfektionen. [Radiopaedia: Necrotic lymph nodes](https://radiopaedia.org/articles/necrotic-lymph-nodes)
-*   **Verkalkungen:** Eierschalenartig ("Egg-shell") bei Silikose, Sarkoidose, behandelter Tbc. [Radiopaedia: Egg-shell calcification](https://radiopaedia.org/articles/eggshell-calcification-lymph-nodes)
+*   **Verkalkungen:** Eierschalenartig ("Egg-shell") bei Silikose, [[Sarkoidose|Sarkoidose]], behandelter Tbc. [Radiopaedia: Egg-shell calcification](https://radiopaedia.org/articles/eggshell-calcification-lymph-nodes)
 *   **Azygos-Ösophagealer Recessus & AP-Fenster:** Diese Grenzflächen müssen scharf abgrenzbar sein. Eine Vorwölbung spricht für eine Lymphadenopathie oder primäre mediastinale Raumforderungen. [Radiopaedia: Azygo-oesophageal recess](https://radiopaedia.org/articles/azygo-oesophageal-recess)
 
 ---
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=8VhazSPO15s)
 
 # Quellen
 - Fleischner Society: Glossary of Terms for Thoracic Imaging (Hansell et al., Radiology 2008)

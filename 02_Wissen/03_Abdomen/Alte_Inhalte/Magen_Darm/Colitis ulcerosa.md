@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Die Colitis ulcerosa ist eine auf die Mukosa und Submukosa beschränkte, chronisch-entzündliche Erkrankung des Dickdarms. Die Entzündung beginnt typischerweise unmittelbar hinter dem Analring im Rektum und breitet sich von dort kontinuierlich nach kranial aus. Bei einer Schädigung der Bauhin-Klappe kann die Entzündung als sogenannte Backwash-Ileitis auch auf das terminale Ileum übergreifen. Die Verteilungsmuster umfassen die Proktosigmoiditis (40 bis 50 Prozent), die linksseitige Kolitis (30 Prozent) sowie die subtotale Kolitis bis zur Pankolitis (20 Prozent). Der klinische Verlauf ist sehr variabel, wobei ein hohes Rezidivrisiko von 80 Prozent besteht und 10 bis 15 Prozent der Patienten einen chronisch aktiven Verlauf zeigen. Die Inzidenz ist regional unterschiedlich, wobei sie in Europa, den USA und Australien höher ist als in anderen Weltregionen. Der Altersgipfel der Erstmanifestation liegt meist zwischen dem 20. und 30. Lebensjahr, mit einem zweiten Gipfel im höheren Alter. Frauen sind geringfügig häufiger betroffen als Männer. Klinische Leitsymptome sind blutig-schleimige Durchfälle, Tenesmen und Defäkationsschmerzen. Extraintestinale Symptome treten auf und umfassen Arthropathien (5 bis 10 Prozent), Episkleritis, Uveitis, Erythema nodosum, Pyoderma gangraenosum und die primär sklerosierende Cholangitis (3 Prozent). Es besteht ein erhöhtes Risiko für ein Kolonkarzinom bei langer Dauer und hoher Aktivität der Erkrankung,,.
+Die [[Colitis ulcerosa|Colitis ulcerosa]] ist eine auf die Mukosa und Submukosa beschränkte, chronisch-entzündliche Erkrankung des Dickdarms. Die Entzündung beginnt typischerweise unmittelbar hinter dem Analring im Rektum und breitet sich von dort kontinuierlich nach kranial aus. Bei einer Schädigung der Bauhin-Klappe kann die Entzündung als sogenannte Backwash-Ileitis auch auf das terminale Ileum übergreifen. Die Verteilungsmuster umfassen die Proktosigmoiditis (40 bis 50 Prozent), die linksseitige Kolitis (30 Prozent) sowie die subtotale Kolitis bis zur Pankolitis (20 Prozent). Der klinische Verlauf ist sehr variabel, wobei ein hohes Rezidivrisiko von 80 Prozent besteht und 10 bis 15 Prozent der Patienten einen chronisch aktiven Verlauf zeigen. Die Inzidenz ist regional unterschiedlich, wobei sie in Europa, den USA und Australien höher ist als in anderen Weltregionen. Der Altersgipfel der Erstmanifestation liegt meist zwischen dem 20. und 30. Lebensjahr, mit einem zweiten Gipfel im höheren Alter. Frauen sind geringfügig häufiger betroffen als Männer. Klinische Leitsymptome sind blutig-schleimige Durchfälle, Tenesmen und Defäkationsschmerzen. Extraintestinale Symptome treten auf und umfassen Arthropathien (5 bis 10 Prozent), Episkleritis, Uveitis, Erythema nodosum, Pyoderma gangraenosum und die primär sklerosierende Cholangitis (3 Prozent). Es besteht ein erhöhtes Risiko für ein [[Kolonkarzinom|Kolonkarzinom]] bei langer Dauer und hoher Aktivität der Erkrankung,,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -29,7 +29,7 @@ Die Colitis ulcerosa ist eine auf die Mukosa und Submukosa beschränkte, chronis
 
 
 ### Zu welchen pathologischen Veränderungen kommt es?
- Es handelt sich um eine auf die Schleimhaut begrenzte Entzündung mit kontinuierlicher Ausbreitung von rektal nach proximal. Im Gegensatz zum Morbus Crohn fehlen transmurale Entzündungen, Fisteln und Abszesse in der Regel,.
+ Es handelt sich um eine auf die Schleimhaut begrenzte Entzündung mit kontinuierlicher Ausbreitung von rektal nach proximal. Im Gegensatz zum [[Morbus Crohn|Morbus Crohn]] fehlen transmurale [[Pankreas_1_Entzündungen|Entzündungen]], Fisteln und Abszesse in der Regel,.
 
 
 ### Zu welchen morphologischen Veränderungen kommt es?
@@ -48,7 +48,7 @@ Die Colitis ulcerosa ist eine auf die Mukosa und Submukosa beschränkte, chronis
 
 
 ### Was kann man nicht sehen?
- Die Methode ist limitiert durch Luftüberlagerungen und die Eindringtiefe bei adipösen Patienten, spezifische Einschränkungen werden in den Quellen für die Colitis ulcerosa nicht explizit als Negativliste aufgeführt, ergeben sich aber aus den allgemeinen physikalischen Grenzen des Ultraschalls.
+ Die Methode ist limitiert durch Luftüberlagerungen und die Eindringtiefe bei adipösen Patienten, spezifische Einschränkungen werden in den Quellen für die [[Colitis ulcerosa|Colitis ulcerosa]] nicht explizit als Negativliste aufgeführt, ergeben sich aber aus den allgemeinen physikalischen Grenzen des Ultraschalls.
 
 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
@@ -97,23 +97,27 @@ Die Colitis ulcerosa ist eine auf die Mukosa und Submukosa beschränkte, chronis
 
 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Extraluminale Manifestationen wie Fisteln und Abszesse fehlen bei der Colitis ulcerosa im Gegensatz zum Morbus Crohn typischerweise, was ein wichtiges differenzialdiagnostisches Kriterium in der Bildgebung ist.
+ Extraluminale Manifestationen wie Fisteln und Abszesse fehlen bei der [[Colitis ulcerosa|Colitis ulcerosa]] im Gegensatz zum [[Morbus Crohn|Morbus Crohn]] typischerweise, was ein wichtiges differenzialdiagnostisches Kriterium in der Bildgebung ist.
 
 # Differenzialdiagnosen
 
 
-Morbus Crohn: Zeigt häufig einen Dünndarmbefall, transmurale Entzündung mit Fisteln und Abszessen, fibrös-fettige Proliferation und breitet sich oft vom terminalen Ileum in Richtung Rektum aus (diskontinuierlich), während Colitis ulcerosa kontinuierlich vom Rektum aufsteigt.
+[[Morbus Crohn|Morbus Crohn]]: Zeigt häufig einen Dünndarmbefall, transmurale Entzündung mit Fisteln und Abszessen, fibrös-fettige Proliferation und breitet sich oft vom terminalen Ileum in Richtung Rektum aus (diskontinuierlich), während Colitis ulcerosa kontinuierlich vom Rektum aufsteigt.
 
 Ischämische Kolitis: Betrifft meist ältere Patienten mit Gefäßpathologie und zeigt eine verminderte Wandperfusion, die oft auf das Versorgungsgebiet eines Gefäßes beschränkt ist.
 
 Divertikulitis: Zeigt Divertikel, eine umschriebene Wandverdickung (oft Sigma), perikolische Entzündung im Fettgewebe und verdickte Faszien, im Gegensatz zur eher auf die Wand beschränkten Entzündung der Colitis ulcerosa.
 
-Pseudomembranöse Kolitis: Tritt als Komplikation von Antibiotika oder Zytostatika auf, zeigt meist eine stärkere Wandverdickung als entzündliche Darmerkrankungen und eine auffällig kräftige Kontrastierung der Mukosa.
+[[Pseudomembranöse Kolitis|Pseudomembranöse Kolitis]]: Tritt als Komplikation von Antibiotika oder Zytostatika auf, zeigt meist eine stärkere Wandverdickung als entzündliche Darmerkrankungen und eine auffällig kräftige Kontrastierung der Mukosa.
 
 # Alles andere
 
 
 Das toxische Megakolon ist eine seltene, aber lebensbedrohliche Komplikation, die primär klinisch und mittels Abdomenübersichtsaufnahme diagnostiziert wird. Bei Verdacht auf ein toxisches Megakolon sollte wegen der Perforationsgefahr keine endoluminale Diagnostik erfolgen. Die operative Therapie (Proktokolektomie) ist bei therapierefraktärem Verlauf oder bei Nachweis von Dysplasien/Karzinomen indiziert.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=VF2vone4Taw)
 
 # Quellen
 

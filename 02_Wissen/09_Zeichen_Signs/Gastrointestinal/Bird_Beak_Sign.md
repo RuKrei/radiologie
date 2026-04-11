@@ -1,7 +1,7 @@
-# Bird Beak Sign
+# [[Bird_Beak_Sign|[[bird beak sign|Bird Beak Sign]]]]
 
 ## Definition
-Spitz zulaufende Stenose am distalen Ösophagus bei Achalasie (im Breischluck).
+Spitz zulaufende Stenose am distalen [[Ösophagus|Ösophagus]] bei [[Achalasie|Achalasie]] (im Breischluck).
 
 ## Radiologisches Erscheinungsbild
 - Typisches Zeichen in der Bildgebung (Gastrointestinal).
@@ -15,3 +15,7 @@ Spitz zulaufende Stenose am distalen Ösophagus bei Achalasie (im Breischluck).
 
 ---
 Tags: #Radiologie #Gastrointestinal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=TmJLCHrOwwQ)
+

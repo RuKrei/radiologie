@@ -22,7 +22,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Die zystische Echinokokkose ist eine parasitäre Infektion, die durch das Larvenstadium des Hundebandwurms (Echinococcus granulosus) verursacht wird. Die Infektion erfolgt fäkal-oral durch Kontakt mit dem Endwirt (Hund) oder über kontaminiertes Wasser beziehungsweise Nahrungsmittel. Die Embryonen gelangen über die Pfortader in die Leber und bilden dort langsam wachsende Zysten (2 bis 3 cm pro Jahr). Die Erkrankung ist endemisch in Gebieten mit Schaf- und Rinderzucht (Zwischenwirte), wobei hohe Infektionsraten in Sardinien, Russland, der Türkei, dem mittleren Osten, Südamerika und Indien vorkommen. Die häufigsten Lokalisationen sind die Leber (60 bis 75 Prozent) und die Lunge (20 Prozent), seltener betroffen sind Milz, Nieren, Pankreas oder Gehirn. Die Erkrankung verläuft häufig asymptomatisch und wird zufällig entdeckt. Wenn Symptome auftreten, sind dies meist Druckgefühl im Oberbauch, Übelkeit oder Erbrechen. Schwere Komplikationen umfassen die Ruptur der Zyste in die Bauchhöhle oder Gallengänge, was zu einem anaphylaktischen Schock oder Cholangitis führen kann,,,,,.
+Die [[Zystische Echinokokkose|zystische Echinokokkose]] ist eine parasitäre Infektion, die durch das Larvenstadium des Hundebandwurms (Echinococcus granulosus) verursacht wird. Die Infektion erfolgt fäkal-oral durch Kontakt mit dem Endwirt (Hund) oder über kontaminiertes Wasser beziehungsweise Nahrungsmittel. Die Embryonen gelangen über die Pfortader in die Leber und bilden dort langsam wachsende Zysten (2 bis 3 cm pro Jahr). Die Erkrankung ist endemisch in Gebieten mit Schaf- und Rinderzucht (Zwischenwirte), wobei hohe Infektionsraten in Sardinien, Russland, der Türkei, dem mittleren Osten, Südamerika und Indien vorkommen. Die häufigsten Lokalisationen sind die Leber (60 bis 75 Prozent) und die Lunge (20 Prozent), seltener betroffen sind [[Milz|Milz]], Nieren, Pankreas oder Gehirn. Die Erkrankung verläuft häufig asymptomatisch und wird zufällig entdeckt. Wenn Symptome auftreten, sind dies meist Druckgefühl im Oberbauch, Übelkeit oder Erbrechen. Schwere Komplikationen umfassen die Ruptur der Zyste in die Bauchhöhle oder Gallengänge, was zu einem anaphylaktischen Schock oder Cholangitis führen kann,,,,,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -47,11 +47,11 @@ Die zystische Echinokokkose ist eine parasitäre Infektion, die durch das Larven
 ## Röntgen
  
 ### Was sieht man korrelierend in dieser Methode?
- In konventionellen Aufnahmen sind ringförmige oder eierschalenartige Verkalkungen in der Leber oder Milz als Hinweis auf (inaktive) Zysten erkennbar. In der Lunge stellen sich Zysten als rundliche Verschattungen dar. 
+ In konventionellen Aufnahmen sind ringförmige oder eierschalenartige Verkalkungen in der Leber oder [[Milz|Milz]] als Hinweis auf (inaktive) Zysten erkennbar. In der Lunge stellen sich Zysten als rundliche Verschattungen dar. 
 ### Was kann man nicht sehen?
  Die Binnenstruktur (Tochterzysten, Membranen) und aktive Zysten ohne Verkalkung sind im Röntgenbild meist nicht beurteilbar. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Eine zystische Echinokokkose kann im Röntgenbild als Zufallsbefund durch Verkalkungen auffallen,.
+ Eine [[Zystische Echinokokkose|zystische Echinokokkose]] kann im Röntgenbild als Zufallsbefund durch Verkalkungen auffallen,.
 
 ## CT
  
@@ -78,9 +78,9 @@ Einfache Leberzysten: Zeigen keine Binnenstrukturen wie Membranen oder Tochterzy
 
 Zystadenom/Zystadenokarzinom: Weisen oft dickere Wände und Septen auf, die Kontrastmittel aufnehmen. Solide Anteile sprechen für Malignität,.
 
-Leberabszess: Zeigt eine dicke, kontrastmittelaufnehmende Kapsel, oft mit Umgebungsödem; klinisch bestehen Fieber und Entzündungszeichen,.
+[[Leberabszess|Leberabszess]]: Zeigt eine dicke, kontrastmittelaufnehmende Kapsel, oft mit Umgebungsödem; klinisch bestehen Fieber und Entzündungszeichen,.
 
-Alveoläre Echinokokkose: Verursacht durch Echinococcus multilocularis; zeigt ein infiltratives, tumorähnliches Wachstum mit unscharfen Grenzen, kleinen Zysten und irregulären Verkalkungen, im Gegensatz zur glatt begrenzten zystischen Echinokokkose.
+[[Alveoläre Echinokokkose|Alveoläre Echinokokkose]]: Verursacht durch Echinococcus multilocularis; zeigt ein infiltratives, tumorähnliches Wachstum mit unscharfen Grenzen, kleinen Zysten und irregulären Verkalkungen, im Gegensatz zur glatt begrenzten zystischen Echinokokkose.
 
 Amoebenabszess: Kann morphologisch ähnlich aussehen, Unterscheidung oft durch Serologie und Herkunft.
 
@@ -88,6 +88,10 @@ Amoebenabszess: Kann morphologisch ähnlich aussehen, Unterscheidung oft durch S
 
 
 Eine diagnostische Punktion sollte wegen der Gefahr eines anaphylaktischen Schocks und der Disseminierung von Parasiten vermieden werden, es sei denn, sie erfolgt unter speziellen Vorsichtsmaßnahmen (PAIR-Therapie) bei bestimmten Zystentypen. Die Diagnose wird meist durch Bildgebung und Serologie (Antikörpernachweis) gesichert. Die Therapie besteht je nach Stadium aus antiparasitärer Medikation (Mebendazol/Albendazol), PAIR oder chirurgischer Resektion (Perizystektomie), wobei eine Eröffnung der Zyste intraoperativ vermieden werden muss,,.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=ZU2M0XiuT5w)
 
 # Quellen
 

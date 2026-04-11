@@ -1,4 +1,4 @@
-# Accordion Sign
+# [[Accordion_Sign|Accordion Sign]]
 
 ## Definition
 Verdickte Colonzotten, zwischen denen Kontrastmittel gefangen ist, was an ein Akkordeon erinnert. Klassisch für schwere Clostridium difficile Kolitis.
@@ -15,3 +15,7 @@ Verdickte Colonzotten, zwischen denen Kontrastmittel gefangen ist, was an ein Ak
 
 ---
 Tags: #Radiologie #Gastrointestinal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=z1UxQf27-CQ)
+

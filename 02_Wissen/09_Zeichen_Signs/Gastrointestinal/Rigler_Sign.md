@@ -1,4 +1,4 @@
-# Rigler Sign
+# [[Rigler_Sign|Rigler Sign]]
 
 ## Definition
 Sichtbarkeit der Darmwand beidseits (innen Luft, außen Luft) bei Pneumoperitoneum.
@@ -15,3 +15,7 @@ Sichtbarkeit der Darmwand beidseits (innen Luft, außen Luft) bei Pneumoperitone
 
 ---
 Tags: #Radiologie #Gastrointestinal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Mr4hdOWPl2A)
+

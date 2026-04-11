@@ -1,4 +1,4 @@
-# Rugger Jersey Spine
+# [[Rugger_Jersey_Spine|Rugger Jersey Spine]]
 
 ## Definition
 Sklerosierung der Deck- und Grundplatten bei renaler Osteodystrophie (Hyperparathyreoidismus).
@@ -15,3 +15,7 @@ Sklerosierung der Deck- und Grundplatten bei renaler Osteodystrophie (Hyperparat
 
 ---
 Tags: #Radiologie #Muskuloskelettal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=N4dZC6jGUHo)
+

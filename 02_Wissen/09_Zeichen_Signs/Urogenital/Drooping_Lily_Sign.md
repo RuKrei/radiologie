@@ -1,4 +1,4 @@
-# Drooping Lily Sign
+# [[Drooping_Lily_Sign|Drooping Lily Sign]]
 
 ## Definition
 Kaudale und laterale Verdrängung des unteren Nierenkelchsystems durch ein gestautes, nicht kontrastierendes oberes Kelchsystem bei Nierendoppelanlage.
@@ -15,3 +15,7 @@ Kaudale und laterale Verdrängung des unteren Nierenkelchsystems durch ein gesta
 
 ---
 Tags: #Radiologie #Urogenital #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=TVQKdZfQUN0)
+

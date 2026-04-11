@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=bWppFXa20yM)
+
 # Quellen
 
 - [Radiopaedia Suche: Innenohr Kleinhirnbrueckenwinkel](https://radiopaedia.org/search?q=innenohr+kleinhirnbrueckenwinkel)

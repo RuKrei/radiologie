@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=gt-AbexEbAA)
+
 # Quellen
 
 - [Radiopaedia Suche: Akutes Abdomen Post OP](https://radiopaedia.org/search?q=akutes+abdomen+post+op)

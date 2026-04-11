@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=WPO-tSt7iBg)
+
 # Quellen
 
 - [Radiopaedia Suche: Deep Dive Neuro MRT Sequenzen](https://radiopaedia.org/search?q=deep+dive+neuro+mrt+sequenzen)

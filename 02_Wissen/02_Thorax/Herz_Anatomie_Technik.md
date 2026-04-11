@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=G_VCwML0Vog)
+
 # Quellen
 
 - [Radiopaedia Suche: Herz Anatomie Technik](https://radiopaedia.org/search?q=heart+anatomie+technik)

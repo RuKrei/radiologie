@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Zystische Lymphangiome sind gutartige, kongenitale Tumoren, die vom lymphatischen System ausgehen. Sie sind im Pankreas extrem selten und machen weniger als 1 Prozent der intraabdominellen Lymphangiome aus, die ohnehin nur knapp 1 Prozent aller Lymphangiome darstellen. Die Erkrankung kann in allen Altersstufen auftreten, wird jedoch häufig bereits im Kindesalter erworben. Männer sind etwas häufiger betroffen als Frauen. Klinisch präsentieren sich die Patienten oft mit unspezifischen Beschwerden wie Bauchschmerzen, Übelkeit, Erbrechen oder einer tastbaren Raumforderung,.
+Zystische Lymphangiome sind gutartige, kongenitale [[Pankreas_2_Tumoren|Tumoren]], die vom lymphatischen System ausgehen. Sie sind im Pankreas extrem selten und machen weniger als 1 Prozent der intraabdominellen Lymphangiome aus, die ohnehin nur knapp 1 Prozent aller Lymphangiome darstellen. Die Erkrankung kann in allen Altersstufen auftreten, wird jedoch häufig bereits im Kindesalter erworben. Männer sind etwas häufiger betroffen als Frauen. Klinisch präsentieren sich die Patienten oft mit unspezifischen Beschwerden wie Bauchschmerzen, Übelkeit, Erbrechen oder einer tastbaren Raumforderung,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -31,7 +31,7 @@ Zystische Lymphangiome sind gutartige, kongenitale Tumoren, die vom lymphatische
 ### Zu welchen morphologischen Veränderungen kommt es?
  Die Raumforderungen sind gut abgrenzbar und homogen zystisch. Sie liegen im Pankreas oder liegen dem Pankreas unmittelbar an. Die Größe variiert typischerweise zwischen 3 und 20 cm. Charakteristisch sind multiple dünne Septen und Wandstrukturen. Manchmal finden sich phlebolithenartige Verkalkungen. 
 ### Zu welchen Komplikationen kann es kommen?
- In seltenen Fällen können Komplikationen durch Infektionen oder Einblutungen auftreten.
+ In seltenen Fällen können Komplikationen durch [[Infektionen|Infektionen]] oder Einblutungen auftreten.
 
 ## Sonografie
  
@@ -85,7 +85,11 @@ Lymphoepitheliale Zysten: Zeigen eine inhomogene Struktur und Schichten mit Kera
 # Alles andere
 
 
-Ein typischer Fehler ist die Verwechslung mit anderen zystischen Tumoren des Pankreas, was zu unnötigen Operationen führen kann. Für den zuweisenden Kollegen ist die Abgrenzung von zystischen Tumoren, die einer chirurgischen Therapie bedürfen, sowie der Ausschluss von Komplikationen wie Hämorrhagie oder Entzündung wichtig.
+Ein typischer Fehler ist die Verwechslung mit anderen zystischen [[Pankreas_2_Tumoren|Tumoren]] des Pankreas, was zu unnötigen Operationen führen kann. Für den zuweisenden Kollegen ist die Abgrenzung von zystischen [[Pankreas_2_Tumoren|Tumoren]], die einer chirurgischen Therapie bedürfen, sowie der Ausschluss von Komplikationen wie Hämorrhagie oder Entzündung wichtig.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=smObkY2Lato)
 
 # Quellen
 

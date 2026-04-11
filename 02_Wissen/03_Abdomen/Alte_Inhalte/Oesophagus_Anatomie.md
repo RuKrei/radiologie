@@ -10,7 +10,7 @@ Zuletzt bearbeitet: 2026-02-26
 Zuletzt gelesen: 2026-02-26
 Tags: 
 -----
-# Ösophagus Anatomie (Klinisch relevant)
+# [[Ösophagus|Ösophagus]] Anatomie (Klinisch relevant)
 
 # Wer? (Struktur und Lage)
 **Muskelschlauch** (ca. 25 cm lang beim Erwachsenen).
@@ -33,11 +33,11 @@ Drei Abschnitte:
 - **Muscularis propria:**
   - Oberes Drittel: Quergestreift (willkürlich -> Schluckakt).
   - Mittleres Drittel: Gemischt.
-  - Unteres Drittel: Glatt (unwillkürlich -> Peristaltik, Auerbach-Plexus -> Achalasie!).
+  - Unteres Drittel: Glatt (unwillkürlich -> Peristaltik, Auerbach-Plexus -> [[Achalasie|Achalasie]]!).
 - **Adventitia:** Lockerem Bindegewebe. **KEINE Serosa!** (Ausnahme: Pars abdominalis).
-  - **Klinische Konsequenz:** Karzinome breiten sich früh ins Mediastinum aus (Trachea, Aorta!), Anastomosen heilen schlechter als am Darm (Insuffizienzgefahr!).
+  - **Klinische Konsequenz:** Karzinome breiten sich früh ins [[Mediastinum|Mediastinum]] aus (Trachea, Aorta!), Anastomosen heilen schlechter als am Darm (Insuffizienzgefahr!).
 
-## Gefäßversorgung (Klinisch: Blutungen, Ischämie, OP)
+## Gefäßversorgung (Klinisch: Blutungen, [[Schlaganfall_1_Ischämie|Ischämie]], OP)
 - **Arteriell:**
   - Zervikal: A. thyroidea inferior.
   - Thorakal: Aorta (Rami oesophageales), Bronchialarterien.
@@ -56,7 +56,7 @@ Extrem reichhaltiges submuköses Lymphnetz! Lymphogene Metastasierung erfolgt of
 
 ## Nachbarschaftsbeziehungen (Klinisch: Infiltration, Fisteln)
 - **Ventral:** Trachea (bis Th4), linker Vorhof (Herzvergrößerung -> Dysphagie!).
-- **Dorsal:** Wirbelsäule, Ductus thoracicus, Aorta (ab Th8 hinter Ösophagus).
+- **Dorsal:** [[Trauma_2_Wirbelsäule|Wirbelsäule]], Ductus thoracicus, Aorta (ab Th8 hinter [[Ösophagus|Ösophagus]]).
 - **Lateral:** Pleura, N. laryngeus recurrens (links um Aortenbogen, rechts um A. subclavia - Heiserkeit bei Ca!).
 
 # Physiologie (Schluckakt für Breischluck/Kinematografie)
@@ -71,6 +71,10 @@ Extrem reichhaltiges submuköses Lymphnetz! Lymphogene Metastasierung erfolgt of
    - Sekundäre Peristaltik (durch Dehnung/Reflux ausgelöst -> "Cleaning wave").
    - Tertiäre Kontraktionen (nicht propulsiv, im Alter oder pathologisch -> "Korkenzieher").
    - Öffnung unterer Sphinkter (UÖS).
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=6ZOAcG81j-o)
 
 # Quellen
 - [Oesophagus anatomy](https://radiopaedia.org/articles/oesophagus)

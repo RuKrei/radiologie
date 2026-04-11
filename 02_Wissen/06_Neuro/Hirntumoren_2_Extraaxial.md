@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=r1ykQ-s2NnA)
+
 # Quellen
 
 - [Radiopaedia Suche: Hirntumoren 2 Extraaxial](https://radiopaedia.org/search?q=hirntumoren+2+extraaxial)

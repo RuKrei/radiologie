@@ -1,4 +1,4 @@
-# Risikomanagement im Daytrading
+# [[Risikomanagement|Risikomanagement]] im Daytrading
 
 ## Überleben ist alles
 Im Daytrading geht es nicht primär darum, Geld zu verdienen, sondern darum, **kein Geld zu verlieren**. Dein Kapital ist dein Werkzeug. Ohne Werkzeug kannst du nicht arbeiten. WCE-Trader sind in erster Linie Risikomanager.
@@ -48,7 +48,11 @@ Bevor du klickst, prüfe immer:
 Wenn "Nein": **Kein Trade.**
 
 ## Fazit
-Gutes Trading ist langweilig. Es ist die disziplinierte Ausführung eines Risikomanagement-Plans. Die Gewinne kommen dann von selbst als Nebenprodukt guter Entscheidungen.
+Gutes Trading ist langweilig. Es ist die disziplinierte Ausführung eines [[Risikomanagement|Risikomanagement]]-Plans. Die Gewinne kommen dann von selbst als Nebenprodukt guter Entscheidungen.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=LFKZyKbmnKU)
 
 # Quellen
 

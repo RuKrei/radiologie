@@ -17,7 +17,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Hormonaktive endokrine Pankreastumoren, auch als funktionelle neuroendokrine Neoplasien (NEN) bezeichnet, entwickeln sich aus dem endokrinen Gewebe des Pankreas und machen etwa 10 bis 30 Prozent aller neuroendokrinen Tumoren des Pankreas aus, während der Rest funktionell inaktiv ist,. Die Inzidenz liegt bei etwa 1 bis 2 Fällen pro 1.000.000 Einwohner, mit einer zunehmenden Häufigkeit in den letzten Jahrzehnten,. Der Altersgipfel liegt generell zwischen dem 50. und 70. Lebensjahr, wobei Insulinome oft etwas früher (3. bis 6. Lebensjahrzehnt) und Gastrinome im 4. bis 5. Lebensjahrzehnt auftreten. Es gibt keine signifikanten Geschlechtsunterschiede, wobei Insulinome etwas häufiger bei Frauen und Gastrinome häufiger bei Männern vorkommen. Die Tumoren treten meist sporadisch auf, sind aber in etwa 10 Prozent der Fälle mit genetischen Syndromen assoziiert, insbesondere mit der Multiplen Endokrinen Neoplasie Typ 1 (MEN 1), seltener mit dem von-Hippel-Lindau-Syndrom, der Neurofibromatose oder der tuberösen Sklerose,.
+Hormonaktive endokrine Pankreastumoren, auch als funktionelle neuroendokrine Neoplasien (NEN) bezeichnet, entwickeln sich aus dem endokrinen Gewebe des Pankreas und machen etwa 10 bis 30 Prozent aller neuroendokrinen [[Pankreas_2_Tumoren|Tumoren]] des Pankreas aus, während der Rest funktionell inaktiv ist,. Die Inzidenz liegt bei etwa 1 bis 2 Fällen pro 1.000.000 Einwohner, mit einer zunehmenden Häufigkeit in den letzten Jahrzehnten,. Der Altersgipfel liegt generell zwischen dem 50. und 70. Lebensjahr, wobei Insulinome oft etwas früher (3. bis 6. Lebensjahrzehnt) und Gastrinome im 4. bis 5. Lebensjahrzehnt auftreten. Es gibt keine signifikanten Geschlechtsunterschiede, wobei Insulinome etwas häufiger bei Frauen und Gastrinome häufiger bei Männern vorkommen. Die [[Pankreas_2_Tumoren|Tumoren]] treten meist sporadisch auf, sind aber in etwa 10 Prozent der Fälle mit genetischen Syndromen assoziiert, insbesondere mit der Multiplen Endokrinen Neoplasie Typ 1 (MEN 1), seltener mit dem von-Hippel-Lindau-Syndrom, der Neurofibromatose oder der tuberösen Sklerose,.
 
 Die klinische Präsentation wird durch das jeweils im Überschuss produzierte Hormon bestimmt. Das Insulinom ist der häufigste Typ und führt durch Hypoglykämie zu Tachykardie, Schweißausbrüchen und neuropsychiatrischen Symptomen (Whipple-Trias),. Das Gastrinom verursacht das Zollinger-Ellison-Syndrom mit rezidivierenden peptischen Ulzera, Diarrhö und Gewichtsverlust,. Das VIPom führt zum Verner-Morrison-Syndrom mit wässrigen Durchfällen, Hypokaliämie und Achlorhydrie. Das Glukagonom ist mit Diabetes mellitus, nekrolytischem wanderndem Erythem und Gewichtsverlust assoziiert.
 
@@ -26,16 +26,16 @@ Die klinische Präsentation wird durch das jeweils im Überschuss produzierte Ho
 ## Allgemeines (auf alle Methoden anwendbar)
  
 ### Zu welchen pathologischen Veränderungen kommt es?
- Es handelt sich um neoplasitsche Proliferationen neuroendokriner Zellen. Abhängig vom Typ variiert das Malignitätsrisiko stark: Insulinome sind zu etwa 90 Prozent gutartig, während Gastrinome (60 bis 70 Prozent), Glukagonome (65 bis 75 Prozent) und VIPome (50 bis 75 Prozent) überwiegend maligne sind,. 
+ Es handelt sich um neoplasitsche Proliferationen neuroendokriner Zellen. Abhängig vom Typ variiert das Malignitätsrisiko stark: Insulinome sind zu etwa 90 Prozent gutartig, während Gastrinome (60 bis 70 Prozent), Glukagonome (65 bis 75 Prozent) und VIPome (50 bis 75 Prozent) überwiegend [[Knochentumoren_2_Maligne|maligne]] sind,. 
 ### Zu welchen morphologischen Veränderungen kommt es?
- Die Tumoren sind meist klein (oft unter 2 bis 3 cm), da sie aufgrund der hormonellen Symptomatik früh klinisch auffällig werden. Sie sind typischerweise stark hypervaskularisiert. Größere Tumoren können zystische oder nekrotische Veränderungen aufweisen. Insulinome liegen fast immer im Pankreas, während Gastrinome häufig im Duodenum oder im sogenannten Gastrinom-Dreieck lokalisiert sind und oft multipel auftreten. 
+ Die [[Pankreas_2_Tumoren|Tumoren]] sind meist klein (oft unter 2 bis 3 cm), da sie aufgrund der hormonellen Symptomatik früh klinisch auffällig werden. Sie sind typischerweise stark hypervaskularisiert. Größere [[Pankreas_2_Tumoren|Tumoren]] können zystische oder nekrotische Veränderungen aufweisen. Insulinome liegen fast immer im Pankreas, während Gastrinome häufig im Duodenum oder im sogenannten Gastrinom-Dreieck lokalisiert sind und oft multipel auftreten. 
 ### Zu welchen Komplikationen kann es kommen?
  Neben den metabolischen Komplikationen durch den Hormonexzess (z. B. Ulkusperforation beim Gastrinom, hypoglykämischer Schock beim Insulinom) ist die Metastasierung die wichtigste Komplikation maligner Varianten. Metastasen finden sich vorwiegend in der Leber und in den Lymphknoten, seltener in den Knochen,.
 
 ## Sonografie
  
 ### Was sieht man korrelierend in dieser Methode?
- Kleine Tumoren stellen sich als rundliche, gut abgrenzbare und echoarme Knoten mit glatter Oberfläche dar. Größere Tumoren weisen eine inhomogene Echostruktur auf. Im kontrastverstärkten Ultraschall (CEUS) sind die Tumoren stark hypervaskulär. Lebermetastasen erscheinen oft hyperechoisch. 
+ Kleine [[Pankreas_2_Tumoren|Tumoren]] stellen sich als rundliche, gut abgrenzbare und echoarme Knoten mit glatter Oberfläche dar. Größere [[Pankreas_2_Tumoren|Tumoren]] weisen eine inhomogene Echostruktur auf. Im kontrastverstärkten Ultraschall (CEUS) sind die Tumoren stark hypervaskulär. [[Lebermetastasen|Lebermetastasen]] erscheinen oft hyperechoisch. 
 ### Was kann man nicht sehen?
  Kleine Tumoren, insbesondere extrapankreatische Gastrinome (z. B. in der Duodenalwand), entgehen häufig dem transabdominellen Ultraschall. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
@@ -53,7 +53,7 @@ Die klinische Präsentation wird durch das jeweils im Überschuss produzierte Ho
 ## CT
  
 ### Was sieht man korrelierend in dieser Methode?
- In der Computertomografie stellen sich die Tumoren als gut abgrenzbare, stark hypervaskularisierte Knoten dar. Eine mehrphasige Untersuchung (arteriell/pankreatisch, portalvenös) ist essenziell. Die Tumoren reichern in der arteriellen Phase (etwa 25-35 Sekunden nach Injektion) kräftig Kontrastmittel an und können in der portalvenösen Phase isodens zum Pankreasgewebe werden,,. Kleine Tumoren sind meist homogen, größere können zystisch-nekrotische Areale und ein Ring-Enhancement aufweisen. Lebermetastasen sind ebenfalls oft hypervaskulär. 
+ In der Computertomografie stellen sich die Tumoren als gut abgrenzbare, stark hypervaskularisierte Knoten dar. Eine mehrphasige Untersuchung (arteriell/pankreatisch, portalvenös) ist essenziell. Die Tumoren reichern in der arteriellen Phase (etwa 25-35 Sekunden nach Injektion) kräftig Kontrastmittel an und können in der portalvenösen Phase isodens zum Pankreasgewebe werden,,. Kleine Tumoren sind meist homogen, größere können zystisch-nekrotische Areale und ein Ring-Enhancement aufweisen. [[Lebermetastasen|Lebermetastasen]] sind ebenfalls oft hypervaskulär. 
 ### Was kann man nicht sehen?
  Sehr kleine Tumoren oder solche ohne typische Hypervaskularisation können übersehen werden. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
@@ -66,7 +66,7 @@ Die klinische Präsentation wird durch das jeweils im Überschuss produzierte Ho
 ### Was kann man nicht sehen?
  Kleine Tumoren können in T1- und T2-Sequenzen isointens sein und sind dann nur in der dynamischen Kontrastmitteluntersuchung erkennbar. Verkalkungen sind in der MRT schwerer zu identifizieren als in der CT. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Die diffusionsgewichtete Bildgebung (DWI) kann bei der Differenzierung zwischen malignen und benignen Läsionen sowie beim Nachweis von Lebermetastasen helfen.
+ Die diffusionsgewichtete Bildgebung (DWI) kann bei der Differenzierung zwischen malignen und benignen Läsionen sowie beim Nachweis von [[Lebermetastasen|Lebermetastasen]] helfen.
 
 # Differenzialdiagnosen
 
@@ -77,14 +77,18 @@ Nicht hormonaktiver neuroendokriner Tumor (PNET): Bildmorphologisch oft ähnlich
 
 Solider papillärer Tumor: Tritt vorwiegend bei jungen Frauen auf und zeigt häufig Einblutungen sowie solide und zystische Anteile.
 
-Intrapankreatische Nebenmilz: Kann einen kleinen hypervaskulären Tumor im Pankreasschwanz vortäuschen. Sie zeigt das gleiche Kontrastmittelverhalten wie die Milz,.
+Intrapankreatische Nebenmilz: Kann einen kleinen hypervaskulären Tumor im Pankreasschwanz vortäuschen. Sie zeigt das gleiche Kontrastmittelverhalten wie die [[Milz|Milz]],.
 
 Hypervaskuläre Metastasen: Zum Beispiel von Nierenzellkarzinomen, können ähnlich aussehen; die Anamnese ist hier entscheidend.
 
 # Alles andere
 
 
-Die funktionelle Bildgebung spielt eine entscheidende Rolle, wenn die morphologische Bildgebung negativ bleibt. Da viele neuroendokrine Tumoren Somatostatinrezeptoren exprimieren, ist die PET/CT mit Gallium-68-markierten Somatostatinanaloga (z. B. Ga-68-DOTATOC/DOTATATE) sehr sensitiv, insbesondere für gut differenzierte Tumoren,. Wenig differenzierte Tumoren (G3) sind eher FDG-avid. Die Therapie ist in erster Linie die chirurgische Resektion (Enukleation oder Teilresektion), da dies die einzige kurative Option darstellt und auch zur Symptomkontrolle dient,. Bei Lebermetastasen können interventionelle Verfahren wie die transarterielle Chemoembolisation (TACE) oder Radiofrequenzablation (RFA) zum Einsatz kommen.
+Die funktionelle Bildgebung spielt eine entscheidende Rolle, wenn die morphologische Bildgebung negativ bleibt. Da viele neuroendokrine Tumoren Somatostatinrezeptoren exprimieren, ist die PET/CT mit Gallium-68-markierten Somatostatinanaloga (z. B. Ga-68-DOTATOC/DOTATATE) sehr sensitiv, insbesondere für gut differenzierte Tumoren,. Wenig differenzierte Tumoren (G3) sind eher FDG-avid. Die Therapie ist in erster Linie die chirurgische Resektion (Enukleation oder Teilresektion), da dies die einzige kurative Option darstellt und auch zur Symptomkontrolle dient,. Bei [[Lebermetastasen|Lebermetastasen]] können interventionelle Verfahren wie die transarterielle Chemoembolisation (TACE) oder Radiofrequenzablation (RFA) zum Einsatz kommen.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=rvHXR6XKDwc)
 
 # Quellen
 

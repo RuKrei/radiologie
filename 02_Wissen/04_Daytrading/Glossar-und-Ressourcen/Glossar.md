@@ -1,4 +1,4 @@
-# Glossar & Abkürzungen
+# [[Glossar|Glossar]] & Abkürzungen
 
 Hier findest du die wichtigsten Begriffe aus dem World Class Edge (WCE) Universum und dem professionellen Orderflow-Trading.
 
@@ -41,7 +41,11 @@ Hier findest du die wichtigsten Begriffe aus dem World Class Edge (WCE) Universu
 | **Trend** | Gerichtete Bewegung des Marktes (Imbalance). |
 
 ---
-*Nutze dieses Glossar als Nachschlagewerk, während du die Lektionen durcharbeitest.*
+*Nutze dieses [[Glossar|Glossar]] als Nachschlagewerk, während du die Lektionen durcharbeitest.*
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=18I5jRsmup4)
 
 # Quellen
 

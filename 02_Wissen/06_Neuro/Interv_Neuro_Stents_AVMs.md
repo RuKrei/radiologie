@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=1GUBdYZOTuw)
+
 # Quellen
 
 - [Radiopaedia Suche: Interv Neuro Stents AVMs](https://radiopaedia.org/search?q=interv+neuro+stents+avms)

@@ -1,4 +1,4 @@
-# Cervicothoracic Sign
+# [[Cervicothoracic_Sign|Cervicothoracic Sign]]
 
 ## Definition
 Hilft zur Lokalisierung mediastinaler Raumforderungen: Rand sichtbar über Clavicula = posterior; Rand verschwindet = anterior.
@@ -15,10 +15,14 @@ Hilft zur Lokalisierung mediastinaler Raumforderungen: Rand sichtbar über Clavi
 
 ## Ätiologie / Differentialdiagnosen
 - Anterior: Schilddrüse (Struma)
-- Posterior: Neurogene Tumoren, apikale Lungentumoren
+- Posterior: Neurogene [[Pankreas_2_Tumoren|Tumoren]], apikale [[Lungentumoren|Lungentumoren]]
 
 ## Weiterführende Links
 - [Radiopaedia: Cervicothoracic Sign](https://radiopaedia.org/articles/cervicothoracic-sign)
 
 ---
 Tags: #Radiologie #Thorax #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=CPVlAJP74L0)
+

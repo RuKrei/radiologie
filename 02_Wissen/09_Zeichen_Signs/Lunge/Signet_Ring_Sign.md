@@ -1,4 +1,4 @@
-# Signet Ring Sign
+# [[Signet_Ring_Sign|Signet Ring Sign]]
 
 ## Definition
 Vergrößerter Bronchus im Querschnitt neben einer kleineren Begleitarterie (Verhältnis > 1-1.5).
@@ -14,10 +14,14 @@ Vergrößerter Bronchus im Querschnitt neben einer kleineren Begleitarterie (Ver
 - Wichtiges Erkennungsmerkmal in der Thoraxdiagnostik.
 
 ## Ätiologie / Differentialdiagnosen
-- Bronchiektasen (Zystische Fibrose, Post-infektiös, Traktionsbronchiektasen)
+- [[Bronchiektasen|Bronchiektasen]] (Zystische Fibrose, Post-infektiös, Traktionsbronchiektasen)
 
 ## Weiterführende Links
 - [Radiopaedia: Signet Ring Sign](https://radiopaedia.org/articles/signet-ring-sign-bronchiectasis)
 
 ---
 Tags: #Radiologie #Thorax #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=P3Nt0CnnaO4)
+

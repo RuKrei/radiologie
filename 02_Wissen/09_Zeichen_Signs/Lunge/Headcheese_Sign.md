@@ -1,4 +1,4 @@
-# Headcheese Sign
+# [[Headcheese_Sign|Headcheese Sign]]
 
 ## Definition
 Gleichzeitiges Auftreten von drei verschiedenen Dichtewerten auf einem Inspirations-CT: Normales Parenchym, Ground-Glass (Milchglas) und Mosaik-Oligämie/Air-Trapping (sehr dunkel).
@@ -14,10 +14,14 @@ Gleichzeitiges Auftreten von drei verschiedenen Dichtewerten auf einem Inspirati
 
 ## Ätiologie / Differenzialdiagnosen
 - Chronische Hypersensitivitätspneumonitis (HP)
-- Selten: atypische Infektionen (Mykoplasmen), Sarkoidose mit Atemwegsbeteiligung
+- Selten: atypische [[Infektionen|Infektionen]] (Mykoplasmen), [[Sarkoidose|Sarkoidose]] mit Atemwegsbeteiligung
 
 ## Weiterführende Links
 - [Radiopaedia: Headcheese Sign](https://radiopaedia.org/articles/headcheese-sign-lungs)
 
 ---
 Tags: #Radiologie #Lunge #Zeichen #Sign #Fleischner
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=__OQRziW_CU)
+

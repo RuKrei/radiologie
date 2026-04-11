@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=L5IpmnAb9WQ)
+
 # Quellen
 
 - [Radiopaedia Suche: Technik Qualität](https://radiopaedia.org/search?q=technik+qualität)

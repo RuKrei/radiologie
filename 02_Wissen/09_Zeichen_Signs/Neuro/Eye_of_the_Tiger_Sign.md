@@ -1,4 +1,4 @@
-# Eye of the Tiger Sign
+# [[Eye_of_the_Tiger_Sign|Eye of the Tiger Sign]]
 
 ## Definition
 Hypointensität im Pallidum mit zentraler Hyperintensität (T2), typisch für PKAN (Pantothenatkinase-assoziierte Neurodegeneration).
@@ -15,3 +15,7 @@ Hypointensität im Pallidum mit zentraler Hyperintensität (T2), typisch für PK
 
 ---
 Tags: #Radiologie #Neuro #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=-uYxnmvHikI)
+

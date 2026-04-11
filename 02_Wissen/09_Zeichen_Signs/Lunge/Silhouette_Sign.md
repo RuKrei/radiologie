@@ -1,4 +1,4 @@
-# Silhouette Sign
+# [[Silhouette_Sign|Silhouette Sign]]
 
 ## Definition
 Verlust der Kontur zwischen zwei Strukturen gleicher Dichte, die einander anatomisch berühren (z.B. Herz und Lungeninfiltrat).
@@ -16,10 +16,14 @@ Verlust der Kontur zwischen zwei Strukturen gleicher Dichte, die einander anatom
 ## Ätiologie / Differentialdiagnosen
 - Lokalisation von Pneumonien (z.B. RML löscht rechten Herzrand aus)
 - Atelektasen
-- Tumoren
+- [[Pankreas_2_Tumoren|Tumoren]]
 
 ## Weiterführende Links
 - [Radiopaedia: Silhouette Sign](https://radiopaedia.org/articles/silhouette-sign)
 
 ---
 Tags: #Radiologie #Thorax #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=aMJg7WCL7pk)
+

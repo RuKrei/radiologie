@@ -77,9 +77,13 @@ Warum traden wir Krypto?
 
 ### Nächster Schritt
 
-Vergiss Chartmuster wie "Kopf-Schulter" oder trendige Indikatoren. Wir tauchen jetzt ein in das, was den Preis wirklich bewegt.
+Vergiss Chartmuster wie "Kopf-[[schulter|Schulter]]" oder trendige Indikatoren. Wir tauchen jetzt ein in das, was den Preis wirklich bewegt.
 
 Weiter zu: [[Marktmechanik-und-AMT|Marktmechanik & Auction Market Theory]]
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=nlPS54I5ScQ)
 
 # Quellen
 

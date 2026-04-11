@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=-WB3Ji17s54)
+
 # Quellen
 
 - [Radiopaedia Suche: Fallbasiertes Lernen Tumor Neuro](https://radiopaedia.org/search?q=fallbasiertes+lernen+tumor+neuro)

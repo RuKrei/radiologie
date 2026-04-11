@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=feHB0mGnpBs)
+
 # Quellen
 
 - [Radiopaedia Suche: Trauma 2 Wirbelsäule](https://radiopaedia.org/search?q=trauma+2+wirbelsäule)

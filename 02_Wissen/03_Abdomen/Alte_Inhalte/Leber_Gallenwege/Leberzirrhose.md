@@ -18,7 +18,7 @@ Tags:
 -----
 Wer? (Epidemiology und Symptome)
 
-Die Leberzirrhose stellt das irreversible Endstadium verschiedener diffuser Lebererkrankungen dar, bei dem es durch Nekrose, Entzündung, Regeneration und Fibrosierung zu einem knotigen Umbau des Organs und einer Zerstörung der Läppchenarchitektur kommt,. In westlichen Industrieländern liegt die Inzidenz bei etwa 250 pro 100000 Einwohner. Männer sind etwa doppelt so häufig betroffen wie Frauen, wobei der Altersgipfel im mittleren bis höheren Lebensalter liegt. Die häufigsten Ursachen sind langjähriger Alkoholabusus (ca. 60 bis 70 Prozent) und chronische Virushepatitiden (ca. 10 bis 30 Prozent),. Seltenere Ursachen umfassen die nichtalkoholische Steatohepatitis, Stoffwechselerkrankungen wie Hämochromatose, Morbus Wilson oder Alpha-1-Antitrypsin-Mangel, Autoimmunerkrankungen, chronische Cholestase sowie vaskuläre Ursachen wie das Budd-Chiari-Syndrom,. Klinisch ist das Beschwerdebild oft uncharakteristisch und umfasst Leistungsminderung, Gewichtsverlust, Ikterus, eine derbe Leberkonsistenz und Splenomegalie. Typische Hautzeichen sind Spider naevi und petechiale Blutungen, bei Männern kann eine Gynäkomastie auftreten. Die Einjahresmortalität korreliert mit dem Schweregrad nach Child-Pugh und liegt im Stadium B bei 30 Prozent, im Stadium C bei 50 Prozent.
+Die [[Leberzirrhose|Leberzirrhose]] stellt das irreversible Endstadium verschiedener diffuser Lebererkrankungen dar, bei dem es durch Nekrose, Entzündung, Regeneration und Fibrosierung zu einem knotigen Umbau des Organs und einer Zerstörung der Läppchenarchitektur kommt,. In westlichen Industrieländern liegt die Inzidenz bei etwa 250 pro 100000 Einwohner. Männer sind etwa doppelt so häufig betroffen wie Frauen, wobei der Altersgipfel im mittleren bis höheren Lebensalter liegt. Die häufigsten Ursachen sind langjähriger Alkoholabusus (ca. 60 bis 70 Prozent) und chronische Virushepatitiden (ca. 10 bis 30 Prozent),. Seltenere Ursachen umfassen die nichtalkoholische Steatohepatitis, Stoffwechselerkrankungen wie Hämochromatose, Morbus Wilson oder Alpha-1-Antitrypsin-Mangel, Autoimmunerkrankungen, chronische Cholestase sowie vaskuläre Ursachen wie das [[Budd-Chiari-Syndrom|Budd-Chiari-Syndrom]],. Klinisch ist das Beschwerdebild oft uncharakteristisch und umfasst Leistungsminderung, Gewichtsverlust, Ikterus, eine derbe Leberkonsistenz und Splenomegalie. Typische Hautzeichen sind Spider naevi und petechiale Blutungen, bei Männern kann eine Gynäkomastie auftreten. Die Einjahresmortalität korreliert mit dem Schweregrad nach Child-Pugh und liegt im Stadium B bei 30 Prozent, im Stadium C bei 50 Prozent.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -29,7 +29,7 @@ Die Leberzirrhose stellt das irreversible Endstadium verschiedener diffuser Lebe
 ### Zu welchen morphologischen Veränderungen kommt es?
  Die Leberform verplumpt, die Oberfläche wird höckerig und die Struktur knotig. Man unterscheidet eine mikronoduläre (Knoten unter 3 mm), eine makronoduläre (Knoten über 3 mm) und eine gemischte Form,. Typisch ist eine Atrophie des rechten Leberlappens (Segmente V bis VIII) und des medialen Segments des linken Lappens (Segment IV), während es kompensatorisch zu einer Hypertrophie des lateralen Segments des linken Lappens (Segmente II und III) und des Lobus caudatus (Segment I) kommt,. 
 ### Zu welchen Komplikationen kann es kommen?
- Zu den Hauptkomplikationen zählen die portale Hypertension mit Ausbildung von Varizen (ösophageal, gastral, anorektal, Rekanalisation der Nabelvene), Aszites und Splenomegalie,. Die Leberzirrhose ist eine Präkanzerose für das hepatozelluläre Karzinom (HCC), welches sich über die Sequenz Regeneratknoten zu dysplastischem Knoten entwickeln kann,.
+ Zu den Hauptkomplikationen zählen die portale Hypertension mit Ausbildung von Varizen (ösophageal, gastral, anorektal, Rekanalisation der Nabelvene), Aszites und Splenomegalie,. Die [[Leberzirrhose|Leberzirrhose]] ist eine Präkanzerose für das hepatozelluläre Karzinom (HCC), welches sich über die Sequenz Regeneratknoten zu dysplastischem Knoten entwickeln kann,.
 
 ## Sonografie
  
@@ -41,7 +41,7 @@ Die Leberzirrhose stellt das irreversible Endstadium verschiedener diffuser Lebe
 ## Röntgen
  
 ### Was sieht man korrelierend in dieser Methode?
- Konventionelle Röntgenaufnahmen spielen in der Primärdiagnostik der Leberzirrhose eine untergeordnete Rolle. Indirekte Zeichen wie eine Hepatomegalie, Splenomegalie oder Aszites (Verlust der Abgrenzbarkeit von Organen, Zentralisierung der Darmschlingen) können auf Übersichtsaufnahmen erkennbar sein. 
+ Konventionelle Röntgenaufnahmen spielen in der Primärdiagnostik der [[Leberzirrhose|Leberzirrhose]] eine untergeordnete Rolle. Indirekte Zeichen wie eine Hepatomegalie, Splenomegalie oder Aszites (Verlust der Abgrenzbarkeit von Organen, Zentralisierung der Darmschlingen) können auf Übersichtsaufnahmen erkennbar sein. 
 ### Was kann man nicht sehen?
  Die parenchymatösen Umbauten und die Binnenstruktur der Leber sind nicht beurteilbar.
 
@@ -70,11 +70,11 @@ Pseudozirrhose bei metastasiertem Mammakarzinom: Unter Chemotherapie kann die Le
 
 Pseudozirrhose bei fulminantem Leberversagen: Hier zeigt sich eine feine diffuse Nodularität der Leberoberfläche durch konfluierende regenerative Knoten und Nekrosen, ohne dass eine echte Zirrhose (Fibrose) vorliegt.
 
-Budd-Chiari-Syndrom: Charakterisiert durch verschlossene Lebervenen und ein fleckiges Anreicherungsmuster nach Kontrastmittelgabe; im chronischen Stadium auch Hypertrophie des Lobus caudatus und Regeneratknoten,.
+[[Budd-Chiari-Syndrom|Budd-Chiari-Syndrom]]: Charakterisiert durch verschlossene Lebervenen und ein fleckiges Anreicherungsmuster nach Kontrastmittelgabe; im chronischen Stadium auch Hypertrophie des Lobus caudatus und Regeneratknoten,.
 
 Diffuse Lebermetastasierung: Hierbei ist der Lobus caudatus in der Regel normal groß, es fehlen atrophische Segmente und Umgehungskreisläufe.
 
-Sarkoidose: Zeigt in der MRT multiple T1- und T2-hypointense Noduli, die kein Kontrastmittel aufnehmen.
+[[Sarkoidose|Sarkoidose]]: Zeigt in der MRT multiple T1- und T2-hypointense Noduli, die kein Kontrastmittel aufnehmen.
 
 Noduläre regenerative Hyperplasie: Kann eine portale Hypertension verursachen und Zirrhose imitieren, zeigt aber keine Fibrose.
 
@@ -82,6 +82,10 @@ Noduläre regenerative Hyperplasie: Kann eine portale Hypertension verursachen u
 
 
 Eine Wandverdickung des Kolons, insbesondere des rechten Hemikolons, ist ein häufiger Befund bei Patienten mit Zirrhose und portaler Hypertension, bedingt durch venöse Stauung, und sollte nicht mit einer Kolitis oder einem Karzinom verwechselt werden,. Zudem kann eine Vergrößerung der supradiaphragmalen Lymphknoten bei Zirrhose auftreten.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=ARkrAaFMKq0)
 
 # Quellen
 

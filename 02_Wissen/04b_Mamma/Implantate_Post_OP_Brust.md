@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=nunbi914clk)
+
 # Quellen
 
 - [Radiopaedia Suche: Implantate Post OP Brust](https://radiopaedia.org/search?q=implantate+post+op+breast)

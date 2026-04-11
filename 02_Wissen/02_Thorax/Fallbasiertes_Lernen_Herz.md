@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=QgHf1IA0Uxc)
+
 # Quellen
 
 - [Radiopaedia Suche: Fallbasiertes Lernen Herz](https://radiopaedia.org/search?q=fallbasiertes+lernen+heart)

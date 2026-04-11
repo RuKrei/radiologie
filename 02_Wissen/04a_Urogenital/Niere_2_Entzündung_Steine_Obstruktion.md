@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=CQwfn73ClxQ)
+
 # Quellen
 
 - [Radiopaedia Suche: Niere 2 Entzündung Steine Obstruktion](https://radiopaedia.org/search?q=kidney+2+entzündung+steine+obstruktion)

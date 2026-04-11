@@ -36,6 +36,10 @@ Ein echtes Zeichen von Stärke.
 Ein Käufer kauft das Ask leer. Sofort stellen Verkäufer neue Offers rein. Der Käufer kauft *wieder* alles weg.
 -> Dies zeigt echte, aggressive Nachfrage. **Go with the flow.**
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=ryh1_2waeYs)
+
 # Quellen
 
 - [Radiopaedia Suche: 05 DOM Liquidity](https://radiopaedia.org/search?q=05+dom+liquidity)

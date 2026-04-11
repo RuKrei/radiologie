@@ -17,16 +17,16 @@ Zuletzt gelesen: 2025-12-15
 Tags: 
 
 -----
-Hier ist der Übersichtsartikel zum Thema Interstitielle Pneumonie, basierend auf den zur Verfügung gestellten Quellen.
+Hier ist der Übersichtsartikel zum Thema [[Interstitielle Pneumonie|Interstitielle Pneumonie]], basierend auf den zur Verfügung gestellten Quellen.
 
 **Wer? (Epidemiologie und Symptome)**
 
-Der Begriff „interstitielle Pneumonie“ wird klinisch und radiologisch in zwei Hauptkontexten verwendet:
+Der Begriff „[[Interstitielle Pneumonie|interstitielle Pneumonie]]“ wird klinisch und radiologisch in zwei Hauptkontexten verwendet:
 
 1. **Infektiös („Atypische Pneumonie“):** Verursacht durch Viren (Influenza, CMV, RSV), Mykoplasmen, Chlamydien, Rickettsien oder Pilze (Pneumocystis jirovecii). Betroffen sind oft Patienten mit konsumierenden Erkrankungen oder Immunsuppression (Chemotherapie, AIDS, Transplantierte), aber auch Immunkompetente (z. B. Mykoplasmen bei Jugendlichen/jungen Erwachsenen),.
 2. **Idiopathisch (IIP - Idiopathische Interstitielle Pneumonien):** Eine Gruppe nicht-infektiöser Erkrankungen unbekannter Ursache (z. B. IPF, NSIP, COP, AIP),.
 
-Klinisch präsentieren sich infektiöse Formen oft mit schleichendem Beginn, mäßigem Fieber (ohne Schüttelfrost), trockenem Reizhusten, Kopf- und Gliederschmerzen sowie Dyspnoe. Es besteht oft eine Diskrepanz zwischen geringem Auskultationsbefund und deutlichem Röntgenbefund,. Die idiopathischen Formen (z. B. IPF, NSIP) zeigen meist eine chronisch progrediente Belastungsdyspnoe und trockenen Husten,. Eine Ausnahme bildet die Akute Interstitielle Pneumonie (AIP), die fulminant mit schwerer respiratorischer Insuffizienz verläuft.
+Klinisch präsentieren sich infektiöse Formen oft mit schleichendem Beginn, mäßigem Fieber (ohne Schüttelfrost), trockenem Reizhusten, Kopf- und Gliederschmerzen sowie Dyspnoe. Es besteht oft eine Diskrepanz zwischen geringem Auskultationsbefund und deutlichem Röntgenbefund,. Die idiopathischen Formen (z. B. IPF, NSIP) zeigen meist eine chronisch progrediente Belastungsdyspnoe und trockenen Husten,. Eine Ausnahme bildet die Akute [[Interstitielle Pneumonie|Interstitielle Pneumonie]] (AIP), die fulminant mit schwerer respiratorischer Insuffizienz verläuft.
 
 **Bildgebung (morphologische/ pathologische Veränderungen)**
 
@@ -67,15 +67,15 @@ Klinisch präsentieren sich infektiöse Formen oft mit schleichendem Beginn, mä
     
     - **Infektiöse interstitielle Pneumonie:**
         
-        - _Pneumocystis (PcP):_ Diffuse oder landkartenartige Milchglastrübungen, oft mit relativer Aussparung des Subpleuralraums. Verdickte Interlobulärsepten („Crazy Paving“ möglich). Zysten in den Oberlappen,.
+        - _Pneumocystis (PcP):_ Diffuse oder landkartenartige Milchglastrübungen, oft mit relativer Aussparung des Subpleuralraums. Verdickte Interlobulärsepten („[[Crazy_Paving|Crazy Paving]]“ möglich). Zysten in den Oberlappen,.
         - _Viruspneumonie (z.B. CMV):_ Milchglastrübungen, Kleinknotige Läsionen, Konsolidierungen, verdickte Septen,.
         - _Mykoplasmen:_ Zentrilobuläre Noduli, Tree-in-Bud, Bronchialwandverdickungen, fleckige Milchglastrübungen.
     - **Idiopathische Interstitielle Pneumonien (IIP):**
         
-        - _UIP (bei IPF):_ Honigwabenmuster (Honeycombing), Traktionsbronchiektasen, retikuläre Verdichtungen. Dominanz basal und subpleural,.
-        - _NSIP:_ Milchglastrübungen und feine Retikulationen, basal betont, oft mit Aussparung des unmittelbaren Subpleuralraums. Wenig bis kein Honeycombing,.
+        - _UIP (bei IPF):_ Honigwabenmuster ([[Honeycombing|Honeycombing]]), Traktionsbronchiektasen, retikuläre Verdichtungen. Dominanz basal und subpleural,.
+        - _NSIP:_ Milchglastrübungen und feine Retikulationen, basal betont, oft mit Aussparung des unmittelbaren Subpleuralraums. Wenig bis kein [[Honeycombing|Honeycombing]],.
         - _COP (Organisierende Pneumonie):_ Patchige, oft periphere oder peribronchiale Konsolidierungen (Atoll-Zeichen/Reverse Halo),.
-        - _AIP (Akute Interstitielle Pneumonie):_ Bild des ARDS/diffusen Alveolarschadens (DAD) mit weitreichenden Milchglastrübungen, „Crazy Paving“ und Konsolidierungen (ventro-dorsaler Gradient),,.
+        - _AIP (Akute Interstitielle Pneumonie):_ Bild des ARDS/diffusen Alveolarschadens (DAD) mit weitreichenden Milchglastrübungen, „[[Crazy_Paving|Crazy Paving]]“ und Konsolidierungen (ventro-dorsaler Gradient),,.
         - _LIP (Lymphozytäre IP):_ Milchglastrübungen und dünnwandige perivaskuläre Zysten,.
         - _RB-ILD / DIP (Raucher-assoziiert):_ Zentrilobuläre Milchglasherde (RB-ILD) oder diffuse Milchglastrübungen (DIP).
 - **Was kann man nicht sehen?** Eine sichere Erregerdiagnose ist rein morphologisch nicht möglich, da sich Muster überlappen (z. B. virale Pneumonie vs. atypische bakterielle Pneumonie),.
@@ -88,13 +88,13 @@ Klinisch präsentieren sich infektiöse Formen oft mit schleichendem Beginn, mä
 - **Was sieht man korrelierend in dieser Methode?** Aktive Entzündungsprozesse zeigen im MRT eine Signalintensitätssteigerung in T2-gewichteten Sequenzen (Ödem) und eine Kontrastmittelaufnahme.
     - _Sarkoidose (als granulomatöse Form):_ T2-hyperintense Granulome.
     - _Fibrose vs. Alveolitis:_ Fibrose ist in der T2-Wichtung eher hypointens, aktive Alveolitis hyperintens.
-- **Was kann man nicht sehen?** Die Feinstruktur des Lungenparenchyms (z. B. feine Retikulationen, beginnendes Honeycombing) ist im Vergleich zur HRCT schlechter beurteilbar.
+- **Was kann man nicht sehen?** Die Feinstruktur des Lungenparenchyms (z. B. feine Retikulationen, beginnendes [[Honeycombing|Honeycombing]]) ist im Vergleich zur HRCT schlechter beurteilbar.
 
 **Differenzialdiagnosen**
 
 - **Lungenödem (hydrostatisch):** Zeigt ebenfalls verdickte Interlobulärsepten (Kerley-Linien) und Milchglas, aber meist Kardiomegalie, Pleuraergüsse und apikale Umverteilung,,.
 - **Alveoläre Hämorrhagie:** Diffuse Milchglastrübungen, oft unter Aussparung der Lungenspitzen oder des Subpleuralraums; klinisch Hämoptysen/Anämie,.
-- **Alveolarproteinose:** „Crazy Paving“ (Milchglas + septale Verdickung), scharfe Begrenzung zu gesundem Gewebe („Landkartenmuster“),.
+- **Alveolarproteinose:** „[[Crazy_Paving|Crazy Paving]]“ (Milchglas + septale Verdickung), scharfe Begrenzung zu gesundem Gewebe („Landkartenmuster“),.
 - **Lymphangiosis carcinomatosa:** Verdickte, oft noduläre („perlschnurartige“) Septen; meist einseitig oder asymmetrisch, bekannte Tumoranamnese,.
 - **Exogen-allergische Alveolitis (EAA):** Im subakuten Stadium zentrilobuläre Milchglasherde und Air Trapping (Mosaikmuster),.
 - **Medikamententoxizität:** Kann sich als NSIP, COP oder DAD (AIP-ähnlich) manifestieren. Anamnese (z. B. Amiodaron, Methotrexat) ist entscheidend,.
@@ -104,6 +104,10 @@ Klinisch präsentieren sich infektiöse Formen oft mit schleichendem Beginn, mä
 Bei der _Akuten Interstitiellen Pneumonie (AIP)_ bzw. dem _Hamman-Rich-Syndrom_ handelt es sich um eine Ausschlussdiagnose bei einem idiopathischen ARDS. Radiologisch unterscheidet es sich kaum von einem ARDS anderer Genese (diffuse Verschattungen, Konsolidierungen in abhängigen Partien).
 
 **Quellen** ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=bbFkG_Syef0)
+
 # Quellen
 
 - [Radiopaedia Suche: Interstitielle Pneumonie](https://radiopaedia.org/search?q=interstitielle+pneumonie)

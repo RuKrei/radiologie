@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=7zNi4AuW7bU)
+
 # Quellen
 
 - [Radiopaedia Suche: Klappenvitien Angeborene Herzfehler beim Erwachsenen](https://radiopaedia.org/search?q=klappenvitien+angeborene+herzfehler+beim+erwachsenen)

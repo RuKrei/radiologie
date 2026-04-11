@@ -32,7 +32,7 @@ Choledochuszysten sind kongenitale Anomalien, die durch eine segmentale aneurysm
 ### Zu welchen morphologischen Veränderungen kommt es?
  Man unterscheidet fünf Typen nach Todani: Typ I ist eine fusiforme Erweiterung des extrahepatischen Gallengangs (80 bis 90 Prozent der Fälle). Typ II stellt ein supraduodenales Divertikel am extrahepatischen Gallengang dar. Typ III ist eine Choledochozele im Bereich der Duodenalwand. Typ IV bezeichnet multiple Zysten, wobei Typ IVa intra- und extrahepatische Erweiterungen umfasst und Typ IVb nur extrahepatische. Typ V ist die isolierte zystische Erweiterung der intrahepatischen Gallenwege (Caroli-Krankheit). 
 ### Zu welchen Komplikationen kann es kommen?
- Es besteht eine erhöhte Neigung zu Infektionen (Cholangitis), zur Bildung intraduktaler Steine und zur Entwicklung von Gallengangskarzinomen.
+ Es besteht eine erhöhte Neigung zu [[Infektionen|Infektionen]] (Cholangitis), zur Bildung intraduktaler Steine und zur Entwicklung von Gallengangskarzinomen.
 
 ## Sonografie
  
@@ -68,18 +68,18 @@ Choledochuszysten sind kongenitale Anomalien, die durch eine segmentale aneurysm
 ### Was kann man nicht sehen?
  Kleine Steine unter 3 mm können der MRT entgehen. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Nach Kontrastmittelgabe kann eine irreguläre Verdickung der Zystenwand auf eine maligne Entartung hinweisen.
+ Nach Kontrastmittelgabe kann eine irreguläre Verdickung der Zystenwand auf eine [[Knochentumoren_2_Maligne|maligne]] Entartung hinweisen.
 
 # Differenzialdiagnosen
 
 
-Gallengangkarzinom: Zeigt eine irreguläre Verdickung der Gallengangwand und führt meist zu einer Gallengangobstruktion; bei hochsitzenden Tumoren findet sich oft eine Infiltration in die Leber,.
+Gallengangkarzinom: Zeigt eine irreguläre Verdickung der Gallengangwand und führt meist zu einer Gallengangobstruktion; bei hochsitzenden [[Pankreas_2_Tumoren|Tumoren]] findet sich oft eine Infiltration in die Leber,.
 
 Leberzysten: Diese sind rundlich, haben keinen Anschluss an das Gallengangsystem und sind oft multipel.
 
-Peribiliäre Zysten: Diese treten meist bei Leberzirrhose auf, sind klein, liegen entlang der Pfortader und kommunizieren nicht mit dem Gallengang,.
+[[Peribiliäre Zysten|Peribiliäre Zysten]]: Diese treten meist bei [[Leberzirrhose|Leberzirrhose]] auf, sind klein, liegen entlang der Pfortader und kommunizieren nicht mit dem Gallengang,.
 
-Duodenaldivertikel: Diese enthalten oft Luft oder Flüssigkeit und liegen meist an der medialen Seite des Duodenums, ohne direkte Kommunikation mit den Gallenwegen (außer bei Typ III Choledochozele, die im Duodenum liegt),.
+[[Duodenaldivertikel|Duodenaldivertikel]]: Diese enthalten oft Luft oder Flüssigkeit und liegen meist an der medialen Seite des Duodenums, ohne direkte Kommunikation mit den Gallenwegen (außer bei Typ III Choledochozele, die im Duodenum liegt),.
 
 Doppelte Gallenblase: Weist einen eigenen Ductus cysticus auf und kann manchmal parallel zur normalen Gallenblase liegen.
 
@@ -91,6 +91,10 @@ Intraduktale papillär-muzinöse Neoplasie der Gallenwege: Zeigt intraduktale Ko
 
 
 Wegen des erhöhten Risikos für die Entwicklung eines Cholangiokarzinoms (etwa 20-fach erhöht) ist die chirurgische Exzision der Zyste notwendig. Das operative Standardverfahren umfasst meist die Resektion der Zyste in Kombination mit einer Cholezystektomie und einer Rekonstruktion mittels Roux-Y-Hepaticojejunostomie.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=gUoHg4Qxjuo)
 
 # Quellen
 

@@ -1,4 +1,4 @@
-# Fat Pad Sign
+# [[Fat_Pad_Sign|Fat Pad Sign]]
 
 ## Definition
 Aufhellung durch verlagertes Fettgewebe am distalen Humerus (Ellbogen) als indirektes Frakturzeichen (z.B. Radiusköpfchen).
@@ -15,3 +15,7 @@ Aufhellung durch verlagertes Fettgewebe am distalen Humerus (Ellbogen) als indir
 
 ---
 Tags: #Radiologie #Muskuloskelettal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=k1UYfi9zdOg)
+

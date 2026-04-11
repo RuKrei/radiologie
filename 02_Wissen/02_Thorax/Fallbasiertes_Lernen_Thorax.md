@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=8VhazSPO15s)
+
 # Quellen
 
 - [Radiopaedia Suche: Fallbasiertes Lernen Thorax](https://radiopaedia.org/search?q=fallbasiertes+lernen+thorax)

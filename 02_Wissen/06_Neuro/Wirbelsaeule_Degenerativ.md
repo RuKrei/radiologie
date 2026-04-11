@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Y2lKVoRdzWY)
+
 # Quellen
 
 - [Radiopaedia Suche: Wirbelsaeule Degenerativ](https://radiopaedia.org/search?q=spine+degenerativ)

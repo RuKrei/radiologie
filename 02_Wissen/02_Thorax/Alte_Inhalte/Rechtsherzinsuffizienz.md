@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Die Rechtsherzinsuffizienz beschreibt das Unvermögen des rechten Ventrikels, das erforderliche Blutvolumen in den Lungenkreislauf zu fördern oder das venöse Rückstromblut adäquat aufzunehmen. Sie ist häufig Folge einer Druck- oder Volumenbelastung des rechten Herzens. Zu den häufigsten Ursachen zählen die Linksherzinsuffizienz (Rückwärtsversagen), die pulmonalarterielle Hypertonie (PAH), chronische Lungenerkrankungen (COPD, Cor pulmonale) sowie angeborene Herzfehler mit Links-Rechts-Shunt (z. B. Vorhofseptumdefekt, Ventrikelseptumdefekt) und Klappenvitien (Trikuspidalinsuffizienz, Pulmonalstenose),,,,,. Eine spezifische Ursache ist die arrhythmogene rechtsventrikuläre Kardiomyopathie (ARVC),. Klinisch ist das Bild durch das Rückwärtsversagen geprägt. Es kommt zur Stauung im systemvenösen Kreislauf. Typische Symptome sind Beinödeme, gestaute Halsvenen, Hepatomegalie, Aszites, Nykturie und Leistungsminderung,,,.
+Die [[Rechtsherzinsuffizienz|Rechtsherzinsuffizienz]] beschreibt das Unvermögen des rechten Ventrikels, das erforderliche Blutvolumen in den Lungenkreislauf zu fördern oder das venöse Rückstromblut adäquat aufzunehmen. Sie ist häufig Folge einer Druck- oder Volumenbelastung des rechten Herzens. Zu den häufigsten Ursachen zählen die [[Linksherzinsuffizienz|Linksherzinsuffizienz]] (Rückwärtsversagen), die [[Pulmonalarterielle Hypertonie|pulmonalarterielle Hypertonie]] (PAH), chronische Lungenerkrankungen (COPD, Cor pulmonale) sowie angeborene Herzfehler mit Links-Rechts-Shunt (z. B. Vorhofseptumdefekt, Ventrikelseptumdefekt) und Klappenvitien (Trikuspidalinsuffizienz, Pulmonalstenose),,,,,. Eine spezifische Ursache ist die arrhythmogene rechtsventrikuläre Kardiomyopathie (ARVC),. Klinisch ist das Bild durch das Rückwärtsversagen geprägt. Es kommt zur Stauung im systemvenösen Kreislauf. Typische Symptome sind Beinödeme, gestaute Halsvenen, Hepatomegalie, Aszites, Nykturie und Leistungsminderung,,,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -45,11 +45,11 @@ Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Bei schlechtem akusti
 ## Röntgen
 
 
-Was sieht man korrelierend in dieser Methode? Im posterior-anterioren Strahlengang ist der rechte Ventrikel physiologisch nicht randbildend. Bei Vergrößerung kommt es zu einer Verbreiterung des Herzschattens nach links (der vergrößerte RV verdrängt den LV nach lateral) und einer Anhebung der Herzspitze (abgerundet), was oft fälschlich als Linksherzvergrößerung gedeutet wird,. Die Herztaille ist oft verstrichen. Eine Rechtsvorhofvergrößerung führt zu einer Ausladung des rechten unteren Herzrandes nach lateral; der Abstand zur Mittellinie beträgt dann mehr als ein Drittel des rechten Hemithorax,. In der Seitaufnahme legt sich der vergrößerte rechte Ventrikel vermehrt dem Sternum an. Die Kontaktfläche beträgt dann mehr als ein Drittel der Sternumhöhe, und der Retrosternalraum ist eingeengt,,,,,. Als Zeichen der Rechtsherzinsuffizienz finden sich eine Verbreiterung der Vena cava superior (Verbreiterung des Gefäßbandes rechts) und eine Aufweitung der Vena azygos,,.
+Was sieht man korrelierend in dieser Methode? Im posterior-anterioren Strahlengang ist der rechte Ventrikel physiologisch nicht randbildend. Bei Vergrößerung kommt es zu einer Verbreiterung des Herzschattens nach links (der vergrößerte RV verdrängt den LV nach lateral) und einer Anhebung der Herzspitze (abgerundet), was oft fälschlich als [[Linksherzvergrößerung|Linksherzvergrößerung]] gedeutet wird,. Die Herztaille ist oft verstrichen. Eine Rechtsvorhofvergrößerung führt zu einer Ausladung des rechten unteren Herzrandes nach lateral; der Abstand zur Mittellinie beträgt dann mehr als ein Drittel des rechten Hemithorax,. In der Seitaufnahme legt sich der vergrößerte rechte Ventrikel vermehrt dem Sternum an. Die Kontaktfläche beträgt dann mehr als ein Drittel der Sternumhöhe, und der Retrosternalraum ist eingeengt,,,,,. Als Zeichen der [[Rechtsherzinsuffizienz|Rechtsherzinsuffizienz]] finden sich eine Verbreiterung der Vena cava superior (Verbreiterung des Gefäßbandes rechts) und eine Aufweitung der Vena azygos,,.
 
 Was kann man nicht sehen? Die Unterscheidung, ob die Linksverbreiterung durch den rechten oder linken Ventrikel bedingt ist, ist im p.a.-Bild oft schwierig und erfordert die Seitaufnahme.
 
-Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Bei begleitendem Emphysem (Fassthorax) kann trotz Rechtsherzbelastung die Herzgröße radiologisch normal erscheinen (Tropfenherz). Ein prominentes Pulmonalissegment und Kalibersprünge der Pulmonalgefäße weisen auf eine pulmonale Hypertonie hin,. Ein Pleuraerguss tritt bei Rechtsherzinsuffizienz ebenfalls auf, ist aber häufiger bei Linksherzinsuffizienz.
+Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Bei begleitendem Emphysem (Fassthorax) kann trotz Rechtsherzbelastung die Herzgröße radiologisch normal erscheinen (Tropfenherz). Ein prominentes Pulmonalissegment und Kalibersprünge der Pulmonalgefäße weisen auf eine pulmonale Hypertonie hin,. Ein Pleuraerguss tritt bei [[Rechtsherzinsuffizienz|Rechtsherzinsuffizienz]] ebenfalls auf, ist aber häufiger bei [[Linksherzinsuffizienz|Linksherzinsuffizienz]].
 
 ## CT
 
@@ -77,7 +77,11 @@ Perikarderguss: Kann im Röntgenbild eine Kardiomegalie vortäuschen (Bocksbeute
 # Alles andere
 
 
-Bei der Beurteilung der Rechtsherzvergrößerung im Röntgenbild ist auf die pulmonale Gefäßzeichnung zu achten: Eine Erweiterung der zentralen Pulmonalarterien mit Kalibersprung zur Peripherie spricht für eine pulmonale Hypertonie als Ursache,. Ein prominenter Azygosschatten und eine verbreiterte V. cava superior sind Zeichen der Rechtsherzinsuffizienz.
+Bei der Beurteilung der [[Rechtsherzvergrößerung|Rechtsherzvergrößerung]] im Röntgenbild ist auf die pulmonale Gefäßzeichnung zu achten: Eine Erweiterung der zentralen Pulmonalarterien mit Kalibersprung zur Peripherie spricht für eine pulmonale Hypertonie als Ursache,. Ein prominenter Azygosschatten und eine verbreiterte V. cava superior sind Zeichen der Rechtsherzinsuffizienz.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=HFJyjCwkQtc)
 
 # Quellen
 

@@ -21,7 +21,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Die Rechtsherzvergrößerung ist häufig Folge einer Druck- oder Volumenbelastung des rechten Ventrikels und/oder Vorhofs. Zu den häufigsten Ursachen zählen die Linksherzinsuffizienz (Rückwärtsversagen), die pulmonalarterielle Hypertonie (PAH), chronische Lungenerkrankungen (COPD, Cor pulmonale) sowie angeborene Herzfehler mit Links-Rechts-Shunt (z. B. Vorhofseptumdefekt, Ventrikelseptumdefekt) und Klappenvitien (Trikuspidalinsuffizienz, Pulmonalstenose),,,,. Eine spezifische Ursache ist die arrhythmogene rechtsventrikuläre Kardiomyopathie (ARVC). Klinisch präsentieren sich Patienten oft mit Zeichen der Rechtsherzinsuffizienz, wie Beinödemen, gestauten Halsvenen, Hepatomegalie, Aszites und Leistungsminderung,.
+Die [[Rechtsherzvergrößerung|Rechtsherzvergrößerung]] ist häufig Folge einer Druck- oder Volumenbelastung des rechten Ventrikels und/oder Vorhofs. Zu den häufigsten Ursachen zählen die [[Linksherzinsuffizienz|Linksherzinsuffizienz]] (Rückwärtsversagen), die [[Pulmonalarterielle Hypertonie|pulmonalarterielle Hypertonie]] (PAH), chronische Lungenerkrankungen (COPD, Cor pulmonale) sowie angeborene Herzfehler mit Links-Rechts-Shunt (z. B. Vorhofseptumdefekt, Ventrikelseptumdefekt) und Klappenvitien (Trikuspidalinsuffizienz, Pulmonalstenose),,,,. Eine spezifische Ursache ist die arrhythmogene rechtsventrikuläre Kardiomyopathie (ARVC). Klinisch präsentieren sich Patienten oft mit Zeichen der [[Rechtsherzinsuffizienz|Rechtsherzinsuffizienz]], wie Beinödemen, gestauten Halsvenen, Hepatomegalie, Aszites und Leistungsminderung,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -32,7 +32,7 @@ Zu welchen pathologischen Veränderungen kommt es? Es kommt zu einer Dilatation 
 
 Zu welchen morphologischen Veränderungen kommt es? Der rechte Ventrikel verliert seine physiologische Geometrie, dilatiert und kann die Herzspitze bilden. Das interventrikuläre Septum wölbt sich durch den erhöhten rechtsventrikulären Druck nach links (Paradoxe Septumbewegung, D-Shape des linken Ventrikels),. Es kommt zur Dilatation des Klappenrings der Trikuspidalklappe.
 
-Zu welchen Komplikationen kann es kommen? Die wichtigste Folge ist die Rechtsherzinsuffizienz mit Stauung in den systemvenösen Kreislauf (Vena cava superior/inferior, Lebervenen),. Sekundär entsteht häufig eine funktionelle Trikuspidalinsuffizienz durch Annulusdilatation. Thromben können sich insbesondere im rechten Herzohr oder Ventrikel bei starker Dilatation und reduzierter Funktion bilden.
+Zu welchen Komplikationen kann es kommen? Die wichtigste Folge ist die [[Rechtsherzinsuffizienz|Rechtsherzinsuffizienz]] mit Stauung in den systemvenösen Kreislauf (Vena cava superior/inferior, Lebervenen),. Sekundär entsteht häufig eine funktionelle Trikuspidalinsuffizienz durch Annulusdilatation. Thromben können sich insbesondere im rechten Herzohr oder Ventrikel bei starker Dilatation und reduzierter Funktion bilden.
 
 ## Sonografie
 
@@ -46,7 +46,7 @@ Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Bei schlechtem akusti
 ## Röntgen
 
 
-Was sieht man korrelierend in dieser Methode? Im posterior-anterioren Strahlengang ist der rechte Ventrikel physiologisch nicht randbildend. Bei Vergrößerung kommt es zu einer Verbreiterung des Herzschattens nach links (der vergrößerte RV verdrängt den LV nach lateral) und einer Anhebung der Herzspitze (abgerundet), was oft fälschlich als Linksherzvergrößerung gedeutet wird,. Die Herztaille ist oft verstrichen. Eine Rechtsvorhofvergrößerung führt zu einer Ausladung des rechten unteren Herzrandes nach lateral (Abstand zur Mittellinie > 1/3 des rechten Hemithorax),,. In der Seitaufnahme legt sich der vergrößerte rechte Ventrikel vermehrt dem Sternum an. Die Kontaktfläche beträgt dann mehr als 1/3 der Sternumhöhe, und der Retrosternalraum ist eingeengt,,,,,.
+Was sieht man korrelierend in dieser Methode? Im posterior-anterioren Strahlengang ist der rechte Ventrikel physiologisch nicht randbildend. Bei Vergrößerung kommt es zu einer Verbreiterung des Herzschattens nach links (der vergrößerte RV verdrängt den LV nach lateral) und einer Anhebung der Herzspitze (abgerundet), was oft fälschlich als [[Linksherzvergrößerung|Linksherzvergrößerung]] gedeutet wird,. Die Herztaille ist oft verstrichen. Eine Rechtsvorhofvergrößerung führt zu einer Ausladung des rechten unteren Herzrandes nach lateral (Abstand zur Mittellinie > 1/3 des rechten Hemithorax),,. In der Seitaufnahme legt sich der vergrößerte rechte Ventrikel vermehrt dem Sternum an. Die Kontaktfläche beträgt dann mehr als 1/3 der Sternumhöhe, und der Retrosternalraum ist eingeengt,,,,,.
 
 Was kann man nicht sehen? Eine reine konzentrische Hypertrophie ohne Dilatation entzieht sich oft der röntgenologischen Darstellung. Die Unterscheidung, ob die Linksverbreiterung durch den rechten oder linken Ventrikel bedingt ist, ist im p.a.-Bild oft schwierig und erfordert die Seitaufnahme.
 
@@ -78,7 +78,11 @@ Perikarderguss: Kann im Röntgenbild eine Kardiomegalie vortäuschen; im CT/MRT 
 # Alles andere
 
 
-Bei der Beurteilung der Rechtsherzvergrößerung im Röntgenbild ist auf die pulmonale Gefäßzeichnung zu achten: Eine Erweiterung der zentralen Pulmonalarterien mit Kalibersprung zur Peripherie spricht für eine pulmonale Hypertonie als Ursache,. Ein prominenter Azygosschatten und eine verbreiterte V. cava superior sind Zeichen der Rechtsherzinsuffizienz.
+Bei der Beurteilung der [[Rechtsherzvergrößerung|Rechtsherzvergrößerung]] im Röntgenbild ist auf die pulmonale Gefäßzeichnung zu achten: Eine Erweiterung der zentralen Pulmonalarterien mit Kalibersprung zur Peripherie spricht für eine pulmonale Hypertonie als Ursache,. Ein prominenter Azygosschatten und eine verbreiterte V. cava superior sind Zeichen der [[Rechtsherzinsuffizienz|Rechtsherzinsuffizienz]].
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=xtUrE6L9_hc)
 
 # Quellen
 

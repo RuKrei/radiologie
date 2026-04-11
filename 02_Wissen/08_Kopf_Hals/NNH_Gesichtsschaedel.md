@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Q5PgLTs7_48)
+
 # Quellen
 
 - [Radiopaedia Suche: NNH Gesichtsschaedel](https://radiopaedia.org/search?q=nnh+gesichtsschaedel)

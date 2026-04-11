@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=m61dCXS54kY)
+
 # Quellen
 
 - [Radiopaedia Suche: Arthritis 1 Rheumatoide A Spondyloarthropathien](https://radiopaedia.org/search?q=arthritis+1+rheumatoide+a+spondyloarthropathien)

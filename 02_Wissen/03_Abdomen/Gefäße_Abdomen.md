@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=AC3gpv92W6c)
+
 # Quellen
 
 - [Radiopaedia Suche: Gefäße Abdomen](https://radiopaedia.org/search?q=gefäße+abdomen)

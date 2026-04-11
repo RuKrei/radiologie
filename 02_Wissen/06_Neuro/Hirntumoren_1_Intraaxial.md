@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=4VckIQ4vkBE)
+
 # Quellen
 
 - [Radiopaedia Suche: Hirntumoren 1 Intraaxial](https://radiopaedia.org/search?q=hirntumoren+1+intraaxial)

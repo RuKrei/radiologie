@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=X_ukWt87IgY)
+
 # Quellen
 
 - [Radiopaedia Suche: Trauma 1 Frakturlehre Heilung Komplikationen](https://radiopaedia.org/search?q=trauma+1+frakturlehre+heilung+komplikationen)

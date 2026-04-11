@@ -40,6 +40,10 @@ Große Orders im Buch, die *gelöscht* werden, sobald der Preis näher kommt.
 *   **Erkennung:** Order verschwindet ohne Ausführung (Volume traded = 0).
 *   **Regel:** Glaube keiner Limit-Order, bis sie ausgeführt wurde! Nur der Footprint (Executed Volume) lügt nicht.
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=HAhPBjIQwQ8)
+
 # Quellen
 
 - [Radiopaedia Suche: 05 Orderflow Dynamics Absorption](https://radiopaedia.org/search?q=05+orderflow+dynamics+absorption)

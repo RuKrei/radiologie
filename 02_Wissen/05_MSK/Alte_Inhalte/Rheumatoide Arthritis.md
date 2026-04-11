@@ -48,6 +48,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=kcwt7t5NnSE)
+
 # Quellen
 
 - [Radiopaedia Suche: Rheumatoide Arthritis](https://radiopaedia.org/search?q=rheumatoide+arthritis)

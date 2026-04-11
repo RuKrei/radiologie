@@ -28,7 +28,7 @@ Der Blick unter die Motorhaube. Wer kauft und verkauft gerade wirklich?
 ### 04. Strategie & Psychologie
 Ein Edge (Vorteil) ist nutzlos ohne Disziplin.
 - *[Geplant]* Setup-Identifikation (Rotationshandel, Ausbrüche)
-- *[Geplant]* Risikomanagement (R:R, Position Sizing)
+- *[Geplant]* [[Risikomanagement|Risikomanagement]] (R:R, Position Sizing)
 - *[Geplant]* Trading-Psychologie & Journaling
 
 ### 05. Ressourcen
@@ -40,6 +40,10 @@ Ein Edge (Vorteil) ist nutzlos ohne Disziplin.
 Am Ende dieses Kurses wirst du nicht mehr fragen "Wohin geht der Kurs?", sondern "Wo findet der Markt Akzeptanz und wo lehnt er Preise ab?". Du wirst lernen, Wahrscheinlichkeiten zu handeln, statt Vorhersagen zu treffen.
 
 **Legen wir los!** Beginne mit [[Was-ist-Daytrading|Was ist Daytrading?]].
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=85YOnLzUXOE)
 
 # Quellen
 

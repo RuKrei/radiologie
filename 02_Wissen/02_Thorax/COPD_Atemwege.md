@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Wb0jVjjoMcs)
+
 # Quellen
 
 - [Radiopaedia Suche: COPD Atemwege](https://radiopaedia.org/search?q=copd+atemwege)

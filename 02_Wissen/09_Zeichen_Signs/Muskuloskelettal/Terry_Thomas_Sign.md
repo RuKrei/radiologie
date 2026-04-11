@@ -1,4 +1,4 @@
-# Terry Thomas Sign
+# [[Terry_Thomas_Sign|Terry Thomas Sign]]
 
 ## Definition
 Erweiterung des Abstands zwischen Os scaphoideum und Os lunatum (> 3-4mm) im p.a. Handröntgen. Zeichen für skapholunäre Dissoziation (Bandruptur).
@@ -15,3 +15,7 @@ Erweiterung des Abstands zwischen Os scaphoideum und Os lunatum (> 3-4mm) im p.a
 
 ---
 Tags: #Radiologie #Muskuloskelettal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=8uIEX1pfiCQ)
+

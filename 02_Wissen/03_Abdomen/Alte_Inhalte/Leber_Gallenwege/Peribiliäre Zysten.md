@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Peribiliäre Zysten stellen eine zystische Dilatation der peribiliären Drüsen dar, die keine Kommunikation mit dem Gallengangsystem aufweisen,. Sie treten meist multipel auf und sind am Leberhilus sowie intrahepatisch lokalisiert. Man unterscheidet zwei Typen: jene, die als Folge einer fortgeschrittenen chronischen Lebererkrankung auftreten wie bei alkoholischer Leberzirrhose oder portaler Hypertonie, und jene, die mit einer autosomal dominanten polyzystischen Nieren- oder Lebererkrankung assoziiert sind,. Die Häufigkeit hängt von der zugrunde liegenden Erkrankung ab, wobei Männer mit etwa 80 Prozent deutlich häufiger betroffen sind als Frauen,. Der Altersgipfel liegt im mittleren Alter, etwa im 6. Lebensjahrzehnt,. Klinisch wird das Bild meist durch die Grunderkrankung bestimmt, in etwa 30 Prozent der Fälle handelt es sich um einen Zufallsbefund. Gelegentlich können Symptome eines obstruktiven Ikterus oder Zeichen einer Cholangitis auftreten,.
+[[Peribiliäre Zysten|Peribiliäre Zysten]] stellen eine zystische Dilatation der peribiliären Drüsen dar, die keine Kommunikation mit dem Gallengangsystem aufweisen,. Sie treten meist multipel auf und sind am Leberhilus sowie intrahepatisch lokalisiert. Man unterscheidet zwei Typen: jene, die als Folge einer fortgeschrittenen chronischen Lebererkrankung auftreten wie bei alkoholischer [[Leberzirrhose|Leberzirrhose]] oder portaler Hypertonie, und jene, die mit einer autosomal dominanten polyzystischen Nieren- oder Lebererkrankung assoziiert sind,. Die Häufigkeit hängt von der zugrunde liegenden Erkrankung ab, wobei Männer mit etwa 80 Prozent deutlich häufiger betroffen sind als Frauen,. Der Altersgipfel liegt im mittleren Alter, etwa im 6. Lebensjahrzehnt,. Klinisch wird das Bild meist durch die Grunderkrankung bestimmt, in etwa 30 Prozent der Fälle handelt es sich um einen Zufallsbefund. Gelegentlich können Symptome eines obstruktiven Ikterus oder Zeichen einer Cholangitis auftreten,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -60,7 +60,7 @@ Peribiliäre Zysten stellen eine zystische Dilatation der peribiliären Drüsen 
 # Differenzialdiagnosen
 
 
-Gallengangtumor: Dieser zeigt eine Erweiterung der extra- und intrahepatischen Gallenwege und meist eine sichtbare Raumforderung. Eine periduktale Ausbreitung von Tumoren kann jedoch ähnliche Bilder erzeugen.
+Gallengangtumor: Dieser zeigt eine Erweiterung der extra- und intrahepatischen Gallenwege und meist eine sichtbare Raumforderung. Eine periduktale Ausbreitung von [[Pankreas_2_Tumoren|Tumoren]] kann jedoch ähnliche Bilder erzeugen.
 
 Primär sklerosierende Cholangitis: Hier findet sich ein Nebeneinander von Strikturen und leichten Gallengangerweiterungen.
 
@@ -73,7 +73,11 @@ Periportales Ödem: Dieses erscheint als dünner Halo von niedriger Dichte um di
 # Alles andere
 
 
-Ein typischer Fehler ist die Verwechslung mit einem Gallengangtumor oder die Fehlbeurteilung als Caroli-Erkrankung. Die Abgrenzung ist wichtig, da peribiliäre Zysten meist keine Konsequenzen haben, aber ernstere Pathologien imitieren können.
+Ein typischer Fehler ist die Verwechslung mit einem Gallengangtumor oder die Fehlbeurteilung als Caroli-Erkrankung. Die Abgrenzung ist wichtig, da [[Peribiliäre Zysten|peribiliäre Zysten]] meist keine Konsequenzen haben, aber ernstere Pathologien imitieren können.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=hBYIsBt6wQw)
 
 # Quellen
 

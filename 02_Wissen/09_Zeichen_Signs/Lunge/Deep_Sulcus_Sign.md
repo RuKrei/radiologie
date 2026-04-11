@@ -1,4 +1,4 @@
-# Deep Sulcus Sign
+# [[Deep_Sulcus_Sign|Deep Sulcus Sign]]
 
 ## Definition
 Vertiefung und Aufklarung des costophrenischen Winkels auf einer Liegendaufnahme.
@@ -21,3 +21,7 @@ Vertiefung und Aufklarung des costophrenischen Winkels auf einer Liegendaufnahme
 
 ---
 Tags: #Radiologie #Thorax #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=qJ1wT5ZVxgs)
+

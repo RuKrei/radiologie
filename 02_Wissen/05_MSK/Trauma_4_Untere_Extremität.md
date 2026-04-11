@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=mlkt2QjJKtM)
+
 # Quellen
 
 - [Radiopaedia Suche: Trauma 4 Untere Extremität](https://radiopaedia.org/search?q=trauma+4+untere+extremität)

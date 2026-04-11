@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=hI_ZgXbczHc)
+
 # Quellen
 
 - [Radiopaedia Suche: Trauma 3 Obere Extremität](https://radiopaedia.org/search?q=trauma+3+obere+extremität)

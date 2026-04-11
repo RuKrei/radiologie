@@ -1,4 +1,4 @@
-# Football Sign
+# [[Football_Sign|Football Sign]]
 
 ## Definition
 Großes Pneumoperitoneum bei Kindern, das Falciforme Ligament sieht aus wie die Naht eines American Footballs.
@@ -15,3 +15,7 @@ Großes Pneumoperitoneum bei Kindern, das Falciforme Ligament sieht aus wie die 
 
 ---
 Tags: #Radiologie #Gastrointestinal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=0C9gflyqn0g)
+

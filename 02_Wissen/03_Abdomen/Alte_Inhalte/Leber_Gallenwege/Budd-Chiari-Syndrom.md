@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Das Budd-Chiari-Syndrom ist definiert als thrombotischer Verschluss der Vena cava inferior, der großen intrahepatischen oder der zentrilobären Venen, was zu einer Stauungsleber führt. Es handelt sich um eine seltene Erkrankung, die meist im 3. bis 4. Lebensjahrzehnt auftritt. Frauen sind etwas häufiger betroffen als Männer. Zu den prädisponierenden Faktoren gehören Gerinnungsstörungen, myeloproliferative Erkrankungen, Schwangerschaft, die Einnahme von Antikonzeptiva, Infektionen, Tumorthromben, Lupus erythematodes oder eine Faktor-V-Leiden-Mutation,,. Klinisch kann die Erkrankung akut mit heftigen Oberbauchschmerzen, Erbrechen, Hepatomegalie, Aszites und leichtem Ikterus verlaufen, zeigt aber häufiger einen schleichenden Verlauf.
+Das [[Budd-Chiari-Syndrom|Budd-Chiari-Syndrom]] ist definiert als thrombotischer Verschluss der Vena cava inferior, der großen intrahepatischen oder der zentrilobären Venen, was zu einer Stauungsleber führt. Es handelt sich um eine seltene Erkrankung, die meist im 3. bis 4. Lebensjahrzehnt auftritt. Frauen sind etwas häufiger betroffen als Männer. Zu den prädisponierenden Faktoren gehören Gerinnungsstörungen, myeloproliferative Erkrankungen, Schwangerschaft, die Einnahme von Antikonzeptiva, [[Infektionen|Infektionen]], Tumorthromben, Lupus erythematodes oder eine Faktor-V-Leiden-Mutation,,. Klinisch kann die Erkrankung akut mit heftigen Oberbauchschmerzen, Erbrechen, Hepatomegalie, Aszites und leichtem Ikterus verlaufen, zeigt aber häufiger einen schleichenden Verlauf.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -58,11 +58,11 @@ Das Budd-Chiari-Syndrom ist definiert als thrombotischer Verschluss der Vena cav
 # Differenzialdiagnosen
 
 
-Leberzirrhose: Hierbei sind die Lebervenen durchblutet und es liegt meist eine bekannte Ätiologie (Alkohol, Hepatitis) vor.
+[[Leberzirrhose|Leberzirrhose]]: Hierbei sind die Lebervenen durchblutet und es liegt meist eine bekannte Ätiologie (Alkohol, Hepatitis) vor.
 
 Venöse Verschlusskrankheit (VOD): Hierbei liegt ein Verschluss der Zentralvenen und kleinen Lebervenen vor, meist toxisch bedingt nach Zytostatikatherapie oder Bestrahlung.
 
-Rechtsherzinsuffizienz: Kann ebenfalls das Bild einer Muskatnussleber mit diffuser retikulärer heterogener Anreicherung erzeugen,.
+[[Rechtsherzinsuffizienz|Rechtsherzinsuffizienz]]: Kann ebenfalls das Bild einer Muskatnussleber mit diffuser retikulärer heterogener Anreicherung erzeugen,.
 
 Hereditäre hämorrhagische Teleangiektasie (Morbus Osler): Zeigt ebenfalls eine diffuse heterogene Anreicherung der Leber.
 
@@ -71,7 +71,11 @@ Konstriktive Perikarditis: Auch hier kann das Bild einer Muskatnussleber auftret
 # Alles andere
 
 
-Ein typischer Fehler ist die Fehlinterpretation von anreichernden Regeneratknoten als hepatozelluläres Karzinom, insbesondere bei gleichzeitiger Leberzirrhose,. Die Prognose ist abhängig vom Ausmaß der Gefäßobstruktion; die Mortalität liegt bei der akuten Form bei etwa 10 Prozent. Therapeutisch kommen die Behandlung der Gerinnungsstörung, die Anlage eines TIPS (transjugulärer intrahepatischer portosystemischer Shunt) oder eine Lebertransplantation in Betracht,,. Operative Shunts wie der mesokavale oder splenorenale Shunt sind ebenfalls möglich,.
+Ein typischer Fehler ist die Fehlinterpretation von anreichernden Regeneratknoten als hepatozelluläres Karzinom, insbesondere bei gleichzeitiger [[Leberzirrhose|Leberzirrhose]],. Die Prognose ist abhängig vom Ausmaß der Gefäßobstruktion; die Mortalität liegt bei der akuten Form bei etwa 10 Prozent. Therapeutisch kommen die Behandlung der Gerinnungsstörung, die Anlage eines TIPS (transjugulärer intrahepatischer portosystemischer Shunt) oder eine Lebertransplantation in Betracht,,. Operative Shunts wie der mesokavale oder splenorenale Shunt sind ebenfalls möglich,.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=ZFFh6_KRgNw)
 
 # Quellen
 

@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=XkwomAyD_qI)
+
 # Quellen
 
 - [Radiopaedia Suche: Knochentumoren 1 Matrix Aggressivität benigne Läsionen](https://radiopaedia.org/search?q=knochentumoren+1+matrix+aggressivität+benigne+läsionen)

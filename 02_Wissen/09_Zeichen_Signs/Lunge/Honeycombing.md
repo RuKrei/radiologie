@@ -1,4 +1,4 @@
-# Honeycombing
+# [[Honeycombing|Honeycombing]]
 
 ## Definition
 Wabenförmige zystische Veränderungen (subpleural, basal dominant) mit Wandverdickungen.
@@ -15,10 +15,14 @@ Wabenförmige zystische Veränderungen (subpleural, basal dominant) mit Wandverd
 
 ## Ätiologie / Differentialdiagnosen
 - UIP (Usual Interstitial Pneumonia) / IPF
-- Endstadium anderer Fibrosen (chronische HP, Asbestose, Sarkoidose)
+- Endstadium anderer Fibrosen (chronische HP, Asbestose, [[Sarkoidose|Sarkoidose]])
 
 ## Weiterführende Links
 - [Radiopaedia: Honeycombing](https://radiopaedia.org/articles/honeycombing)
 
 ---
 Tags: #Radiologie #Thorax #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=jKSxwD3qzW8)
+

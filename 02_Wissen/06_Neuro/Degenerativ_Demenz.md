@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=QrypB7od1RU)
+
 # Quellen
 
 - [Radiopaedia Suche: Degenerativ Demenz](https://radiopaedia.org/search?q=degenerativ+demenz)

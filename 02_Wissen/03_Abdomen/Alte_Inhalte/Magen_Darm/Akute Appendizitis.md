@@ -22,7 +22,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Die akute Appendizitis ist die häufigste Ursache für ein akutes Abdomen und die häufigste intraabdominelle entzündliche Erkrankung in den westlichen Industrieländern,. Die Inzidenz liegt bei etwa ==100 Fällen pro 100.000== Einwohner pro Jahr. Die Erkrankung kann in jedem Lebensalter auftreten, zeigt jedoch einen ==Häufigkeitsgipfel zwischen dem 10. und 30. Lebensjahr==,. Männer sind geringfügig häufiger betroffen als Frauen. Ursächlich ist meist eine Verlegung des Appendixlumens, beispielsweise durch Kotsteine (Appendikolithen), Abknickung, Fremdkörper, Würmer oder lymphoide Hyperplasie, was zu Stase, Druckerhöhung und bakterieller Durchwanderung führt,. Klinisch beginnt der Schmerz oft periumbilikal und wandert in den rechten Unterbauch (McBurney-Punkt), begleitet von Übelkeit, Erbrechen, Fieber und Leukozytose,. Bei Schwangeren verlagert sich die Appendix im Verlauf der Schwangerschaft nach kranial.
+Die [[Akute Appendizitis|akute Appendizitis]] ist die häufigste Ursache für ein akutes Abdomen und die häufigste intraabdominelle entzündliche Erkrankung in den westlichen Industrieländern,. Die Inzidenz liegt bei etwa ==100 Fällen pro 100.000== Einwohner pro Jahr. Die Erkrankung kann in jedem Lebensalter auftreten, zeigt jedoch einen ==Häufigkeitsgipfel zwischen dem 10. und 30. Lebensjahr==,. Männer sind geringfügig häufiger betroffen als Frauen. Ursächlich ist meist eine Verlegung des Appendixlumens, beispielsweise durch Kotsteine (Appendikolithen), Abknickung, Fremdkörper, Würmer oder lymphoide Hyperplasie, was zu Stase, Druckerhöhung und bakterieller Durchwanderung führt,. Klinisch beginnt der Schmerz oft periumbilikal und wandert in den rechten Unterbauch (McBurney-Punkt), begleitet von Übelkeit, Erbrechen, Fieber und Leukozytose,. Bei Schwangeren verlagert sich die Appendix im Verlauf der Schwangerschaft nach kranial.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -39,7 +39,7 @@ Die akute Appendizitis ist die häufigste Ursache für ein akutes Abdomen und di
 
 
 ### Zu welchen Komplikationen kann es kommen?
- Mögliche Komplikationen sind die Perforation, die Ausbildung eines perityphlitischen Abszesses, Phlegmone oder eine generalisierte Peritonitis,,. Ein mechanischer Ileus kann ebenfalls resultieren.
+ Mögliche Komplikationen sind die Perforation, die Ausbildung eines perityphlitischen Abszesses, Phlegmone oder eine generalisierte Peritonitis,,. Ein mechanischer [[Ileus|Ileus]] kann ebenfalls resultieren.
 
 ## Sonografie
 
@@ -61,7 +61,7 @@ Die akute Appendizitis ist die häufigste Ursache für ein akutes Abdomen und di
 
 
 ### Was sieht man korrelierend in dieser Methode?
- Konventionelle Röntgenaufnahmen sind meist unspezifisch und oft unauffällig. ==In etwa 10 Prozent der Fälle lässt sich ein verkalkter Appendikolith nachweisen, was bei entsprechender Klinik als pathognomonisch gilt==,,. Selten zeigt sich ein fokaler ==Ileus== im rechten Unterbauch.
+ Konventionelle Röntgenaufnahmen sind meist unspezifisch und oft unauffällig. ==In etwa 10 Prozent der Fälle lässt sich ein verkalkter Appendikolith nachweisen, was bei entsprechender Klinik als pathognomonisch gilt==,,. Selten zeigt sich ein fokaler ==[[Ileus|Ileus]]== im rechten Unterbauch.
 
 
 ### Was kann man nicht sehen?
@@ -76,7 +76,7 @@ Die akute Appendizitis ist die häufigste Ursache für ein akutes Abdomen und di
 
 
 ### Was sieht man korrelierend in dieser Methode?
- Die CT ist die Methode der Wahl bei Erwachsenen, Komplikationen oder unklarem Ultraschallbefund,. Man sieht eine ==dilatierte Appendix== (über 6 mm) mit Wandverdickung (über 2 mm) und ==Kontrastmittelaufnahme== der Wand (Target-Zeichen),,. Charakteristisch ist die entzündliche Infiltration des umgebenden Fettgewebes (==Stranding==),. Ein ==Appendikolith== ist in 25 bis 40 Prozent der Fälle sichtbar und erscheint hyperdens. Ein ==Abszess== stellt sich als Flüssigkeitskollektion mit randständiger Kontrastmittelaufnahme dar. Das [[Arrowhead-Zeichen]] bezeichnet eine fokale Zäkumwandverdickung, die auf den Ursprung der entzündeten Appendix hinweist.
+ Die CT ist die Methode der Wahl bei Erwachsenen, Komplikationen oder unklarem Ultraschallbefund,. Man sieht eine ==dilatierte Appendix== (über 6 mm) mit Wandverdickung (über 2 mm) und ==Kontrastmittelaufnahme== der Wand ([[Target-Zeichen|Target-Zeichen]]),,. Charakteristisch ist die entzündliche Infiltration des umgebenden Fettgewebes (==Stranding==),. Ein ==Appendikolith== ist in 25 bis 40 Prozent der Fälle sichtbar und erscheint hyperdens. Ein ==Abszess== stellt sich als Flüssigkeitskollektion mit randständiger Kontrastmittelaufnahme dar. Das [[Arrowhead-Zeichen]] bezeichnet eine fokale Zäkumwandverdickung, die auf den Ursprung der entzündeten Appendix hinweist.
 
 
 ### Was kann man nicht sehen?
@@ -106,17 +106,17 @@ Die akute Appendizitis ist die häufigste Ursache für ein akutes Abdomen und di
 
 Mesenteriale Lymphadenitis: Zeigt vergrößerte Lymphknoten (Cluster) bei meist normaler Appendix und fehlender periappendizitischer Entzündung,.
 
-Morbus Crohn (Ileitis terminalis): Kann klinisch ähnlich imponieren, zeigt aber eine Verdickung des terminalen Ileums und Zäkums, oft mit muraler Stratifizierung, und betrifft die Appendix nur sekundär oder als Crohn-Appendizitis,,,.
+[[Morbus Crohn|Morbus Crohn]] (Ileitis terminalis): Kann klinisch ähnlich imponieren, zeigt aber eine Verdickung des terminalen Ileums und Zäkums, oft mit muraler Stratifizierung, und betrifft die Appendix nur sekundär oder als Crohn-Appendizitis,,,.
 
-Meckel-Divertikel (Divertikulitis): Kann eine Appendizitis imitieren; liegt meist im Ileum ca. 50-60 cm vor der Bauhin-Klappe und zeigt ähnliche Entzündungszeichen,.
+[[Meckel-Divertikel|Meckel-Divertikel]] (Divertikulitis): Kann eine Appendizitis imitieren; liegt meist im Ileum ca. 50-60 cm vor der Bauhin-Klappe und zeigt ähnliche Entzündungszeichen,.
 
 Gynäkologische Ursachen: Adnexitis (Pelvic Inflammatory Disease), Tuboovarialabszess, Ovarialzysten, Torsion oder Extrauteringravidität müssen bei Frauen ausgeschlossen werden, wobei die Appendix normal darstellbar sein sollte,,.
 
-Appendagitis epiploica: Zeigt einen ovalären Fettkörper mit entzündlichem Randsaum perikolisch, ohne dass die Appendix selbst betroffen ist,.
+[[Appendagitis|Appendagitis]] epiploica: Zeigt einen ovalären Fettkörper mit entzündlichem Randsaum perikolisch, ohne dass die Appendix selbst betroffen ist,.
 
 Harnleiterkonkrement: Kann ähnliche Schmerzen verursachen, ist aber im CT oder Ultraschall oft direkt im Ureter nachweisbar,.
 
-Tumoren der Appendix/des Zäkums: Karzinoide oder Adenokarzinome können das Bild einer Appendizitis durch Obstruktion imitieren oder eine sekundäre Appendizitis verursachen,,.
+[[Pankreas_2_Tumoren|Tumoren]] der Appendix/des Zäkums: Karzinoide oder Adenokarzinome können das Bild einer Appendizitis durch Obstruktion imitieren oder eine sekundäre Appendizitis verursachen,,.
 
 Infektiöse Enteritis/Typhlitis: Durch Erreger wie Yersinien, Salmonellen oder Campylobacter, oft mit Verdickung von Ileum und Zäkum, aber oft weniger perikolischem Fettgewebsstranding als bei Appendizitis,.
 
@@ -124,6 +124,10 @@ Infektiöse Enteritis/Typhlitis: Durch Erreger wie Yersinien, Salmonellen oder C
 
 
 Die Standardtherapie ist die Appendektomie, heute meist laparoskopisch durchgeführt. Eine primär konservative Therapie mit Antibiotika ist bei unkomplizierten Verläufen möglich, wird aber kontrovers diskutiert und gilt noch nicht als allgemeiner Standard.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=BI6BgaX6u2k)
 
 # Quellen
 

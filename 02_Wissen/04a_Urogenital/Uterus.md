@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=9rT9L1GlwzU)
+
 # Quellen
 
 - [Radiopaedia Suche: Uterus](https://radiopaedia.org/search?q=uterus)

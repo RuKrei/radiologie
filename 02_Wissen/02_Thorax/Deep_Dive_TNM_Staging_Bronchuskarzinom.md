@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=uteTaiX5vrQ)
+
 # Quellen
 
 - [Radiopaedia Suche: Deep Dive TNM Staging Bronchuskarzinom](https://radiopaedia.org/search?q=deep+dive+tnm+staging+bronchuskarzinom)

@@ -1,7 +1,7 @@
-# Lead Pipe Sign
+# [[Lead_Pipe_Sign|Lead Pipe Sign]]
 
 ## Definition
-Verlust der Haustrierung bei chronischer Colitis ulcerosa (sieht aus wie ein glattes Rohr).
+Verlust der Haustrierung bei chronischer [[Colitis ulcerosa|Colitis ulcerosa]] (sieht aus wie ein glattes Rohr).
 
 ## Radiologisches Erscheinungsbild
 - Typisches Zeichen in der Bildgebung (Gastrointestinal).
@@ -15,3 +15,7 @@ Verlust der Haustrierung bei chronischer Colitis ulcerosa (sieht aus wie ein gla
 
 ---
 Tags: #Radiologie #Gastrointestinal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=9MDpvQugTtk)
+

@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=bp9rQv0BClA)
+
 # Quellen
 
 - [Radiopaedia Suche: Colon Rektum](https://radiopaedia.org/search?q=colon+rektum)

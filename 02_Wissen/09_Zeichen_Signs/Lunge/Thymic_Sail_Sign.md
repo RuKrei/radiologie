@@ -1,4 +1,4 @@
-# Thymic Sail Sign
+# [[Thymic_Sail_Sign|Thymic Sail Sign]]
 
 ## Definition
 Normale dreieckige Konfiguration des Thymus beim Neugeborenen im Röntgen-Thorax, bedingt durch die Kompression gegen die Rippen. Kein pathologischer Befund.
@@ -20,3 +20,7 @@ Normale dreieckige Konfiguration des Thymus beim Neugeborenen im Röntgen-Thorax
 
 ---
 Tags: #Radiologie #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=820uL7y3eqA)
+

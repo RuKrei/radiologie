@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=O9NeuHr4pwA)
+
 # Quellen
 
 - [Radiopaedia Suche: Integration Kardiovaskuläre Fälle](https://radiopaedia.org/search?q=integration+kardiovaskuläre+fälle)

@@ -40,6 +40,10 @@ Der Footprint Chart dient als **Mikroskop** für den Einstieg (Timing) und die B
 *   **Trap (Falle):**
     *   Hohes Volumen am Hoch/Tief, aber die Kerze schließt entgegengesetzt (Docht). Die aggressiven Händler sitzen in der Falle.
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=CWO2ZAP7lO4)
+
 # Quellen
 
 - [Radiopaedia Suche: 02 Orderflow Footprint](https://radiopaedia.org/search?q=02+orderflow+footprint)

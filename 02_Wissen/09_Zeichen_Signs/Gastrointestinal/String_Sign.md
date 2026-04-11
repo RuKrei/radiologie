@@ -1,7 +1,7 @@
-# String Sign
+# [[String_Sign|String Sign]]
 
 ## Definition
-Fadenförmige Einengung des terminalen Ileums bei Morbus Crohn (Kantor's string sign) oder bei Pylorusstenose.
+Fadenförmige Einengung des terminalen Ileums bei [[Morbus Crohn|Morbus Crohn]] (Kantor's [[String_Sign|string sign]]) oder bei Pylorusstenose.
 
 ## Radiologisches Erscheinungsbild
 - Typisches Zeichen in der Bildgebung (Gastrointestinal).
@@ -15,3 +15,7 @@ Fadenförmige Einengung des terminalen Ileums bei Morbus Crohn (Kantor's string 
 
 ---
 Tags: #Radiologie #Gastrointestinal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=NOka2RbawLY)
+

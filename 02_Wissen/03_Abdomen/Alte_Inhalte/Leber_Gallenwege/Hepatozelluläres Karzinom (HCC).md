@@ -5,7 +5,7 @@ tags:
   - GI
   - radiologie
   - Leber
-  - maligne
+  - [[Knochentumoren_2_Maligne|maligne]]
 ---
 
 ------
@@ -21,7 +21,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Das hepatozelluläre Karzinom (HCC) ist der häufigste primäre maligne Tumor der Leber,. Es entsteht meist auf dem Boden einer Leberzirrhose oder einer chronischen Hepatitis B oder C. Die Erkrankung stellt weltweit die fünft-häufigste Tumorerkrankung dar, mit jährlich zwischen 500.000 und 650.000 Neuerkrankungen, wobei eine erhöhte Inzidenz in Südostasien und Afrika besteht. In Deutschland sind Männer etwa viermal häufiger betroffen als Frauen. Der Altersgipfel liegt vorwiegend bei älteren Menschen zwischen 50 und 70 Jahren. Klinisch bleibt der Tumor bei zugrunde liegender Zirrhose oder chronischer Hepatitis lange Zeit stumm. Mögliche Symptome sind Hepatomegalie mit tastbarer Raumforderung, Splenomegalie, Bauchschmerzen (60 bis 95 Prozent), Gewichtsverlust (35 bis 70 Prozent) und Anorexie (25 Prozent). Eine Erhöhung des Alpha-Fetoproteins (AFP) findet sich mit einer Sensitivität von 70 bis 80 Prozent.
+Das hepatozelluläre Karzinom (HCC) ist der häufigste primäre [[Knochentumoren_2_Maligne|maligne]] Tumor der Leber,. Es entsteht meist auf dem Boden einer [[Leberzirrhose|Leberzirrhose]] oder einer chronischen Hepatitis B oder C. Die Erkrankung stellt weltweit die fünft-häufigste Tumorerkrankung dar, mit jährlich zwischen 500.000 und 650.000 Neuerkrankungen, wobei eine erhöhte Inzidenz in Südostasien und Afrika besteht. In Deutschland sind Männer etwa viermal häufiger betroffen als Frauen. Der Altersgipfel liegt vorwiegend bei älteren Menschen zwischen 50 und 70 Jahren. Klinisch bleibt der Tumor bei zugrunde liegender Zirrhose oder chronischer Hepatitis lange Zeit stumm. Mögliche Symptome sind Hepatomegalie mit tastbarer Raumforderung, Splenomegalie, Bauchschmerzen (60 bis 95 Prozent), Gewichtsverlust (35 bis 70 Prozent) und Anorexie (25 Prozent). Eine Erhöhung des Alpha-Fetoproteins (AFP) findet sich mit einer Sensitivität von 70 bis 80 Prozent.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -30,7 +30,7 @@ Das hepatozelluläre Karzinom (HCC) ist der häufigste primäre maligne Tumor de
 ### Zu welchen pathologischen Veränderungen kommt es?
  Das HCC entwickelt sich meist über die Sequenz von Regeneratknoten zu dysplastischen Knoten bis hin zum Karzinom. Parallel zur Entartung kommt es zu einer Abnahme der portalvenösen Durchblutung und einer Zunahme der arteriellen Durchblutung. 
 ### Zu welchen morphologischen Veränderungen kommt es?
- Es werden drei Wachstumsformen unterschieden: solitär, nodulär und multifokal beziehungsweise diffus. Solitäre Tumoren weisen oft eine Kapsel auf, während große Tumoren meist zentrale Nekrosen zeigen. Diffuse Tumoren sind in einer Zirrhose oft sehr schwer abgrenzbar. 
+ Es werden drei Wachstumsformen unterschieden: solitär, nodulär und multifokal beziehungsweise diffus. Solitäre [[Pankreas_2_Tumoren|Tumoren]] weisen oft eine Kapsel auf, während große [[Pankreas_2_Tumoren|Tumoren]] meist zentrale Nekrosen zeigen. Diffuse [[Pankreas_2_Tumoren|Tumoren]] sind in einer Zirrhose oft sehr schwer abgrenzbar. 
 ### Zu welchen Komplikationen kann es kommen?
  Es besteht eine Neigung zur Infiltration in die Gefäße, insbesondere in die Pfortader,. Es kann zu Lungen- und Knochenmetastasen sowie zu einem Lymphknotenbefall (in 50 bis 70 Prozent der Fälle) kommen.
 
@@ -71,7 +71,7 @@ Das hepatozelluläre Karzinom (HCC) ist der häufigste primäre maligne Tumor de
 
 Fokale noduläre Hyperplasie (FNH): Zeigt eine intensivere knotige Kontrastmittelanreicherung und oft eine zentrale Narbe, die Kontrastmittel aufnimmt; speichert im Gegensatz zum HCC hepatobiliäre Gadolinium-Verbindungen in der Spätphase.
 
-Leberzelladenom: Tritt meist in gesunder Leber nach jahrelanger Hormoneinnahme auf und zeigt häufig Einblutungen. Es enthält im Gegensatz zur FNH keine Gallengänge und nimmt in der hepatobiliären Phase kein leberspezifisches Kontrastmittel auf.
+[[Leberzelladenom|Leberzelladenom]]: Tritt meist in gesunder Leber nach jahrelanger Hormoneinnahme auf und zeigt häufig Einblutungen. Es enthält im Gegensatz zur FNH keine Gallengänge und nimmt in der hepatobiliären Phase kein leberspezifisches Kontrastmittel auf.
 
 Hämangiom: Zeigt eine irisblendenartige Füllung mit Kontrastmittel und eine sehr hohe Signalintensität in T2-gewichteten Sequenzen (Light-bulb-Phänomen),.
 
@@ -85,6 +85,10 @@ Regeneratknoten: Sind in der MRT meist T1-iso- bis hyperintens und T2-hypointens
 
 
 Die Überlebensrate ohne Therapie liegt meist unter einem Jahr. Therapeutische Optionen hängen von der Tumorgröße, Lage und Leberfunktion ab und umfassen Resektion, Lebertransplantation, transarterielle Chemoembolisation (TACE) und Radiofrequenzablation (RFA). Nur in etwa 20 Prozent der Fälle ist eine operative Therapie möglich. Für die Transplantation sind die Milan-Kriterien (ein Herd bis 5 cm oder maximal 3 Herde bis je 3 cm) entscheidend. TACE ist eine wichtige palliative Methode oder dient dem Bridging zur Transplantation. Die selektive interne Radiotherapie (SIRT) ist eine Alternative bei fortgeschritteneren Stadien. Ein typischer Fehler ist die Verwechslung von Regeneratknoten oder dysplastischen Knoten mit einem HCC.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=QN6hHILhnMg)
 
 # Quellen
 

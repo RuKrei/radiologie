@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=eoQ5yEcpBtY)
+
 # Quellen
 
 - [Radiopaedia Suche: Schlaganfall 2 Blutung](https://radiopaedia.org/search?q=schlaganfall+2+hemorrhage)

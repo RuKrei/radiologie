@@ -26,6 +26,10 @@ Tags:
 ![[Pasted image 20251227153221.png]]
 ![[Pasted image 20251227153439.png]]
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=0rb_m5g8FV0)
+
 # Quellen
 
 - [Radiopaedia Suche: Radiusfraktur](https://radiopaedia.org/search?q=radiusfraktur)

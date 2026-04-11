@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=AJairURC16A)
+
 # Quellen
 
 - [Radiopaedia Suche: Entzündungen Neuro](https://radiopaedia.org/search?q=entzündungen+neuro)

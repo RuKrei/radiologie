@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=AfWT40ZaJQI)
+
 # Quellen
 
 - [Radiopaedia Suche: Review Integration GI Hohlorgane](https://radiopaedia.org/search?q=review+integration+gi+hohlorgane)

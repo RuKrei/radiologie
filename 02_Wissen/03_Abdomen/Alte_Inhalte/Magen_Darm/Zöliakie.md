@@ -4,7 +4,7 @@ tags:
   - review
   - GI
   - radiologie
-  - Dünndarm
+  - [[Dünndarm|Dünndarm]]
 ---
 
 ------
@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Die Zöliakie, auch als einheimische Sprue oder glutensensitive Enteropathie bezeichnet, ist eine chronische Glutenunverträglichkeit, bei der Gluten eine Immunreaktion auslöst, die zu Entzündung und Atrophie der Dünndarmschleimhaut führt. Die Erkrankung beginnt oft im Duodenum und breitet sich bis ins Ileum aus. Sie ist die häufigste Ursache einer Malabsorption, wobei die Prävalenz regional stark schwankt und bei Kaukasiern am höchsten ist (etwa 1 zu 200). Es zeigen sich zwei Altersgipfel für die Erstmanifestation: im Kleinkindesalter sowie in der dritten und vierten Lebensdekade. Frauen sind geringfügig häufiger betroffen als Männer. Eine familiäre Häufung auf genetischer Basis (HLA-DR3, HLA-DQw2) ist bekannt. Klinisch präsentieren sich die Patienten mit Diarrhö, Steatorrhö, Meteorismus und Gewichtsverlust. Zeichen einer Malabsorption wie Eisenmangelanämie, Glossitis oder Mangel an fettlöslichen Vitaminen und Folsäure sind typisch. Extraintestinale Manifestationen können neurologische, endokrine und muskuloskelettale Symptome umfassen. Es besteht ein erhöhtes Risiko für die Entwicklung von Dünndarmlymphomen, Dünndarmkarzinomen und Ösophaguskarzinomen.
+Die [[Zöliakie|Zöliakie]], auch als einheimische Sprue oder glutensensitive Enteropathie bezeichnet, ist eine chronische Glutenunverträglichkeit, bei der Gluten eine Immunreaktion auslöst, die zu Entzündung und Atrophie der Dünndarmschleimhaut führt. Die Erkrankung beginnt oft im Duodenum und breitet sich bis ins Ileum aus. Sie ist die häufigste Ursache einer Malabsorption, wobei die Prävalenz regional stark schwankt und bei Kaukasiern am höchsten ist (etwa 1 zu 200). Es zeigen sich zwei Altersgipfel für die Erstmanifestation: im Kleinkindesalter sowie in der dritten und vierten Lebensdekade. Frauen sind geringfügig häufiger betroffen als Männer. Eine familiäre Häufung auf genetischer Basis (HLA-DR3, HLA-DQw2) ist bekannt. Klinisch präsentieren sich die Patienten mit Diarrhö, Steatorrhö, Meteorismus und Gewichtsverlust. Zeichen einer Malabsorption wie Eisenmangelanämie, Glossitis oder Mangel an fettlöslichen Vitaminen und Folsäure sind typisch. Extraintestinale Manifestationen können neurologische, endokrine und muskuloskelettale Symptome umfassen. Es besteht ein erhöhtes Risiko für die Entwicklung von Dünndarmlymphomen, Dünndarmkarzinomen und Ösophaguskarzinomen.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -29,7 +29,7 @@ Die Zöliakie, auch als einheimische Sprue oder glutensensitive Enteropathie bez
 ### Zu welchen pathologischen Veränderungen kommt es?
  Es kommt zu einer vermehrten Flüssigkeitsansammlung im Dünndarmlumen durch Atrophie der Schleimhaut und Entzündung. 
 ### Zu welchen morphologischen Veränderungen kommt es?
- Das pathognomonische Zeichen ist die Umkehrung des jejunoilealen Faltenreliefs. Im Jejunum atrophieren die Kerckring-Falten (Kolonisierung), während im Ileum eine kompensatorische Zunahme und Verdickung der Falten auftritt (Jejunalisierung). Der proximale Dünndarm ist besonders betroffen, die Befunde nehmen nach distal ab. 
+ Das pathognomonische Zeichen ist die Umkehrung des jejunoilealen Faltenreliefs. Im Jejunum atrophieren die Kerckring-Falten (Kolonisierung), während im Ileum eine kompensatorische Zunahme und Verdickung der Falten auftritt (Jejunalisierung). Der proximale [[Dünndarm|Dünndarm]] ist besonders betroffen, die Befunde nehmen nach distal ab. 
 ### Zu welchen Komplikationen kann es kommen?
  Es können assoziierte Malignome wie Lymphome oder Karzinome entstehen.
 
@@ -72,9 +72,9 @@ Die Zöliakie, auch als einheimische Sprue oder glutensensitive Enteropathie bez
 # Differenzialdiagnosen
 
 
-Morbus Crohn: Zeigt eine transmurale Entzündung, Fisteln, Abszesse und befällt vor allem das distale Ileum mit diskontinuierlicher Ausbreitung (skip lesions), während die Zöliakie eher proximal betont ist und keine Fisteln bildet.
+[[Morbus Crohn|Morbus Crohn]]: Zeigt eine transmurale Entzündung, Fisteln, Abszesse und befällt vor allem das distale Ileum mit diskontinuierlicher Ausbreitung (skip lesions), während die [[Zöliakie|Zöliakie]] eher proximal betont ist und keine Fisteln bildet.
 
-Infektiöse Enteritis/Kolitis: Kann bildmorphologisch oft kaum von der Zöliakie unterschieden werden; die Anamnese ist entscheidend.
+Infektiöse Enteritis/Kolitis: Kann bildmorphologisch oft kaum von der [[Zöliakie|Zöliakie]] unterschieden werden; die Anamnese ist entscheidend.
 
 Zystische Fibrose (intestinale Form): Ähnelt dem Bild morphologisch, erfordert klinische Korrelation.
 
@@ -84,6 +84,10 @@ Dünndarmlymphom: Kann sekundär auf dem Boden einer Zöliakie entstehen oder ä
 
 
 Der Goldstandard der Diagnostik ist die Endoskopie mit tiefer Biopsieentnahme zum Nachweis der villösen Atrophie. Ein typischer Fehler ist die zu späte Diagnose eines assoziierten Malignoms, insbesondere eines Dünndarmlymphoms oder Karzinoms. Für den zuweisenden Kollegen ist entscheidend, ob die bildgebenden Befunde zum klinischen Bild passen und ob Hinweise auf Malignität vorliegen.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=cznCLmkYn4w)
 
 # Quellen
 

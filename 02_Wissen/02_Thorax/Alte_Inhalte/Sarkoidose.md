@@ -14,10 +14,10 @@ Zuletzt gelesen: 2026-02-28
 Tags: #Radiologie #Thorax #Lunge #Systemerkrankung
 -----
 # Wer? (Epidemiologie und Symptome)
-Die Sarkoidose (Morbus Boeck) ist eine multisystemische granulomatöse Erkrankung unklarer Ätiologie (Th1-Antwort).
+Die [[Sarkoidose|Sarkoidose]] (Morbus Boeck) ist eine multisystemische granulomatöse Erkrankung unklarer Ätiologie (Th1-Antwort).
 - **Alter:** Junge Erwachsene (20-40 Jahre) und zweiter Gipfel im Alter (v.a. Frauen).
-- **Akute Sarkoidose (Löfgren-Syndrom):** Fieber, Arthritis (Sprunggelenke), Erythema nodosum, hiläre Lymphadenopathie (gute Prognose).
-- **Chronische Sarkoidose:** Dyspnoe, Husten, Müdigkeit, Augen-, Haut-, Herzbeteiligung (schlechtere Prognose).
+- **Akute [[Sarkoidose|Sarkoidose]] (Löfgren-Syndrom):** Fieber, Arthritis (Sprunggelenke), Erythema nodosum, hiläre Lymphadenopathie (gute Prognose).
+- **Chronische [[Sarkoidose|Sarkoidose]]:** Dyspnoe, Husten, Müdigkeit, Augen-, Haut-, Herzbeteiligung (schlechtere Prognose).
 - **Stadieneinteilung (Röntgen-Thorax):** Typ I-IV (siehe unten).
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
@@ -37,7 +37,7 @@ Nicht verkäsende Granulome in Lunge (lymphangitische Ausbreitung entlang der Br
 - **Stadium I:** Nur bihiliäre Lymphadenopathie (BHL). (Remission > 70%).
 - **Stadium II:** BHL + Lungeninfiltrate (retikulonodulär).
 - **Stadium III:** Nur Lungeninfiltrate (ohne BHL).
-- **Stadium IV:** Lungenfibrose (Schrumpfung, Zysten, Honeycombing - oft Oberlappen!).
+- **Stadium IV:** Lungenfibrose (Schrumpfung, Zysten, [[Honeycombing|Honeycombing]] - oft Oberlappen!).
 
 ### Was kann man nicht sehen?
 - Frühe interstitielle Veränderungen oft im Röntgen übersehen (HRCT nötig).
@@ -49,7 +49,7 @@ Nicht verkäsende Granulome in Lunge (lymphangitische Ausbreitung entlang der Br
 - **Mikronoduli (2-4 mm):** Perilymphatische Verteilung (entlang Pleura, Fissuren, bronchovaskulären Bündeln). "Perlschnurartige" Verdickung der Septen.
 - **Konsolidierungen:** "Alveoläre Sarkoidose" -> Luftbronchogramm.
 - **Galaxie-Zeichen ("Sarcoid Galaxy"):** Konfluierende Granulome mit Satellitenherden (peripher).
-- **Fibrose:** Oberlappenbetont, Traktionsbronchiektasen, Architekturstörung, Honeycombing (Spätstadium).
+- **Fibrose:** Oberlappenbetont, Traktionsbronchiektasen, Architekturstörung, [[Honeycombing|Honeycombing]] (Spätstadium).
 - **Air-trapping:** In Exspiration sichtbar (durch Granulome in kleinen Atemwegen).
 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
@@ -64,7 +64,7 @@ Nicht verkäsende Granulome in Lunge (lymphangitische Ausbreitung entlang der Br
 
 # Differenzialdiagnosen
 1.  **Tuberkulose:** Oft unilateral, verkäsend (nekrotisch im CT: Zentrum hypodens, Rand enhancement), apikale Kavernen.
-2.  **Lymphom:** Oft asymmetrisch, B-Symptome, konfluierende Lymphknotenpakete ("bulky disease"), anteriordes Mediastinum oft beteiligt (Sarkoidose eher mittel/hinteres + hilär).
+2.  **Lymphom:** Oft asymmetrisch, B-Symptome, konfluierende Lymphknotenpakete ("bulky disease"), anteriordes [[Mediastinum|Mediastinum]] oft beteiligt (Sarkoidose eher mittel/hinteres + hilär).
 3.  **Silikose:** Eierschalenverkalkungen der LK (häufiger als bei Sarkoidose), Oberlappenbetonte Knötchen, Berufsanamnese.
 4.  **Lymphangiosis carcinomatosa:** Septale Verdickung (glatt oder nodulär), oft unilateral oder basal betont, bekanntes Karzinom, Pleuraerguss (häufig!).
 5.  **Berylliose:** Bildgebend und histologisch identisch zur Sarkoidose! (Anamnese: Raumfahrt, Elektronik, Zahntechnik).
@@ -73,6 +73,10 @@ Nicht verkäsende Granulome in Lunge (lymphangitische Ausbreitung entlang der Br
 - **ACE (Angiotensin-Converting-Enzyme):** Im Serum oft erhöht (Aktivitätsparameter), aber unspezifisch.
 - **Bronchoskopie:** CD4/CD8-Ratio in BAL erhöht (> 3.5 spricht stark für Sarkoidose).
 - **Therapie:** Oft spontane Remission (Löfgren). Bei Organbeteiligung (Herz, Augen, ZNS) oder progredienter Lungenfunktion: Steroide.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=lG67BXS-k68)
 
 # Quellen
 

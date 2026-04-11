@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=_o5WFhvf9y4)
+
 # Quellen
 
 - [Radiopaedia Suche: Integration Abdomen Solid](https://radiopaedia.org/search?q=integration+abdomen+solid)

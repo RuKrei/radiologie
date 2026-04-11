@@ -1,7 +1,7 @@
-# Ivory Vertebra Sign
+# [[Ivory_Vertebra_Sign|Ivory Vertebra Sign]]
 
 ## Definition
-Einzelner, extrem sklerotischer (weißer) Wirbelkörper. DD: Morbus Paget, Osteoplastische Metastase (Prostata/Mamma), Lymphom.
+Einzelner, extrem sklerotischer (weißer) Wirbelkörper. DD: Morbus Paget, Osteoplastische Metastase ([[Prostata|Prostata]]/Mamma), Lymphom.
 
 ## Radiologisches Erscheinungsbild
 - Typisches Zeichen in der Bildgebung (Muskuloskelettal).
@@ -15,3 +15,7 @@ Einzelner, extrem sklerotischer (weißer) Wirbelkörper. DD: Morbus Paget, Osteo
 
 ---
 Tags: #Radiologie #Muskuloskelettal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=hasaheud4lk)
+

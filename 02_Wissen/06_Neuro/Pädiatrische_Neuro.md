@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=HLCqRonmAL0)
+
 # Quellen
 
 - [Radiopaedia Suche: Pädiatrische Neuro](https://radiopaedia.org/search?q=pädiatrische+neuro)

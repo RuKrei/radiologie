@@ -5,7 +5,7 @@ tags:
   - GI
   - radiologie
   - Leber
-  - maligne
+  - [[Knochentumoren_2_Maligne|maligne]]
 ---
 
 ------
@@ -21,7 +21,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Das primäre Lymphom der Leber ist sehr selten und macht etwa 0,4 bis 1 Prozent aller extranodalen Lymphome aus. Hingegen ist die Leber eines der am häufigsten befallenen Organe bei malignen Lymphomen, wobei eine sekundäre Beteiligung bei 5 bis 10 Prozent der Fälle von Morbus Hodgkin und bei 15 bis 40 Prozent der Non-Hodgkin-Lymphome auftritt. Ein primärer Leberbefall ist selten, jedoch weisen mehr als 50 Prozent der Lymphompatienten eine Leberbeteiligung auf. Das Durchschnittsalter der Patienten liegt bei 50 bis 60 Jahren. Männer sind häufiger betroffen als Frauen. Prädisponierende Faktoren sind ein Zustand nach Lebertransplantation sowie eine HIV-Infektion beziehungsweise AIDS,. Die klinische Präsentation ist unspezifisch und umfasst Oberbauchschmerzen, Hepatomegalie und Ikterus. Bei 50 Prozent der Patienten liegt eine B-Symptomatik mit Fieber, Nachtschweiß und Gewichtsverlust vor. Das Alpha-Fetoprotein ist selten erhöht, häufig findet sich jedoch eine leichte Erhöhung der Transaminasen.
+Das primäre [[Lymphom der Leber|Lymphom der Leber]] ist sehr selten und macht etwa 0,4 bis 1 Prozent aller extranodalen Lymphome aus. Hingegen ist die Leber eines der am häufigsten befallenen Organe bei malignen Lymphomen, wobei eine sekundäre Beteiligung bei 5 bis 10 Prozent der Fälle von Morbus Hodgkin und bei 15 bis 40 Prozent der Non-Hodgkin-Lymphome auftritt. Ein primärer Leberbefall ist selten, jedoch weisen mehr als 50 Prozent der Lymphompatienten eine Leberbeteiligung auf. Das Durchschnittsalter der Patienten liegt bei 50 bis 60 Jahren. Männer sind häufiger betroffen als Frauen. Prädisponierende Faktoren sind ein Zustand nach Lebertransplantation sowie eine HIV-Infektion beziehungsweise AIDS,. Die klinische Präsentation ist unspezifisch und umfasst Oberbauchschmerzen, Hepatomegalie und Ikterus. Bei 50 Prozent der Patienten liegt eine B-Symptomatik mit Fieber, Nachtschweiß und Gewichtsverlust vor. Das Alpha-Fetoprotein ist selten erhöht, häufig findet sich jedoch eine leichte Erhöhung der Transaminasen.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -42,12 +42,12 @@ Das primäre Lymphom der Leber ist sehr selten und macht etwa 0,4 bis 1 Prozent 
 ## CT
  
 ### Was sieht man korrelierend in dieser Methode?
- Nativ weist das Lymphom eine etwas geringere Dichte auf als die umgebende Leber. Nach Kontrastmittelgabe werden hypo- und hypervaskularisierte Tumoren beschrieben, wobei zentrale Fibrosen und Nekrosen das Kontrastmittel geringer anreichern. Bei diffusem Befall zeigt sich eine generalisiert verminderte Kontrastmittelaufnahme, ähnlich wie bei einer Fettleber.
+ Nativ weist das Lymphom eine etwas geringere Dichte auf als die umgebende Leber. Nach Kontrastmittelgabe werden hypo- und hypervaskularisierte [[Pankreas_2_Tumoren|Tumoren]] beschrieben, wobei zentrale Fibrosen und Nekrosen das Kontrastmittel geringer anreichern. Bei diffusem Befall zeigt sich eine generalisiert verminderte Kontrastmittelaufnahme, ähnlich wie bei einer Fettleber.
 
 ## MRT
  
 ### Was sieht man korrelierend in dieser Methode?
- In T1-gewichteten Sequenzen ist das Lymphom hypointens oder isointens, während es in T2-gewichteten Sequenzen hyperintens erscheint. Nach intravenöser Gabe von Gadolinium zeigt sich eine leichte Kontrastmittelanreicherung. Das Erscheinungsbild ähnelt hypovaskulären Lebermetastasen. 
+ In T1-gewichteten Sequenzen ist das Lymphom hypointens oder isointens, während es in T2-gewichteten Sequenzen hyperintens erscheint. Nach intravenöser Gabe von Gadolinium zeigt sich eine leichte Kontrastmittelanreicherung. Das Erscheinungsbild ähnelt hypovaskulären [[Lebermetastasen|Lebermetastasen]]. 
 ### Was kann man nicht sehen?
  Die diffus-mikronoduläre Form kann der Detektion durch die Bildgebung entgehen, wobei lediglich eine Hepatomegalie auf eine Beteiligung hinweisen kann.
 
@@ -68,6 +68,10 @@ Pilzinfektion (Kandidose): Beim miliaren Typ des Lymphoms sind Mikroabszesse auf
 
 
 Ein typischer Fehler ist die Verwechslung mit einem hepatozellulären Karzinom oder die Fehldeutung als Metastasen. Auch bioptisch ist eine Fehldeutung als niedrig differenziertes Karzinom möglich. In der PET/PET-CT zeigt sich eine starke FDG-Aufnahme.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=FiJ0aXzjadI)
 
 # Quellen
 

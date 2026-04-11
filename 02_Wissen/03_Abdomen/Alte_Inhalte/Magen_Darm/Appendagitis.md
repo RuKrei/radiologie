@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Die Appendagitis epiploica ist eine seltene, gutartige und meist selbstlimitierende Erkrankung, die durch eine Torsion oder spontane Thrombose der Venae epiploicae mit nachfolgender ischämischer Infarzierung und Entzündung der Appendices epiploicae (fettgefüllte Ausstülpungen der Serosa des Kolons) verursacht wird,. Betroffen sind vorwiegend Patienten im 2. bis 5. Lebensjahrzehnt, wobei einige Quellen eine Häufung bei Frauen, andere bei Männern beschreiben,,. Zu den Risikofaktoren zählen Adipositas, Hernien und ungewohnte körperliche Anstrengung,. Die Erkrankung lokalisiert sich am häufigsten am Colon sigmoideum, gefolgt vom Zäkum und Colon ascendens, tritt jedoch praktisch nie am Colon transversum auf,. Klinisch manifestiert sich die Appendagitis durch akut einsetzende, fokale Bauchschmerzen in den unteren seitlichen Quadranten, die klinisch leicht mit einer Sigmadivertikulitis oder Appendizitis verwechselt werden können,.
+Die [[Appendagitis|Appendagitis]] epiploica ist eine seltene, gutartige und meist selbstlimitierende Erkrankung, die durch eine Torsion oder spontane Thrombose der Venae epiploicae mit nachfolgender ischämischer Infarzierung und Entzündung der Appendices epiploicae (fettgefüllte Ausstülpungen der Serosa des Kolons) verursacht wird,. Betroffen sind vorwiegend Patienten im 2. bis 5. Lebensjahrzehnt, wobei einige Quellen eine Häufung bei Frauen, andere bei Männern beschreiben,,. Zu den Risikofaktoren zählen Adipositas, Hernien und ungewohnte körperliche Anstrengung,. Die Erkrankung lokalisiert sich am häufigsten am Colon sigmoideum, gefolgt vom Zäkum und Colon ascendens, tritt jedoch praktisch nie am Colon transversum auf,. Klinisch manifestiert sich die [[Appendagitis|Appendagitis]] durch akut einsetzende, fokale Bauchschmerzen in den unteren seitlichen Quadranten, die klinisch leicht mit einer Sigmadivertikulitis oder Appendizitis verwechselt werden können,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -38,7 +38,7 @@ Die Appendagitis epiploica ist eine seltene, gutartige und meist selbstlimitiere
 ### Was sieht man korrelierend in dieser Methode?
  Man sieht eine ovale, echoreiche, nicht komprimierbare Raumforderung in unmittelbarer Nähe zur Kolonwand, oft an der Stelle des maximalen Druckschmerzes (Point of maximum tenderness),. Typisch ist ein schmaler, echoarmer Randsaum. 
 ### Was kann man nicht sehen?
- Im Farbdoppler zeigt sich im Zentrum der Läsion meist kein Fluss (Hinweis auf Ischämie), während das umgebende Gewebe eine vermehrte Vaskularisation aufweisen kann,.
+ Im Farbdoppler zeigt sich im Zentrum der Läsion meist kein Fluss (Hinweis auf [[Schlaganfall_1_Ischämie|Ischämie]]), während das umgebende Gewebe eine vermehrte Vaskularisation aufweisen kann,.
 
 ## Röntgen
  
@@ -52,7 +52,7 @@ Die Appendagitis epiploica ist eine seltene, gutartige und meist selbstlimitiere
 ### Was kann man nicht sehen?
  Im Gegensatz zur Divertikulitis ist die angrenzende Kolonwand in der Regel nicht oder nur minimal verdickt,. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Fettäquivalente Läsionen können leicht mit Lipomen oder Liposarkomen verwechselt werden, wobei die akute Entzündungsreaktion (Stranding) bei der Appendagitis wegweisend ist.
+ Fettäquivalente Läsionen können leicht mit Lipomen oder Liposarkomen verwechselt werden, wobei die akute Entzündungsreaktion (Stranding) bei der [[Appendagitis|Appendagitis]] wegweisend ist.
 
 ## MRT
  
@@ -78,6 +78,10 @@ Liposarkom: Kann ebenfalls Fett und Weichteilanteile enthalten, zeigt aber meist
 
 
 Die wichtigste klinische Konsequenz der korrekten Diagnose ist die Vermeidung einer unnötigen Operation oder Antibiotikatherapie, da die Appendagitis in der Regel konservativ mit Schmerzmitteln (NSAR) behandelt wird und selbstlimitierend ist,.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=USeAvbQJ-54)
 
 # Quellen
 

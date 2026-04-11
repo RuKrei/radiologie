@@ -21,7 +21,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Die Leberzyste ist eine angeborene, mit Flüssigkeit gefüllte und mit Epithel ausgekleidete Raumforderung im Leberparenchym. Sie stellt die häufigste benigne Leberläsion dar und kommt bei gesunder Leber mit einer Inzidenz von 2 bis 7 Prozent vor,. In der Normalbevölkerung wird eine Prävalenz von 0,5 bis 20 Prozent angegeben. Frauen sind etwa fünfmal häufiger betroffen als Männer. Die Inzidenz nimmt mit höherem Alter zu. Klinisch sind die Patienten meist asymptomatisch und die Zyste ist ein Zufallsbefund, der in der Regel keine Therapie erfordert,. Bei großen solitären Zysten oder einer polyzystischen Erkrankung kann eine Hepatomegalie auftreten. Symptome können entstehen, wenn Komplikationen wie Einblutung, Infektion oder Ruptur auftreten.
+Die [[Leberzyste|Leberzyste]] ist eine angeborene, mit Flüssigkeit gefüllte und mit Epithel ausgekleidete Raumforderung im Leberparenchym. Sie stellt die häufigste benigne Leberläsion dar und kommt bei gesunder Leber mit einer Inzidenz von 2 bis 7 Prozent vor,. In der Normalbevölkerung wird eine Prävalenz von 0,5 bis 20 Prozent angegeben. Frauen sind etwa fünfmal häufiger betroffen als Männer. Die Inzidenz nimmt mit höherem Alter zu. Klinisch sind die Patienten meist asymptomatisch und die Zyste ist ein Zufallsbefund, der in der Regel keine Therapie erfordert,. Bei großen solitären Zysten oder einer polyzystischen Erkrankung kann eine Hepatomegalie auftreten. Symptome können entstehen, wenn Komplikationen wie Einblutung, Infektion oder Ruptur auftreten.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -39,7 +39,7 @@ Die Leberzyste ist eine angeborene, mit Flüssigkeit gefüllte und mit Epithel a
 ### Was sieht man korrelierend in dieser Methode?
  Man sieht echofreie kugelige Raumforderungen mit deutlicher dorsaler Schallverstärkung. Die Läsionen sind scharf demarkiert und weisen ein homogenes Binnenmuster auf. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Ein Spiegelartefakt der Leberzyste direkt oberhalb des Zwerchfells kann als Pleuraerguss oder andere supradiaphragmatische Läsion fehlgedeutet werden.
+ Ein Spiegelartefakt der [[Leberzyste|Leberzyste]] direkt oberhalb des Zwerchfells kann als Pleuraerguss oder andere supradiaphragmatische Läsion fehlgedeutet werden.
 
 ## Röntgen
  Es liegen in den Quellen keine spezifischen Angaben zur Darstellung einfacher Leberzysten im konventionellen Röntgenbild vor.
@@ -65,7 +65,7 @@ Die Leberzyste ist eine angeborene, mit Flüssigkeit gefüllte und mit Epithel a
 # Differenzialdiagnosen
 
 
-Leberabszess: Dieser weist eine dicke Kapsel auf, die Kontrastmittel aufnimmt, und geht klinisch mit Fieber ein.
+[[Leberabszess|Leberabszess]]: Dieser weist eine dicke Kapsel auf, die Kontrastmittel aufnimmt, und geht klinisch mit Fieber ein.
 
 Echinokokkuszyste: Zeigt Verkalkungen in der Kapsel und eventuell den Nachweis einer Cuticula bei rupturierten Lamellen.
 
@@ -81,6 +81,10 @@ Biliäres Hamartom: Dies sind multipel verstreute kleine Knötchen (0,5 bis 1,5 
 
 
 Ein typischer Fehler ist die Fehldeutung als Metastase oder Abszess. Einfache (dysontogenetische), nicht parasitäre Leberzysten können bei entsprechender klinischer Symptomatik durch Punktion oder chirurgisch durch eine laparoskopische Fensterung therapiert werden.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=vZNrE_kszxc)
 
 # Quellen
 

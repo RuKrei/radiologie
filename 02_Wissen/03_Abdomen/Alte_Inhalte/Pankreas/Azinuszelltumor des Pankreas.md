@@ -19,7 +19,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Der Azinuszelltumor ist ein maligner, epithelialer Tumor des Pankreas mit azinärer Differenzierung, der gelegentlich endokrine Anteile aufweisen kann. Er macht etwa 1 bis 2 Prozent aller exokrinen Tumoren des Pankreas bei Erwachsenen aus, bei Kindern jedoch etwa 15 Prozent. Der Altersgipfel liegt zwischen 50 und 70 Jahren, wobei Männer etwa doppelt so häufig betroffen sind wie Frauen. Gelegentlich tritt der Tumor im Rahmen einer familiären adenomatösen Polyposis oder des Lynch-Syndroms auf. Die klinische Präsentation ist abhängig von Lage und Größe und umfasst Druckgefühl, Schmerzen, Appetitlosigkeit, Gewichtsverlust und Übelkeit. Ein Verschlussikterus ist selten. Eine Besonderheit ist die durch den Tumor verursachte Hyperlipasämie, die in etwa 10 Prozent der Fälle zu einem paraneoplastischen Syndrom mit subkutanen Fettgewebsnekrosen (schmerzhafte gerötete Knoten) und Polyarthritiden führen kann.
+Der Azinuszelltumor ist ein maligner, epithelialer Tumor des Pankreas mit azinärer Differenzierung, der gelegentlich endokrine Anteile aufweisen kann. Er macht etwa 1 bis 2 Prozent aller exokrinen [[Pankreas_2_Tumoren|Tumoren]] des Pankreas bei Erwachsenen aus, bei Kindern jedoch etwa 15 Prozent. Der Altersgipfel liegt zwischen 50 und 70 Jahren, wobei Männer etwa doppelt so häufig betroffen sind wie Frauen. Gelegentlich tritt der Tumor im Rahmen einer familiären adenomatösen Polyposis oder des Lynch-Syndroms auf. Die klinische Präsentation ist abhängig von Lage und Größe und umfasst Druckgefühl, Schmerzen, Appetitlosigkeit, Gewichtsverlust und Übelkeit. Ein Verschlussikterus ist selten. Eine Besonderheit ist die durch den Tumor verursachte Hyperlipasämie, die in etwa 10 Prozent der Fälle zu einem paraneoplastischen Syndrom mit subkutanen Fettgewebsnekrosen (schmerzhafte gerötete Knoten) und Polyarthritiden führen kann.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -30,7 +30,7 @@ Der Azinuszelltumor ist ein maligner, epithelialer Tumor des Pankreas mit azinä
 
 
 ### Zu welchen morphologischen Veränderungen kommt es?
- Der Tumor wächst meist exophytisch und ist gut abgrenzbar. Die Tumoren sind meist groß mit einem Durchschnittsdurchmesser von 7 bis 10 cm. Tumoren unter 5 cm sind überwiegend solide, während größere Tumoren nekrotisch-zystisch zerfallen und Hämorrhagien aufweisen können. Da es sich um einen weichen Tumor handelt, kommt es selbst bei großen Tumoren in nur 20 bis 30 Prozent der Fälle zu einer Erweiterung des Gallengangs oder des Pankreasgangs. In seltenen Fällen kann es zu einer wurstförmigen Auftreibung des gesamten Pankreas durch intraduktale Ausbreitung kommen.
+ Der Tumor wächst meist exophytisch und ist gut abgrenzbar. Die [[Pankreas_2_Tumoren|Tumoren]] sind meist groß mit einem Durchschnittsdurchmesser von 7 bis 10 cm. [[Pankreas_2_Tumoren|Tumoren]] unter 5 cm sind überwiegend solide, während größere [[Pankreas_2_Tumoren|Tumoren]] nekrotisch-zystisch zerfallen und Hämorrhagien aufweisen können. Da es sich um einen weichen Tumor handelt, kommt es selbst bei großen [[Pankreas_2_Tumoren|Tumoren]] in nur 20 bis 30 Prozent der Fälle zu einer Erweiterung des Gallengangs oder des Pankreasgangs. In seltenen Fällen kann es zu einer wurstförmigen Auftreibung des gesamten Pankreas durch intraduktale Ausbreitung kommen.
 
 
 ### Zu welchen Komplikationen kann es kommen?
@@ -65,7 +65,7 @@ Der Azinuszelltumor ist ein maligner, epithelialer Tumor des Pankreas mit azinä
 ## CT
  
 ### Was sieht man korrelierend in dieser Methode?
- Die CT ist die Methode der Wahl. Kleinere Tumoren stellen sich homogen dar, größere durch zystische Nekrosen heterogen. Nach Kontrastmittelgabe zeigen die soliden Anteile eine homogene Kontrastierung, die jedoch geringer ist als die des umgebenden Pankreasgewebes. In einigen Fällen, insbesondere bei endokriner Differenzierung, kann eine starke Anreicherung in der arteriellen Phase erfolgen. Charakteristisch ist das Fehlen oder nur eine geringe Ausprägung einer Erweiterung von Gallengang und Pankreasgang selbst bei großen Tumoren.
+ Die CT ist die Methode der Wahl. Kleinere [[Pankreas_2_Tumoren|Tumoren]] stellen sich homogen dar, größere durch zystische Nekrosen heterogen. Nach Kontrastmittelgabe zeigen die soliden Anteile eine homogene Kontrastierung, die jedoch geringer ist als die des umgebenden Pankreasgewebes. In einigen Fällen, insbesondere bei endokriner Differenzierung, kann eine starke Anreicherung in der arteriellen Phase erfolgen. Charakteristisch ist das Fehlen oder nur eine geringe Ausprägung einer Erweiterung von Gallengang und Pankreasgang selbst bei großen Tumoren.
 
 
 ### Was kann man nicht sehen?
@@ -104,7 +104,11 @@ Pankreatoblastom: Tritt fast ausschließlich bei Kindern auf.
 # Alles andere
 
 
-Die Prognose des Azinuszelltumors ist etwas besser als beim duktalen Adenokarzinom. Eine schlechtere Prognose ist assoziiert mit höherem Alter, lipaseproduzierenden Tumoren, Lage im Pankreaskopf und dem Vorliegen von Lebermetastasen. Gelegentlich können der Tumormarker AFP stark erhöht sein und eine Eosinophilie vorliegen.
+Die Prognose des Azinuszelltumors ist etwas besser als beim duktalen Adenokarzinom. Eine schlechtere Prognose ist assoziiert mit höherem Alter, lipaseproduzierenden Tumoren, Lage im Pankreaskopf und dem Vorliegen von [[Lebermetastasen|Lebermetastasen]]. Gelegentlich können der Tumormarker AFP stark erhöht sein und eine Eosinophilie vorliegen.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=hxCwTZ1nI1I)
 
 # Quellen
 

@@ -1,4 +1,4 @@
-# Split Pleura Sign
+# [[Split_Pleura_Sign|Split Pleura Sign]]
 
 ## Definition
 Verdickung und Separierung von viszeraler und parietaler Pleura (Pleurablätter), oft mit Kontrastmittelaufnahme.
@@ -23,3 +23,7 @@ Verdickung und Separierung von viszeraler und parietaler Pleura (Pleurablätter)
 
 ---
 Tags: #Radiologie #Thorax #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=shHvw_E2O-E)
+

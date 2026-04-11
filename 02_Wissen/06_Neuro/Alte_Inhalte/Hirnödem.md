@@ -23,6 +23,10 @@ Tags:
 ## Vasogenes Ödem
 ![[Pasted image 20251229214051.png]]
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=dydjqjlahac)
+
 # Quellen
 
 - [Radiopaedia Suche: Hirnödem](https://radiopaedia.org/search?q=hirnödem)

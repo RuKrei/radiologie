@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=7O5oqCsftYQ)
+
 # Quellen
 
 - [Radiopaedia Suche: Halsweichteile Lymphknoten](https://radiopaedia.org/search?q=halsweichteile+lymphknoten)

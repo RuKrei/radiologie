@@ -7,7 +7,7 @@ tags:
 - HRCT
 ---
 ------
-PEG = Interstitielle Lungenerkrankungen, ILD, Fibrose, Mosaikmuster
+PEG = [[Interstitielle_Lungenerkrankungen|Interstitielle Lungenerkrankungen]], ILD, Fibrose, Mosaikmuster
 Erstellt: 2026-02-28
 Zuletzt bearbeitet: 2026-02-28
 Zuletzt gelesen: 2026-02-28
@@ -24,27 +24,27 @@ Systematische Analyse von Hochauflösender Computertomographie (HRCT) der Lunge 
 
 ### 1. Retikuläres Muster (Netzartig)
 Verdickung des pulmonalen Interstitiums (interlobuläre Septen oder intralobulär).
-- **Glatt:** Lungenödem, Lymphangiosis carcinomatosa (septal), Alveolarproteinose ("Crazy Paving").
-- **Nodulär:** Sarkoidose (perilymphatisch), Silikose, Lymphangiosis (perlschnurartig).
+- **Glatt:** Lungenödem, Lymphangiosis carcinomatosa (septal), Alveolarproteinose ("[[Crazy_Paving|Crazy Paving]]").
+- **Nodulär:** [[Sarkoidose|Sarkoidose]] (perilymphatisch), Silikose, Lymphangiosis (perlschnurartig).
 - **Unregelmäßig:** Fibrose (UIP, NSIP).
 
 ### 2. Noduläres Muster (Knötchenförmig)
 Verteilung ist entscheidend!
-- **Zentrolobulär (im Zentrum des sekundären Lobulus, Rand ausgespart):** Hypersensitivitätspneumonitis (Exogen-allergische Alveolitis - EAA), Bronchiolitis (infektiös/RB-ILD), Silikose (frühes Stadium). *Tipp: Reichen nicht bis zur Pleura!*
-- **Perilymphatisch (entlang Septen, Pleura, Fissuren, bronchovaskulären Bündeln):** Sarkoidose, Lymphangiosis carcinomatosa, Silikose/Pneumokoniose.
+- **Zentrolobulär (im Zentrum des sekundären Lobulus, Rand ausgespart):** Hypersensitivitätspneumonitis (Exogen-allergische Alveolitis - EAA), [[Bronchiolitis|Bronchiolitis]] (infektiös/RB-ILD), Silikose (frühes Stadium). *Tipp: Reichen nicht bis zur Pleura!*
+- **Perilymphatisch (entlang Septen, Pleura, Fissuren, bronchovaskulären Bündeln):** [[Sarkoidose|Sarkoidose]], Lymphangiosis carcinomatosa, Silikose/Pneumokoniose.
 - **Random (zufällig verteilt, miliares Muster):** Miliartuberkulose, Pilzinfektionen, Metastasen (hämatogen). *Tipp: Reichen bis zur Pleura, aber ohne Systematik.*
 
 ### 3. Zystisches Muster (Löcher)
 Luftgefüllte Hohlräume mit definierter Wand.
 - **LAM (Lymphangioleiomyomatose):** Dünnwandige Zysten, rund, diffus verteilt, Frauen im gebärfähigen Alter.
 - **Langerhans-Zell-Histiozytose (LCH):** Unregelmäßige Zysten (bizarr), Oberlappenbetont, Raucher ("sparing costophrenic angle").
-- **LIP (Lymphozytäre interstitielle Pneumonie):** Sjögren-Syndrom, HIV. Perivaskuläre Zysten.
-- **Honigwaben (Honeycombing):** Traktionszysten in subpleuraler Fibrose (UIP-Muster). Mehrreihig!
+- **LIP (Lymphozytäre [[Interstitielle Pneumonie|interstitielle Pneumonie]]):** Sjögren-Syndrom, HIV. Perivaskuläre Zysten.
+- **Honigwaben ([[Honeycombing|Honeycombing]]):** Traktionszysten in subpleuraler Fibrose (UIP-Muster). Mehrreihig!
 
 ### 4. Milchglas (Ground Glass Opacity - GGO)
 Trübung des Parenchyms, Gefäße bleiben sichtbar.
 - **Ursache:** Alveoläre Füllung (Blut, Wasser, Eiter, Zellen) oder interstitielle Verdickung unterhalb der Auflösungsgrenze.
-- **Akut:** Ödem, Blutung, Pneumonie (Pneumozystis!), akute EAA.
+- **Akut:** Ödem, [[Schlaganfall_2_Blutung|Blutung]], Pneumonie (Pneumozystis!), akute EAA.
 - **Chronisch:** NSIP (Non-Specific Interstitial Pneumonia), DIP (Desquamative Interstitial Pneumonia), COP (Cryptogenic Organizing Pneumonia - "Atoll-Zeichen").
 - **Persistierend:** Adenokarzinom (Lepidic growth).
 
@@ -61,7 +61,7 @@ Homogene Verdichtung, Gefäße nicht mehr sichtbar, oft Luftbronchogramm.
 Regionen unterschiedlicher Dichte.
 - **Inspiration:** Helle Areale pathologisch (Milchglas) ODER dunkle Areale pathologisch (Oligämie)?
 - **Exspiration (Schlüssel!):**
-    - **Dunkle Areale werden NICHT dichter (bleiben schwarz):** Air-Trapping -> Bronchiolitis obliterans, Asthma, EAA.
+    - **Dunkle Areale werden NICHT dichter (bleiben schwarz):** Air-Trapping -> [[Bronchiolitis|Bronchiolitis]] obliterans, Asthma, EAA.
     - **Dunkle Areale werden dichter (normal):** Vaskuläre Ursache (CTEPH) oder normales Parenchym bei GGO-Erkrankung (Infiltrat ist das helle Areal).
     - **"Head-Cheese Sign":** Kombination aus Milchglas (Infiltrat), normalem Parenchym und Air-Trapping (dunkel) -> pathognomonisch für subakute **EAA (Exogen-allergische Alveolitis)**.
 
@@ -69,13 +69,13 @@ Regionen unterschiedlicher Dichte.
 
 ### UIP (Usual Interstitial Pneumonia) -> IPF (Idiopathische Lungenfibrose)
 - **Muster:** Basal und subpleural betont.
-- **Zeichen:** Honigwaben (Honeycombing - obligat für "definite UIP"), Traktionsbronchiektasen, retikuläre Zeichnung.
+- **Zeichen:** Honigwaben ([[Honeycombing|Honeycombing]] - obligat für "definite UIP"), Traktionsbronchiektasen, retikuläre Zeichnung.
 - **Wichtig:** KEIN Milchglas (außer minimal), KEINE Mikroknoten, KEINE Mosaikperfusion (sonst "alternative diagnosis").
 
 ### NSIP (Non-Specific Interstitial Pneumonia)
 - **Muster:** Basal betont, aber oft "subpleural sparing" (Parenchymstreifen direkt unter Pleura ausgespart).
 - **Zeichen:** Milchglas (dominant bei zellulärer NSIP) + Retikulation (dominant bei fibrotischer NSIP). Traktionsbronchiektasen möglich.
-- **Wichtig:** Wenig/kein Honeycombing! Assoziiert mit Kollagenosen (Sklerodermie!).
+- **Wichtig:** Wenig/kein [[Honeycombing|Honeycombing]]! Assoziiert mit Kollagenosen (Sklerodermie!).
 
 ### EAA (Exogen-allergische Alveolitis) / Hypersensitivitätspneumonitis
 - **Akut/Subakut:** Zentrolobuläre weiche Milchglasknötchen (schneeflockenartig), Mosaikperfusion ("Head-Cheese"), Air-Trapping.
@@ -85,6 +85,10 @@ Regionen unterschiedlicher Dichte.
 - **Muster:** Patchy, wandernde Konsolidierungen (subpleural/peribronchial).
 - **Zeichen:** "Atoll-Zeichen" (Reversed Halo): Milchglas mit ringförmiger Konsolidierung außen.
 - **Klinik:** Spricht exzellent auf Kortison an.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=BYECB9gYBHc)
 
 # Quellen
 

@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=OPMG5U22HKo)
+
 # Quellen
 
 - [Radiopaedia Suche: Pleura Zwerchfell](https://radiopaedia.org/search?q=pleura+zwerchfell)

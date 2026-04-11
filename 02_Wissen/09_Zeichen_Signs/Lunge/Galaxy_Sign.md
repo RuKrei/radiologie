@@ -1,4 +1,4 @@
-# Galaxy Sign
+# [[Galaxy_Sign|Galaxy Sign]]
 
 ## Definition
 Zentrale konfluierende noduläre Verdichtung umgeben von zahlreichen, kleineren Satelliten-Knötchen (Makronodulus bestehend aus Mikronoduli).
@@ -13,7 +13,7 @@ Zentrale konfluierende noduläre Verdichtung umgeben von zahlreichen, kleineren 
 - Dient der Eingrenzung spezifischer, oft pathognomonischer Differenzialdiagnosen (Fleischner Glossary Criteria).
 
 ## Ätiologie / Differenzialdiagnosen
-- Sarkoidose (klassisch)
+- [[Sarkoidose|Sarkoidose]] (klassisch)
 - Tuberkulose
 - Progressive massive Fibrose (PMF bei Silikose)
 
@@ -22,3 +22,7 @@ Zentrale konfluierende noduläre Verdichtung umgeben von zahlreichen, kleineren 
 
 ---
 Tags: #Radiologie #Lunge #Zeichen #Sign #Fleischner
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=BBgxo9Afj3Y)
+

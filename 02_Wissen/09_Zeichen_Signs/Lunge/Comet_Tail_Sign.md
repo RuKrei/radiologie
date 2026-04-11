@@ -1,4 +1,4 @@
-# Comet Tail Sign
+# [[Comet_Tail_Sign|Comet Tail Sign]]
 
 ## Definition
 Eine subpleurale weichteildichte Raumforderung (Rundatelekase), von der Bronchovaskulärbündel wie ein Kometenschweif bogenförmig in Richtung Hilus ziehen.
@@ -20,3 +20,7 @@ Eine subpleurale weichteildichte Raumforderung (Rundatelekase), von der Bronchov
 
 ---
 Tags: #Radiologie #Lunge #Zeichen #Sign #Fleischner
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=TzSax6EOckc)
+

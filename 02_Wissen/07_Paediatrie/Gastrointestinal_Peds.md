@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=BmguF7e5q90)
+
 # Quellen
 
 - [Radiopaedia Suche: Gastrointestinal Peds](https://radiopaedia.org/search?q=gastrointestinal+peds)

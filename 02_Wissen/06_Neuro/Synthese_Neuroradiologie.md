@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=ZirQqMyyD9M)
+
 # Quellen
 
 - [Radiopaedia Suche: Synthese Neuroradiologie](https://radiopaedia.org/search?q=synthese+neuroradiologie)

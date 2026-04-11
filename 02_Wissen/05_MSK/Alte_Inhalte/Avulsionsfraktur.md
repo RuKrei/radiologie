@@ -20,6 +20,10 @@ Tags:
 
 ![[Pasted image 20251227151622.png]]
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=XCcticsKYE0)
+
 # Quellen
 
 - [Radiopaedia Suche: Avulsionsfraktur](https://radiopaedia.org/search?q=avulsionsfraktur)

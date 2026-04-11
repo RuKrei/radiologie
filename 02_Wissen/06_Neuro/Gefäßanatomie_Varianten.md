@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=85YOnLzUXOE)
+
 # Quellen
 
 - [Radiopaedia Suche: Gefäßanatomie Varianten](https://radiopaedia.org/search?q=gefäßanatomie+varianten)

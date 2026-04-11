@@ -19,7 +19,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Pneumatosis intestinalis ist keine eigenständige Erkrankung, sondern ein bildgebendes Zeichen, das durch Gasansammlungen in der subserösen oder submukösen Schicht der Darmwand definiert ist. Man unterscheidet eine primäre Form (ca. 20 Prozent), die meist als Pneumatosis cystoides intestinalis im Kolon auftritt und oft asymptomatisch ist, von einer sekundären Form (ca. 80 Prozent), die häufiger den Dünndarm betrifft und oft mit ernsthaften Grunderkrankungen assoziiert ist. Die primäre Form betrifft meist Patienten im 5. bis 7. Lebensjahrzehnt, während die sekundäre Form in allen Altersklassen vorkommen kann. Zu den Ursachen der sekundären Form zählen Ischämie und Darminfarkt, Infektionen (z. B. Clostridium difficile), entzündliche Darmerkrankungen wie Morbus Crohn, Trauma, iatrogene Ursachen (nach Endoskopie oder Operation), pulmonale Erkrankungen wie COPD oder Asthma sowie Medikamente (Steroide, Chemotherapeutika) und Kollagenosen wie Sklerodermie oder Lupus erythematodes,,,. Klinisch reicht das Spektrum vom asymptomatischen Zufallsbefund bei der primären Form bis zum akuten Abdomen mit Sepsis und Schock bei Darmnekrosen im Rahmen der sekundären Form.
+[[Pneumatosis intestinalis|Pneumatosis intestinalis]] ist keine eigenständige Erkrankung, sondern ein bildgebendes Zeichen, das durch Gasansammlungen in der subserösen oder submukösen Schicht der Darmwand definiert ist. Man unterscheidet eine primäre Form (ca. 20 Prozent), die meist als Pneumatosis cystoides intestinalis im Kolon auftritt und oft asymptomatisch ist, von einer sekundären Form (ca. 80 Prozent), die häufiger den [[Dünndarm|Dünndarm]] betrifft und oft mit ernsthaften Grunderkrankungen assoziiert ist. Die primäre Form betrifft meist Patienten im 5. bis 7. Lebensjahrzehnt, während die sekundäre Form in allen Altersklassen vorkommen kann. Zu den Ursachen der sekundären Form zählen [[Schlaganfall_1_Ischämie|Ischämie]] und Darminfarkt, [[Infektionen|Infektionen]] (z. B. Clostridium difficile), entzündliche Darmerkrankungen wie [[Morbus Crohn|Morbus Crohn]], Trauma, iatrogene Ursachen (nach Endoskopie oder Operation), pulmonale Erkrankungen wie COPD oder Asthma sowie Medikamente (Steroide, Chemotherapeutika) und Kollagenosen wie Sklerodermie oder Lupus erythematodes,,,. Klinisch reicht das Spektrum vom asymptomatischen Zufallsbefund bei der primären Form bis zum akuten Abdomen mit Sepsis und Schock bei Darmnekrosen im Rahmen der sekundären Form.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -28,9 +28,9 @@ Pneumatosis intestinalis ist keine eigenständige Erkrankung, sondern ein bildge
 ### Zu welchen pathologischen Veränderungen kommt es?
  Es kommt zu einer Ansammlung von Gas in den Wandschichten des Darms, entweder durch einen Verlust der Schleimhautintegrität, gasbildende Bakterien oder erhöhten intraluminalen Druck,. 
 ### Zu welchen morphologischen Veränderungen kommt es?
- Das Gas kann sich blasig-zystisch (typisch für die benigne Pneumatosis cystoides intestinalis) oder linear-streifig (häufiger bei Ischämie) in der Darmwand darstellen,. 
+ Das Gas kann sich blasig-zystisch (typisch für die benigne Pneumatosis cystoides intestinalis) oder linear-streifig (häufiger bei [[Schlaganfall_1_Ischämie|Ischämie]]) in der Darmwand darstellen,. 
 ### Zu welchen Komplikationen kann es kommen?
- Mögliche Komplikationen sind Darmnekrose, Perforation mit Pneumoperitoneum, Volvulus, Obstruktion, Blutung und Sepsis,.
+ Mögliche Komplikationen sind Darmnekrose, Perforation mit Pneumoperitoneum, Volvulus, Obstruktion, [[Schlaganfall_2_Blutung|Blutung]] und Sepsis,.
 
 ## Sonografie
  
@@ -77,12 +77,16 @@ Intraluminales Gas: Steigt bei liegenden Patienten in der Regel nach ventral auf
 
 Aerobilie: Luft in den Gallenwegen, meist zentral in der Leber (zentripetal) im Gegensatz zu portalvenösem Gas, das in die Peripherie (zentrifugal) fließt,.
 
-Enteritis/Kolitis: Infektiöse oder entzündliche Ursachen (z. B. durch C. difficile oder CMV) können ebenfalls eine Pneumatosis verursachen, ohne dass zwingend eine Ischämie vorliegt.
+Enteritis/Kolitis: Infektiöse oder entzündliche Ursachen (z. B. durch C. difficile oder CMV) können ebenfalls eine Pneumatosis verursachen, ohne dass zwingend eine [[Schlaganfall_1_Ischämie|Ischämie]] vorliegt.
 
 # Alles andere
 
 
 Portalvenöses Gas ist ein prognostisch ungünstiges Zeichen, das häufig mit Darmnekrose assoziiert ist, aber auch bei nicht-ischämischen Ursachen vorkommen kann,. Bei der benignen Pneumatosis cystoides intestinalis kann es zu einem Pneumoperitoneum ohne Peritonitis kommen, wenn eine der subserösen Zysten rupturiert; dies erfordert in der Regel keine chirurgische Intervention, sofern keine klinischen Zeichen einer Peritonitis vorliegen,.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=CFom8J524pM)
 
 # Quellen
 

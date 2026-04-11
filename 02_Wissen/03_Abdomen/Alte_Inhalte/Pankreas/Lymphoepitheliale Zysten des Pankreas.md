@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Lymphoepitheliale Zysten des Pankreas sind seltene, gutartige Läsionen, die von einem squamösen Epithel ausgekleidet und von lymphoidem Gewebe umgeben sind. Sie machen einen sehr geringen Anteil der Pankreasläsionen aus und wurden erst 1985 erstmals beschrieben. Der Altersgipfel liegt im 5. Lebensjahrzehnt (Spanne 25 bis 80 Jahre). Im Gegensatz zu vielen anderen zystischen Pankreastumoren sind überwiegend Männer betroffen, mit einem Verhältnis von etwa 4:1. Spezifische prädisponierende Faktoren sind nicht bekannt. Klinisch präsentieren sich die Patienten oft mit unspezifischen abdominellen Beschwerden, Übelkeit, Rückenschmerzen, Fieber oder Gewichtsverlust. In etwa 50 Prozent der Fälle handelt es sich um Zufallsbefunde.
+[[Lymphoepitheliale Zysten des Pankreas|Lymphoepitheliale Zysten des Pankreas]] sind seltene, gutartige Läsionen, die von einem squamösen Epithel ausgekleidet und von lymphoidem Gewebe umgeben sind. Sie machen einen sehr geringen Anteil der Pankreasläsionen aus und wurden erst 1985 erstmals beschrieben. Der Altersgipfel liegt im 5. Lebensjahrzehnt (Spanne 25 bis 80 Jahre). Im Gegensatz zu vielen anderen zystischen Pankreastumoren sind überwiegend Männer betroffen, mit einem Verhältnis von etwa 4:1. Spezifische prädisponierende Faktoren sind nicht bekannt. Klinisch präsentieren sich die Patienten oft mit unspezifischen abdominellen Beschwerden, Übelkeit, Rückenschmerzen, Fieber oder Gewichtsverlust. In etwa 50 Prozent der Fälle handelt es sich um Zufallsbefunde.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -68,7 +68,7 @@ Lymphoepitheliale Zysten des Pankreas sind seltene, gutartige Läsionen, die von
 # Differenzialdiagnosen
 
 
-Pankreaspseudozysten: In der Anamnese findet sich meist eine akute oder chronische Pankreatitis. Morphologisch zeigen sich oft ein atrophes Pankreasgewebe und Verkalkungen.
+Pankreaspseudozysten: In der Anamnese findet sich meist eine akute oder [[Chronische Pankreatitis|chronische Pankreatitis]]. Morphologisch zeigen sich oft ein atrophes Pankreasgewebe und Verkalkungen.
 
 Seröses Zystadenom: Besteht aus vielen kleinen, wabenartig angeordneten Zysten, zeigt manchmal eine zentrale sternförmige Narbe und Verkalkungen. Tritt in der Regel bei älteren Frauen auf.
 
@@ -84,12 +84,16 @@ Dermoidzyste (Teratom): Kann häufig Hautanhangsgebilde enthalten und gelegentli
 
 Dysontogenetische Zysten: Sind in der Regel mit Zystenleber und Zystennieren assoziiert und liegen eindeutig im Pankreasparenchym.
 
-Zystisch degenerierte Tumoren: Zeigen oft ein infiltratives Wachstum und häufig Lebermetastasen.
+Zystisch degenerierte [[Pankreas_2_Tumoren|Tumoren]]: Zeigen oft ein infiltratives Wachstum und häufig [[Lebermetastasen|Lebermetastasen]].
 
 # Alles andere
 
 
-Ein typischer Fehler ist die Verwechslung mit anderen zystischen Raumforderungen des Pankreas, was therapeutische Konsequenzen haben kann. Für den zuweisenden Kollegen ist die Abgrenzung von zystischen Tumoren, die einer chirurgischen Therapie bedürfen, sowie das Erkennen von Komplikationen entscheidend.
+Ein typischer Fehler ist die Verwechslung mit anderen zystischen Raumforderungen des Pankreas, was therapeutische Konsequenzen haben kann. Für den zuweisenden Kollegen ist die Abgrenzung von zystischen [[Pankreas_2_Tumoren|Tumoren]], die einer chirurgischen Therapie bedürfen, sowie das Erkennen von Komplikationen entscheidend.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=smObkY2Lato)
 
 # Quellen
 

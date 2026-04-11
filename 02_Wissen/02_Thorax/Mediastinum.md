@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=2foMyXQu8so)
+
 # Quellen
 
 - [Radiopaedia Suche: Mediastinum](https://radiopaedia.org/search?q=mediastinum)

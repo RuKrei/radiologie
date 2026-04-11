@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=z6Ff1RFphV4)
+
 # Quellen
 
 - [Radiopaedia Suche: Vaskuläre Thoraxerkrankungen](https://radiopaedia.org/search?q=vaskuläre+thoraxerkrankungen)

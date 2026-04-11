@@ -46,6 +46,10 @@ Statt nur das Tagesprofil zu betrachten, füge die Profile der letzten Tage zusa
 *   **Micro-Balance:** Ein Tag Range.
 *   **Macro-Balance:** Eine Range über Wochen. Die Ausbrüche aus diesen großen Balances führen zu den größten Trends ("Energy Release").
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Gnqet0gkDR8)
+
 # Quellen
 
 - [Radiopaedia Suche: 02 Volume Profile Masterclass](https://radiopaedia.org/search?q=02+volume+profile+masterclass)

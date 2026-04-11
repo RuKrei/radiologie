@@ -28,13 +28,13 @@ Das Lungenkarzinom (Bronchialkarzinom) ist die häufigste Krebstodesursache bei 
 Beurteilung von Primärtumor (T), Lymphknoten (N) und Fernmetastasen (M) nach UICC 8. Auflage.
 
 ### Zu welchen morphologischen Veränderungen kommt es?
-- **T:** Größe, Lokalisation (zentral/peripher), Invasion (Pleura, Mediastinum, Thoraxwand).
+- **T:** Größe, Lokalisation (zentral/peripher), Invasion (Pleura, [[Mediastinum|Mediastinum]], Thoraxwand).
 - **N:** Hilär (N1), Mediastinal ipsilateral (N2), Mediastinal kontralateral/supraklavikulär (N3).
 - **M:** Lunge kontralateral, Pleuraerguss, Nebenniere, Leber, Knochen, Hirn.
 
 ## CT
 ### Was sieht man korrelierend in dieser Methode?
-**Methode der Wahl:** Thorax-CT mit KM (arteriell + venös) und Abdomen (Leber/Nebennieren).
+**Methode der Wahl:** Thorax-CT mit KM (arteriell + venös) und Abdomen (Leber/[[Nebennieren|Nebennieren]]).
 
 **T-Staging (UICC 8):**
 - **Tis:** Carcinoma in situ.
@@ -47,7 +47,7 @@ Beurteilung von Primärtumor (T), Lymphknoten (N) und Fernmetastasen (M) nach UI
     - T2a: > 3 cm bis ≤ 4 cm.
     - T2b: > 4 cm bis ≤ 5 cm.
 - **T3:** Tumor > 5 cm bis ≤ 7 cm ODER Invasion von Thoraxwand (Parietalpleura), N. phrenicus, Perikard (parietal) ODER separater Tumorherd im gleichen Lappen.
-- **T4:** Tumor > 7 cm ODER Invasion von Mediastinum, Herz, großen Gefäßen, Trachea, N. laryngeus recurrens, Ösophagus, Wirbelkörper, Carina ODER separater Tumorherd in anderem ipsilateralen Lappen.
+- **T4:** Tumor > 7 cm ODER Invasion von [[Mediastinum|Mediastinum]], Herz, großen Gefäßen, Trachea, N. laryngeus recurrens, [[Ösophagus|Ösophagus]], Wirbelkörper, Carina ODER separater Tumorherd in anderem ipsilateralen Lappen.
 
 **N-Staging:**
 - **N0:** Keine regionären LK-Metastasen.
@@ -88,6 +88,10 @@ Beurteilung von Primärtumor (T), Lymphknoten (N) und Fernmetastasen (M) nach UI
 # Alles andere
 - **RECIST 1.1:** Kriterien für Therapieansprechen (Complete Response, Partial Response, Stable Disease, Progressive Disease).
 - **Liquid Biopsy:** Nachweis von Tumorzellen/DNA im Blut (z.B. EGFR-Mutation).
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=nZ044EicYO4)
 
 # Quellen
 

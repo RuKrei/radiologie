@@ -5,7 +5,7 @@ tags:
   - GI
   - radiologie
   - Leber
-  - maligne
+  - [[Knochentumoren_2_Maligne|maligne]]
   - biliäres_System
 ---
 
@@ -22,7 +22,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Das cholangiozelluläre Karzinom ist der zweithäufigste primäre Lebertumor und macht etwa 15 bis 30 Prozent der primären hepatobiliären Malignome aus,,. Anatomisch werden die Tumoren in intrahepatische (20 bis 30 Prozent) und extrahepatische Formen unterteilt, wobei letztere in perihiläre Tumoren (Klatskin-Tumoren) und distale Gallengangstumoren gegliedert werden,. Histologisch handelt es sich fast ausschließlich um Adenokarzinome. Der Altersgipfel liegt meist im 50. bis 60. Lebensjahr, bei jüngeren Personen tritt der Tumor selten auf,. Männer sind etwas häufiger betroffen als Frauen,. Zu den prädisponierenden Faktoren zählen die primär sklerosierende Cholangitis (PSC), intrahepatische Gallensteine, das Caroli-Syndrom, Choledochuszysten sowie in Asien Infektionen mit Leberegeln (Clonorchis sinensis),,. Klinisch verläuft das intrahepatische Karzinom oft lange unspezifisch mit Bauchschmerzen, Gewichtsverlust und Abgeschlagenheit, während bei zentralen und extrahepatischen Tumoren häufig ein schmerzloser Ikterus und Juckreiz im Vordergrund stehen,.
+Das cholangiozelluläre Karzinom ist der zweithäufigste primäre Lebertumor und macht etwa 15 bis 30 Prozent der primären hepatobiliären Malignome aus,,. Anatomisch werden die [[Pankreas_2_Tumoren|Tumoren]] in intrahepatische (20 bis 30 Prozent) und extrahepatische Formen unterteilt, wobei letztere in perihiläre [[Pankreas_2_Tumoren|Tumoren]] (Klatskin-[[Pankreas_2_Tumoren|Tumoren]]) und distale Gallengangstumoren gegliedert werden,. Histologisch handelt es sich fast ausschließlich um Adenokarzinome. Der Altersgipfel liegt meist im 50. bis 60. Lebensjahr, bei jüngeren Personen tritt der Tumor selten auf,. Männer sind etwas häufiger betroffen als Frauen,. Zu den prädisponierenden Faktoren zählen die primär sklerosierende Cholangitis (PSC), intrahepatische Gallensteine, das Caroli-Syndrom, Choledochuszysten sowie in Asien [[Infektionen|Infektionen]] mit Leberegeln (Clonorchis sinensis),,. Klinisch verläuft das intrahepatische Karzinom oft lange unspezifisch mit Bauchschmerzen, Gewichtsverlust und Abgeschlagenheit, während bei zentralen und extrahepatischen Tumoren häufig ein schmerzloser Ikterus und Juckreiz im Vordergrund stehen,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -66,7 +66,7 @@ Das cholangiozelluläre Karzinom ist der zweithäufigste primäre Lebertumor und
 
 Hepatozelluläres Karzinom (HCC): Entwickelt sich meist in einer zirrhotischen Leber, zeigt eine rasche arterielle Anreicherung mit anschließendem Wash-out in der venösen Phase und ist oft mit einem erhöhten Alpha-Fetoprotein assoziiert.
 
-Lebermetastasen: Zeigen meist keinen Galleaufstau und weisen in der Regel keine späte Kontrastmittelanreicherung auf; konfluierende Metastasen können jedoch ähnlich aussehen.
+[[Lebermetastasen|Lebermetastasen]]: Zeigen meist keinen Galleaufstau und weisen in der Regel keine späte Kontrastmittelanreicherung auf; konfluierende Metastasen können jedoch ähnlich aussehen.
 
 Gutartige Strikturen: Zeigen meist eine kürzere Obstruktionsstrecke, einen geringeren Aufstau der Gallenwege, eine geringere Wandverdickung und eine geringere Kontrastmittelanreicherung in der Stenose.
 
@@ -78,6 +78,10 @@ Fibrolamelläres Karzinom: Weist oft eine zentrale Narbe auf, die im Gegensatz z
 
 
 Ein typischer Fehler ist die Fehlinterpretation nach Stent-Implantation oder Einlage von Drainagen, da die entzündliche Kontrastierung der Gallengangswand kaum von einer Tumorausbreitung zu unterscheiden ist; eine Schnittbildgebung sollte daher möglichst vor drainierenden Maßnahmen erfolgen. Die Prognose ist schlecht, mit einer 5-Jahres-Überlebensrate zwischen 0 und 30 Prozent. Nur etwa 20 bis 25 Prozent der Tumoren sind zum Zeitpunkt der Diagnose resektabel.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=l3ETidFPbSc)
 
 # Quellen
 

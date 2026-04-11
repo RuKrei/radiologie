@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=8tlPAtNSooA)
+
 # Quellen
 
 - [Radiopaedia Suche: Pankreas 2 Tumoren](https://radiopaedia.org/search?q=pankreas+2+tumoren)

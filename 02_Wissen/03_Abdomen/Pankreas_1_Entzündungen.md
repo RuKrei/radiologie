@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=RYBfsflUJDk)
+
 # Quellen
 
 - [Radiopaedia Suche: Pankreas 1 Entzündungen](https://radiopaedia.org/search?q=pankreas+1+entzündungen)

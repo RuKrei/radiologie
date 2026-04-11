@@ -26,6 +26,10 @@ Um einen Edge zu definieren, muss man weg vom "Raten" hin zum "Wissen".
 *   **Definiertes Risiko:** Man weiß *vor* dem Einstieg genau, wo das Setup invalide ist (Stop Loss).
 *   **Positiver Erwartungswert:** (Trefferquote x Durchschnittsgewinn) - (Verlustquote x Durchschnittsverlust) > 0.
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=ntvR7VO7gcU)
+
 # Quellen
 
 - [Radiopaedia Suche: 04 Finding an Edge](https://radiopaedia.org/search?q=04+finding+an+edge)

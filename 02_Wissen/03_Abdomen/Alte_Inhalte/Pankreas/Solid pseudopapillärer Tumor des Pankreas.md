@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Der solide pseudopapilläre Tumor, auch als Frantz-Tumor oder Hamoudi-Tumor bezeichnet, ist ein seltener Tumor des Pankreas,. Er macht weniger als 1 bis 2 Prozent aller exokrinen Pankreastumoren aus,. Die Erkrankung betrifft fast ausschließlich junge Frauen (etwa 90 Prozent), wobei der Altersgipfel im 2. und 3. Lebensjahrzehnt (20 bis 30 Jahre) liegt,,. Der Tumor kann jedoch auch im späteren Kindesalter auftreten. Symptome treten meist erst bei größeren Tumoren auf und umfassen Druckgefühl, Bauchschmerzen, Inappetenz und Gewichtsverlust. Häufig handelt es sich um Zufallsbefunde. In seltenen Fällen, insbesondere bei Lokalisation im Pankreaskopf, kann ein Ikterus als Komplikation auftreten.
+Der solide pseudopapilläre Tumor, auch als Frantz-Tumor oder Hamoudi-Tumor bezeichnet, ist ein seltener Tumor des Pankreas,. Er macht weniger als 1 bis 2 Prozent aller exokrinen Pankreastumoren aus,. Die Erkrankung betrifft fast ausschließlich junge Frauen (etwa 90 Prozent), wobei der Altersgipfel im 2. und 3. Lebensjahrzehnt (20 bis 30 Jahre) liegt,,. Der Tumor kann jedoch auch im späteren Kindesalter auftreten. Symptome treten meist erst bei größeren [[Pankreas_2_Tumoren|Tumoren]] auf und umfassen Druckgefühl, Bauchschmerzen, Inappetenz und Gewichtsverlust. Häufig handelt es sich um Zufallsbefunde. In seltenen Fällen, insbesondere bei Lokalisation im Pankreaskopf, kann ein Ikterus als Komplikation auftreten.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -31,11 +31,11 @@ Der solide pseudopapilläre Tumor, auch als Frantz-Tumor oder Hamoudi-Tumor beze
 
 
 ### Zu welchen morphologischen Veränderungen kommt es?
- Der Tumor ist meist groß (durchschnittlich 9 bis 12 cm Durchmesser) und gut vom umgebenden Pankreasgewebe abgrenzbar. Er wächst exophytisch und weist heterogen verteilte solide sowie zystische Anteile auf,. Kleine Tumoren können noch komplett solide imponieren, während mit zunehmender Größe größere liquide Anteile durch zystische Nekrosen entstehen,. Meist ist eine dickwandige Kapsel vorhanden. Da der Tumor weich ist, kommt es meist zu keiner Erweiterung des Gallengangs oder des Pankreasgangs,.
+ Der Tumor ist meist groß (durchschnittlich 9 bis 12 cm Durchmesser) und gut vom umgebenden Pankreasgewebe abgrenzbar. Er wächst exophytisch und weist heterogen verteilte solide sowie zystische Anteile auf,. Kleine [[Pankreas_2_Tumoren|Tumoren]] können noch komplett solide imponieren, während mit zunehmender Größe größere liquide Anteile durch zystische Nekrosen entstehen,. Meist ist eine dickwandige Kapsel vorhanden. Da der Tumor weich ist, kommt es meist zu keiner Erweiterung des Gallengangs oder des Pankreasgangs,.
 
 
 ### Zu welchen Komplikationen kann es kommen?
- Eine maligne Entartung ist möglich, die Malignomrate liegt bei etwa 15 Prozent. Metastasen finden sich vorwiegend in der Leber und im Omentum. Der Tumor ist lokal und regional invasiv.
+ Eine [[Knochentumoren_2_Maligne|maligne]] Entartung ist möglich, die Malignomrate liegt bei etwa 15 Prozent. Metastasen finden sich vorwiegend in der Leber und im Omentum. Der Tumor ist lokal und regional invasiv.
 
 ## Sonografie
  
@@ -76,13 +76,13 @@ Der solide pseudopapilläre Tumor, auch als Frantz-Tumor oder Hamoudi-Tumor beze
 # Differenzialdiagnosen
 
 
-Pankreaspseudozysten: In der Anamnese findet sich meist eine akute oder chronische Pankreatitis oder ein Trauma, was beim soliden pseudopapillären Tumor fehlt.
+Pankreaspseudozysten: In der Anamnese findet sich meist eine akute oder [[Chronische Pankreatitis|chronische Pankreatitis]] oder ein Trauma, was beim soliden pseudopapillären Tumor fehlt.
 
 Muzinöses Zystadenom: Tritt fast ausschließlich bei Frauen um die 45 Jahre auf, also in einer etwas höheren Altersgruppe als der solide pseudopapilläre Tumor.
 
 Seröses Zystadenom: Besteht aus vielen kleinen Zysten, zeigt manchmal eine zentrale sternförmige Narbe und tritt meist bei älteren Frauen auf.
 
-Nicht hormonaktiver endokriner Pankreastumor: Zeigt größere solide Areale mit noch stärkerer Kontrastmittelaufnahme und tritt bei deutlich älteren Patienten und überwiegend Männern auf.
+Nicht [[Hormonaktiver endokriner Pankreastumor|hormonaktiver endokriner Pankreastumor]]: Zeigt größere solide Areale mit noch stärkerer Kontrastmittelaufnahme und tritt bei deutlich älteren Patienten und überwiegend Männern auf.
 
 Pankreatoblastom: Tritt fast ausschließlich bei Kindern auf.
 
@@ -90,6 +90,10 @@ Pankreatoblastom: Tritt fast ausschließlich bei Kindern auf.
 
 
 Der solide pseudopapilläre Tumor hat eine gute Prognose bei kompletter Tumorentfernung mit einer Heilungsrate von über 95 Prozent. In Fällen, in denen der Tumor auf das Pankreas beschränkt ist, ist die Prognose nach Resektion exzellent,. Bei höherem Alter oder Metastasierung ist die Prognose schlechter.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=GbmP_h3wI7s)
 
 # Quellen
 

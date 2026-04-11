@@ -1,4 +1,4 @@
-# Scimitar Sign
+# [[Scimitar_Sign|Scimitar Sign]]
 
 ## Definition
 Gebogene venöse Struktur, die entlang des rechten Herzrandes zum Zwerchfell zieht (sieht aus wie ein türkischer Säbel).
@@ -22,3 +22,7 @@ Gebogene venöse Struktur, die entlang des rechten Herzrandes zum Zwerchfell zie
 
 ---
 Tags: #Radiologie #Thorax #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=nUpc3wd8l4I)
+

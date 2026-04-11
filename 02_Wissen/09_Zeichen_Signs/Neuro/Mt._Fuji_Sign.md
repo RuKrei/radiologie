@@ -1,4 +1,4 @@
-# Mt. Fuji Sign
+# [[Mt._Fuji_Sign|Mt. Fuji Sign]]
 
 ## Definition
 Spannungspneumozephalus mit Kompression der Frontallappen (sieht aus wie ein Vulkan).
@@ -15,3 +15,7 @@ Spannungspneumozephalus mit Kompression der Frontallappen (sieht aus wie ein Vul
 
 ---
 Tags: #Radiologie #Neuro #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=-X9rEip0k2c)
+

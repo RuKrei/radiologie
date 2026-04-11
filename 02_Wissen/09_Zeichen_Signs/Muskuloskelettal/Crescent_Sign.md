@@ -1,4 +1,4 @@
-# Crescent Sign
+# [[Crescent_Sign|Crescent Sign]]
 
 ## Definition
 Subchondrale, sichelförmige Aufhellung im Röntgen (besser im MRT) als Zeichen einer subchondralen Fraktur bei avaskulärer Nekrose (AVN, z.B. Hüftkopf).
@@ -15,3 +15,7 @@ Subchondrale, sichelförmige Aufhellung im Röntgen (besser im MRT) als Zeichen 
 
 ---
 Tags: #Radiologie #Muskuloskelettal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=-ypxRFawVws)
+

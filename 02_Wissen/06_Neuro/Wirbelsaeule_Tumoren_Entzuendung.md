@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=gI50A-QR2C8)
+
 # Quellen
 
 - [Radiopaedia Suche: Wirbelsaeule Tumoren Entzuendung](https://radiopaedia.org/search?q=spine+tumoren+inflammation)

@@ -73,7 +73,7 @@ Hydatidenzysten können in allen Organen vorkommen, sind jedoch im Pankreas extr
 # Differenzialdiagnosen
 
 
-Pankreaspseudozysten: In der Anamnese findet sich meist eine akute oder chronische Pankreatitis, zudem zeigen sich oft ein atrophes Pankreasgewebe und Verkalkungen.
+Pankreaspseudozysten: In der Anamnese findet sich meist eine akute oder [[Chronische Pankreatitis|chronische Pankreatitis]], zudem zeigen sich oft ein atrophes Pankreasgewebe und Verkalkungen.
 
 Seröses Zystadenom: Besteht aus vielen kleinen, wabenartig angeordneten Zysten, zeigt manchmal eine zentrale sternförmige Narbe und Verkalkungen und tritt in der Regel bei älteren Frauen auf.
 
@@ -81,9 +81,9 @@ Intraduktale papillär-muzinöse Neoplasie (IPMN): Diese geht mit schleimgefüll
 
 Solid pseudopapillärer Tumor: Tritt überwiegend bei jungen Frauen auf und zeigt solide sowie zystische Anteile und Hämorrhagien.
 
-Zystisch degenerierter Tumor: Zeigt oft ein infiltratives Wachstum und häufig Lebermetastasen.
+Zystisch degenerierter Tumor: Zeigt oft ein infiltratives Wachstum und häufig [[Lebermetastasen|Lebermetastasen]].
 
-Choledochuszyste: Lässt sich mit modernen Schnittbildverfahren eindeutig dem Gallengang zuordnen und weist keine Septierungen auf.
+[[Choledochuszyste|Choledochuszyste]]: Lässt sich mit modernen Schnittbildverfahren eindeutig dem Gallengang zuordnen und weist keine Septierungen auf.
 
 Muzinös zystische Neoplasie: Tritt fast ausschließlich bei Frauen um die 45 Jahre auf, weist keine flottierenden Septen auf und liegt meist in der Pankreascauda.
 
@@ -93,6 +93,10 @@ Zystisches Lymphangiom: Liegt dem Pankreas an, zeigt keine Gallengangerweiterung
 
 
 Ein typischer Fehler ist die Fehldeutung als Pseudozyste oder zystischer Tumor sowie die Punktion vor weitergehender Abklärung. Für den zuweisenden Kollegen sind Zeichen einer Ruptur oder von Fisteln zum Gallengang oder Pankreasgang wichtig. Eine endoskopische retrograde Cholangiopankreatikografie (ERCP) ermöglicht den sicheren Nachweis einer Fistel zum Gallengang oder Pankreasgang und kann zum Nachweis von Hydatiden im Gangsystem hilfreich sein. Eine endoskopisch ultraschallgesteuerte (EUS) Punktion kann zum Nachweis der Hydatiden dienen, muss jedoch aufgrund der Gefahr eines anaphylaktischen Schocks mit Zurückhaltung erfolgen.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=dYctCRKsCqE)
 
 # Quellen
 

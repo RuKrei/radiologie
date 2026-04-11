@@ -1,4 +1,4 @@
-# Air Bronchogram
+# [[Air_Bronchogram|Air Bronchogram]]
 
 ## Definition
 Lufthaltige Bronchien, die sich als strahlendurchlässige Strukturen innerhalb einer Lungenkonsolidierung abzeichnen.
@@ -29,3 +29,7 @@ Lufthaltige Bronchien, die sich als strahlendurchlässige Strukturen innerhalb e
 
 ---
 Tags: #Radiologie #Thorax #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=6NUGnvf7_cE)
+

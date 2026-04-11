@@ -1,4 +1,4 @@
-# Hampton Hump
+# [[Hampton_Hump|Hampton Hump]]
 
 ## Definition
 Keilförmige pleurale Verdichtung (Basis zur Pleura, Spitze zum Hilus).
@@ -21,3 +21,7 @@ Keilförmige pleurale Verdichtung (Basis zur Pleura, Spitze zum Hilus).
 
 ---
 Tags: #Radiologie #Thorax #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=h9MwCrv7QuE)
+

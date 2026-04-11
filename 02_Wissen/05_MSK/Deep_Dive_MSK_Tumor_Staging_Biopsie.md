@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=vBpOnX_YUQw)
+
 # Quellen
 
 - [Radiopaedia Suche: Deep Dive MSK Tumor Staging Biopsie](https://radiopaedia.org/search?q=deep+dive+msk+tumor+staging+biopsie)

@@ -21,6 +21,10 @@ Tags:
 
 ![[Pasted image 20251227151806.png]]
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=4m1eEpoKeZ8)
+
 # Quellen
 
 - [Radiopaedia Suche: Pathologische Fraktur](https://radiopaedia.org/search?q=pathologische+fracture)

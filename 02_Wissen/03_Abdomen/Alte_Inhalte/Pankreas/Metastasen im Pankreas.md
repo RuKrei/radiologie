@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Metastasen im Pankreas sind seltene sekundäre Tumoren der Bauchspeicheldrüse, die meist erst in fortgeschrittenen Tumorstadien auftreten. Die Inzidenz in Autopsiestudien wird mit 3 bis 10 Prozent angegeben. Die häufigsten Primärtumoren sind das Bronchialkarzinom, das Mammakarzinom, das Nierenzellkarzinom, das maligne Melanom sowie gastrointestinale Malignome. Eine Besonderheit stellen Metastasen des Nierenzellkarzinoms dar, die auch noch Jahre bis Jahrzehnte nach der Resektion des Primärtumors auftreten können. Das Auftreten ist abhängig von der Grunderkrankung, wobei Männer und Frauen betroffen sein können. Klinisch werden die Symptome oft von der Grunderkrankung bestimmt. Bei Absiedlung im Pankreaskopf kann ein Ikterus auftreten. Weitere Symptome sind Appetitlosigkeit, Gewichtsabnahme, Schmerzen oder selten eine Pankreatitis. Etwa 50 Prozent der Patienten haben zeitgleich Metastasen in anderen Organen.
+[[Metastasen im Pankreas|Metastasen im Pankreas]] sind seltene sekundäre [[Pankreas_2_Tumoren|Tumoren]] der Bauchspeicheldrüse, die meist erst in fortgeschrittenen Tumorstadien auftreten. Die Inzidenz in Autopsiestudien wird mit 3 bis 10 Prozent angegeben. Die häufigsten Primärtumoren sind das Bronchialkarzinom, das Mammakarzinom, das Nierenzellkarzinom, das [[Knochentumoren_2_Maligne|maligne]] Melanom sowie gastrointestinale Malignome. Eine Besonderheit stellen Metastasen des Nierenzellkarzinoms dar, die auch noch Jahre bis Jahrzehnte nach der Resektion des Primärtumors auftreten können. Das Auftreten ist abhängig von der Grunderkrankung, wobei Männer und Frauen betroffen sein können. Klinisch werden die Symptome oft von der Grunderkrankung bestimmt. Bei Absiedlung im Pankreaskopf kann ein Ikterus auftreten. Weitere Symptome sind Appetitlosigkeit, Gewichtsabnahme, Schmerzen oder selten eine Pankreatitis. Etwa 50 Prozent der Patienten haben zeitgleich Metastasen in anderen Organen.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -67,7 +67,7 @@ Metastasen im Pankreas sind seltene sekundäre Tumoren der Bauchspeicheldrüse, 
 ### Was kann man nicht sehen?
  Die Abgrenzung zu primären Pankreastumoren kann allein anhand der Signalintensitäten schwierig sein. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Die Diffusionsbildgebung (DWI) kann bei der Detektion und Differenzierung hilfreich sein. Die MRT ist sensitiver als die CT für den Nachweis kleiner Lebermetastasen, die oft begleitend auftreten.
+ Die Diffusionsbildgebung (DWI) kann bei der Detektion und Differenzierung hilfreich sein. Die MRT ist sensitiver als die CT für den Nachweis kleiner [[Lebermetastasen|Lebermetastasen]], die oft begleitend auftreten.
 
 # Differenzialdiagnosen
 
@@ -80,12 +80,16 @@ Nicht hormonaktiver endokriner Tumor: Kann ähnlich aussehen wie hypervaskuläre
 
 Pankreaslymphom: Zeigt oft einen diffusen Befall des Organs und geht mit großen peripankreatischen Lymphknoten einher.
 
-Intrapankreatische Nebenmilz: Kann eine hypervaskuläre Metastase vortäuschen, zeigt aber das gleiche Kontrastmittelverhalten wie die Milz.
+Intrapankreatische Nebenmilz: Kann eine hypervaskuläre Metastase vortäuschen, zeigt aber das gleiche Kontrastmittelverhalten wie die [[Milz|Milz]].
 
 # Alles andere
 
 
-Eine Fehldeutung als duktales Adenokarzinom ist ein typischer Fehler, insbesondere bei hypovaskulären Metastasen. Die Indikation zur Resektion von Pankreasmetastasen beschränkt sich nach aktueller Datenlage im Wesentlichen auf Metastasen eines Nierenzellkarzinoms, wenn dadurch Tumorfreiheit erzielt werden kann. Die PET/CT mit FDG ist sehr sensitiv zum Nachweis auch kleiner Tumoren und Metastasen, wobei falsch positive Befunde bei Entzündungen möglich sind.
+Eine Fehldeutung als duktales Adenokarzinom ist ein typischer Fehler, insbesondere bei hypovaskulären Metastasen. Die Indikation zur Resektion von Pankreasmetastasen beschränkt sich nach aktueller Datenlage im Wesentlichen auf Metastasen eines Nierenzellkarzinoms, wenn dadurch Tumorfreiheit erzielt werden kann. Die PET/CT mit FDG ist sehr sensitiv zum Nachweis auch kleiner [[Pankreas_2_Tumoren|Tumoren]] und Metastasen, wobei falsch positive Befunde bei [[Pankreas_1_Entzündungen|Entzündungen]] möglich sind.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=dDYaIsrRkTQ)
 
 # Quellen
 

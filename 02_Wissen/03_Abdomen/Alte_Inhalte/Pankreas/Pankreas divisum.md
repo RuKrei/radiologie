@@ -59,7 +59,7 @@ Das Pancreas divisum ist die häufigste kongenitale Anomalie des Pankreas und tr
 ### Was kann man nicht sehen?
  Feine Gangstrukturen ohne Dilatation sind im CT oft schwer abzugrenzen. Die funktionelle Relevanz (Abflussbehinderung) ist im CT ohne Sekretin-Stimulation schwer zu beurteilen. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Eine chronische Pankreatitis als Folge der Anomalie kann sich durch Verkalkungen oder Atrophie zeigen.
+ Eine [[Chronische Pankreatitis|chronische Pankreatitis]] als Folge der Anomalie kann sich durch Verkalkungen oder Atrophie zeigen.
 
 ## MRT
  
@@ -73,7 +73,7 @@ Das Pancreas divisum ist die häufigste kongenitale Anomalie des Pankreas und tr
 # Differenzialdiagnosen
 
 
-Pankreaskarzinom: Ein abrupt abbrechender Pankreasgang (Tumorabbruch) kann ein Pancreas divisum (kurzer ventraler Gang) imitieren; beim Karzinom finden sich jedoch meist eine Raumforderung, Infiltration und vorgelagerte Gangdilatation, während beim Pancreas divisum die Gänge glatt begrenzt sind und typische anatomische Verläufe zeigen.
+[[Pankreaskarzinom|Pankreaskarzinom]]: Ein abrupt abbrechender Pankreasgang (Tumorabbruch) kann ein Pancreas divisum (kurzer ventraler Gang) imitieren; beim Karzinom finden sich jedoch meist eine Raumforderung, Infiltration und vorgelagerte Gangdilatation, während beim Pancreas divisum die Gänge glatt begrenzt sind und typische anatomische Verläufe zeigen.
 
 Pankreas minus: Eine Agenesie der dorsalen Pankreasanlage führt dazu, dass nur der ventrale Gang und der Pankreaskopf vorhanden sind; das restliche Pankreasparenchym (Korpus/Cauda) fehlt komplett, was in der Schnittbildgebung (CT/MRT) durch Fehlen des Gewebes vor der Vena lienalis erkennbar ist,.
 
@@ -81,6 +81,10 @@ Pankreas minus: Eine Agenesie der dorsalen Pankreasanlage führt dazu, dass nur 
 
 
 Das Pancreas divisum kann als inkomplette Form vorliegen, bei der eine dünne Verbindung zwischen den beiden Gangsystemen existiert, die jedoch funktionell oft nicht ausreicht. Therapeutisch kann bei symptomatischer Form eine endoskopische Sphinkterotomie der Papilla minor (Papillotomie) durchgeführt werden.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=3wFd8MkjdhU)
 
 # Quellen
 

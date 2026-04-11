@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=342-iOZt0FE)
+
 # Quellen
 
 - [Radiopaedia Suche: Maligne Veränderungen](https://radiopaedia.org/search?q=maligne+veränderungen)

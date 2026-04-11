@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=8dglebJ8K9s)
+
 # Quellen
 
 - [Radiopaedia Suche: Intensivmedizinische Thoraxradiologie](https://radiopaedia.org/search?q=intensivmedizinische+thoraxradiologie)

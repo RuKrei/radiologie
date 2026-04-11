@@ -1,4 +1,4 @@
-# Target Sign
+# [[Target_Sign|Target Sign]]
 
 ## Definition
 Schießscheiben-Muster im Querschnitt des Darms im Ultraschall oder CT. Typisch für eine Invagination (Intussuszeption) oder starke Darmwandverdickung.
@@ -15,3 +15,7 @@ Schießscheiben-Muster im Querschnitt des Darms im Ultraschall oder CT. Typisch 
 
 ---
 Tags: #Radiologie #Gastrointestinal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=XaQ3OGRTa1w)
+

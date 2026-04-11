@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=YJyUmwyBbqU)
+
 # Quellen
 
 - [Radiopaedia Suche: Wirbelsäule 3 Trauma Vaskulär](https://radiopaedia.org/search?q=wirbelsäule+3+trauma+vaskulär)

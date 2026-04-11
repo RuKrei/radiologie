@@ -1,4 +1,4 @@
-# Cobra Head Sign
+# [[Cobra_Head_Sign|Cobra Head Sign]]
 
 ## Definition
 Kolbenförmige Erweiterung des distalen Ureters in der Harnblase, umgeben von einem strahlentransparenten Halo im Ausscheidungsurogramm. Klassisch für eine einfache Ureterozele.
@@ -15,3 +15,7 @@ Kolbenförmige Erweiterung des distalen Ureters in der Harnblase, umgeben von ei
 
 ---
 Tags: #Radiologie #Urogenital #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=k8y3qUBAscc)
+

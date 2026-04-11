@@ -10,12 +10,12 @@ Zuletzt bearbeitet: 2026-02-26
 Zuletzt gelesen: 2026-02-26
 Tags: 
 -----
-# Mallory-Weiss-Syndrom
+# [[Mallory-Weiss-Syndrom|Mallory-Weiss-Syndrom]]
 
 # Wer? (Epidemiologie und Symptome)
 Alkoholiker (Männer > Frauen, 50-70J), Schwangerschaft (Hyperemesis gravidarum).
-Ursache: Heftiges Erbrechen (meist Alkohol-assoziiert) -> plötzliche Druckerhöhung im distalen Ösophagus/Magen.
-Klinik: Akute obere GI-Blutung (Hämatemesis) *nach* Erbrechen. Epigastrischer Schmerz.
+Ursache: Heftiges Erbrechen (meist Alkohol-assoziiert) -> plötzliche Druckerhöhung im distalen [[Ösophagus|Ösophagus]]/Magen.
+Klinik: Akute obere GI-[[Schlaganfall_2_Blutung|Blutung]] (Hämatemesis) *nach* Erbrechen. Epigastrischer Schmerz.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -38,22 +38,26 @@ Diagnostischer Goldstandard!
 
 ## Angiografie
 ### Was sieht man korrelierend in dieser Methode?
-Nur bei massiver Blutung (>0.5ml/min), wenn Endoskopie fehlschlägt/nicht möglich.
+Nur bei massiver [[Schlaganfall_2_Blutung|Blutung]] (>0.5ml/min), wenn Endoskopie fehlschlägt/nicht möglich.
 - Extravasation aus A. gastrica sinistra Ästen.
 - Embolisation möglich (Coils/Partikel).
 
 # Differenzialdiagnosen
 - [Boerhaave-Syndrom](https://radiopaedia.org/articles/boerhaave-syndrome): Transmuraler Riss, Pneumomediastinum, Sepsis, Thoraxschmerz! (Mallory-Weiss blutet, Boerhaave perforiert).
-- [Ösophagusvarizenblutung](https://radiopaedia.org/articles/oesophageal-varices): Leberzirrhose, massive Blutung, keine Risse.
+- [Ösophagusvarizenblutung](https://radiopaedia.org/articles/oesophageal-varices): [[Leberzirrhose|Leberzirrhose]], massive [[Schlaganfall_2_Blutung|Blutung]], keine Risse.
 - [Erosive Ösophagitis/Gastritis](https://radiopaedia.org/articles/oesophagitis): Flächig, nicht linear.
 
 # Alles andere
 Therapie:
 - Meist selbstlimitierend (90%).
 - Endoskopisch: Injektion (Adrenalin), Clipping, Koagulation.
-- Angiografisch/Chirurgisch: Ultima Ratio bei persistierender massiver Blutung.
+- Angiografisch/Chirurgisch: Ultima Ratio bei persistierender massiver [[Schlaganfall_2_Blutung|Blutung]].
 
 Prognose: Gut. Rezidivgefahr bei erneutem Erbrechen.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=73eKIy2tmiE)
 
 # Quellen
 - [Mallory-Weiss syndrome](https://radiopaedia.org/articles/mallory-weiss-syndrome)

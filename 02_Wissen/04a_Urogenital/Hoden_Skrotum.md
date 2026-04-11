@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=69gsm1iMGr0)
+
 # Quellen
 
 - [Radiopaedia Suche: Hoden Skrotum](https://radiopaedia.org/search?q=hoden+skrotum)

@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=_11CbvBtV78)
+
 # Quellen
 
 - [Radiopaedia Suche: Entzuendungen ZNS](https://radiopaedia.org/search?q=entzuendungen+zns)

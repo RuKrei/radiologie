@@ -22,7 +22,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Der Leberabszess ist eine einzelne oder multiple Ansammlung von Eiter im Leberparenchym. Häufigste nachweisbare Ursachen sind Infektionen der Gallenwege bei Steinen oder Obstruktionen, seltener sind aufsteigende abdominale Infektionen bei Appendizitis, Divertikulitis oder entzündlichen Darmerkrankungen sowie hämatogene Streuung bei Sepsis,. Iatrogene Ursachen umfassen Interventionen wie die Radiofrequenzablation oder die transarterielle Chemoembolisation. Eine erhöhte Anfälligkeit besteht bei Immunsuppression. In 20 bis 40 Prozent der Fälle lässt sich keine Ursache finden. Besondere Formen wie der Amöbenabszess sind in Afrika, Südostasien und lateinamerikanischen Ländern endemisch. Klinisch zeigt der pyogene Leberabszess meist einen schleichenden Beginn mit Fieberspitzen und Schmerzen im rechten Oberbauch, während der Amöbenabszess eher mit akuter Symptomatik einhergeht. Bei der körperlichen Untersuchung finden sich eine Hepatomegalie und ein Druckschmerz über der Leber.
+Der [[Leberabszess|Leberabszess]] ist eine einzelne oder multiple Ansammlung von Eiter im Leberparenchym. Häufigste nachweisbare Ursachen sind [[Infektionen|Infektionen]] der Gallenwege bei Steinen oder Obstruktionen, seltener sind aufsteigende abdominale [[Infektionen|Infektionen]] bei Appendizitis, Divertikulitis oder entzündlichen Darmerkrankungen sowie hämatogene Streuung bei Sepsis,. Iatrogene Ursachen umfassen Interventionen wie die Radiofrequenzablation oder die transarterielle Chemoembolisation. Eine erhöhte Anfälligkeit besteht bei Immunsuppression. In 20 bis 40 Prozent der Fälle lässt sich keine Ursache finden. Besondere Formen wie der Amöbenabszess sind in Afrika, Südostasien und lateinamerikanischen Ländern endemisch. Klinisch zeigt der pyogene [[Leberabszess|Leberabszess]] meist einen schleichenden Beginn mit Fieberspitzen und Schmerzen im rechten Oberbauch, während der Amöbenabszess eher mit akuter Symptomatik einhergeht. Bei der körperlichen Untersuchung finden sich eine Hepatomegalie und ein Druckschmerz über der Leber.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -33,7 +33,7 @@ Der Leberabszess ist eine einzelne oder multiple Ansammlung von Eiter im Leberpa
 ### Zu welchen morphologischen Veränderungen kommt es?
  Charakteristisch ist ein unterschiedlich breiter Randsaum um die Läsion, der Kontrastmittel aufnimmt. Das Aussehen kann von der Besiedlung abhängen, so zeigt eine Candida-Infektion typischerweise multiple kleine Abszesse unter 5 mm Größe. 
 ### Zu welchen Komplikationen kann es kommen?
- Eine Ausbreitung der Blutung in die Bauchhöhle bei Ruptur ist mit einer erhöhten Mortalität verbunden.
+ Eine Ausbreitung der [[Schlaganfall_2_Blutung|Blutung]] in die Bauchhöhle bei Ruptur ist mit einer erhöhten Mortalität verbunden.
 
 ## Sonografie
  
@@ -68,7 +68,7 @@ Der Leberabszess ist eine einzelne oder multiple Ansammlung von Eiter im Leberpa
 # Differenzialdiagnosen
 
 
-Leberzyste: Hat keine Kapsel, die Kontrastmittel aufnimmt, und die Patienten haben kein Fieber.
+[[Leberzyste|Leberzyste]]: Hat keine Kapsel, die Kontrastmittel aufnimmt, und die Patienten haben kein Fieber.
 
 Echinokokkuszyste: Zeigt oft Verkalkungen in der Kapsel und den Nachweis einer Cuticula bei rupturierten Lamellen.
 
@@ -84,6 +84,10 @@ Amöbenabszess: Morphologisch schwer vom pyogenen Abszess zu unterscheiden; die 
 
 
 Ein typischer Fehler ist die Fehldeutung als gewöhnliche Zyste, zystisch zerfallender Tumor oder Metastase. Für den Zuweiser ist die frühzeitige Erkennung, die Angabe der zugrunde liegenden Erkrankung und die Option der interventionellen Sanierung mittels Drainage wichtig.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=_X5AXZTLSfo)
 
 # Quellen
 

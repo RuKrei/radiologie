@@ -1,4 +1,4 @@
-# Gloved Finger Sign
+# [[Gloved_Finger_Sign|Gloved Finger Sign]]
 
 ## Definition
 Tubuläre, verzweigte Verdichtungen (Y- oder V-förmig), ausgehend vom Hilus.
@@ -24,3 +24,7 @@ Tubuläre, verzweigte Verdichtungen (Y- oder V-förmig), ausgehend vom Hilus.
 
 ---
 Tags: #Radiologie #Thorax #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=f_kPZ7FVmFY)
+

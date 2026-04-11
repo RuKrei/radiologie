@@ -1,4 +1,4 @@
-# Corkscrew Sign
+# [[Corkscrew_Sign|Corkscrew Sign]]
 
 ## Definition
 Korkenzieherartiger Verlauf des Duodenums/Jejunums in der Magen-Darm-Passage. Zeichen für Midgut-Volvulus (Malrotation).
@@ -15,3 +15,7 @@ Korkenzieherartiger Verlauf des Duodenums/Jejunums in der Magen-Darm-Passage. Ze
 
 ---
 Tags: #Radiologie #Gastrointestinal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=xN9Cdh78W04)
+

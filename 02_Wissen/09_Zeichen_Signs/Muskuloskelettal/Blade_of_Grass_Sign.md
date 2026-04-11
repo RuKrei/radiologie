@@ -1,4 +1,4 @@
-# Blade of Grass Sign
+# [[Blade_of_Grass_Sign|Blade of Grass Sign]]
 
 ## Definition
 Flammenförmige Osteolyse im Femurschaft (Diaphyse) bei Morbus Paget (Lytic phase).
@@ -15,3 +15,7 @@ Flammenförmige Osteolyse im Femurschaft (Diaphyse) bei Morbus Paget (Lytic phas
 
 ---
 Tags: #Radiologie #Muskuloskelettal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=UEtT1K5LLCw)
+

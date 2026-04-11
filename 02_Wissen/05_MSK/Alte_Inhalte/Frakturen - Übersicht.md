@@ -55,6 +55,10 @@ Tags:
 	- rotiert
 - Einbruch/ Impression
 - verkürzt, verlängert
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=8W7A8P6ZuJo)
+
 # Quellen
 
 - [Radiopaedia Suche: Frakturen - Übersicht](https://radiopaedia.org/search?q=frakturen+-+übersicht)

@@ -33,7 +33,7 @@ Die intraduktale papilläre muzinöse Neoplasie (IPMN) ist ein primär zystische
 ## Sonografie
  
 ### Was sieht man korrelierend in dieser Methode?
- Es zeigen sich zystische Läsionen im Pankreasparenchym. Bei hohem Schleimgehalt sind diese nicht vollständig echofrei, sondern können Binnenechos aufweisen. Eine Erweiterung des Pankreashauptgangs kann sichtbar sein, ohne dass Steine oder ein tumoröser Verschluss als Ursache erkennbar sind. 
+ Es zeigen sich [[Niere_1_Zystische_Läsionen|zystische Läsionen]] im Pankreasparenchym. Bei hohem Schleimgehalt sind diese nicht vollständig echofrei, sondern können Binnenechos aufweisen. Eine Erweiterung des Pankreashauptgangs kann sichtbar sein, ohne dass Steine oder ein tumoröser Verschluss als Ursache erkennbar sind. 
 ### Was kann man nicht sehen?
  Die Kommunikation mit dem Gangsystem ist sonografisch oft schwer darstellbar. Kleine wandständige Knoten können übersehen werden. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
@@ -51,7 +51,7 @@ Die intraduktale papilläre muzinöse Neoplasie (IPMN) ist ein primär zystische
 ## CT
  
 ### Was sieht man korrelierend in dieser Methode?
- Die Computertomografie zeigt hypodense, zystische Läsionen,. Beim Hauptgangtyp ist eine segmentale oder diffuse Erweiterung des Pankreasgangs sichtbar, oft mit intraduktalen Knoten, die Kontrastmittel aufnehmen. Beim Seitenasttyp stellen sich die Läsionen oft als traubenförmige Zystenansammlungen dar. Eine Parenchymatrophie kann begleitend vorliegen. 
+ Die Computertomografie zeigt hypodense, [[Niere_1_Zystische_Läsionen|zystische Läsionen]],. Beim Hauptgangtyp ist eine segmentale oder diffuse Erweiterung des Pankreasgangs sichtbar, oft mit intraduktalen Knoten, die Kontrastmittel aufnehmen. Beim Seitenasttyp stellen sich die Läsionen oft als traubenförmige Zystenansammlungen dar. Eine Parenchymatrophie kann begleitend vorliegen. 
 ### Was kann man nicht sehen?
  Die Kommunikation der Zysten mit dem Gangsystem ist in der CT, insbesondere bei Seitenast-IPMNs, oft nicht sicher nachweisbar. Kleine Knoten ohne Kontrastmittelaufnahme können dem Schleim ähneln und schwer abgrenzbar sein. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
@@ -64,14 +64,14 @@ Die intraduktale papilläre muzinöse Neoplasie (IPMN) ist ein primär zystische
 ### Was kann man nicht sehen?
  Verkalkungen sind in der MRT schlechter zu erkennen als in der CT. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- In der diffusionsgewichteten Bildgebung (DWI) weisen maligne Formen oft niedrigere ADC-Werte auf als benigne Formen. Die Identifikation kleiner invasiver Karzinomanteile innerhalb der IPMN kann schwierig sein, zeigt sich aber oft durch eine geringere Kontrastmittelanreicherung im Vergleich zum normalen Pankreas.
+ In der diffusionsgewichteten Bildgebung (DWI) weisen [[Knochentumoren_2_Maligne|maligne]] Formen oft niedrigere ADC-Werte auf als benigne Formen. Die Identifikation kleiner invasiver Karzinomanteile innerhalb der IPMN kann schwierig sein, zeigt sich aber oft durch eine geringere Kontrastmittelanreicherung im Vergleich zum normalen Pankreas.
 
 # Differenzialdiagnosen
 
 
-Chronische Pankreatitis: Diese geht typischerweise mit einer Alkoholanamnese, intraduktalen und parenchymatösen Verkalkungen sowie irregulären Gangstenosen einher, während IPMNs meist keine Verkalkungen aufweisen und die Papille klaffend weit sein kann.
+[[Chronische Pankreatitis|Chronische Pankreatitis]]: Diese geht typischerweise mit einer Alkoholanamnese, intraduktalen und parenchymatösen Verkalkungen sowie irregulären Gangstenosen einher, während IPMNs meist keine Verkalkungen aufweisen und die Papille klaffend weit sein kann.
 
-Seröses Zystadenom: Diese Tumoren bestehen aus vielen kleinen Zysten (Honigwabenmuster), zeigen oft eine zentrale Narbe mit Verkalkung und haben keinen Anschluss an das Gangsystem,.
+Seröses Zystadenom: Diese [[Pankreas_2_Tumoren|Tumoren]] bestehen aus vielen kleinen Zysten (Honigwabenmuster), zeigen oft eine zentrale Narbe mit Verkalkung und haben keinen Anschluss an das Gangsystem,.
 
 Muzinöse zystische Neoplasie (MCN): Diese treten fast ausschließlich bei Frauen mittleren Alters auf, liegen meist im Pankreasschwanz, haben eine dicke Kapsel (ovarielles Stroma), septierte Zysten und keinen Anschluss an das Gangsystem,.
 
@@ -80,7 +80,11 @@ Pankreaspseudozyste: Meist liegt eine Anamnese einer Pankreatitis vor. Pseudozys
 # Alles andere
 
 
-Das therapeutische Vorgehen hängt vom Typ und dem Risikoprofil ab. Hauptgang-IPMNs und der gemischte Typ haben ein hohes Entartungsrisiko und werden in der Regel reseziert,. Bei Seitenast-IPMNs ohne Risikofaktoren (Größe unter 3 cm, keine Knoten, keine Symptome) kann unter Umständen eine Überwachung erfolgen,. Die FDG-PET/CT kann bei der Differenzierung zwischen benignen und malignen IPMNs hilfreich sein, da maligne Anteile oft einen erhöhten Glukosestoffwechsel zeigen. Ein Kolloidkarzinom des Pankreas ist häufig mit einer IPMN assoziiert.
+Das therapeutische Vorgehen hängt vom Typ und dem Risikoprofil ab. Hauptgang-IPMNs und der gemischte Typ haben ein hohes Entartungsrisiko und werden in der Regel reseziert,. Bei Seitenast-IPMNs ohne Risikofaktoren (Größe unter 3 cm, keine Knoten, keine Symptome) kann unter Umständen eine Überwachung erfolgen,. Die FDG-PET/CT kann bei der Differenzierung zwischen benignen und malignen IPMNs hilfreich sein, da [[Knochentumoren_2_Maligne|maligne]] Anteile oft einen erhöhten Glukosestoffwechsel zeigen. Ein Kolloidkarzinom des Pankreas ist häufig mit einer IPMN assoziiert.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=3euuw69fYso)
 
 # Quellen
 

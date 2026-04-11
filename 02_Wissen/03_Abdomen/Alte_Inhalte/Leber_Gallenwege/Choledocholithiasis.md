@@ -21,18 +21,18 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Gallengangsteine (Choledocholithiasis) finden sich bei etwa 10 Prozent der symptomatischen Gallenblasensteinträger,. Die Erkrankung tritt meist jenseits des 40. Lebensjahres auf,. Frauen sind häufiger betroffen als Männer. Zu den prädisponierenden Faktoren zählen Übergewicht, mehrere Schwangerschaften, genetische Disposition, Diabetes mellitus und Gallensäureverlustsyndrome wie Morbus Crohn. Klinisch manifestiert sich ein Gallengangsverschluss durch Koliken, Ikterus, Erbrechen und Fieber.
+Gallengangsteine ([[Choledocholithiasis|Choledocholithiasis]]) finden sich bei etwa 10 Prozent der symptomatischen Gallenblasensteinträger,. Die Erkrankung tritt meist jenseits des 40. Lebensjahres auf,. Frauen sind häufiger betroffen als Männer. Zu den prädisponierenden Faktoren zählen Übergewicht, mehrere Schwangerschaften, genetische Disposition, Diabetes mellitus und Gallensäureverlustsyndrome wie [[Morbus Crohn|Morbus Crohn]]. Klinisch manifestiert sich ein Gallengangsverschluss durch Koliken, Ikterus, Erbrechen und Fieber.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
 ## Allgemeines (auf alle Methoden anwendbar)
  
 ### Zu welchen pathologischen Veränderungen kommt es?
- Es liegen intraduktale rundliche Konkremente vor, die zu einer Obstruktion führen können. Gallensteine entstehen meist in der Gallenblase und wandern in den Gallengang (sekundäre Choledocholithiasis) oder entstehen primär in den Gallengängen (Pigmentsteine). 
+ Es liegen intraduktale rundliche Konkremente vor, die zu einer Obstruktion führen können. Gallensteine entstehen meist in der Gallenblase und wandern in den Gallengang (sekundäre [[Choledocholithiasis|Choledocholithiasis]]) oder entstehen primär in den Gallengängen (Pigmentsteine). 
 ### Zu welchen morphologischen Veränderungen kommt es?
  Es zeigt sich eine Erweiterung der extra- und intrahepatischen Gallenwege proximal des Hindernisses. 
 ### Zu welchen Komplikationen kann es kommen?
- Mögliche Komplikationen sind ein Gallenblasenhydrops, eine akute Cholezystitis, eine Cholangitis, eine Gallenblasenperforation, ein Verschlussikterus, eine akute Pankreatitis und Leberabszesse.
+ Mögliche Komplikationen sind ein Gallenblasenhydrops, eine [[Akute Cholezystitis|akute Cholezystitis]], eine Cholangitis, eine Gallenblasenperforation, ein Verschlussikterus, eine akute Pankreatitis und Leberabszesse.
 
 ## Sonografie
  
@@ -91,6 +91,10 @@ Luft in den Gallenwegen (Aerobilie): Luftblasen steigen nach ventral auf (in Rü
 
 
 Die Wahl der Diagnostik ist von der Vortestwahrscheinlichkeit abhängig: Bei hoher Wahrscheinlichkeit ist eine ERCP (therapeutisch) indiziert, bei niedrigerer Wahrscheinlichkeit eine MRCP oder Endosonografie. Ein typischer Fehler ist die Verwechslung von Luftblasen, Kontraktionen des Sphinkter Oddi oder Pulsationsartefakten mit Steinen in der MRCP. Beim Sarcoma botryoides im Kindesalter führt die Verwechslung mit Steinen oft zu überflüssigen ERCP-Versuchen.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=L6Klbaxp_eE)
 
 # Quellen
 

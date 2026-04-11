@@ -5,7 +5,7 @@ tags:
   - GI
   - radiologie
   - Magen
-  - maligne
+  - [[Knochentumoren_2_Maligne|maligne]]
 ---
 
 ------
@@ -21,7 +21,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Das Magenkarzinom ist der häufigste maligne Tumor des Magens und der dritthäufigste maligne Tumor des Magen-Darm-Trakts. Histologisch handelt es sich in etwa 95 Prozent der Fälle um Adenokarzinome,. Die Inzidenz beträgt bei Männern etwa 16 pro 100000 Einwohner und bei Frauen etwa 9 pro 100000 Einwohner, wobei Männer etwa doppelt so häufig betroffen sind wie Frauen,,. Der Häufigkeitsgipfel liegt im 6. bis 7. Lebensjahrzehnt. In den letzten Jahren ist eine Abnahme distaler Magenkarzinome und eine Zunahme kardianaher Tumoren zu verzeichnen. Zu den prädisponierenden Faktoren zählen eine Infektion mit Helicobacter pylori, Typ-A-Gastritis mit perniziöser Anämie, Alkohol- und Nikotinabusus, nitrathaltige Nahrung, Morbus Ménétrier und der Zustand nach Billroth-II-Resektion. Auch genetische Faktoren wie Mutationen im CDH1-Gen, das Lynch-Syndrom oder die familiäre adenomatöse Polyposis spielen eine Rolle. Klinisch sind die Patienten oft lange asymptomatisch, Spätsymptome umfassen Oberbauchschmerzen, Gewichtsverlust, Abgeschlagenheit, Anämie und Bluterbrechen,.
+Das [[Magenkarzinom|Magenkarzinom]] ist der häufigste [[Knochentumoren_2_Maligne|maligne]] Tumor des Magens und der dritthäufigste [[Knochentumoren_2_Maligne|maligne]] Tumor des Magen-Darm-Trakts. Histologisch handelt es sich in etwa 95 Prozent der Fälle um Adenokarzinome,. Die Inzidenz beträgt bei Männern etwa 16 pro 100000 Einwohner und bei Frauen etwa 9 pro 100000 Einwohner, wobei Männer etwa doppelt so häufig betroffen sind wie Frauen,,. Der Häufigkeitsgipfel liegt im 6. bis 7. Lebensjahrzehnt. In den letzten Jahren ist eine Abnahme distaler Magenkarzinome und eine Zunahme kardianaher [[Pankreas_2_Tumoren|Tumoren]] zu verzeichnen. Zu den prädisponierenden Faktoren zählen eine Infektion mit Helicobacter pylori, Typ-A-Gastritis mit perniziöser Anämie, Alkohol- und Nikotinabusus, nitrathaltige Nahrung, Morbus Ménétrier und der Zustand nach Billroth-II-Resektion. Auch genetische Faktoren wie Mutationen im CDH1-Gen, das Lynch-Syndrom oder die familiäre adenomatöse Polyposis spielen eine Rolle. Klinisch sind die Patienten oft lange asymptomatisch, Spätsymptome umfassen Oberbauchschmerzen, Gewichtsverlust, Abgeschlagenheit, Anämie und Bluterbrechen,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -37,7 +37,7 @@ Das Magenkarzinom ist der häufigste maligne Tumor des Magens und der dritthäuf
 ## Sonografie
  
 ### Was sieht man korrelierend in dieser Methode?
- Die transabdominelle Sonografie dient primär dem Ausschluss von Lebermetastasen und Aszites,,. 
+ Die transabdominelle Sonografie dient primär dem Ausschluss von [[Lebermetastasen|Lebermetastasen]] und Aszites,,. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
  Die Endosonografie ist das sensitivste Verfahren zur Bestimmung der lokalen Infiltrationstiefe (T-Stadium) und zum Nachweis lokoregionärer Lymphknotenmetastasen,,.
 
@@ -51,7 +51,7 @@ Das Magenkarzinom ist der häufigste maligne Tumor des Magens und der dritthäuf
 ## CT
  
 ### Was sieht man korrelierend in dieser Methode?
- Die CT ist die Methode der Wahl für das Staging,. Man sieht eine verdickte Magenwand, die oft nur gering oder heterogen Kontrastmittel aufnimmt. Eine optimale Beurteilbarkeit wird durch die Hydro-Technik (Wasserdistension und Spasmolyse) erreicht,,. Infiltrationen in das perigastrische Fettgewebe zeigen sich als strähnige Ausläufer. Regionale Lymphknotenvergrößerungen und Fernmetastasen (z. B. Leber, Ovarien als Krukenberg-Tumor) sind darstellbar. 
+ Die CT ist die Methode der Wahl für das Staging,. Man sieht eine verdickte Magenwand, die oft nur gering oder heterogen Kontrastmittel aufnimmt. Eine optimale Beurteilbarkeit wird durch die Hydro-Technik (Wasserdistension und Spasmolyse) erreicht,,. Infiltrationen in das perigastrische Fettgewebe zeigen sich als strähnige Ausläufer. Regionale Lymphknotenvergrößerungen und Fernmetastasen (z. B. Leber, [[Ovarien|Ovarien]] als Krukenberg-Tumor) sind darstellbar. 
 ### Was kann man nicht sehen?
  Die Unterscheidung zwischen den T-Stadien T1 und T2 ist in der CT oft nicht möglich. Eine Peritonealkarzinose kann im Frühstadium oder bei fehlendem Aszites dem Nachweis entgehen. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
@@ -82,7 +82,11 @@ Morbus Ménétrier: Geht mit riesenfaltiger Schleimhauthyperplasie einher.
 # Alles andere
 
 
-Therapeutisch ist bei lokal begrenzten Tumoren die chirurgische Resektion (Gastrektomie mit D2-Lymphadenektomie) die einzige kurative Option,. Bei lokal fortgeschrittenen Tumoren (ab T3 oder N+) wird heute standardmäßig eine perioperative Chemotherapie (z. B. FLOT-Schema) empfohlen,. Die Prognose ist stark stadienabhängig; die 5-Jahres-Überlebensrate liegt insgesamt bei etwa 25 bis 30 Prozent.
+Therapeutisch ist bei lokal begrenzten [[Pankreas_2_Tumoren|Tumoren]] die chirurgische Resektion (Gastrektomie mit D2-Lymphadenektomie) die einzige kurative Option,. Bei lokal fortgeschrittenen [[Pankreas_2_Tumoren|Tumoren]] (ab T3 oder N+) wird heute standardmäßig eine perioperative Chemotherapie (z. B. FLOT-Schema) empfohlen,. Die Prognose ist stark stadienabhängig; die 5-Jahres-Überlebensrate liegt insgesamt bei etwa 25 bis 30 Prozent.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Lj5tamDhLOA)
 
 # Quellen
 

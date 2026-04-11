@@ -55,6 +55,10 @@ Bevor du einen Trade eingehst, frage dich immer: **"Sind wir in Balance oder Imb
 *   In Imbalance: Sei aggressiv, folge dem Momentum.
 Verwechsle diese Zustände nicht – das ist eine der teuersten Fehlerquellen im Trading.
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=39GQvW27Tx8)
+
 # Quellen
 
 - [Radiopaedia Suche: Balance-vs-Imbalance](https://radiopaedia.org/search?q=balance-vs-imbalance)

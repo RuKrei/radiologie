@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=jSJFTckvLyA)
+
 # Quellen
 
 - [Radiopaedia Suche: Deep Dive Leber MRT](https://radiopaedia.org/search?q=deep+dive+liver+mrt)

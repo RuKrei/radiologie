@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=fiphnVU1sdI)
+
 # Quellen
 
 - [Radiopaedia Suche: Gallenblase Gallenwege](https://radiopaedia.org/search?q=gallenblase+gallenwege)

@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=cdDAoI32vKY)
+
 # Quellen
 
 - [Radiopaedia Suche: Leber 4 Diffuse Erkrankungen](https://radiopaedia.org/search?q=liver+4+diffuse+erkrankungen)

@@ -20,18 +20,18 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Die Dopplung der Gallenblase ist eine seltene angeborene Fehlbildung, die mit einer Inzidenz von etwa 1:4000 auftritt. Man unterscheidet zwei Formen: die Aufspaltung der Anlage des Ductus cysticus mit einer Y-förmigen Dopplung der Gallenblase und die doppelte Anlage mit einer zweiten Gallenblase, die einen eigenen Ductus cysticus besitzt. Letzterer kann entweder in den Ductus hepatocholedochus (duktulärer Typ) oder seltener in den rechten oder linken Ductus hepaticus (trabekulärer Typ) münden. Klinisch präsentieren sich Patienten oft mit rezidivierenden Schmerzen im rechten Oberbauch oder mit fortbestehenden Gallebeschwerden nach einer Cholezystektomie. Häufig handelt es sich jedoch auch um einen zufälligen Befund bei der Schnittbildgebung,.
+Die [[Dopplung der Gallenblase|Dopplung der Gallenblase]] ist eine seltene angeborene Fehlbildung, die mit einer Inzidenz von etwa 1:4000 auftritt. Man unterscheidet zwei Formen: die Aufspaltung der Anlage des Ductus cysticus mit einer Y-förmigen [[Dopplung der Gallenblase|Dopplung der Gallenblase]] und die doppelte Anlage mit einer zweiten Gallenblase, die einen eigenen Ductus cysticus besitzt. Letzterer kann entweder in den Ductus hepatocholedochus (duktulärer Typ) oder seltener in den rechten oder linken Ductus hepaticus (trabekulärer Typ) münden. Klinisch präsentieren sich Patienten oft mit rezidivierenden Schmerzen im rechten Oberbauch oder mit fortbestehenden Gallebeschwerden nach einer Cholezystektomie. Häufig handelt es sich jedoch auch um einen zufälligen Befund bei der Schnittbildgebung,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
 ## Allgemeines (auf alle Methoden anwendbar)
  
 ### Zu welchen pathologischen Veränderungen kommt es?
- Es liegen anatomisch zwei Gallenblasen vor. Die zweite Gallenblase kann dabei auch vollständig intrahepatisch gelegen sein. Es besteht die Möglichkeit, dass sich in der zweiten Gallenblase Gallensteine bilden oder Entzündungen auftreten,. 
+ Es liegen anatomisch zwei Gallenblasen vor. Die zweite Gallenblase kann dabei auch vollständig intrahepatisch gelegen sein. Es besteht die Möglichkeit, dass sich in der zweiten Gallenblase Gallensteine bilden oder [[Pankreas_1_Entzündungen|Entzündungen]] auftreten,. 
 ### Zu welchen morphologischen Veränderungen kommt es?
  Charakteristisch sind zwei Gallenblasenlumina, die entweder parallel zueinander liegen oder in unterschiedlicher Entfernung voneinander positioniert sind. 
 ### Zu welchen Komplikationen kann es kommen?
- Es kann zu Entzündungen oder Steinbildungen in der zweiten Gallenblase kommen. Eine besondere Komplikation entsteht, wenn bei einer Cholezystektomie die zweite Anlage übersehen wird und postoperativ Beschwerden verursacht.
+ Es kann zu [[Pankreas_1_Entzündungen|Entzündungen]] oder Steinbildungen in der zweiten Gallenblase kommen. Eine besondere Komplikation entsteht, wenn bei einer Cholezystektomie die zweite Anlage übersehen wird und postoperativ Beschwerden verursacht.
 
 ## Sonografie
  
@@ -40,7 +40,7 @@ Die Dopplung der Gallenblase ist eine seltene angeborene Fehlbildung, die mit ei
 ### Was kann man nicht sehen?
  Die Mündung des Ductus cysticus ist im Ultraschall häufig nicht direkt darstellbar. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Eine intrahepatisch gelegene zweite Gallenblase kann übersehen oder als Leberzyste fehlgedeutet werden.
+ Eine intrahepatisch gelegene zweite Gallenblase kann übersehen oder als [[Leberzyste|Leberzyste]] fehlgedeutet werden.
 
 ## Röntgen
  
@@ -74,7 +74,7 @@ Die Dopplung der Gallenblase ist eine seltene angeborene Fehlbildung, die mit ei
 
 Leberzysten: Diese weisen eine rundliche Form auf und haben keinen Anschluss an das Gallengangsystem. Kongenitale hepatische Zysten sind bei Kindern selten.
 
-Choledochuszyste (Typ II): Diese ist meist deutlich kleiner als eine Gallenblase und weist keinen Ductus cysticus auf.
+[[Choledochuszyste|Choledochuszyste]] (Typ II): Diese ist meist deutlich kleiner als eine Gallenblase und weist keinen Ductus cysticus auf.
 
 Gallenblasendivertikel: Aussackungen der Gallenblasenwand, die jedoch keine vollständige Dopplung darstellen.
 
@@ -83,7 +83,11 @@ Phrygische Mütze: Eine umgeschlagene Gallenblase kann in bestimmten Schnitteben
 # Alles andere
 
 
-Für den zuweisenden Chirurgen ist der präoperative Hinweis auf zwei Gallenblasen und deren anatomischen Typus essenziell, um intraoperative Komplikationen zu vermeiden und sicherzustellen, dass beide Organe entfernt werden, sofern sie pathologisch verändert sind. Ein typischer Fehler ist die Fehldiagnose als Leberzyste, insbesondere bei Patienten nach bereits erfolgter Cholezystektomie.
+Für den zuweisenden Chirurgen ist der präoperative Hinweis auf zwei Gallenblasen und deren anatomischen Typus essenziell, um intraoperative Komplikationen zu vermeiden und sicherzustellen, dass beide Organe entfernt werden, sofern sie pathologisch verändert sind. Ein typischer Fehler ist die Fehldiagnose als [[Leberzyste|Leberzyste]], insbesondere bei Patienten nach bereits erfolgter Cholezystektomie.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Qr2X2TIcXSY)
 
 # Quellen
 

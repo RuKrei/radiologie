@@ -1,4 +1,4 @@
-# Westermark Sign
+# [[Westermark_Sign|Westermark Sign]]
 
 ## Definition
 Fokale Oligämie (Hypertransparenz) distal eines embolischen Gefäßverschlusses.
@@ -21,3 +21,7 @@ Fokale Oligämie (Hypertransparenz) distal eines embolischen Gefäßverschlusses
 
 ---
 Tags: #Radiologie #Thorax #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=9mjsJ-gCNCU)
+

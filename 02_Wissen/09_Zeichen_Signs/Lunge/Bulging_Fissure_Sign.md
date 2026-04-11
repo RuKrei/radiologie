@@ -1,4 +1,4 @@
-# Bulging Fissure Sign
+# [[Bulging_Fissure_Sign|Bulging Fissure Sign]]
 
 ## Definition
 Vorwölbung der Lobärfissur (meist kleine Fissur rechts) durch massive exsudative entzündliche Schwellung eines Lappens.
@@ -22,3 +22,7 @@ Vorwölbung der Lobärfissur (meist kleine Fissur rechts) durch massive exsudati
 
 ---
 Tags: #Radiologie #Lunge #Zeichen #Sign #Fleischner
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=iiAvGDjgqoo)
+

@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=6WtiSheW0XE)
+
 # Quellen
 
 - [Radiopaedia Suche: Kardiomyopathien Entzündungen](https://radiopaedia.org/search?q=kardiomyopathien+entzündungen)

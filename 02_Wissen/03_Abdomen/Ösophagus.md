@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=RfDNHaQAAC8)
+
 # Quellen
 
 - [Radiopaedia Suche: Ösophagus](https://radiopaedia.org/search?q=ösophagus)

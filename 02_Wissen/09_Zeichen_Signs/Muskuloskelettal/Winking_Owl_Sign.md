@@ -1,7 +1,7 @@
-# Winking Owl Sign
+# [[Winking_Owl_Sign|Winking Owl Sign]]
 
 ## Definition
-Fehlender Wirbelbogenwurzel (Pedikel) im a.p. Röntgen der Wirbelsäule, typisch für eine lytische Knochenmetastase.
+Fehlender Wirbelbogenwurzel (Pedikel) im a.p. Röntgen der [[Trauma_2_Wirbelsäule|Wirbelsäule]], typisch für eine lytische Knochenmetastase.
 
 ## Radiologisches Erscheinungsbild
 - Typisches Zeichen in der Bildgebung (Muskuloskelettal).
@@ -15,3 +15,7 @@ Fehlender Wirbelbogenwurzel (Pedikel) im a.p. Röntgen der Wirbelsäule, typisch
 
 ---
 Tags: #Radiologie #Muskuloskelettal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=UfHRQfEZuxE)
+

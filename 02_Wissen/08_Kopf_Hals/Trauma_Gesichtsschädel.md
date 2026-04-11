@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=KPMPJ8Qqzm0)
+
 # Quellen
 
 - [Radiopaedia Suche: Trauma Gesichtsschädel](https://radiopaedia.org/search?q=trauma+gesichtsschädel)

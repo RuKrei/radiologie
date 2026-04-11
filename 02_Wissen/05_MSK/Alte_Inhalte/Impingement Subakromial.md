@@ -6,7 +6,7 @@ tags:
   - Lunge
   - MSK
   - degenerativ
-  - Schulter
+  - [[schulter|Schulter]]
 ---
 
 ------
@@ -64,6 +64,10 @@ Der AHA sollte > 7 mm sein, zwischen 5 und 7 mm besteht eine unterschiedlich aus
 # Differenzialdiagnosen
 
 # Alles andere
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=r9GBZC1KGWU)
 
 # Quellen
 

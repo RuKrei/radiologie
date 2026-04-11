@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=kwtrX7vYecs)
+
 # Quellen
 
 - [Radiopaedia Suche: Schädelbasis Hirnnerven](https://radiopaedia.org/search?q=schädelbasis+hirnnerven)

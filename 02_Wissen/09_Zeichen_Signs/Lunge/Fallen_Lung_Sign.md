@@ -1,4 +1,4 @@
-# Fallen Lung Sign
+# [[Fallen_Lung_Sign|Fallen Lung Sign]]
 
 ## Definition
 Der kollabierte Lungenflügel sinkt schwerkraftbedingt nach *außen* und *unten* (Richtung Zwerchfell/Thoraxwand), anstatt sich zum Hilus hin zurückzuziehen. Dies passiert bei einem kompletten Abriss des Hauptbronchus.
@@ -20,3 +20,7 @@ Der kollabierte Lungenflügel sinkt schwerkraftbedingt nach *außen* und *unten*
 
 ---
 Tags: #Radiologie #Lunge #Zeichen #Sign #Fleischner
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=nl0j-GIoO1A)
+

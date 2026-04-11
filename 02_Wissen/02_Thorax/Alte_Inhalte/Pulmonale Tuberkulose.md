@@ -28,7 +28,7 @@ Zu welchen pathologischen Veränderungen kommt es? Die Pathogenese unterscheidet
 
 Zu welchen morphologischen Veränderungen kommt es? Es zeigen sich Konsolidierungen, kavitäre Läsionen, noduläre Veränderungen (miliar oder zentrilobulär), Lymphadenopathien und pleurale Reaktionen.
 
-Zu welchen Komplikationen kann es kommen? Wichtige Komplikationen sind die miliare Ausbreitung (hämatogen), Pleuraempyeme, Bronchusstenosen, Bronchiektasen, die Bildung von Aspergillomen in präformierten Kavernen und Rasmussen-Aneurysmen (Pseudoaneurysmen der Pulmonalarterie in Kavernenwandnähe). Eine seltene Komplikation ist das Empyema necessitans (Durchbruch durch die Thoraxwand).
+Zu welchen Komplikationen kann es kommen? Wichtige Komplikationen sind die miliare Ausbreitung (hämatogen), Pleuraempyeme, Bronchusstenosen, [[Bronchiektasen|Bronchiektasen]], die Bildung von Aspergillomen in präformierten Kavernen und Rasmussen-Aneurysmen (Pseudoaneurysmen der Pulmonalarterie in Kavernenwandnähe). Eine seltene Komplikation ist das Empyema necessitans (Durchbruch durch die Thoraxwand).
 
 Sonografie
 
@@ -64,13 +64,17 @@ Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Kleine Verkalkungen k
 
 Differenzialdiagnosen
 
-Bakterielle Pneumonie: Klinisch oft akuterer Verlauf; radiologisch meist lobäre Konsolidierung, die unter Therapie schneller regredient ist als TB. Bronchialkarzinom: Insbesondere kavistierende Plattenepithelkarzinome können eine kavernöse TB imitieren. Sarkoidose: Zeigt meist symmetrische hiläre Lymphadenopathie und perilymphatische (nicht zentrilobuläre/randomisierte) Noduli. Nicht-tuberkulöse Mykobakteriosen (NTM): Können ein ähnliches Bild mit Kavitäten und Bronchiektasen verursachen. Pilzpneumonien: Histoplasmose oder Coccidioidomykose können bildmorphologisch eine TB imitieren. Lungenabszess: Meist Spiegelbildung und dickere Wand; Aspirationsanamnese.
+Bakterielle Pneumonie: Klinisch oft akuterer Verlauf; radiologisch meist lobäre Konsolidierung, die unter Therapie schneller regredient ist als TB. Bronchialkarzinom: Insbesondere kavistierende Plattenepithelkarzinome können eine kavernöse TB imitieren. [[Sarkoidose|Sarkoidose]]: Zeigt meist symmetrische hiläre Lymphadenopathie und perilymphatische (nicht zentrilobuläre/randomisierte) Noduli. Nicht-tuberkulöse Mykobakteriosen (NTM): Können ein ähnliches Bild mit Kavitäten und [[Bronchiektasen|Bronchiektasen]] verursachen. Pilzpneumonien: Histoplasmose oder Coccidioidomykose können bildmorphologisch eine TB imitieren. Lungenabszess: Meist Spiegelbildung und dickere Wand; Aspirationsanamnese.
 
 Alles andere
 
 Historische Therapieformen wie Thorakoplastik, Plombage (Einbringen von Material in die Thoraxhöhle) oder Oleothorax können als Residualbefunde sichtbar sein. Ein kalzifizierter Primärkomplex (Ghon-Herd und Lymphknoten) belegt eine stattgehabte Infektion.
 
 Quellen ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=lMp8MeORuYk)
+
 # Quellen
 
 - [Radiopaedia Suche: Pulmonale Tuberkulose](https://radiopaedia.org/search?q=pulmonale+tuberkulose)

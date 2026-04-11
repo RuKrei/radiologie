@@ -19,6 +19,10 @@ Tags:
 -----
 ![[Pasted image 20260113204102.png]]
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=tC0AwRFi3T8)
+
 # Quellen
 
 - [Radiopaedia Suche: Hüfte Avulsionsfrakturen](https://radiopaedia.org/search?q=hüfte+avulsionsfrakturen)

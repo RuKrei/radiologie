@@ -1,4 +1,4 @@
-# Fleischner Sign
+# [[Fleischner_Sign|Fleischner Sign]]
 
 ## Definition
 Aufgeweitete zentrale Pulmonalarterie.
@@ -22,3 +22,7 @@ Aufgeweitete zentrale Pulmonalarterie.
 
 ---
 Tags: #Radiologie #Thorax #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=9mjsJ-gCNCU)
+

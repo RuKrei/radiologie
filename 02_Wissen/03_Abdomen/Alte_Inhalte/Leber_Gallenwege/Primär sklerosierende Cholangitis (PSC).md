@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Die primär sklerosierende Cholangitis (PSC) ist eine chronisch verlaufende, cholestatische Lebererkrankung unbekannter Ätiologie, bei der immunologische Mechanismen zu einem entzündlichen und fibrosierenden Prozess der extra- und intrahepatischen Gallenwege führen. Dies resultiert in einem chronisch-progredienten Verlauf bis hin zur Entwicklung einer biliären Zirrhose. Die Prävalenz liegt zwischen 4 und 16 Fällen pro 100.000 Einwohner, wobei die Häufigkeit in den letzten 20 Jahren zugenommen hat. Männer sind überwiegend betroffen (60 bis 75 Prozent), und der Altersgipfel liegt im Durchschnitt zwischen 30 und 40 Jahren. Es besteht eine starke Assoziation mit chronisch entzündlichen Darmerkrankungen in 70 bis 80 Prozent der Fälle, wobei 2 bis 4 Prozent der Patienten mit Colitis ulcerosa und 1 bis 3 Prozent der Patienten mit Morbus Crohn eine PSC entwickeln. Klinisch beginnt die Erkrankung oft schleichend mit Juckreiz, Abgeschlagenheit, Ikterus und Fieber, kann aber auch mit einer Hepatosplenomegalie und Hyperpigmentierungen einhergehen. Laborchemisch zeigt sich bei 95 Prozent der Patienten eine 3- bis 10-fache Erhöhung der alkalischen Phosphatase sowie bei bis zu 80 Prozent eine Erhöhung der Immunglobuline.
+Die primär sklerosierende Cholangitis (PSC) ist eine chronisch verlaufende, cholestatische Lebererkrankung unbekannter Ätiologie, bei der immunologische Mechanismen zu einem entzündlichen und fibrosierenden Prozess der extra- und intrahepatischen Gallenwege führen. Dies resultiert in einem chronisch-progredienten Verlauf bis hin zur Entwicklung einer biliären Zirrhose. Die Prävalenz liegt zwischen 4 und 16 Fällen pro 100.000 Einwohner, wobei die Häufigkeit in den letzten 20 Jahren zugenommen hat. Männer sind überwiegend betroffen (60 bis 75 Prozent), und der Altersgipfel liegt im Durchschnitt zwischen 30 und 40 Jahren. Es besteht eine starke Assoziation mit chronisch entzündlichen Darmerkrankungen in 70 bis 80 Prozent der Fälle, wobei 2 bis 4 Prozent der Patienten mit [[Colitis ulcerosa|Colitis ulcerosa]] und 1 bis 3 Prozent der Patienten mit [[Morbus Crohn|Morbus Crohn]] eine PSC entwickeln. Klinisch beginnt die Erkrankung oft schleichend mit Juckreiz, Abgeschlagenheit, Ikterus und Fieber, kann aber auch mit einer Hepatosplenomegalie und Hyperpigmentierungen einhergehen. Laborchemisch zeigt sich bei 95 Prozent der Patienten eine 3- bis 10-fache Erhöhung der alkalischen Phosphatase sowie bei bis zu 80 Prozent eine Erhöhung der Immunglobuline.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -82,12 +82,16 @@ AIDS-Cholangiopathie: Anamnese einer HIV-Infektion ist vorhanden; häufig finden
 
 Ischämische Cholangitis: Weist eine ähnliche MR-Morphologie auf wie die PSC.
 
-IgG4-assoziierte Cholangitis: Tritt im Rahmen einer Autoimmunpankreatitis auf und zeigt ebenfalls ähnliche Veränderungen.
+IgG4-assoziierte Cholangitis: Tritt im Rahmen einer [[Autoimmunpankreatitis|Autoimmunpankreatitis]] auf und zeigt ebenfalls ähnliche Veränderungen.
 
 # Alles andere
 
 
-Ein typischer Fehler ist die Überschätzung der MRCP bei Frühformen sowie die Fehlinterpretation vergrößerter abdominaler Lymphknoten als maligne, obwohl diese bei der PSC häufig vorkommen und meist gutartig sind. Für den zuweisenden Kollegen sind die Erkennung von Frühformen, die Entwicklung einer Zirrhose mit portaler Hypertension sowie Hinweise auf die Entwicklung eines Gallenwegskarzinoms von zentraler Bedeutung.
+Ein typischer Fehler ist die Überschätzung der MRCP bei Frühformen sowie die Fehlinterpretation vergrößerter abdominaler Lymphknoten als [[Knochentumoren_2_Maligne|maligne]], obwohl diese bei der PSC häufig vorkommen und meist gutartig sind. Für den zuweisenden Kollegen sind die Erkennung von Frühformen, die Entwicklung einer Zirrhose mit portaler Hypertension sowie Hinweise auf die Entwicklung eines Gallenwegskarzinoms von zentraler Bedeutung.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=4kcbs53qVy4)
 
 # Quellen
 

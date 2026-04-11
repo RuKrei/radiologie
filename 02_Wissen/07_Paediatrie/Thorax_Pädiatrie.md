@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=taImIMRBLFk)
+
 # Quellen
 
 - [Radiopaedia Suche: Thorax Pädiatrie](https://radiopaedia.org/search?q=thorax+pädiatrie)

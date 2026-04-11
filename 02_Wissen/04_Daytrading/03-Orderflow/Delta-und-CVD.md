@@ -59,6 +59,10 @@ CVD und Delta sind unser Röntgengerät.
 *   Delta ist das Gaspedal.
 Traue niemals dem Preis allein. Wenn der Preis steigt, aber das Delta fällt, ist etwas faul. Achte auf Divergenzen an Schlüsselllevels (Key Levels) für High-Probability Trades.
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=m4jun2WE9A8)
+
 # Quellen
 
 - [Radiopaedia Suche: Delta-und-CVD](https://radiopaedia.org/search?q=delta-und-cvd)

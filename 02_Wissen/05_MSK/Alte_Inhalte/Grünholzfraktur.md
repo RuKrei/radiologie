@@ -23,6 +23,10 @@ Tags:
 
 ![[Pasted image 20251227151105.png]]
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=BN9SKak00-8)
+
 # Quellen
 
 - [Radiopaedia Suche: Grünholzfraktur](https://radiopaedia.org/search?q=grünholzfraktur)

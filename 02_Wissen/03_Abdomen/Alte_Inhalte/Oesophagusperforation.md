@@ -30,7 +30,7 @@ Zusätzlich: Dyspnoe, Tachykardie, Sepsis, Schock (hohe Mortalität bei Verzöge
 
 ## Allgemeines (auf alle Methoden anwendbar)
 ### Zu welchen pathologischen Veränderungen kommt es?
-Riss der Ösophaguswand (transmural). Austritt von Luft, Speichel, Mageninhalt und Bakterien in das Mediastinum und/oder den Pleuraraum.
+Riss der Ösophaguswand (transmural). Austritt von Luft, Speichel, Mageninhalt und Bakterien in das [[Mediastinum|Mediastinum]] und/oder den Pleuraraum.
 Beim Boerhaave-Syndrom: Typischerweise Riss im distalen Drittel links posterolateral (anatomische Schwachstelle).
 ### Zu welchen morphologischen Veränderungen kommt es?
 Mediastinitis, Pleuraempyem, Pneumomediastinum, Hydropneumothorax.
@@ -42,14 +42,14 @@ Fulminante Mediastinitis, Sepsis, Multiorganversagen, Tod.
 Meist ungeeignet zur direkten Diagnose.
 Ggf. Pleuraerguss oder Pneumothorax (fehlendes Pleuragleiten) erkennbar.
 ### Was kann man nicht sehen?
-Leckageort, Mediastinum.
+Leckageort, [[Mediastinum|Mediastinum]].
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
 Freie Luft ist schwer zu differenzieren.
 
 ## Röntgen
 ### Was sieht man korrelierend in dieser Methode?
 Thorax p.a. / seitlich:
-- [Pneumomediastinum](https://radiopaedia.org/articles/pneumomediastinum) (Luftstreifen entlang Herz/Aorta, "Continuous diaphragm sign").
+- [Pneumomediastinum](https://radiopaedia.org/articles/pneumomediastinum) (Luftstreifen entlang Herz/Aorta, "[[Continuous_Diaphragm_Sign|Continuous diaphragm sign]]").
 - [Subkutanes Emphysem](https://radiopaedia.org/articles/subcutaneous-emphysema) (Hals/Thoraxwand).
 - Verbreiterung des Mediastinums.
 - Pleuraerguss / Hydropneumothorax (links > rechts bei Boerhaave).
@@ -57,7 +57,7 @@ Thorax p.a. / seitlich:
 
 Ösophagusbreischluck (Durchleuchtung):
 - **WICHTIG:** Nur wasserlösliches Kontrastmittel (Gastrografin/Iod) verwenden! Kein Barium (Barium-Mediastinitis/Granulome).
-- Extravasation von KM ins Mediastinum oder Pleuraraum (direkter Nachweis der Leckage).
+- Extravasation von KM ins [[Mediastinum|Mediastinum]] oder Pleuraraum (direkter Nachweis der Leckage).
 - Sensitivität ca. 90%.
 
 ### Was kann man nicht sehen?
@@ -68,9 +68,9 @@ Barium kontraindiziert! Aspirationsgefahr beachten.
 ## CT
 ### Was sieht man korrelierend in dieser Methode?
 Methode der Wahl (Thorax/Abdomen mit oralem wasserlöslichem KM).
-- Extraluminale Luft (Pneumomediastinum) direkt am Ösophagus.
+- Extraluminale Luft (Pneumomediastinum) direkt am [[Ösophagus|Ösophagus]].
 - Mediastinale Flüssigkeitsansammlungen / Abszess.
-- Wandverdickung des Ösophagus.
+- Wandverdickung des [[Ösophagus|Ösophagus]].
 - Kontrastmittel-Austritt (Extravasation) - beweist Perforation und lokalisiert die Höhe.
 - Pleuraerguss / Empyem.
 - Verbindung zum Pleuraraum (ösophagopleurale Fistel).
@@ -89,8 +89,8 @@ Luft (Signalvoid) schwer von Gefäßkalk oder Knochen zu unterscheiden.
 Nicht indiziert im Notfall.
 
 # Differenzialdiagnosen
-- [Mallory-Weiss-Syndrom](https://radiopaedia.org/articles/mallory-weiss-syndrome): Nur Schleimhauteinrisse (nicht transmural), Blutung steht im Vordergrund, kein Pneumomediastinum.
-- [Aortendissektion](https://radiopaedia.org/articles/aortic-dissection): Ähnlicher Schmerz, verbreitertes Mediastinum, aber Dissektionsmembran im CT, kein KM-Austritt aus Ösophagus.
+- [Mallory-Weiss-Syndrom](https://radiopaedia.org/articles/mallory-weiss-syndrome): Nur Schleimhauteinrisse (nicht transmural), [[Schlaganfall_2_Blutung|Blutung]] steht im Vordergrund, kein Pneumomediastinum.
+- [Aortendissektion](https://radiopaedia.org/articles/aortic-dissection): Ähnlicher Schmerz, verbreitertes [[Mediastinum|Mediastinum]], aber Dissektionsmembran im CT, kein KM-Austritt aus [[Ösophagus|Ösophagus]].
 - [Myokardinfarkt](https://radiopaedia.org/articles/myocardial-infarction): EKG, Troponin.
 - [Pneumothorax](https://radiopaedia.org/articles/pneumothorax): Luft im Pleuraspalt, aber meist keine mediastinale Luft oder KM-Austritt.
 - [Lungenembolie](https://radiopaedia.org/articles/pulmonary-embolism): CTA positiv.
@@ -102,6 +102,10 @@ Therapie:
 - Chirurgisch (bei Sepsis, großer Ruptur): Übernähung, Drainage, ggf. Ösophagektomie (Ultima Ratio).
 
 Zeitfaktor: Mortalität steigt drastisch nach 24h (>20-50%).
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Rwsin97R37U)
 
 # Quellen
 - [Oesophageal perforation](https://radiopaedia.org/articles/oesophageal-perforation)

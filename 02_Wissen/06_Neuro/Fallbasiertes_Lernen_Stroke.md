@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=lSrjl3Jaq6s)
+
 # Quellen
 
 - [Radiopaedia Suche: Fallbasiertes Lernen Stroke](https://radiopaedia.org/search?q=fallbasiertes+lernen+stroke)

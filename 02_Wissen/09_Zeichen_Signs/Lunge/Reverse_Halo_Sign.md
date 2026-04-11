@@ -1,4 +1,4 @@
-# Reverse Halo Sign
+# [[Reverse_Halo_Sign|Reverse [[Halo_Sign|Halo Sign]]]]
 
 ## Definition
 Zentrale Milchglasverdichtung umgeben von einem dichten Ring oder Halbmond aus Konsolidierung (Atoll-Zeichen).
@@ -16,10 +16,14 @@ Zentrale Milchglasverdichtung umgeben von einem dichten Ring oder Halbmond aus K
 - Organisierende Pneumonie (OP) - klassisch
 - Pulmonale Mukormykose (bei Immunsupprimierten)
 - Lungeninfarkt
-- Tuberkulose / Sarkoidose
+- Tuberkulose / [[Sarkoidose|Sarkoidose]]
 
 ## Weiterführende Links
 - [Radiopaedia: Reverse Halo Sign](https://radiopaedia.org/articles/reversed-halo-sign-atoll-sign)
 
 ---
 Tags: #Radiologie #Lunge #Zeichen #Sign #Fleischner
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=BYECB9gYBHc)
+

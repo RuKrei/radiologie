@@ -21,7 +21,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Das Pankreas anulare ist eine seltene, angeborene Fehlbildung, die auf einer Rotationsstörung der ventralen Pankreasanlage beruht,. Dies führt dazu, dass Pankreasgewebe das Duodenum teilweise oder vollständig, meist im Bereich der Pars descendens, umgreift,. Die Prävalenz wird mit etwa 5 bis 15 Fällen pro 100.000 Einwohnern bzw. etwa 0,05 Prozent angegeben,. Eine Geschlechtsbevorzugung besteht nicht. Die Erkrankung kann sich in zwei Altersgipfeln manifestieren. Die kindliche Form zeigt sich meist innerhalb der ersten Lebenstage durch Zeichen einer Duodenalstenose, insbesondere postprandiales Erbrechen,. Das Pankreas anulare ist häufig mit einer Trisomie 21 (Down-Syndrom) assoziiert. Die Erwachsenenform manifestiert sich meist erst im 3. bis 5. Lebensjahrzehnt mit Symptomen einer chronischen Pankreatitis, wie Oberbauchschmerzen, oder Zeichen einer Duodenalobstruktion (Erbrechen, Übelkeit),. Viele Fälle bleiben asymptomatisch.
+Das [[Pankreas anulare|Pankreas anulare]] ist eine seltene, angeborene Fehlbildung, die auf einer Rotationsstörung der ventralen Pankreasanlage beruht,. Dies führt dazu, dass Pankreasgewebe das Duodenum teilweise oder vollständig, meist im Bereich der Pars descendens, umgreift,. Die Prävalenz wird mit etwa 5 bis 15 Fällen pro 100.000 Einwohnern bzw. etwa 0,05 Prozent angegeben,. Eine Geschlechtsbevorzugung besteht nicht. Die Erkrankung kann sich in zwei Altersgipfeln manifestieren. Die kindliche Form zeigt sich meist innerhalb der ersten Lebenstage durch Zeichen einer Duodenalstenose, insbesondere postprandiales Erbrechen,. Das [[Pankreas anulare|Pankreas anulare]] ist häufig mit einer Trisomie 21 (Down-Syndrom) assoziiert. Die Erwachsenenform manifestiert sich meist erst im 3. bis 5. Lebensjahrzehnt mit Symptomen einer chronischen Pankreatitis, wie Oberbauchschmerzen, oder Zeichen einer Duodenalobstruktion (Erbrechen, Übelkeit),. Viele Fälle bleiben asymptomatisch.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -32,7 +32,7 @@ Das Pankreas anulare ist eine seltene, angeborene Fehlbildung, die auf einer Rot
 ### Zu welchen morphologischen Veränderungen kommt es?
  Charakteristisch ist ein Ring aus Pankreasgewebe, der das Duodenum (meist die Pars descendens) umgibt und das Lumen exzentrisch oder konzentrisch einengt,. Der Pankreasring ist mit dem Pankreaskopf verbunden. 
 ### Zu welchen Komplikationen kann es kommen?
- Die Fehlbildung neigt zur Entwicklung einer chronischen Pankreatitis im Drüsenring. Zudem kann es zu einer Duodenalstenose bis hin zur Obstruktion (Ileus) kommen,. Auch duodenale Ulzerationen sind möglich.
+ Die Fehlbildung neigt zur Entwicklung einer chronischen Pankreatitis im Drüsenring. Zudem kann es zu einer Duodenalstenose bis hin zur Obstruktion ([[Ileus|Ileus]]) kommen,. Auch duodenale Ulzerationen sind möglich.
 
 ## Sonografie
  
@@ -59,7 +59,7 @@ Das Pankreas anulare ist eine seltene, angeborene Fehlbildung, die auf einer Rot
 ### Was kann man nicht sehen?
  Der feine anuläre Pankreasgang ist im CT oft schwer abzugrenzen. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Eine chronische Pankreatitis im Ring kann zu Pseudozysten oder Verkalkungen führen, die das Bild verkomplizieren.
+ Eine [[Chronische Pankreatitis|chronische Pankreatitis]] im Ring kann zu Pseudozysten oder Verkalkungen führen, die das Bild verkomplizieren.
 
 ## MRT
  
@@ -84,7 +84,11 @@ Postbulbäres Ulkus mit Stenose: Zeigt narbige Veränderungen, aber kein umgeben
 # Alles andere
 
 
-Die Therapie ist abhängig von der Symptomatik. Bei klinisch relevanter Stenose oder Komplikationen erfolgt meist eine operative Umgehung mittels Duodeno-Duodenostomie oder Duodeno-Jejunostomie,. Eine Resektion oder Durchtrennung des Pankreasrings wird vermieden, um das Risiko einer Pankreasfistel zu minimieren. Bei Kindern ist das Pankreas anulare eine wichtige Ursache für eine Duodenalobstruktion (ca. 10 Prozent der Fälle).
+Die Therapie ist abhängig von der Symptomatik. Bei klinisch relevanter Stenose oder Komplikationen erfolgt meist eine operative Umgehung mittels Duodeno-Duodenostomie oder Duodeno-Jejunostomie,. Eine Resektion oder Durchtrennung des Pankreasrings wird vermieden, um das Risiko einer Pankreasfistel zu minimieren. Bei Kindern ist das [[Pankreas anulare|Pankreas anulare]] eine wichtige Ursache für eine Duodenalobstruktion (ca. 10 Prozent der Fälle).
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=hxCwTZ1nI1I)
 
 # Quellen
 

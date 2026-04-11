@@ -19,7 +19,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Der gastrointestinale Stromatumor (GIST) ist der häufigste mesenchymale Tumor des Gastrointestinaltrakts und macht etwa 2 bis 3 Prozent aller Tumoren in diesem Bereich aus,,,. Der Tumor geht von den interstitiellen Cajal-Zellen aus, die als Schrittmacherzellen der Darmmotorik fungieren,,. Charakteristisch für GIST ist der immunhistochemische Nachweis von CD117 (c-kit, positiv in 95 Prozent der Fälle) und CD34 (positiv in 70 bis 80 Prozent der Fälle),,. Die jährliche Inzidenz liegt bei etwa 1 bis 1,5 Fällen pro 100000 Einwohner,. Die Tumoren treten bevorzugt im Magen (50 bis 70 Prozent) und im Dünndarm (20 bis 35 Prozent) auf, seltener im Kolon und Rektum (5 bis 7 Prozent) oder im Ösophagus (1 bis 2 Prozent),,,. Sehr selten finden sich GIST primär im Mesenterium, Omentum oder Retroperitoneum,,. Das durchschnittliche Erkrankungsalter liegt bei 60 bis 63 Jahren, wobei 80 Prozent der Patienten älter als 50 Jahre sind,. Es besteht eine leichte Bevorzugung des männlichen Geschlechts,. Eine Assoziation besteht mit der Neurofibromatose Typ 1, bei der multiple GIST im Dünndarm auftreten können,,. Klinisch sind kleine Tumoren oft asymptomatisch und werden zufällig entdeckt,. Wenn Symptome auftreten, sind diese oft unspezifisch und umfassen Übelkeit, Erbrechen, Druckgefühl, Schmerzen oder gastrointestinale Blutungen, die zur Anämie führen können,,.
+Der gastrointestinale Stromatumor (GIST) ist der häufigste mesenchymale Tumor des Gastrointestinaltrakts und macht etwa 2 bis 3 Prozent aller [[Pankreas_2_Tumoren|Tumoren]] in diesem Bereich aus,,,. Der Tumor geht von den interstitiellen Cajal-Zellen aus, die als Schrittmacherzellen der Darmmotorik fungieren,,. Charakteristisch für GIST ist der immunhistochemische Nachweis von CD117 (c-kit, positiv in 95 Prozent der Fälle) und CD34 (positiv in 70 bis 80 Prozent der Fälle),,. Die jährliche Inzidenz liegt bei etwa 1 bis 1,5 Fällen pro 100000 Einwohner,. Die [[Pankreas_2_Tumoren|Tumoren]] treten bevorzugt im Magen (50 bis 70 Prozent) und im [[Dünndarm|Dünndarm]] (20 bis 35 Prozent) auf, seltener im Kolon und Rektum (5 bis 7 Prozent) oder im [[Ösophagus|Ösophagus]] (1 bis 2 Prozent),,,. Sehr selten finden sich GIST primär im Mesenterium, Omentum oder [[Retroperitoneum|Retroperitoneum]],,. Das durchschnittliche Erkrankungsalter liegt bei 60 bis 63 Jahren, wobei 80 Prozent der Patienten älter als 50 Jahre sind,. Es besteht eine leichte Bevorzugung des männlichen Geschlechts,. Eine Assoziation besteht mit der Neurofibromatose Typ 1, bei der multiple GIST im [[Dünndarm|Dünndarm]] auftreten können,,. Klinisch sind kleine [[Pankreas_2_Tumoren|Tumoren]] oft asymptomatisch und werden zufällig entdeckt,. Wenn Symptome auftreten, sind diese oft unspezifisch und umfassen Übelkeit, Erbrechen, Druckgefühl, Schmerzen oder gastrointestinale Blutungen, die zur Anämie führen können,,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -51,7 +51,7 @@ Der gastrointestinale Stromatumor (GIST) ist der häufigste mesenchymale Tumor d
 ## CT
  
 ### Was sieht man korrelierend in dieser Methode?
- Die CT zeigt meist gut abgrenzbare, solide Tumoren, die in der arteriellen Phase oft eine kräftige Hypervaskularisation aufweisen,,. Kleinere Tumoren sind meist homogen, während größere Tumoren durch zentrale Nekrosen und Einblutungen heterogen und hypodens erscheinen können,,. Lebermetastasen präsentieren sich oft hypervaskulär oder zystisch-nekrotisch,. Verkalkungen sind selten (ca. 3 Prozent),. 
+ Die CT zeigt meist gut abgrenzbare, solide Tumoren, die in der arteriellen Phase oft eine kräftige Hypervaskularisation aufweisen,,. Kleinere Tumoren sind meist homogen, während größere Tumoren durch zentrale Nekrosen und Einblutungen heterogen und hypodens erscheinen können,,. [[Lebermetastasen|Lebermetastasen]] präsentieren sich oft hypervaskulär oder zystisch-nekrotisch,. Verkalkungen sind selten (ca. 3 Prozent),. 
 ### Was kann man nicht sehen?
  Eine Lymphadenopathie ist untypisch für GIST und spricht eher für andere Tumorentitäten wie Lymphome oder Adenokarzinome,,. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
@@ -69,13 +69,13 @@ Der gastrointestinale Stromatumor (GIST) ist der häufigste mesenchymale Tumor d
 # Differenzialdiagnosen
 
 
-Leiomyom/Leiomyosarkom: Diese glattmuskulären Tumoren sind bildmorphologisch oft nicht sicher von GIST zu unterscheiden, kommen aber häufiger im Ösophagus vor,,,. GIST sind durch die immunhistochemische Positivität für KIT (CD117) abgrenzbar,.
+Leiomyom/Leiomyosarkom: Diese glattmuskulären Tumoren sind bildmorphologisch oft nicht sicher von GIST zu unterscheiden, kommen aber häufiger im [[Ösophagus|Ösophagus]] vor,,,. GIST sind durch die immunhistochemische Positivität für KIT (CD117) abgrenzbar,.
 
 Adenokarzinom: Wächst meist konzentrisch stenosierend und weniger exophytisch; zeigt im Gegensatz zum GIST häufiger eine Lymphadenopathie,.
 
 Lymphom: Zeigt oft eine ausgeprägte Darmwandverdickung, kann aneurysmatische Dilatationen verursachen und geht typischerweise mit massiven Lymphknotenpaketen einher,,.
 
-Karzinoid (Neuroendokriner Tumor): Im Dünndarm oft kleiner, verursacht eine desmoplastische Reaktion (Retraktion des Mesenteriums) und verkalkt häufiger,,.
+Karzinoid (Neuroendokriner Tumor): Im [[Dünndarm|Dünndarm]] oft kleiner, verursacht eine desmoplastische Reaktion (Retraktion des Mesenteriums) und verkalkt häufiger,,.
 
 Desmoid-Tumor (Mesenteriale Fibromatose): Tritt häufig bei jüngeren Frauen oder im Rahmen des Gardner-Syndroms auf, wächst infiltrierend und metastasiert nicht,,.
 
@@ -83,6 +83,10 @@ Desmoid-Tumor (Mesenteriale Fibromatose): Tritt häufig bei jüngeren Frauen ode
 
 
 Für die Beurteilung des Therapieansprechens unter Imatinib werden die Choi-Kriterien verwendet, da eine reine Größenmessung (RECIST) oft nicht ausreicht. Ein Ansprechen wird definiert als eine Größenabnahme von mehr als 10 Prozent oder eine Abnahme der Dichte in der CT um mehr als 15 Prozent,. Die PET-CT mit FDG ist bei GIST sehr sensitiv, da die Tumoren meist eine hohe FDG-Avidität zeigen; sie eignet sich besonders zur frühen Beurteilung des Therapieansprechens, da die metabolische Aktivität oft vor der Größenreduktion abnimmt,,.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=AXE1g5-ojX0)
 
 # Quellen
 

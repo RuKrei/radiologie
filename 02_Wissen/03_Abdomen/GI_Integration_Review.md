@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Xd_HpN-Leqc)
+
 # Quellen
 
 - [Radiopaedia Suche: GI Integration Review](https://radiopaedia.org/search?q=gi+integration+review)

@@ -21,7 +21,7 @@ Dieser Artikel fasst die wichtigsten Muster und Definitionen der **Fleischner So
 - **Definition:** Flächenhafte Dichteanhebung der Lunge, bei der die Bronchial- und Gefäßstrukturen **noch sichtbar** bleiben.
 - **Pathologie:** Partielle Füllung der Alveolen, interstitielle Verdickung (Fibrose/Ödem), partieller Kollaps oder vermehrte Kapillardurchblutung.
 - **DD:** 
-  - Akut: Ödem, Blutung, akute Entzündung (z.B. Pneumocystis, virale Pneumonie wie COVID-19/Influenza), ARDS.
+  - Akut: Ödem, [[Schlaganfall_2_Blutung|Blutung]], akute Entzündung (z.B. Pneumocystis, virale Pneumonie wie COVID-19/Influenza), ARDS.
   - Chronisch: Hypersensitivitätspneumonitis (HP), NSIP, DIP, Alveolarproteinose.
 
 ### Consolidation (Konsolidierung / Infiltrat)
@@ -29,7 +29,7 @@ Dieser Artikel fasst die wichtigsten Muster und Definitionen der **Fleischner So
 - **Pathologie:** Vollständiger Ersatz der alveolären Luft durch Exsudat, Transsudat, Blut, Zellen (Tumor) oder Kollaps.
 - **DD:** Lobärpneumonie, Lungenödem, Lungenblutung, organisierende Pneumonie (OP), Adenokarzinom (lepides Wachstum).
 
-### Crazy Paving Pattern
+### [[Crazy_Paving|Crazy Paving]] Pattern
 - **Definition:** Kombination aus Milchglasverdichtung und überlagerter Verdickung der interlobulären (und intralobulären) Septen.
 - **DD:** Ursprünglich beschrieben bei Alveolarproteinose (PAP), heute auch bekannt bei PCP (Pneumocystis), Lipoidpneumonie, ARDS, Lungenblutung und Adenokarzinom.
 
@@ -46,16 +46,16 @@ Dieser Artikel fasst die wichtigsten Muster und Definitionen der **Fleischner So
 
 ### Cyst (Zyste)
 - **Definition:** Runder, umschriebener lufthaltiger Raum mit einer dünnen, aber sichtbaren Wand (meist < 2-3 mm).
-- **DD:** Langerhans-Zell-Histiozytose (LCH), Lymphangioleiomyomatose (LAM), Lymphoide interstitielle Pneumonie (LIP), Birt-Hogg-Dubé-Syndrom.
+- **DD:** Langerhans-Zell-Histiozytose (LCH), Lymphangioleiomyomatose (LAM), Lymphoide [[Interstitielle Pneumonie|interstitielle Pneumonie]] (LIP), Birt-Hogg-Dubé-Syndrom.
 
-### Honeycombing (Wabenlunge)
+### [[Honeycombing|Honeycombing]] (Wabenlunge)
 - **Definition:** Zerstörtes Lungenparenchym mit dickwandigen, zystischen Räumen (meist 3-10 mm, bis 2.5 cm). Typischerweise **subpleural** und **in Reihen (Layers)** angeordnet. 
 - **Bedeutung:** Repräsentiert das Endstadium (End-stage) einer Lungenfibrose und ist das absolute Hauptkriterium für ein **UIP-Pattern** (Usual Interstitial Pneumonia).
 
 ### Mosaic Attenuation (Mosaikmuster)
 - **Definition:** Fleckige, heterogene Bereiche von unterschiedlicher Lungendichte auf dem CT.
 - **Pathophysiologie / DD:**
-  1. **Air-trapping (Small Airways Disease):** In Exspiration verstärkt sich der Dichteunterschied. Die Gefäße in den dunklen Arealen sind rarefiziert. (z.B. Asthma, Bronchiolitis obliterans).
+  1. **Air-trapping (Small Airways Disease):** In Exspiration verstärkt sich der Dichteunterschied. Die Gefäße in den dunklen Arealen sind rarefiziert. (z.B. Asthma, [[Bronchiolitis|Bronchiolitis]] obliterans).
   2. **Vaskuläre Erkrankung (z.B. CTEPH):** Die dunklen Areale sind hypoperfundiert. Die Kaliber der Pulmonalarterien in den hellen Bereichen sind vergrößert.
   3. **Milchglas (Parenchymerkrankung):** Die hellen Areale sind das Pathologische (Infiltrat/Fibrose), die dunklen sind normal. Gefäße sind in den hellen Arealen normal weit.
 
@@ -66,11 +66,11 @@ Dieser Artikel fasst die wichtigsten Muster und Definitionen der **Fleischner So
 ### Tree-in-Bud (Knospender Baum)
 - **Definition:** Zentrilobuläre, verzweigte, V- oder Y-förmige Strukturen mit knötchenförmigen Enden.
 - **Pathologie:** Impaktion der distalen (respiratorischen) Bronchiolen mit Schleim, Eiter oder Flüssigkeit (zelluläre Exsudate).
-- **DD:** Immer Ausdruck einer **Erkrankung der kleinen Atemwege (Bronchiolitis)**. Endobronchiale Streuung von Tuberkulose/Atypischen Mykobakterien (MAC), bakterielle Bronchopneumonie, Aspiration, Zystische Fibrose.
+- **DD:** Immer Ausdruck einer **Erkrankung der kleinen Atemwege ([[Bronchiolitis|Bronchiolitis]])**. Endobronchiale Streuung von Tuberkulose/Atypischen Mykobakterien (MAC), bakterielle Bronchopneumonie, Aspiration, Zystische Fibrose.
 
 ### Noduläre Verteilungsmuster
-- **Zentrilobulär:** Knötchen sparen die pleurale Oberfläche (auch die Fissuren) aus. Meist Inhalationstoxine. (HP, RB-ILD, Infektionen).
-- **Perilymphatisch:** Knötchen liegen entlang der Lymphwege (peribronchovaskulär, interlobuläre Septen, subpleural und in den Fissuren). Typisch für **Sarkoidose**, Silikose, Lymphangiosis carcinomatosa.
+- **Zentrilobulär:** Knötchen sparen die pleurale Oberfläche (auch die Fissuren) aus. Meist Inhalationstoxine. (HP, RB-ILD, [[Infektionen|Infektionen]]).
+- **Perilymphatisch:** Knötchen liegen entlang der Lymphwege (peribronchovaskulär, interlobuläre Septen, subpleural und in den Fissuren). Typisch für **[[Sarkoidose|Sarkoidose]]**, Silikose, Lymphangiosis carcinomatosa.
 - **Random (Miliar):** Zufällig verteilt, keine Beziehung zum Lobulus. Gleichmäßige Verteilung über die Lunge. Typisch für hämatogene Streuung (**Miliartuberkulose**, hämatogene Metastasen, Pilzinfektionen).
 
 ---
@@ -80,12 +80,12 @@ Dieser Artikel fasst die wichtigsten Muster und Definitionen der **Fleischner So
 ### Interlobuläre Septenverdickung
 - **Definition:** Verdickung der Bindegewebssepten zwischen den sekundären Lobuli.
 - **Glatte Verdickung:** Lungenödem (hydrostatisch), Lymphangiosis carcinomatosa.
-- **Noduläre Verdickung:** Sarkoidose, Lymphangiosis carcinomatosa.
+- **Noduläre Verdickung:** [[Sarkoidose|Sarkoidose]], Lymphangiosis carcinomatosa.
 - **Irreguläre/verzogene Verdickung:** Lungenfibrose.
 
 ### Traktionsbronchiektasien
 - **Definition:** Irreguläre Dilatation von Bronchien/Bronchiolen aufgrund des Zuges durch umgebendes fibrotisches Lungenparenchym.
-- **Bedeutung:** Ein hartes Zeichen für **Fibrose** (z.B. in Kombination mit Honeycombing bei UIP, oder als Hauptkriterium bei fibrosierender NSIP).
+- **Bedeutung:** Ein hartes Zeichen für **Fibrose** (z.B. in Kombination mit [[Honeycombing|Honeycombing]] bei UIP, oder als Hauptkriterium bei fibrosierender NSIP).
 
 ---
 
@@ -94,7 +94,7 @@ Dieser Artikel fasst die wichtigsten Muster und Definitionen der **Fleischner So
 ### UIP (Usual Interstitial Pneumonia) vs. NSIP (Non-Specific Interstitial Pneumonia)
 - **UIP (Typisch für Idiopathische Lungenfibrose - IPF):** 
   - Basal und subpleural dominant.
-  - **Honeycombing** vorhanden (Pflicht für "Definite UIP").
+  - **[[Honeycombing|Honeycombing]]** vorhanden (Pflicht für "Definite UIP").
   - Traktionsbronchiektasen.
   - *Kein* oder nur minimales Milchglas (falls vorhanden, dann weniger ausgeprägt als Retikulation).
 - **NSIP:** 
@@ -106,6 +106,10 @@ Dieser Artikel fasst die wichtigsten Muster und Definitionen der **Fleischner So
 - Ober- und Mittelfeld-dominant.
 - Fibrose oft zentrilobulär oder entlang der Bronchovaskulärbündel.
 - Kombination aus Fibrose, **Milchglas** und **Air-Trapping** (sog. Head-Cheese-Sign / 3-Density-Pattern).
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=lstAM9l_M3A)
 
 # Quellen
 - Fleischner Society: Glossary of Terms for Thoracic Imaging (Hansell et al., Radiology 2008 / Updates)

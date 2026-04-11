@@ -38,6 +38,10 @@ In einer Range achten wir auf **Delta-Rotation**.
 4.  **Der Trigger:** Plötzlich verschwindet die Absorption oder wird überrannt. Der Preis springt (Liquidity Vacuum).
 5.  **Einstieg:** Sofort beim Bruch oder beim ersten Retest der Imbalance.
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Ng9UsK1gSCg)
+
 # Quellen
 
 - [Radiopaedia Suche: 03 Footprint Chart Deep Dive](https://radiopaedia.org/search?q=03+footprint+chart+deep+dive)

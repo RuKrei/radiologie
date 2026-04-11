@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=oz9vCtiTJyw)
+
 # Quellen
 
 - [Radiopaedia Suche: Synthese Thorax Herz](https://radiopaedia.org/search?q=synthese+thorax+heart)

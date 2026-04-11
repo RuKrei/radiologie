@@ -45,7 +45,7 @@ Solide Raumforderung, oft exophytisch wachsend, heterogen durch Nekrosen/Einblut
 - **CEUS (Kontrastmittel-Ultraschall):** Früharterielles Enhancement (Hyperenhancement) beim klarzelligen Typ, schnelles Wash-out.
 
 ### Was kann man nicht sehen?
-- Kleine Tumoren (< 1-2 cm) oft schwer abgrenzbar.
+- Kleine [[Pankreas_2_Tumoren|Tumoren]] (< 1-2 cm) oft schwer abgrenzbar.
 - Differenzierung zu komplexen Zysten (Bosniak) schwierig ohne CEUS.
 
 ## Röntgen
@@ -64,7 +64,7 @@ Solide Raumforderung, oft exophytisch wachsend, heterogen durch Nekrosen/Einblut
 - **Invasion:** Beurteilung von V. renalis/cava (Tumorzapfen), Perineale Fettgewebsinfiltration (Stranding), Lymphknoten.
 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
-- Kleine hypovaskuläre Tumoren in der nephrografischen Phase maskiert.
+- Kleine hypovaskuläre [[Pankreas_2_Tumoren|Tumoren]] in der nephrografischen Phase maskiert.
 - Tumorthrombus in der V. cava (entscheidend für OP-Planung!).
 
 ## MRT
@@ -91,12 +91,16 @@ Indiziert bei Unklarheit im CT, Niereninsuffizienz, oder zur genauen Typisierung
 6.  **Metastase:** (z.B. von Bronchialkarzinom, Melanom). Oft multipel.
 
 # Alles andere
-- **Bosniak-Klassifikation:** Für zystische Nierenraumforderungen (I = benigne, IV = maligne/zystisches RCC).
+- **Bosniak-Klassifikation:** Für zystische Nierenraumforderungen (I = benigne, IV = [[Knochentumoren_2_Maligne|maligne]]/zystisches RCC).
 - **TNM-Staging (UICC 8):**
     - T1: < 7 cm, auf Niere begrenzt (T1a < 4cm, T1b > 4cm).
     - T2: > 7 cm, auf Niere begrenzt.
     - T3: Infiltration in Venen oder perinephrisches Fett, aber nicht in Nebenniere/Gerota-Faszie überschreitend.
     - T4: Infiltration in Nebenniere oder über Gerota-Faszie hinaus.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=40EYyizdb8c)
 
 # Quellen
 

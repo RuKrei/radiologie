@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Peliosis hepatis ist durch eine meist diffuse, seltener fokale Erweiterung der Sinusoide gekennzeichnet, die durch direkte Schädigung oder nach umschriebenen Lebernekrosen entsteht. Die Ausdehnung der Läsionen variiert von 1 mm bis zu mehreren Zentimetern. Es besteht keine Alters- oder Geschlechtspräferenz. Zu den prädisponierenden Faktoren zählen Medikamente wie anabole Steroide, Kontrazeptiva, Kortikosteroide, Tamoxifen, Azathioprin, Thioguanin, Mercaptopurin und Methotrexat sowie Toxine wie Arsen und Polyvinylchlorid. Auch schwere chronische Erkrankungen wie Tuberkulose, hepatozelluläres Karzinom, hämatologische Erkrankungen, Sprue oder Diabetes werden mit der Erkrankung assoziiert. Bei Infektionen im Rahmen von AIDS kommt die sogenannte bazilläre Peliosis vor, die durch Bartonella verursacht wird. Klinisch kann die Erkrankung asymptomatisch verlaufen oder zu Komplikationen wie Leberversagen, Cholestase, portaler Hypertension und Leberruptur führen.
+[[Peliosis|Peliosis]] hepatis ist durch eine meist diffuse, seltener fokale Erweiterung der Sinusoide gekennzeichnet, die durch direkte Schädigung oder nach umschriebenen Lebernekrosen entsteht. Die Ausdehnung der Läsionen variiert von 1 mm bis zu mehreren Zentimetern. Es besteht keine Alters- oder Geschlechtspräferenz. Zu den prädisponierenden Faktoren zählen Medikamente wie anabole Steroide, Kontrazeptiva, Kortikosteroide, Tamoxifen, Azathioprin, Thioguanin, Mercaptopurin und Methotrexat sowie Toxine wie Arsen und Polyvinylchlorid. Auch schwere chronische Erkrankungen wie Tuberkulose, hepatozelluläres Karzinom, [[Hämatologische_Erkrankungen|hämatologische Erkrankungen]], Sprue oder Diabetes werden mit der Erkrankung assoziiert. Bei [[Infektionen|Infektionen]] im Rahmen von AIDS kommt die sogenannte bazilläre [[Peliosis|Peliosis]] vor, die durch Bartonella verursacht wird. Klinisch kann die Erkrankung asymptomatisch verlaufen oder zu Komplikationen wie Leberversagen, Cholestase, portaler Hypertension und Leberruptur führen.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -75,7 +75,11 @@ Fokale noduläre Hyperplasie: Zeigt eine sehr kräftige Anreicherung von Knoten,
 # Alles andere
 
 
-Ein typischer Fehler ist die Verwechslung mit Lebertumoren oder mit einem Abszess, was zur fälschlichen Einlage einer Drainage führen kann. Für den zuweisenden Kollegen sind das Ausmaß der Blutung oder Schädigung sowie die Differenzierung von Tumoren und Metastasen relevant.
+Ein typischer Fehler ist die Verwechslung mit Lebertumoren oder mit einem Abszess, was zur fälschlichen Einlage einer Drainage führen kann. Für den zuweisenden Kollegen sind das Ausmaß der [[Schlaganfall_2_Blutung|Blutung]] oder Schädigung sowie die Differenzierung von [[Pankreas_2_Tumoren|Tumoren]] und Metastasen relevant.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=9LEw2-AwP0c)
 
 # Quellen
 

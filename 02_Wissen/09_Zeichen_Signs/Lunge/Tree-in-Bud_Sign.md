@@ -1,4 +1,4 @@
-# Tree-in-Bud Sign
+# [[Tree-in-Bud_Sign|Tree-in-Bud Sign]]
 
 ## Definition
 Verzweigte, knospende Strukturen im CT (meist Peripherie), die eine Füllung der distalen Bronchiolen anzeigen.
@@ -23,3 +23,7 @@ Verzweigte, knospende Strukturen im CT (meist Peripherie), die eine Füllung der
 
 ---
 Tags: #Radiologie #Thorax #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=uY55pbTEkkM)
+

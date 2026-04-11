@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=VHIVL6QqFbA)
+
 # Quellen
 
 - [Radiopaedia Suche: Deep Dive Gyn Staging](https://radiopaedia.org/search?q=deep+dive+gyn+staging)

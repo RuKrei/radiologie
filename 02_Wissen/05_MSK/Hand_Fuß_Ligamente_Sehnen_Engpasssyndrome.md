@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=zvLGn2jev14)
+
 # Quellen
 
 - [Radiopaedia Suche: Hand Fuß Ligamente Sehnen Engpasssyndrome](https://radiopaedia.org/search?q=hand+fuß+ligamente+sehnen+engpasssyndrome)

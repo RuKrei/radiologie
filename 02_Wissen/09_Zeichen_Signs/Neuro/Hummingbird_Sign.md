@@ -1,4 +1,4 @@
-# Hummingbird Sign
+# [[Hummingbird_Sign|Hummingbird Sign]]
 
 ## Definition
 Atrophie des Mittelhirns bei PSP (Progressive Supranukleäre Blickparese), sieht im Sagittalschnitt aus wie ein Kolibri.
@@ -15,3 +15,7 @@ Atrophie des Mittelhirns bei PSP (Progressive Supranukleäre Blickparese), sieht
 
 ---
 Tags: #Radiologie #Neuro #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=iQKT0yu_cbo)
+

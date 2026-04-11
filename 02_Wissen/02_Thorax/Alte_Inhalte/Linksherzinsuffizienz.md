@@ -79,6 +79,10 @@ ARDS (Acute Respiratory Distress Syndrome): Nicht-kardiogenes Ödem. Herzgröße
 
 Der Gefäßstiel (Vascular Pedicle) ist bei kardialer Überwässerung typischerweise verbreitert, während er beim Permeabilitätsödem (ARDS) normal breit ist. Ein asymmetrisches Lungenödem kann bei Patienten mit COPD oder bei Lagerung auf der Seite auftreten.
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=8nCiR1UZy2A)
+
 # Quellen
 
 - [Radiopaedia Suche: Linksherzinsuffizienz](https://radiopaedia.org/search?q=linksherzinsuffizienz)

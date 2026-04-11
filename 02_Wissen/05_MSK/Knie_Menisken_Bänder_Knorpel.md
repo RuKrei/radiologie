@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=oKDUS7uBx_w)
+
 # Quellen
 
 - [Radiopaedia Suche: Knie Menisken Bänder Knorpel](https://radiopaedia.org/search?q=knie+menisken+bänder+knorpel)

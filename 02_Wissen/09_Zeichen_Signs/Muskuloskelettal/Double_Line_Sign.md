@@ -1,4 +1,4 @@
-# Double Line Sign
+# [[Double_Line_Sign|Double Line Sign]]
 
 ## Definition
 T2-MRT Zeichen bei AVN: Innere helle Linie (Granulationsgewebe) und äußere dunkle Linie (Sklerose). Pathognomonisch für Knocheninfarkt/AVN.
@@ -15,3 +15,7 @@ T2-MRT Zeichen bei AVN: Innere helle Linie (Granulationsgewebe) und äußere dun
 
 ---
 Tags: #Radiologie #Muskuloskelettal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=2QZoM4cVTHM)
+

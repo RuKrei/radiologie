@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=YJyUmwyBbqU)
+
 # Quellen
 
 - [Radiopaedia Suche: Thoraxtrauma Post OP](https://radiopaedia.org/search?q=thoraxtrauma+post+op)

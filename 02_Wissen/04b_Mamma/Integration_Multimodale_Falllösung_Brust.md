@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=cSnutKBU7Uc)
+
 # Quellen
 
 - [Radiopaedia Suche: Integration Multimodale Falllösung Brust](https://radiopaedia.org/search?q=integration+multimodale+falllösung+breast)

@@ -5,7 +5,7 @@ tags:
   - GI
   - radiologie
   - Leber
-  - maligne
+  - [[Knochentumoren_2_Maligne|maligne]]
 ---
 
 ------
@@ -21,7 +21,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Das fibrolamelläre Karzinom ist ein seltenes primäres Malignom der Leber, das etwa 1 bis 9 Prozent aller hepatozellulären Karzinome (HCC) ausmacht. Es tritt typischerweise in einer gesunden, nicht zirrhotischen Leber auf. Der Altersgipfel liegt zwischen 10 und 35 Jahren, mit einem Durchschnittsalter von etwa 23 bis 26 Jahren. Es besteht eine leichte Bevorzugung des männlichen Geschlechts, wobei spezifische Risikofaktoren nicht bekannt sind. Klinisch präsentieren sich die Patienten bei großen Tumoren mit Druckgefühl und Schmerzen im Oberbauch, einer Hepatomegalie mit tastbarer Raumforderung und Gewichtsabnahme. Ein Ikterus ist selten (5 Prozent) und das Alpha-Fetoprotein (AFP) ist im Gegensatz zum klassischen HCC nur selten erhöht. Häufig findet sich eine leichte Erhöhung der Transaminasen.
+Das fibrolamelläre Karzinom ist ein seltenes primäres Malignom der Leber, das etwa 1 bis 9 Prozent aller hepatozellulären Karzinome (HCC) ausmacht. Es tritt typischerweise in einer gesunden, nicht zirrhotischen Leber auf. Der Altersgipfel liegt zwischen 10 und 35 Jahren, mit einem Durchschnittsalter von etwa 23 bis 26 Jahren. Es besteht eine leichte Bevorzugung des männlichen Geschlechts, wobei spezifische Risikofaktoren nicht bekannt sind. Klinisch präsentieren sich die Patienten bei großen [[Pankreas_2_Tumoren|Tumoren]] mit Druckgefühl und Schmerzen im Oberbauch, einer Hepatomegalie mit tastbarer Raumforderung und Gewichtsabnahme. Ein Ikterus ist selten (5 Prozent) und das Alpha-Fetoprotein (AFP) ist im Gegensatz zum klassischen HCC nur selten erhöht. Häufig findet sich eine leichte Erhöhung der Transaminasen.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -67,7 +67,7 @@ Das fibrolamelläre Karzinom ist ein seltenes primäres Malignom der Leber, das 
 
 Fokale noduläre Hyperplasie (FNH): Zeigt eine intensivere Kontrastmittelanreicherung und eine zentrale Narbe, die jedoch in T2-gewichteten Bildern hyperintens ist und Kontrastmittel aufnimmt; zudem speichert die FNH im Gegensatz zum fibrolamellären Karzinom gallegängige Gadolinium-Verbindungen in der Spätphase.
 
-Leberzelladenom: Tritt meist nach langjähriger Hormoneinnahme auf, zeigt häufig Einblutungen, hat keine zentrale Narbe und weist oft peripher drapierte Gefäße auf.
+[[Leberzelladenom|Leberzelladenom]]: Tritt meist nach langjähriger Hormoneinnahme auf, zeigt häufig Einblutungen, hat keine zentrale Narbe und weist oft peripher drapierte Gefäße auf.
 
 Hepatozelluläres Karzinom (klassisches HCC): Findet sich meist in zirrhotischer Leber bei älteren Patienten, zeigt häufiger eine Gefäßinfiltration, selten Verkalkungen und geht oft mit erhöhtem AFP einher.
 
@@ -81,6 +81,10 @@ Hypervaskularisierte Metastasen: Treten meist als multiple und kleinere Herde au
 
 
 Das fibrolamelläre Karzinom hat eine bessere Überlebensrate im Vergleich zum gewöhnlichen HCC (5-Jahres-Überlebensrate bis 67 Prozent), weist aber eine höhere Rezidivrate auf. Ein typischer Fehler ist die Verwechslung mit einer FNH, insbesondere aufgrund der zentralen Narbe und des Auftretens bei jungen Patienten. Biopsien sollten möglichst groß sein, da auch histologisch Fehlbeurteilungen möglich sind, und nicht an der Leberoberfläche entnommen werden.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=QN6hHILhnMg)
 
 # Quellen
 

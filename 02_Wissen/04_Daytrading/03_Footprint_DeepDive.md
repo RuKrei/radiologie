@@ -34,6 +34,10 @@ Du siehst riesiges Volumen auf einem Preislevel (z.B. 2000 Kontrakte im ES), abe
 *   **Realität:** Ein großer Verkäufer (Limit Order) füllt sie alle. Er "baut eine Position auf".
 *   **Folge:** Wenn die Käufer erschöpft sind, fällt der Preis ("Longs in der Falle").
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Ng9UsK1gSCg)
+
 # Quellen
 
 - [Radiopaedia Suche: 03 Footprint DeepDive](https://radiopaedia.org/search?q=03+footprint+deepdive)

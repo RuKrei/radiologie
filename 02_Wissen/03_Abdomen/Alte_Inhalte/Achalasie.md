@@ -10,7 +10,7 @@ Zuletzt bearbeitet: 2026-02-25
 Zuletzt gelesen: 2026-02-25
 Tags: 
 -----
-# Achalasie
+# [[Achalasie|Achalasie]]
 
 # Wer? (Epidemiologie und Symptome)
 Meist mittleres Lebensalter (30-60 Jahre), Männer und Frauen gleich betroffen. Inzidenz ca. 1/100.000.
@@ -20,16 +20,16 @@ Klinik: Langsame progressive Dysphagie (paradox: Flüssigkeiten oft schlechter a
 
 ## Allgemeines (auf alle Methoden anwendbar)
 ### Zu welchen pathologischen Veränderungen kommt es?
-Degeneration des Plexus myentericus (Auerbach) im distalen Ösophagus. Führt zu fehlender Peristaltik im tubulären Ösophagus und fehlender Erschlaffung (Relaxation) des unteren Ösophagussphinkters (UÖS) beim Schluckakt.
-Primäre (idiopathische) vs. Sekundäre Achalasie (Pseudoachalasie durch Tumor, Chagas-Krankheit).
+Degeneration des Plexus myentericus (Auerbach) im distalen [[Ösophagus|Ösophagus]]. Führt zu fehlender Peristaltik im tubulären [[Ösophagus|Ösophagus]] und fehlender Erschlaffung (Relaxation) des unteren Ösophagussphinkters (UÖS) beim Schluckakt.
+Primäre (idiopathische) vs. Sekundäre [[Achalasie|Achalasie]] (Pseudoachalasie durch Tumor, [[Chagas-Krankheit|Chagas-Krankheit]]).
 ### Zu welchen morphologischen Veränderungen kommt es?
-Dilatation des Ösophagus, Retention von Speiseresten/Flüssigkeit, funktionelle Stenose am gastroösophagealen Übergang (GEÜ).
+Dilatation des [[Ösophagus|Ösophagus]], Retention von Speiseresten/Flüssigkeit, funktionelle Stenose am gastroösophagealen Übergang (GEÜ).
 ### Zu welchen Komplikationen kann es kommen?
 Aspirationspneumonie, [Ösophaguskarzinom](https://radiopaedia.org/articles/oesophageal-carcinoma) (erhöhtes Risiko durch chronische Stase/Reizung, meist Plattenepithelkarzinom), Candida-Ösophagitis.
 
 ## Sonografie
 ### Was sieht man korrelierend in dieser Methode?
-Unspezifisch. Ggf. flüssigkeitsgefüllter Ösophagus im Halsbereich/Oberbauch sichtbar (verdickte Wand, "Darm im Thorax").
+Unspezifisch. Ggf. flüssigkeitsgefüllter [[Ösophagus|Ösophagus]] im Halsbereich/Oberbauch sichtbar (verdickte Wand, "Darm im Thorax").
 ### Was kann man nicht sehen?
 Funktionsdiagnostik, Gesamtausmaß.
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
@@ -40,11 +40,11 @@ Irrelevant für Primärdiagnostik.
 Thorax-Übersicht:
 - Verbreiterung des Mediastinums (rechtsseitig).
 - Fehlende Magenblase.
-- Spiegelbildung im Mediastinum (Luft-Flüssigkeits-Niveau im Ösophagus).
+- Spiegelbildung im [[Mediastinum|Mediastinum]] (Luft-Flüssigkeits-Niveau im [[Ösophagus|Ösophagus]]).
 - Trachea-Verlagerung.
 
 Ösophagusbreischluck (Methode der Wahl für Morphologie):
-- [Bird's beak sign](https://radiopaedia.org/articles/birds-beak-sign-oesophagus) (Vogelschnabel): Konische, glatt begrenzte Verjüngung am distalen Ösophagus (GEÜ).
+- [Bird's beak sign](https://radiopaedia.org/articles/birds-beak-sign-oesophagus) (Vogelschnabel): Konische, glatt begrenzte Verjüngung am distalen [[Ösophagus|Ösophagus]] (GEÜ).
 - Dilatation des prästenotischen Ösophagus (Mikro-, Megaösophagus, Sigmoid-Ösophagus).
 - Fehlende primäre Peristaltik (Aperistaltik), stattdessen tertiäre Kontraktionen ("Weinglas-Form").
 - Verzögerte Entleerung des Kontrastmittels in den Magen (Kontrastmittelsäule steht).
@@ -79,11 +79,11 @@ Standard-MRT ist statisch.
 Pseudoachalasie.
 
 # Differenzialdiagnosen
-- [Pseudoachalasie](https://radiopaedia.org/articles/pseudoachalasia): Durch Kardiakarzinom oder distales Ösophaguskarzinom. Kriterien: Ältere Patienten (>60), kurze Anamnese (<1 Jahr), Gewichtsverlust, im Röntgen irreguläre Kontur/Schulterbildung, im CT Wandverdickung/Masse.
+- [Pseudoachalasie](https://radiopaedia.org/articles/pseudoachalasia): Durch Kardiakarzinom oder distales [[Ösophaguskarzinom|Ösophaguskarzinom]]. Kriterien: Ältere Patienten (>60), kurze Anamnese (<1 Jahr), Gewichtsverlust, im Röntgen irreguläre Kontur/Schulterbildung, im CT Wandverdickung/Masse.
 - [Sklerodermie](https://radiopaedia.org/articles/progressive-systemic-sclerosis-oesophageal-manifestations): Weiter Ösophagus, aber *klaffender* UÖS (Reflux!), fehlende Peristaltik nur in den distalen 2/3.
 - [Diffuser Ösophagusspasmus](https://radiopaedia.org/articles/diffuse-oesophageal-spasm): "Korkenzieher-Ösophagus", normale UÖS-Relaxation.
 - [Chagas-Krankheit](https://radiopaedia.org/articles/chagas-disease): Trypanosoma cruzi, Megaösophagus, Megacolon, Kardiomyopathie.
-- [Ösophagusstriktur](https://radiopaedia.org/articles/peptic-stricture): Peptisch (Reflux), meist Hiatushernie, nicht aperistaltisch.
+- [Ösophagusstriktur](https://radiopaedia.org/articles/peptic-stricture): Peptisch (Reflux), meist [[Hiatushernie|Hiatushernie]], nicht aperistaltisch.
 
 # Alles andere
 Therapieoptionen:
@@ -93,6 +93,10 @@ Therapieoptionen:
 - Botox-Injektion.
 
 Eckardt-Score: Klinischer Score zur Schweregradeinteilung.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=5ELV0pXqHHs)
 
 # Quellen
 - [Achalasia](https://radiopaedia.org/articles/achalasia)

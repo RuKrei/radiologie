@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=ZZ2FrW0-SM8)
+
 # Quellen
 
 - [Radiopaedia Suche: Liquorsystem Hydrozephalus](https://radiopaedia.org/search?q=liquorsystem+hydrozephalus)

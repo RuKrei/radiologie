@@ -28,7 +28,7 @@ Zuletzt gelesen: 2025-12-15
 | Exsudat         | Kahti Sepp sudert    | 25    | anal           | 5          | Qualle  | :-)                                                                                                                             |
 | Niere           |                      | 30    |                | 10         |         |                                                                                                                                 |
 | Pankreas        | Parkbank             | 40    |                | 10         |         |                                                                                                                                 |
-| Milz/Muskel/LKs |                      | 45    |                | 5          |         |                                                                                                                                 |
+| [[Milz|Milz]]/Muskel/LKs |                      | 45    |                | 5          |         |                                                                                                                                 |
 | Blut            | Vampir               | 55    |                | 5          |         |                                                                                                                                 |
 | Leber           |                      | 65    |                | 5          |         |                                                                                                                                 |
 | Schilddrüse     |                      | 70    |                | 10         |         |                                                                                                                                 |
@@ -37,6 +37,10 @@ Zuletzt gelesen: 2025-12-15
 #review
 
 
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=wX4aRNUYN-A)
 
 # Quellen
 

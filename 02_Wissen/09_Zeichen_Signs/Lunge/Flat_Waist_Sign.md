@@ -1,4 +1,4 @@
-# Flat Waist Sign
+# [[Flat_Waist_Sign|Flat Waist Sign]]
 
 ## Definition
 Abflachung der Kontur des Aortenbogens und der Pulmonalarterie auf der linken Seite im p.a. Thoraxröntgen. Tritt auf durch Rotation des Herzens.
@@ -20,3 +20,7 @@ Abflachung der Kontur des Aortenbogens und der Pulmonalarterie auf der linken Se
 
 ---
 Tags: #Radiologie #Lunge #Zeichen #Sign #Fleischner
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=HSWTHNlsLHM)
+

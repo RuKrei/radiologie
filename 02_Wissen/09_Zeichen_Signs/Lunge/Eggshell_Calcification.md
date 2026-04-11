@@ -1,7 +1,7 @@
-# Eggshell Calcification
+# [[Eggshell_Calcification|Eggshell Calcification]]
 
 ## Definition
-Schalenförmige Verkalkung der Peripherie von hilären/mediastinalen Lymphknoten. Typisch für Silikose (häufig) oder Sarkoidose (selten).
+Schalenförmige Verkalkung der Peripherie von hilären/mediastinalen Lymphknoten. Typisch für Silikose (häufig) oder [[Sarkoidose|Sarkoidose]] (selten).
 
 ## Radiologisches Erscheinungsbild
 
@@ -20,3 +20,7 @@ Schalenförmige Verkalkung der Peripherie von hilären/mediastinalen Lymphknoten
 
 ---
 Tags: #Radiologie #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=5NKEZs1cQ1o)
+

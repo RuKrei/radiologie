@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=8yoEuAtk8mU)
+
 # Quellen
 
 - [Radiopaedia Suche: Interventionelle Neuro Stents AVMs](https://radiopaedia.org/search?q=interventionelle+neuro+stents+avms)

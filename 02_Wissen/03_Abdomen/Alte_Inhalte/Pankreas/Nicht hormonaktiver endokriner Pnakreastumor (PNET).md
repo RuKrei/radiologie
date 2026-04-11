@@ -19,7 +19,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Nicht hormonaktive endokrine Pankreastumoren (PNET) sind eine heterogene Gruppe von Tumoren, die sich aus endokrinen Zellen entwickeln und keine spezifische hormonelle Symptomatik verursachen, da sie keine oder nur geringe Mengen an Hormonen ausschütten. Sie machen etwa 60 bis 90 Prozent aller PNET aus. Die Inzidenz steigt nach dem 40. Lebensjahr deutlich an, mit einem Altersgipfel zwischen 55 und 65 Jahren. Es besteht ein leichtes Überwiegen des männlichen Geschlechts. Die Mehrzahl der Tumoren tritt sporadisch auf, jedoch sind etwa 10 Prozent mit genetischen Syndromen assoziiert. Bei der Multiplen Endokrinen Neoplasie Typ 1 (MEN 1) sind nicht hormonaktive PNET die häufigsten Pankreastumoren und treten oft multipel auf. Auch bei der von-Hippel-Lindau-Erkrankung kommen sie in 10 bis 20 Prozent der Fälle vor. Da spezifische Symptome fehlen, werden diese Tumoren oft erst spät entdeckt, häufig durch Metastasen oder lokale Verdrängungserscheinungen. Zu den unspezifischen Symptomen zählen Schmerzen, Ikterus, Darmobstruktion und Gewichtsverlust.
+Nicht hormonaktive endokrine Pankreastumoren (PNET) sind eine heterogene Gruppe von [[Pankreas_2_Tumoren|Tumoren]], die sich aus endokrinen Zellen entwickeln und keine spezifische hormonelle Symptomatik verursachen, da sie keine oder nur geringe Mengen an Hormonen ausschütten. Sie machen etwa 60 bis 90 Prozent aller PNET aus. Die Inzidenz steigt nach dem 40. Lebensjahr deutlich an, mit einem Altersgipfel zwischen 55 und 65 Jahren. Es besteht ein leichtes Überwiegen des männlichen Geschlechts. Die Mehrzahl der [[Pankreas_2_Tumoren|Tumoren]] tritt sporadisch auf, jedoch sind etwa 10 Prozent mit genetischen Syndromen assoziiert. Bei der Multiplen Endokrinen Neoplasie Typ 1 (MEN 1) sind nicht hormonaktive PNET die häufigsten Pankreastumoren und treten oft multipel auf. Auch bei der von-Hippel-Lindau-Erkrankung kommen sie in 10 bis 20 Prozent der Fälle vor. Da spezifische Symptome fehlen, werden diese [[Pankreas_2_Tumoren|Tumoren]] oft erst spät entdeckt, häufig durch Metastasen oder lokale Verdrängungserscheinungen. Zu den unspezifischen Symptomen zählen Schmerzen, Ikterus, Darmobstruktion und Gewichtsverlust.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -86,7 +86,7 @@ Nicht hormonaktive endokrine Pankreastumoren (PNET) sind eine heterogene Gruppe 
 
 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Diffusionsgewichtete Sequenzen (DWI) können hilfreich sein, um maligne von nicht malignen Läsionen zu differenzieren und Lebermetastasen nachzuweisen.
+ Diffusionsgewichtete Sequenzen (DWI) können hilfreich sein, um [[Knochentumoren_2_Maligne|maligne]] von nicht malignen Läsionen zu differenzieren und [[Lebermetastasen|Lebermetastasen]] nachzuweisen.
 
 # Differenzialdiagnosen
 
@@ -99,12 +99,16 @@ Solider papillärer Tumor: Tritt überwiegend bei jungen Frauen auf, zeigt gut a
 
 Muzinöse zystische Neoplasie: Tritt fast ausschließlich bei Frauen um die 45 Jahre auf, ist meist besser abgegrenzt und weist manchmal Verkalkungen in der Zystenwand auf.
 
-Intrapankreatische Nebenmilz: Weist nativ und nach Kontrastmittelgabe die gleiche Dichte bzw. Signalintensität wie die Milz auf.
+Intrapankreatische Nebenmilz: Weist nativ und nach Kontrastmittelgabe die gleiche Dichte bzw. Signalintensität wie die [[Milz|Milz]] auf.
 
 # Alles andere
 
 
-Die PET/CT kann zur weiteren Charakterisierung eingesetzt werden. Gut differenzierte Tumoren sind im Octreotid-Scan positiv und im FDG-PET negativ, während schlecht differenzierte Tumoren ein umgekehrtes Verhalten zeigen. Die Therapie besteht in der chirurgischen Resektion, sofern möglich (z. B. Enukleation, Pankreaslinksresektion, Whipple-Operation). Bei fortgeschrittenen Befunden kommen interventionelle Verfahren wie Radiofrequenzablation oder transarterielle Chemoembolisation von Lebermetastasen in Betracht.
+Die PET/CT kann zur weiteren Charakterisierung eingesetzt werden. Gut differenzierte Tumoren sind im Octreotid-Scan positiv und im FDG-PET negativ, während schlecht differenzierte Tumoren ein umgekehrtes Verhalten zeigen. Die Therapie besteht in der chirurgischen Resektion, sofern möglich (z. B. Enukleation, Pankreaslinksresektion, Whipple-Operation). Bei fortgeschrittenen Befunden kommen interventionelle Verfahren wie Radiofrequenzablation oder transarterielle Chemoembolisation von [[Lebermetastasen|Lebermetastasen]] in Betracht.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=dDYaIsrRkTQ)
 
 # Quellen
 

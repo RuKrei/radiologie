@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Die Adenomyomatose der Gallenblase wird zu den hyperplastischen Cholezystosen gerechnet und ist eine idiopathische, nicht entzündliche und nicht tumoröse Verdickung der Gallenblasenwand. Histopathologisch liegt eine Hyperplasie der Mukosa und der Muskelschicht vor, wobei es zu intramuralen Divertikeln kommt, den sogenannten Rokitansky-Aschoff-Sinus. Die Inzidenz liegt bei etwa 2 bis 5 Prozent, in Cholezystektomieserien wird eine Prävalenz von bis zu 9 Prozent beschrieben. Der Altersgipfel liegt zwischen 40 und 50 Jahren, wobei die Erkrankung bei Kindern nicht auftritt. Im Gegensatz zu anderen Gallenblasenerkrankungen gibt es keine eindeutige Geschlechtspräferenz, Männer und Frauen sind etwa gleich häufig betroffen. Klinisch sind die meisten Patienten asymptomatisch und der Befund wird zufällig erhoben. Wenn Symptome auftreten, äußern sich diese meist als vage Schmerzen im rechten Oberbauch oder manchmal als lang anhaltende, kolikartige Schmerzen, die durch die Hypertrophie der Muskulatur bedingt sind.
+Die [[Adenomyomatose der Gallenblase|Adenomyomatose der Gallenblase]] wird zu den hyperplastischen Cholezystosen gerechnet und ist eine idiopathische, nicht entzündliche und nicht tumoröse Verdickung der Gallenblasenwand. Histopathologisch liegt eine Hyperplasie der Mukosa und der Muskelschicht vor, wobei es zu intramuralen Divertikeln kommt, den sogenannten Rokitansky-Aschoff-Sinus. Die Inzidenz liegt bei etwa 2 bis 5 Prozent, in Cholezystektomieserien wird eine Prävalenz von bis zu 9 Prozent beschrieben. Der Altersgipfel liegt zwischen 40 und 50 Jahren, wobei die Erkrankung bei Kindern nicht auftritt. Im Gegensatz zu anderen Gallenblasenerkrankungen gibt es keine eindeutige Geschlechtspräferenz, Männer und Frauen sind etwa gleich häufig betroffen. Klinisch sind die meisten Patienten asymptomatisch und der Befund wird zufällig erhoben. Wenn Symptome auftreten, äußern sich diese meist als vage Schmerzen im rechten Oberbauch oder manchmal als lang anhaltende, kolikartige Schmerzen, die durch die Hypertrophie der Muskulatur bedingt sind.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -31,7 +31,7 @@ Die Adenomyomatose der Gallenblase wird zu den hyperplastischen Cholezystosen ge
 ### Zu welchen morphologischen Veränderungen kommt es?
  Man unterscheidet drei Formen: die diffuse Form, die segmentale Form und die lokalisierte (fokale) Form. Die lokalisierte Form findet sich meist im Fundus (Fundusadenomyom) und kann wie ein Polyp imponieren. Die segmentale Form führt oft zu einer sanduhrförmigen Einschnürung der Gallenblase und einer Kompartimentierung. Die Außenkonturen der Gallenblase sind dabei in der Regel glatt. 
 ### Zu welchen Komplikationen kann es kommen?
- Bei der segmentalen Form besteht eine Assoziation mit Gallenblasensteinen. Obwohl die Adenomyomatose an sich kein präkanzeröser Zustand ist, kann sie schwierig von einem Gallenblasenkarzinom zu unterscheiden sein oder gleichzeitig mit diesem auftreten.
+ Bei der segmentalen Form besteht eine Assoziation mit Gallenblasensteinen. Obwohl die Adenomyomatose an sich kein präkanzeröser Zustand ist, kann sie schwierig von einem [[Gallenblasenkarzinom|Gallenblasenkarzinom]] zu unterscheiden sein oder gleichzeitig mit diesem auftreten.
 
 ## Sonografie
  
@@ -58,7 +58,7 @@ Die Adenomyomatose der Gallenblase wird zu den hyperplastischen Cholezystosen ge
 ### Was kann man nicht sehen?
  Die erweiterten Sinus sind in der CT oft nicht so gut zu differenzieren wie in der MRT. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Eine fokale Wandverdickung kann im CT morphologisch schwer von einem Gallenblasenkarzinom zu unterscheiden sein.
+ Eine fokale Wandverdickung kann im CT morphologisch schwer von einem [[Gallenblasenkarzinom|Gallenblasenkarzinom]] zu unterscheiden sein.
 
 ## MRT
  
@@ -72,9 +72,9 @@ Die Adenomyomatose der Gallenblase wird zu den hyperplastischen Cholezystosen ge
 # Differenzialdiagnosen
 
 
-Gallenblasenkarzinom: Zeigt meist eine irreguläre Wandverdickung, eine unscharfe Außenkontur mit Infiltration in das Lebergewebe und eine heterogene Kontrastmittelaufnahme, während die Adenomyomatose glatte Außenkonturen aufweist.
+[[Gallenblasenkarzinom|Gallenblasenkarzinom]]: Zeigt meist eine irreguläre Wandverdickung, eine unscharfe Außenkontur mit Infiltration in das Lebergewebe und eine heterogene Kontrastmittelaufnahme, während die Adenomyomatose glatte Außenkonturen aufweist.
 
-Chronische Cholezystitis: Geht in der Regel mit Gallenblasensteinen einher, zeigt aber keine intramuralen Divertikel (Rokitansky-Aschoff-Sinus).
+[[Chronische Cholezystitis|Chronische Cholezystitis]]: Geht in der Regel mit Gallenblasensteinen einher, zeigt aber keine intramuralen Divertikel (Rokitansky-Aschoff-Sinus).
 
 Gallenblasenpolypen (Cholesterolpolypen): Diese sind meist kleiner, ragen in das Lumen und zeigen keine intramuralen Zysten.
 
@@ -84,6 +84,10 @@ Varizen der Gallenblasenwand: Können eine Wandverdickung vortäuschen, sind abe
 
 
 Die Adenomyomatose gilt nicht als Präkanzerose. In der FDG-PET zeigt die Adenomyomatose im Gegensatz zum Gallenblasenkarzinom typischerweise keine Tracer-Anreicherung. Eine Therapie ist bei asymptomatischen Patienten in der Regel nicht notwendig; bei Beschwerden oder unklarem Bildbefund erfolgt eine Cholezystektomie.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=ynrhEu5kdio)
 
 # Quellen
 

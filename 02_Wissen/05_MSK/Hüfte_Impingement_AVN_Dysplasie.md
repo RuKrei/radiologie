@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=NfN8McOZn0M)
+
 # Quellen
 
 - [Radiopaedia Suche: Hüfte Impingement AVN Dysplasie](https://radiopaedia.org/search?q=hüfte+impingement+avn+dysplasie)

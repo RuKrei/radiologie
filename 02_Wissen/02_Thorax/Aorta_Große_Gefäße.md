@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=KP6zMMDeXsY)
+
 # Quellen
 
 - [Radiopaedia Suche: Aorta Große Gefäße](https://radiopaedia.org/search?q=aorta+große+gefäße)

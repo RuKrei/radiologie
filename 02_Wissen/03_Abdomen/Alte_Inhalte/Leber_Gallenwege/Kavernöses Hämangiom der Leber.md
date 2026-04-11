@@ -18,7 +18,7 @@ Tags:
 -----
 Wer? (Epidemiology und Symptome)
 
-Das kavernöse Hämangiom ist der häufigste benigne Tumor der Leber mit einer Prävalenz von etwa 5 bis 7 Prozent, wobei manche Quellen eine Spanne von 1 bis 20 Prozent angeben,. Es handelt sich um einen mesenchymalen Tumor, der in allen Altersstufen vorkommt, jedoch Frauen deutlich häufiger betrifft als Männer (Verhältnis 2:1 bis 5:1), da das Wachstum östrogen- und progesteroninduziert sein kann,,. In der Regel handelt es sich um einen asymptomatischen Zufallsbefund,. Bei sehr großen Hämangiomen (über 10 cm, sogenannte Riesenhämangiome) können ein Druckgefühl, epigastrische Beschwerden oder Völlegefühl auftreten,. Eine maligne Entartung findet nicht statt.
+Das kavernöse Hämangiom ist der häufigste benigne Tumor der Leber mit einer Prävalenz von etwa 5 bis 7 Prozent, wobei manche Quellen eine Spanne von 1 bis 20 Prozent angeben,. Es handelt sich um einen mesenchymalen Tumor, der in allen Altersstufen vorkommt, jedoch Frauen deutlich häufiger betrifft als Männer (Verhältnis 2:1 bis 5:1), da das Wachstum östrogen- und progesteroninduziert sein kann,,. In der Regel handelt es sich um einen asymptomatischen Zufallsbefund,. Bei sehr großen Hämangiomen (über 10 cm, sogenannte Riesenhämangiome) können ein Druckgefühl, epigastrische Beschwerden oder Völlegefühl auftreten,. Eine [[Knochentumoren_2_Maligne|maligne]] Entartung findet nicht statt.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -61,14 +61,14 @@ Das kavernöse Hämangiom ist der häufigste benigne Tumor der Leber mit einer P
 ### Was kann man nicht sehen?
  Nach Gabe eines hepatobiliären Kontrastmittels (z. B. Gd-EOB-DTPA) erscheint das Hämangiom in der späten hepatobiliären Phase (nach 1 Stunde) hypointens, da es keine Hepatozyten enthält. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- In der Diffusionsbildgebung (DWI) können Hämangiome bei hohen b-Werten hyperintens erscheinen, weisen aber auf der ADC-Map aufgrund des langsam fließenden Blutes ein hypointenses Signal auf; dies kann mit zellreichen Tumoren verwechselt werden, weshalb konventionelle Sequenzen zur Differenzierung hinzugezogen werden müssen.
+ In der Diffusionsbildgebung (DWI) können Hämangiome bei hohen b-Werten hyperintens erscheinen, weisen aber auf der ADC-Map aufgrund des langsam fließenden Blutes ein hypointenses Signal auf; dies kann mit zellreichen [[Pankreas_2_Tumoren|Tumoren]] verwechselt werden, weshalb konventionelle Sequenzen zur Differenzierung hinzugezogen werden müssen.
 
 # Differenzialdiagnosen
 
 
 Fokal noduläre Hyperplasie (FNH): Kann insbesondere bei kleinen Läsionen ähnlich aussehen, zeigt aber meist eine zentrale Narbe und nimmt in der späten Phase hepatobiliäre Kontrastmittel auf.
 
-Leberzelladenom: Zeigt keine zentrale Narbe, ist sonografisch meist nicht so echoreich und weist ein anderes Kontrastmittelverhalten auf (Washout).
+[[Leberzelladenom|Leberzelladenom]]: Zeigt keine zentrale Narbe, ist sonografisch meist nicht so echoreich und weist ein anderes Kontrastmittelverhalten auf (Washout).
 
 Hepatozelluläres Karzinom (HCC): Findet sich meist in zirrhotischer Leber, zeigt eine rasche Auswaschung des Kontrastmittels (Washout) und geht oft mit erhöhtem Alpha-Fetoprotein einher.
 
@@ -78,6 +78,10 @@ Hypervaskularisierte Metastasen: Treten meist multipel auf, sind oft kleiner und
 
 
 Leberhämangiome können während einer Schwangerschaft an Größe zunehmen. Eine Therapie (Embolisation oder Resektion) ist nur bei Symptomen oder Komplikationen indiziert. Ein typischer Fehler in der Diagnostik ist eine Überdiagnostik (zu viel Diagnostik) bei diesem häufigen benignen Befund.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=d5HYNPHj9QE)
 
 # Quellen
 

@@ -19,7 +19,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Morbus Crohn ist eine chronisch fortschreitende, transmurale Entzündung des Gastrointestinaltrakts, die schubweise verläuft und durch die Entwicklung von Komplikationen charakterisiert ist. Die Erkrankung kann den gesamten Verdauungstrakt von der Mundschleimhaut bis zum Anus befallen, wobei die Erstmanifestation häufig eine Ileitis terminalis ist. Die Inzidenz liegt bei etwa 3 bis 6 Fällen pro 100000 Einwohner und Jahr, wobei ein Nord-Süd-Gefälle mit höheren Raten in skandinavischen Ländern besteht,. Es gibt zwei Altersgipfel für die Erstmanifestation: zwischen 15 und 30 Jahren sowie zwischen 55 und 65 Jahren,. Frauen sind geringfügig häufiger betroffen als Männer,. Zu den Risikofaktoren zählen eine genetische Disposition, Nikotinabusus (vierfach erhöhtes Risiko) und eine vorangegangene Appendektomie,. Das Leitsymptom sind abdominale Schmerzen, oft im rechten Unterbauch, begleitet von blutig-schleimigen Durchfällen, Fieber und Gewichtsverlust,. Extraintestinale Manifestationen wie Arthritis, Uveitis, Erythema nodosum oder primär sklerosierende Cholangitis können auftreten.
+[[Morbus Crohn|Morbus Crohn]] ist eine chronisch fortschreitende, transmurale Entzündung des Gastrointestinaltrakts, die schubweise verläuft und durch die Entwicklung von Komplikationen charakterisiert ist. Die Erkrankung kann den gesamten Verdauungstrakt von der Mundschleimhaut bis zum Anus befallen, wobei die Erstmanifestation häufig eine Ileitis terminalis ist. Die Inzidenz liegt bei etwa 3 bis 6 Fällen pro 100000 Einwohner und Jahr, wobei ein Nord-Süd-Gefälle mit höheren Raten in skandinavischen Ländern besteht,. Es gibt zwei Altersgipfel für die Erstmanifestation: zwischen 15 und 30 Jahren sowie zwischen 55 und 65 Jahren,. Frauen sind geringfügig häufiger betroffen als Männer,. Zu den Risikofaktoren zählen eine genetische Disposition, Nikotinabusus (vierfach erhöhtes Risiko) und eine vorangegangene Appendektomie,. Das Leitsymptom sind abdominale Schmerzen, oft im rechten Unterbauch, begleitet von blutig-schleimigen Durchfällen, Fieber und Gewichtsverlust,. Extraintestinale Manifestationen wie Arthritis, Uveitis, Erythema nodosum oder primär sklerosierende Cholangitis können auftreten.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -30,7 +30,7 @@ Morbus Crohn ist eine chronisch fortschreitende, transmurale Entzündung des Gas
 ### Zu welchen morphologischen Veränderungen kommt es?
  Charakteristisch sind eine verdickte Darmwand (über 3 bis 4 mm), ein Pflastersteinrelief der Schleimhaut durch Längs- und Querulzera sowie der Verlust der Haustrierung. Im Mesenterium findet sich eine fibrös-fettige Proliferation, bekannt als Creeping Fat, sowie eine Betonung der Vasa recta, das sogenannte Kammzeichen (comb sign),. 
 ### Zu welchen Komplikationen kann es kommen?
- Aufgrund der transmuralen Entzündung neigt die Erkrankung zur Bildung von Fisteln (zu Darm, Blase, Vagina oder Haut) und Abszessen,. Weitere Komplikationen sind Strikturen, die zu einem Ileus führen können, Perforationen, toxisches Megakolon und langfristig ein erhöhtes Karzinomrisiko,.
+ Aufgrund der transmuralen Entzündung neigt die Erkrankung zur Bildung von Fisteln (zu Darm, Blase, Vagina oder Haut) und Abszessen,. Weitere Komplikationen sind Strikturen, die zu einem [[Ileus|Ileus]] führen können, Perforationen, toxisches Megakolon und langfristig ein erhöhtes Karzinomrisiko,.
 
 ## Sonografie
  
@@ -44,7 +44,7 @@ Morbus Crohn ist eine chronisch fortschreitende, transmurale Entzündung des Gas
 ## Röntgen
  
 ### Was sieht man korrelierend in dieser Methode?
- Im konventionellen Röntgenbild können Komplikationen wie ein Ileus (Spiegelbildungen), freie Luft bei Perforation oder ein toxisches Megakolon (Dilatation über 6 cm) erkannt werden. Kontrastmitteluntersuchungen (Enteroklysma) zeigen Schleimhautunregelmäßigkeiten, Pflastersteinrelief, Fisteln und Strikturen (string sign),. 
+ Im konventionellen Röntgenbild können Komplikationen wie ein [[Ileus|Ileus]] (Spiegelbildungen), freie Luft bei Perforation oder ein toxisches Megakolon (Dilatation über 6 cm) erkannt werden. Kontrastmitteluntersuchungen (Enteroklysma) zeigen Schleimhautunregelmäßigkeiten, Pflastersteinrelief, Fisteln und Strikturen ([[String_Sign|string sign]]),. 
 ### Was kann man nicht sehen?
  Die Beurteilung der extraluminalen Ausbreitung und der Wandschichten ist nicht möglich. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
@@ -53,11 +53,11 @@ Morbus Crohn ist eine chronisch fortschreitende, transmurale Entzündung des Gas
 ## CT
  
 ### Was sieht man korrelierend in dieser Methode?
- Die CT zeigt verdickte Darmwände, die im floriden Stadium eine kräftige Kontrastmittelaufnahme und eine Dreischichtung (Target Sign) aufweisen. Das Comb Sign (prominente Vasa recta) und das Creeping Fat sind gut darstellbar. Abszesse, Fisteln und Konglomerattumoren lassen sich exakt lokalisieren. Im chronischen Stadium zeigt sich oft das Fat Halo Sign, eine fettige Einlagerung in der Submukosa,. 
+ Die CT zeigt verdickte Darmwände, die im floriden Stadium eine kräftige Kontrastmittelaufnahme und eine Dreischichtung ([[Target_Sign|Target Sign]]) aufweisen. Das Comb Sign (prominente Vasa recta) und das Creeping Fat sind gut darstellbar. Abszesse, Fisteln und Konglomerattumoren lassen sich exakt lokalisieren. Im chronischen Stadium zeigt sich oft das Fat [[Halo_Sign|Halo Sign]], eine fettige Einlagerung in der Submukosa,. 
 ### Was kann man nicht sehen?
  Frühe Schleimhautveränderungen wie aphtöse Erosionen sind der CT oft nicht zugänglich. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Das Small Bowel Feces Sign (Stuhl im Dünndarm) kann ein Hinweis auf eine chronische Obstruktion sein. Die CT ist besonders bei akuten Komplikationen wie Abszessen indiziert.
+ Das Small Bowel Feces Sign (Stuhl im [[Dünndarm|Dünndarm]]) kann ein Hinweis auf eine chronische Obstruktion sein. Die CT ist besonders bei akuten Komplikationen wie Abszessen indiziert.
 
 ## MRT
  
@@ -71,13 +71,13 @@ Morbus Crohn ist eine chronisch fortschreitende, transmurale Entzündung des Gas
 # Differenzialdiagnosen
 
 
-Colitis ulcerosa: Befällt den Dickdarm kontinuierlich von rektal aufsteigend, beschränkt sich auf die Mukosa und zeigt keine Fisteln oder Dünndarmbefall (außer Backwash-Ileitis).
+[[Colitis ulcerosa|Colitis ulcerosa]]: Befällt den Dickdarm kontinuierlich von rektal aufsteigend, beschränkt sich auf die Mukosa und zeigt keine Fisteln oder Dünndarmbefall (außer Backwash-Ileitis).
 
 Appendizitis: Weist eine kurze Anamnese auf und betrifft primär die Appendix.
 
 Ischämische Kolitis: Betrifft meist ältere Patienten und zeigt ein Gefäßverteilungsmuster mit verminderter Wandperfusion.
 
-Infektiöse Enteritis: Yersinien und Tuberkulose können den Befall des terminalen Ileums und Zäkums beim Morbus Crohn imitieren,.
+Infektiöse Enteritis: Yersinien und Tuberkulose können den Befall des terminalen Ileums und Zäkums beim [[Morbus Crohn|Morbus Crohn]] imitieren,.
 
 Lymphom: Kann zu verdickten Darmwänden und aneurysmatischer Dilatation führen, zeigt oft große mesenteriale Lymphknoten.
 
@@ -85,6 +85,10 @@ Lymphom: Kann zu verdickten Darmwänden und aneurysmatischer Dilatation führen,
 
 
 Die Therapie ist primär medikamentös und zielt auf Remission ab. Eine Operation ist in der Regel nur bei Komplikationen wie Stenosen, Fisteln, Abszessen oder Perforation indiziert. Es gilt das Prinzip der darmsparenden Resektion, da Rezidive häufig sind. Abszesse können oft interventionell drainiert werden, um eine Operation in ein elektives Stadium zu verschieben.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=NOka2RbawLY)
 
 # Quellen
 

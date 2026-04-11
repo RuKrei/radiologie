@@ -38,6 +38,10 @@ Unterscheidung ist wichtig für die Handelsentscheidung:
 *   **Delta:** Delta geht gegen Null.
 *   **Unfinished Auction:** Oft KEINE Unfinished Auction, sondern ein sauberes "Tapering" (Volumen wird zur Spitze hin immer dünner).
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=StDe7LpvNNo)
+
 # Quellen
 
 - [Radiopaedia Suche: 04 Absorption Exhaustion](https://radiopaedia.org/search?q=04+absorption+exhaustion)

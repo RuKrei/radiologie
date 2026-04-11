@@ -1,4 +1,4 @@
-# Golden S Sign
+# [[Golden_S_Sign|Golden S Sign]]
 
 ## Definition
 S-förmige Konfiguration der Fissur bei Oberlappenatelektase durch eine zentrale Raumforderung.
@@ -21,3 +21,7 @@ S-förmige Konfiguration der Fissur bei Oberlappenatelektase durch eine zentrale
 
 ---
 Tags: #Radiologie #Thorax #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=u7Ge-uNFdrk)
+

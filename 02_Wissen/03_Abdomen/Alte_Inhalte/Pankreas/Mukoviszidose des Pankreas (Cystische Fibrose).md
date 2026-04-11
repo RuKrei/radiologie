@@ -94,7 +94,7 @@ Die Mukoviszidose (zystische Fibrose) ist die häufigste tödlich verlaufende he
 
 Lipomatose des Pankreas: Tritt meist bei adipösen Patienten oder Diabetikern auf und geht nicht mit pulmonalen Manifestationen einher.
 
-Chronische Pankreatitis: Zeigt typischerweise einen erweiterten Pankreasgang mit Verkalkungen und eine Atrophie, jedoch keinen vollständigen Ersatz durch Fettgewebe. Die Pseudozysten sind eher groß.
+[[Chronische Pankreatitis|Chronische Pankreatitis]]: Zeigt typischerweise einen erweiterten Pankreasgang mit Verkalkungen und eine Atrophie, jedoch keinen vollständigen Ersatz durch Fettgewebe. Die Pseudozysten sind eher groß.
 
 Intraduktale papillär-muzinöse Neoplasie (IPMN): Geht mit erweiterten Pankreasgängen und Atrophie einher, zeigt aber keine Verfettung und tritt in der Regel in höherem Alter (über 30 bis 40 Jahre) auf.
 
@@ -104,6 +104,10 @@ Shwachman-Diamond-Syndrom: Eine seltene Erkrankung, bei der das Pankreas bis zur
 
 
 Der Schweißtest gilt als die zuverlässigste Methode zum Nachweis der Erkrankung. Eine pränatale Diagnose ist möglich.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=cyz7xfQ4jUA)
 
 # Quellen
 

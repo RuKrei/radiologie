@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=4kXW4MhMxns)
+
 # Quellen
 
 - [Radiopaedia Suche: Schlaganfall 1 Ischämie](https://radiopaedia.org/search?q=schlaganfall+1+ischämie)

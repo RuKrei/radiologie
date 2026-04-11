@@ -20,18 +20,18 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Hiatushernien werden anhand der Verlagerung von Magenanteilen durch den Hiatus oesophageus in das Mediastinum in vier Typen unterteilt: Typ I (axiale Gleithernie), Typ II (paraösophageale Hernie), Typ III (Mischtyp) und Typ IV (Komplettverlagerung des Magens, Upside-down-Stomach),. Die axiale Hiatushernie ist sehr häufig und findet sich bei über 50 Prozent der Personen über 60 Jahre,. Die Prävalenz nimmt mit dem Alter zu und Frauen sind häufiger betroffen als Männer,. Zu den prädisponierenden Faktoren zählen ein erhöhter intraabdominaler Druck (z. B. Adipositas, Schwangerschaft), eine Bindegewebsschwäche der phrenoösophagealen Membran oder Defekte der Zwerchfelllücke,. Klinisch sind axiale Hernien oft asymptomatisch oder mit einer gastroösophagealen Refluxkrankheit (GERD) assoziiert,. Paraösophageale Hernien verursachen häufiger Symptome wie retrosternales Druckgefühl, Aufstoßen und Dysphagie und bergen das Risiko von Komplikationen wie Ulzerationen, chronischen Blutungen, Obstruktion oder Volvulus,.
+[[Hiatushernien|Hiatushernien]] werden anhand der Verlagerung von Magenanteilen durch den Hiatus oesophageus in das [[Mediastinum|Mediastinum]] in vier Typen unterteilt: Typ I (axiale Gleithernie), Typ II (paraösophageale Hernie), Typ III (Mischtyp) und Typ IV (Komplettverlagerung des Magens, Upside-down-Stomach),. Die axiale [[Hiatushernie|Hiatushernie]] ist sehr häufig und findet sich bei über 50 Prozent der Personen über 60 Jahre,. Die Prävalenz nimmt mit dem Alter zu und Frauen sind häufiger betroffen als Männer,. Zu den prädisponierenden Faktoren zählen ein erhöhter intraabdominaler Druck (z. B. Adipositas, Schwangerschaft), eine Bindegewebsschwäche der phrenoösophagealen Membran oder Defekte der Zwerchfelllücke,. Klinisch sind axiale Hernien oft asymptomatisch oder mit einer gastroösophagealen Refluxkrankheit (GERD) assoziiert,. Paraösophageale Hernien verursachen häufiger Symptome wie retrosternales Druckgefühl, Aufstoßen und Dysphagie und bergen das Risiko von Komplikationen wie Ulzerationen, chronischen Blutungen, Obstruktion oder Volvulus,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
 ## Allgemeines (auf alle Methoden anwendbar)
  
 ### Zu welchen pathologischen Veränderungen kommt es?
- Es kommt zu einer Verlagerung von Magenanteilen in den Thoraxraum. Beim Typ I verlagert sich die Kardia axial nach intrathorakal,. Beim Typ II verbleibt die Kardia in regelrechter Position, während der Magenfundus neben dem Ösophagus in den Thorax herniert,. Typ III stellt eine Mischform dar, und Typ IV bezeichnet die Verlagerung des gesamten Magens (Thoraxmagen), oft verbunden mit einer Rotation (Volvulus),,. 
+ Es kommt zu einer Verlagerung von Magenanteilen in den Thoraxraum. Beim Typ I verlagert sich die Kardia axial nach intrathorakal,. Beim Typ II verbleibt die Kardia in regelrechter Position, während der Magenfundus neben dem [[Ösophagus|Ösophagus]] in den Thorax herniert,. Typ III stellt eine Mischform dar, und Typ IV bezeichnet die Verlagerung des gesamten Magens (Thoraxmagen), oft verbunden mit einer Rotation (Volvulus),,. 
 ### Zu welchen morphologischen Veränderungen kommt es?
  Der Hiatus oesophageus ist oft pathologisch erweitert, teilweise auf 3 bis 4 cm,. Bei paraösophagealen Hernien können auch Teile des Omentums mit hernieren. 
 ### Zu welchen Komplikationen kann es kommen?
- Mögliche Komplikationen sind Magenvolvulus (mesenteroaxial oder organoaxial), Inkarzeration, Ischämie oder Perforation,.
+ Mögliche Komplikationen sind Magenvolvulus (mesenteroaxial oder organoaxial), Inkarzeration, [[Schlaganfall_1_Ischämie|Ischämie]] oder Perforation,.
 
 ## Sonografie
  
@@ -41,7 +41,7 @@ Hiatushernien werden anhand der Verlagerung von Magenanteilen durch den Hiatus o
 ## Röntgen
  
 ### Was sieht man korrelierend in dieser Methode?
- Im Röntgen-Thorax zeigt sich meist eine luftgefüllte Höhle mit oder ohne Spiegelbildung retrokardial oder neben dem Ösophagus. Im Ösophagus-Breischluck lassen sich die Hernientypen differenzieren: Bei der axialen Hernie liegen die Magenfalten oberhalb des Zwerchfells, bei der paraösophagealen Hernie projiziert sich der herniierte Magenfundus oft anterior des Ösophagus, während die Kardia subdiaphragmal verbleibt,. 
+ Im Röntgen-Thorax zeigt sich meist eine luftgefüllte Höhle mit oder ohne Spiegelbildung retrokardial oder neben dem [[Ösophagus|Ösophagus]]. Im [[Ösophagus|Ösophagus]]-Breischluck lassen sich die Hernientypen differenzieren: Bei der axialen Hernie liegen die Magenfalten oberhalb des Zwerchfells, bei der paraösophagealen Hernie projiziert sich der herniierte Magenfundus oft anterior des Ösophagus, während die Kardia subdiaphragmal verbleibt,. 
 ### Was kann man nicht sehen?
  Die Beurteilung der Wanddicke und extraluminaler Strukturen ist eingeschränkt. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
@@ -50,11 +50,11 @@ Hiatushernien werden anhand der Verlagerung von Magenanteilen durch den Hiatus o
 ## CT
  
 ### Was sieht man korrelierend in dieser Methode?
- Die CT zeigt die Dehiszenz des Zwerchfells (oft über 15 mm) und die Verlagerung von Magenanteilen sowie ggf. von Omentum oder anderen Organen (z. B. Pankreas) in das Mediastinum,. Koronare und sagittale Rekonstruktionen eignen sich besonders gut zur Darstellung eines Upside-down-Magens. 
+ Die CT zeigt die Dehiszenz des Zwerchfells (oft über 15 mm) und die Verlagerung von Magenanteilen sowie ggf. von Omentum oder anderen Organen (z. B. Pankreas) in das [[Mediastinum|Mediastinum]],. Koronare und sagittale Rekonstruktionen eignen sich besonders gut zur Darstellung eines Upside-down-Magens. 
 ### Was kann man nicht sehen?
  Funktionelle Aspekte wie die Reversibilität sind schlechter als in der Durchleuchtung zu beurteilen. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Ein kollabierter herniierter Magenanteil kann im CT eine Raumforderung des distalen Ösophagus vortäuschen. Mediastinaler Aszites kann bei Patienten mit Hiatushernie und Aszites vorkommen, wobei Flüssigkeit um den hernierten Magen im hinteren Mediastinum sichtbar wird.
+ Ein kollabierter herniierter Magenanteil kann im CT eine Raumforderung des distalen Ösophagus vortäuschen. Mediastinaler Aszites kann bei Patienten mit [[Hiatushernie|Hiatushernie]] und Aszites vorkommen, wobei Flüssigkeit um den hernierten Magen im hinteren [[Mediastinum|Mediastinum]] sichtbar wird.
 
 ## MRT
  
@@ -66,7 +66,7 @@ Hiatushernien werden anhand der Verlagerung von Magenanteilen durch den Hiatus o
 # Differenzialdiagnosen
 
 
-Epiphrenisches Divertikel: Eine Aussackung des distalen Ösophagus, die meist rechtsseitig liegt; im Gegensatz zur Hiatushernie fehlen Magenfalten im Divertikel, die Wand ist dünn, und der Ösophagushiatus ist nicht erweitert,.
+Epiphrenisches Divertikel: Eine Aussackung des distalen Ösophagus, die meist rechtsseitig liegt; im Gegensatz zur [[Hiatushernie|Hiatushernie]] fehlen Magenfalten im Divertikel, die Wand ist dünn, und der Ösophagushiatus ist nicht erweitert,.
 
 Relaxation oder Eventration des Zwerchfells: Kann im Röntgenbild ähnlich aussehen, zeigt aber in der Schnittbildgebung keine Hernierung durch den Hiatus.
 
@@ -82,6 +82,10 @@ Bronchogene Zysten: Enthalten keine Luft (außer bei Infektion/Fistel) und haben
 
 
 Die Unterscheidung zwischen Typ I und Typ II/III ist entscheidend für die Therapie: Während axiale Hernien per se keine Operationsindikation darstellen, besteht bei paraösophagealen Hernien aufgrund des Risikos für Volvulus und Inkarzeration oft eine Operationsindikation,. Ein Magenvolvulus kann als Komplikation auftreten, wobei der Magen um seine Längsachse (organoaxial) oder um die Mesenterialachse (mesenteroaxial) rotiert.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Vj7rlCbyEdE)
 
 # Quellen
 

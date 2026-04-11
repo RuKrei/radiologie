@@ -1,4 +1,4 @@
-# Bone in Bone Sign
+# [[Bone_in_Bone_Sign|Bone in Bone Sign]]
 
 ## Definition
 Erscheinungsbild eines Knochens innerhalb eines Knochens. Typisch für Osteopetrose, kann aber auch nach Thorium-Gabe oder in Erholungsphasen nach Wachstumsstopp auftreten.
@@ -15,3 +15,7 @@ Erscheinungsbild eines Knochens innerhalb eines Knochens. Typisch für Osteopetr
 
 ---
 Tags: #Radiologie #Muskuloskelettal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=fhBPtnG-KRk)
+

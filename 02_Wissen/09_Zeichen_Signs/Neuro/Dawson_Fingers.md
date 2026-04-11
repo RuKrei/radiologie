@@ -1,4 +1,4 @@
-# Dawson Fingers
+# [[Dawson_Fingers|Dawson Fingers]]
 
 ## Definition
 Ovoide, periventrikuläre Läsionen senkrecht zum Ventrikel (T2/FLAIR), typisch für MS.
@@ -15,3 +15,7 @@ Ovoide, periventrikuläre Läsionen senkrecht zum Ventrikel (T2/FLAIR), typisch 
 
 ---
 Tags: #Radiologie #Neuro #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=_NbDBmClXTU)
+

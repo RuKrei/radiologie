@@ -10,11 +10,11 @@ Zuletzt bearbeitet: 2026-02-25
 Zuletzt gelesen: 2026-02-25
 Tags: 
 -----
-# Akute Cholezystitis
+# [[Akute Cholezystitis|Akute Cholezystitis]]
 
 # Wer? (Epidemiologie und Symptome)
 Typischer Patient: "Female, Forty, Fat, Fertile" (4F-Regel). Häufigkeitsgipfel bei Frauen >40 Jahren.
-Klinik: Akute, anhaltende Schmerzen im rechten Oberbauch (oft Ausstrahlung in die rechte Schulter/Skapula), Fieber, Übelkeit, Erbrechen.
+Klinik: Akute, anhaltende Schmerzen im rechten Oberbauch (oft Ausstrahlung in die rechte [[schulter|Schulter]]/Skapula), Fieber, Übelkeit, Erbrechen.
 Klinisches Leitsymptom: Positives Murphy-Zeichen (inspiratorischer Schmerzstopp bei Palpation unter dem rechten Rippenbogen).
 Labor: Leukozytose, CRP-Erhöhung, evtl. leichte Cholestaseparameter.
 
@@ -22,8 +22,8 @@ Labor: Leukozytose, CRP-Erhöhung, evtl. leichte Cholestaseparameter.
 
 ## Allgemeines (auf alle Methoden anwendbar)
 ### Zu welchen pathologischen Veränderungen kommt es?
-Ursache ist in >90% eine Obstruktion des Ductus cysticus oder des Gallenblasenhalses durch ein Konkrement (Steincholezystitis). Dies führt zu Stase, Distension, venöser Stauung und schließlich Ischämie der Gallenblasenwand mit sekundärer bakterieller Besiedlung (E. coli, Klebsiella, Enterokokken).
-Seltene Form: Akalkulöse Cholezystitis (bei kritisch Kranken, Sepsis, Polytrauma) durch Ischämie/Stase ohne Stein.
+Ursache ist in >90% eine Obstruktion des Ductus cysticus oder des Gallenblasenhalses durch ein Konkrement (Steincholezystitis). Dies führt zu Stase, Distension, venöser Stauung und schließlich [[Schlaganfall_1_Ischämie|Ischämie]] der Gallenblasenwand mit sekundärer bakterieller Besiedlung (E. coli, Klebsiella, Enterokokken).
+Seltene Form: Akalkulöse Cholezystitis (bei kritisch Kranken, Sepsis, Polytrauma) durch [[Schlaganfall_1_Ischämie|Ischämie]]/Stase ohne Stein.
 
 ### Zu welchen morphologischen Veränderungen kommt es?
 Ödematöse Wandverdickung, Hyperämie, fibrinöse Exsudate, im Verlauf Nekrose und Ulzeration der Mukosa.
@@ -48,7 +48,7 @@ Methode der ersten Wahl!
 Eingeschränkte Beurteilbarkeit bei Adipositas oder Meteorismus. Distaler Ductus choledochus oft durch Gas überlagert (Steinausschluss schwierig).
 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
-Wandverdickung ist unspezifisch! DD: Aszites, Rechtsherzinsuffizienz, Hypoalbuminämie, Hepatitis, postprandialer Zustand.
+Wandverdickung ist unspezifisch! DD: Aszites, [[Rechtsherzinsuffizienz|Rechtsherzinsuffizienz]], Hypoalbuminämie, Hepatitis, postprandialer Zustand.
 Gangränöse Cholezystitis: Murphy-Zeichen kann negativ sein (Nervenschaden)!
 
 ## Röntgen
@@ -82,7 +82,7 @@ Komplikationen wie Abszesse in der Leber oder subhepatisch. Pfortaderthrombose (
 
 ## MRT
 ### Was sieht man korrelierend in dieser Methode?
-Einsatz meist bei Schwangeren oder unklaren Fällen (MRCP zum Ausschluss Choledocholithiasis).
+Einsatz meist bei Schwangeren oder unklaren Fällen (MRCP zum Ausschluss [[Choledocholithiasis|Choledocholithiasis]]).
 - Steine: Signalauslöschung (schwarz) in T2-w Flüssigkeit.
 - Wandödem: T2-hyperintens.
 - Pericholezystische Flüssigkeit/Fettgewebsödem: T2-hyperintens.
@@ -110,6 +110,10 @@ Schweregrad-Einteilung nach [Tokyo Guidelines (TG18)](https://radiopaedia.org/ar
 Therapie:
 - Frühzeitige laparoskopische Cholezystektomie (Goldstandard).
 - Bei Hochrisikopatienten (nicht operationsfähig): Perkutane Cholezystostomie (Drainage).
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=_KOy7dD_zvU)
 
 # Quellen
 - [Acute cholecystitis](https://radiopaedia.org/articles/acute-cholecystitis)

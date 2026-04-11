@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=K3qA4jvFqqQ)
+
 # Quellen
 
 - [Radiopaedia Suche: Wirbelsäule 1 Degenerativ](https://radiopaedia.org/search?q=wirbelsäule+1+degenerativ)

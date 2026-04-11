@@ -28,11 +28,11 @@ Das Ulcus ventriculi (Magengeschwür) und das Ulcus duodeni (Zwölffingerdarmges
 ## Allgemeines (auf alle Methoden anwendbar)
  
 ### Zu welchen pathologischen Veränderungen kommt es?
- Es liegt ein Substanzdefekt der Magen- oder Duodenalwand vor. Beim Ulcus ventriculi sind 95 Prozent benigne und 5 Prozent maligne; benigne Ulzera liegen meist an der kleinen Kurvatur oder der Hinterwand, während maligne Ulzera häufiger an der großen Kurvatur zu finden sind. Das Ulcus duodeni ist fast immer benigne und befindet sich meist im Bulbus duodeni (Vorderwand). 
+ Es liegt ein Substanzdefekt der Magen- oder Duodenalwand vor. Beim Ulcus ventriculi sind 95 Prozent benigne und 5 Prozent [[Knochentumoren_2_Maligne|maligne]]; benigne Ulzera liegen meist an der kleinen Kurvatur oder der Hinterwand, während [[Knochentumoren_2_Maligne|maligne]] Ulzera häufiger an der großen Kurvatur zu finden sind. Das Ulcus duodeni ist fast immer benigne und befindet sich meist im Bulbus duodeni (Vorderwand). 
 ### Zu welchen morphologischen Veränderungen kommt es?
  Morphologisch zeigt sich eine Kraterbildung. Bei Abheilung kann es zu Narbenbildungen kommen, die Deformierungen (z. B. Kleeblatt-Bulbus) oder Stenosen verursachen. 
 ### Zu welchen Komplikationen kann es kommen?
- Es kann zu Blutungen, Perforationen mit freier Luft im Abdomen oder Retroperitoneum sowie zur Penetration in Nachbarorgane (z. B. Pankreas, Leber) kommen.
+ Es kann zu Blutungen, Perforationen mit freier Luft im Abdomen oder [[Retroperitoneum|Retroperitoneum]] sowie zur Penetration in Nachbarorgane (z. B. Pankreas, Leber) kommen.
 
 ## Sonografie
  
@@ -60,18 +60,18 @@ Das Ulcus ventriculi (Magengeschwür) und das Ulcus duodeni (Zwölffingerdarmges
 ## MRT
  
 ### Was sieht man korrelierend in dieser Methode?
- Die MRT ist kein Standardverfahren für die Primärdiagnostik der Ulkuskrankheit, kann aber im Rahmen der Tumordiagnostik (Magenkarzinom) Wandverdickungen und Infiltrationen darstellen.
+ Die MRT ist kein Standardverfahren für die Primärdiagnostik der Ulkuskrankheit, kann aber im Rahmen der Tumordiagnostik ([[Magenkarzinom|Magenkarzinom]]) Wandverdickungen und Infiltrationen darstellen.
 
 # Differenzialdiagnosen
 
 
-Magenkarzinom: Kann als malignes Ulkus imponieren; zeigt oft irreguläre Wandverdickungen, abgebrochene Falten und Infiltration der Umgebung.
+[[Magenkarzinom|Magenkarzinom]]: Kann als malignes Ulkus imponieren; zeigt oft irreguläre Wandverdickungen, abgebrochene Falten und Infiltration der Umgebung.
 
 Gastrointestinaler Stromatumor (GIST): Kann zentral ulzerieren (Bull's Eye-Läsion) und als submuköse Raumforderung imponieren.
 
 Lymphom: Kann zu verdickten Magenfalten und Ulzerationen führen; oft multiple Lokalisationen.
 
-Divertikel: Magen- oder Duodenaldivertikel können als Aussackungen imponieren, weisen aber meist eine glatte Begrenzung und typische Lokalisationen (z. B. medial am Duodenum) auf.
+Divertikel: Magen- oder [[Duodenaldivertikel|Duodenaldivertikel]] können als Aussackungen imponieren, weisen aber meist eine glatte Begrenzung und typische Lokalisationen (z. B. medial am Duodenum) auf.
 
 Gastritis: Führt zu diffuser Wandverdickung und Faltenvergröberung ohne umschriebenen tiefen Defekt.
 
@@ -79,6 +79,10 @@ Gastritis: Führt zu diffuser Wandverdickung und Faltenvergröberung ohne umschr
 
 
 Ein "Riesenulkus" (Giant Ulcer) ist definiert als Ulkus größer als 2 cm (im Duodenum) und birgt ein höheres Risiko für Blutungen und Perforationen. Das Zollinger-Ellison-Syndrom (Gastrinom) führt zu multiplen, oft atypisch gelegenen Ulzera (z. B. im distalen Duodenum oder Jejunum) und ausgeprägter Faltenverdickung. Ein Ulkus im Pyloruskanal (Dragstead-Ulkus) kann das "Double Pyloric Channel"-Zeichen erzeugen. Bei Verdacht auf Perforation ist Bariumsulfat kontraindiziert.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=LWKqT-pfN6E)
 
 # Quellen
 

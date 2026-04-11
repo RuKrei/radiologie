@@ -8,7 +8,7 @@ tags:
 # Risk Management (Das Überleben sichern)
 
 # Konzept
-Risikomanagement ist wichtiger als die Strategie. Selbst mit einem perfekten Edge wird man ohne Risikomanagement pleitegehen ("Risk of Ruin").
+[[Risikomanagement|Risikomanagement]] ist wichtiger als die Strategie. Selbst mit einem perfekten Edge wird man ohne [[Risikomanagement|Risikomanagement]] pleitegehen ("Risk of Ruin").
 *   **Kapitalerhalt:** Das oberste Ziel eines Traders ist es, am nächsten Tag noch Chips zum Spielen zu haben.
 *   **R-Multiples:** Risiko wird in "R" gemessen. 1R = Das Risiko pro Trade (z.B. 100€). Gewinne sollten ein Vielfaches von R sein (2R, 3R).
 
@@ -22,6 +22,10 @@ Risikomanagement ist wichtiger als die Strategie. Selbst mit einem perfekten Edg
 *   **Stop verschieben:** Den Stop weiter wegziehen, weil man "hofft", dass der Preis dreht. -> Todsünde!
 *   **Averaging Down:** Nachkaufen im Verlust, um den Einstiegspreis zu verbilligen.
 *   **Overleverage:** Zu große Positionen für die Kontogröße handeln.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=SvVbOv_EEO4)
 
 # Quellen
 

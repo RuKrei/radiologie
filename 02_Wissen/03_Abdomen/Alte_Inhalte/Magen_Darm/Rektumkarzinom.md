@@ -5,7 +5,7 @@ tags:
   - GI
   - radiologie
   - Dickdarm
-  - maligne
+  - [[Knochentumoren_2_Maligne|maligne]]
 ---
 
 ------
@@ -19,7 +19,7 @@ Tags:
 -----
 Wer? (Epidemiology und Symptome)
 
-Das Rektumkarzinom ist ein maligner Tumor der Schleimhaut des Rektums, wobei Tumoren, deren aboraler Rand 16 cm oder weniger von der Anokutanlinie entfernt ist, dieser Gruppe zugeordnet werden. Etwa 90 Prozent der Karzinome entwickeln sich aus adenomatösen Polypen. Das mittlere Erkrankungsalter liegt bei Frauen bei 75 und bei Männern bei 71 Jahren, wobei Männer häufiger betroffen sind,. Zu den Risikofaktoren zählen Verwandte ersten Grades von Tumorträgern, hereditäre Syndrome wie die familiäre adenomatöse Polyposis oder das Lynch-Syndrom sowie chronisch entzündliche Darmerkrankungen. Klinisch bleiben die Tumoren lange symptomlos, später treten Änderungen der Stuhlgewohnheiten, Blut im Stuhl oder Tenesmen auf,.
+Das [[Rektumkarzinom|Rektumkarzinom]] ist ein maligner Tumor der Schleimhaut des Rektums, wobei [[Pankreas_2_Tumoren|Tumoren]], deren aboraler Rand 16 cm oder weniger von der Anokutanlinie entfernt ist, dieser Gruppe zugeordnet werden. Etwa 90 Prozent der Karzinome entwickeln sich aus adenomatösen Polypen. Das mittlere Erkrankungsalter liegt bei Frauen bei 75 und bei Männern bei 71 Jahren, wobei Männer häufiger betroffen sind,. Zu den Risikofaktoren zählen Verwandte ersten Grades von Tumorträgern, hereditäre Syndrome wie die familiäre adenomatöse Polyposis oder das Lynch-Syndrom sowie chronisch entzündliche Darmerkrankungen. Klinisch bleiben die [[Pankreas_2_Tumoren|Tumoren]] lange symptomlos, später treten Änderungen der Stuhlgewohnheiten, Blut im Stuhl oder Tenesmen auf,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -28,7 +28,7 @@ Das Rektumkarzinom ist ein maligner Tumor der Schleimhaut des Rektums, wobei Tum
 ### Zu welchen pathologischen Veränderungen kommt es?
  Es zeigt sich eine irreguläre Schleimhautoberfläche und eine konzentrisch verdickte Darmwand. 
 ### Zu welchen morphologischen Veränderungen kommt es?
- Es kommt zu einer Einengung des Darmlumens und bei großen Tumoren zu einer Infiltration des Fettgewebes und des Mesorektums. 
+ Es kommt zu einer Einengung des Darmlumens und bei großen [[Pankreas_2_Tumoren|Tumoren]] zu einer Infiltration des Fettgewebes und des Mesorektums. 
 ### Zu welchen Komplikationen kann es kommen?
  Die Metastasierung erfolgt in regionäre Lymphknoten, die Lunge als primären Metastasierungsweg und die Leber als sekundären Metastasierungsweg.
 
@@ -71,7 +71,7 @@ Divertikulitis: Zeigt flächigere perikolische Infiltrate, Divertikel, häufig A
 
 Ischämische Kolitis: Geht mit einer langstreckigen Wandverdickung und verminderter Perfusion einher.
 
-Colitis ulcerosa: Beginnt im Rektum und führt zu einer diffusen Ausdehnung mit Verlust der Haustrierung.
+[[Colitis ulcerosa|Colitis ulcerosa]]: Beginnt im Rektum und führt zu einer diffusen Ausdehnung mit Verlust der Haustrierung.
 
 Submuköse Tumoren: Gastrointestinale Stromatumoren oder Hämangiome führen eher zu einer exzentrischen Lumeneinengung.
 
@@ -81,6 +81,10 @@ Endometriose: Kann zu einer Kompression von extern und einer einseitigen sägeza
 
 
 Das prätherapeutische Tumor-Staging bildet die Grundlage für die Therapieentscheidung zwischen lokaler Exzision und radikaler Resektion mit totaler mesorektaler Exzision. Die MRT ermöglicht die Identifikation von Hochrisikotumoren (z. B. bei geringem Abstand zur mesorektalen Faszie), die den Einsatz einer neoadjuvanten Therapie begründen. T1-Karzinome mit Low-Risk-Konstellation können einer lokalen Therapie zugeführt werden.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=7vAaHmGAWxk)
 
 # Quellen
 

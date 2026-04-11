@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=cOlZplT12UI)
+
 # Quellen
 
 - [Radiopaedia Suche: Post OP Abdomen Komplikationen](https://radiopaedia.org/search?q=post+op+abdomen+komplikationen)

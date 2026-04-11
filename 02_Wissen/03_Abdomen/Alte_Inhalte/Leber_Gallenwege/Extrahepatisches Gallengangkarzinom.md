@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Das extrahepatische Gallengangkarzinom macht 70 bis 80 Prozent aller Gallengangkarzinome aus und wird in perihiläre Tumoren (Klatskin-Tumoren) und distale Gallengangstumoren unterteilt. Es handelt sich fast ausschließlich um Adenokarzinome, die drei Wachstumsformen zeigen können: knotig exophytisch, periduktaler infiltrierend oder selten intraduktal polypoid. Die Erkrankung macht 15 bis 30 Prozent der primären hepatobiliären Malignome aus. Der Altersgipfel liegt im 50. bis 60. Lebensjahr, wobei Männer etwas häufiger betroffen sind als Frauen. Zu den prädisponierenden Faktoren gehören die primär sklerosierende Cholangitis, kongenitale Gallenganganomalien und in Asien Infektionen mit Clonorchis. Die 5-Jahres-Überlebensrate liegt zwischen 0 und 30 Prozent, wobei nur etwa 25 Prozent der Tumoren resektabel sind. Klinisch präsentiert sich die Erkrankung meist durch einen schmerzlosen Ikterus, Inappetenz und Gewichtsverlust.,
+Das extrahepatische Gallengangkarzinom macht 70 bis 80 Prozent aller Gallengangkarzinome aus und wird in perihiläre [[Pankreas_2_Tumoren|Tumoren]] (Klatskin-[[Pankreas_2_Tumoren|Tumoren]]) und distale Gallengangstumoren unterteilt. Es handelt sich fast ausschließlich um Adenokarzinome, die drei Wachstumsformen zeigen können: knotig exophytisch, periduktaler infiltrierend oder selten intraduktal polypoid. Die Erkrankung macht 15 bis 30 Prozent der primären hepatobiliären Malignome aus. Der Altersgipfel liegt im 50. bis 60. Lebensjahr, wobei Männer etwas häufiger betroffen sind als Frauen. Zu den prädisponierenden Faktoren gehören die primär sklerosierende Cholangitis, kongenitale Gallenganganomalien und in Asien [[Infektionen|Infektionen]] mit Clonorchis. Die 5-Jahres-Überlebensrate liegt zwischen 0 und 30 Prozent, wobei nur etwa 25 Prozent der [[Pankreas_2_Tumoren|Tumoren]] resektabel sind. Klinisch präsentiert sich die Erkrankung meist durch einen schmerzlosen Ikterus, Inappetenz und Gewichtsverlust.,
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -64,7 +64,7 @@ Das extrahepatische Gallengangkarzinom macht 70 bis 80 Prozent aller Gallengangk
 
 Gutartige Striktur: Zeigt eine kürzere Obstruktionsstrecke, einen geringeren Aufstau der Gallenwege, eine geringere Wandverdickung und eine geringere Kontrastmittelanreicherung in der Stenose.
 
-Pankreaskarzinom: Geht mit einer Obstruktion des Pankreasgangs und einem hypovaskulären Areal im Pankreaskopf einher.
+[[Pankreaskarzinom|Pankreaskarzinom]]: Geht mit einer Obstruktion des Pankreasgangs und einem hypovaskulären Areal im Pankreaskopf einher.
 
 Gallengangstein: Zeigt eine intraduktale Aussparung und ist häufig mit Koliken assoziiert.
 
@@ -74,6 +74,10 @@ Primär sklerosierende Cholangitis: Zeigt ein perlschnurartiges Bild der Gallenw
 
 
 Ein typischer Fehler ist die Fehlinterpretation nach Stent-Implantation oder Einlage von Drainagen, da die vermehrte Kontrastierung der Gallengangswand durch Entzündung kaum von einer Tumorausbreitung zu unterscheiden ist; daher sollte die Schnittbildgebung möglichst vor drainierenden Maßnahmen erfolgen. Für den zuweisenden Kollegen sind die Abgrenzung von gutartigen Gallengangobstruktionen (Strikturen, Steine) sowie die Information über eine Infiltration ins Leberparenchym oder die Gefäße zur Beurteilung der Resektabilität entscheidend. Etwa 10 bis 15 Prozent der Hilusstenosen sind nicht durch Tumoren bedingt.,
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=I-ObjMcXq3Q)
 
 # Quellen
 

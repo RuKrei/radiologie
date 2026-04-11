@@ -20,6 +20,10 @@ Tags:
 ![[Pasted image 20260112224757.png]]
 ![[Pasted image 20260112224912.png]]
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=xCVTKh3lZbQ)
+
 # Quellen
 
 - [Radiopaedia Suche: Femurfraktur](https://radiopaedia.org/search?q=femurfraktur)

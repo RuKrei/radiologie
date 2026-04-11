@@ -1,4 +1,4 @@
-# Lentiform Nucleus Obscuration
+# [[Lentiform_Nucleus_Obscuration|Lentiform Nucleus Obscuration]]
 
 ## Definition
 Verlust der Abgrenzbarkeit des Nucleus lentiformis (Putamen + Globus pallidus) gegenüber der Capsula interna/externa. Frühzeichen eines ischämischen Schlaganfalls im Stromgebiet der A. cerebri media (MCA).
@@ -15,3 +15,7 @@ Verlust der Abgrenzbarkeit des Nucleus lentiformis (Putamen + Globus pallidus) g
 
 ---
 Tags: #Radiologie #Neuro #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=srcT2zOB8Rw)
+

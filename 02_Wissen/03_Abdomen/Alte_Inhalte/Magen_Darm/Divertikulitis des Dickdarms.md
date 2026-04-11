@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Die Divertikulitis ist eine Entzündung von Divertikeln (Ausstülpungen der Mukosa und Submukosa durch Muskellücken der Darmwand), die meist durch Stuhlretention und Mikroperforationen entsteht. Eine Divertikulose findet sich bei 5 bis 10 Prozent der über 45-Jährigen und bei 50 bis 60 Prozent der über 80-Jährigen, wobei sich bei etwa 20 Prozent der Betroffenen eine symptomatische Divertikulitis ausbildet. Etwa 85 Prozent der Entzündungen treten im Sigma und Colon descendens auf, wobei im asiatischen Raum eine Häufung im rechten Hemikolon beobachtet wird. Männer und Frauen sind etwa gleich häufig betroffen. Zu den prädisponierenden Faktoren zählen Übergewicht, faserarme Kost und mangelnde körperliche Aktivität. Klinisch präsentieren sich die Patienten typischerweise mit linksseitigen Unterbauchschmerzen, Fieber, Leukozytose und einem lokalen Druckschmerz ("Linksappendizitis"). Komplikationen können Fisteln, meist zur Blase mit Pneumaturie, Abszesse oder eine freie Perforation sein. Eine Blutung ist primär eine Komplikation der Divertikulose und nicht der Divertikulitis, auch wenn sie im Rahmen der Entzündung auftreten kann,,,,.
+Die Divertikulitis ist eine Entzündung von Divertikeln (Ausstülpungen der Mukosa und Submukosa durch Muskellücken der Darmwand), die meist durch Stuhlretention und Mikroperforationen entsteht. Eine Divertikulose findet sich bei 5 bis 10 Prozent der über 45-Jährigen und bei 50 bis 60 Prozent der über 80-Jährigen, wobei sich bei etwa 20 Prozent der Betroffenen eine symptomatische Divertikulitis ausbildet. Etwa 85 Prozent der [[Pankreas_1_Entzündungen|Entzündungen]] treten im Sigma und Colon descendens auf, wobei im asiatischen Raum eine Häufung im rechten Hemikolon beobachtet wird. Männer und Frauen sind etwa gleich häufig betroffen. Zu den prädisponierenden Faktoren zählen Übergewicht, faserarme Kost und mangelnde körperliche Aktivität. Klinisch präsentieren sich die Patienten typischerweise mit linksseitigen Unterbauchschmerzen, Fieber, Leukozytose und einem lokalen Druckschmerz ("Linksappendizitis"). Komplikationen können Fisteln, meist zur Blase mit Pneumaturie, Abszesse oder eine freie Perforation sein. Eine [[Schlaganfall_2_Blutung|Blutung]] ist primär eine Komplikation der Divertikulose und nicht der Divertikulitis, auch wenn sie im Rahmen der Entzündung auftreten kann,,,,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -31,7 +31,7 @@ Die Divertikulitis ist eine Entzündung von Divertikeln (Ausstülpungen der Muko
 ### Zu welchen morphologischen Veränderungen kommt es?
  Morphologisch zeigen sich Divertikel, eine segmentale Wandverdickung (meist langstreckig über 10 cm), eine entzündliche Infiltration des Fettgewebes, Faszienverdickungen sowie mögliche Abszessformationen oder extraluminale Luft,,. 
 ### Zu welchen Komplikationen kann es kommen?
- Mögliche Komplikationen sind Abszesse (intramural, perikolisch, retroperitoneal), Fisteln (kolovesikal, kolovaginal), Stenosen mit mechanischem Ileus, freie Perforation mit Peritonitis und Pylephlebitis,.
+ Mögliche Komplikationen sind Abszesse (intramural, perikolisch, retroperitoneal), Fisteln (kolovesikal, kolovaginal), Stenosen mit mechanischem [[Ileus|Ileus]], freie Perforation mit Peritonitis und Pylephlebitis,.
 
 ## Sonografie
  
@@ -56,7 +56,7 @@ Die Divertikulitis ist eine Entzündung von Divertikeln (Ausstülpungen der Muko
 ### Was sieht man korrelierend in dieser Methode?
  Die CT ist die Methode der Wahl. Sie zeigt die Wandverdickung des Kolons, Divertikel und charakteristisch die Verdichtung des umgebenden Fettgewebes (Fat Stranding). Faszienverdickungen, perikolische Flüssigkeit und extraluminale Luftbläschen (bei gedeckter Perforation) sind gut erkennbar. Abszesse stellen sich als hypodense, randständig anreichernde Flüssigkeitskollektionen dar,,,. 
 ### Was kann man nicht sehen?
- Eine sichere Differenzierung zum Kolonkarzinom ist nicht immer möglich, insbesondere bei kurzer, exzentrischer Stenose. 
+ Eine sichere Differenzierung zum [[Kolonkarzinom|Kolonkarzinom]] ist nicht immer möglich, insbesondere bei kurzer, exzentrischer Stenose. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
  Kleine Luftbläschen im Mesenterium oder retroperitoneal können leicht übersehen werden. Die Klassifikation erfolgt häufig nach der CDD-Einteilung (z. B. Typ 1b für phlegmonöse Divertikulitis, Typ 2b für Makroabszess), was für die Therapieentscheidung essenziell ist.
 
@@ -72,18 +72,22 @@ Die Divertikulitis ist eine Entzündung von Divertikeln (Ausstülpungen der Muko
 # Differenzialdiagnosen
 
 
-Kolonkarzinom: Zeigt oft eine kurzstreckigere Wandverdickung, Schulterbildung („Apfelbutzen“), regionäre Lymphknoten und weniger perikolische Entzündungsreaktion; ein Karzinom kann jedoch eine Divertikulitis durch Perforation imitieren oder gleichzeitig vorliegen,.
+[[Kolonkarzinom|Kolonkarzinom]]: Zeigt oft eine kurzstreckigere Wandverdickung, Schulterbildung („Apfelbutzen“), regionäre Lymphknoten und weniger perikolische Entzündungsreaktion; ein Karzinom kann jedoch eine Divertikulitis durch Perforation imitieren oder gleichzeitig vorliegen,.
 
 Ischämische Kolitis: Zeigt eine langstreckige, auf ein Gefäßversorgungsgebiet beschränkte Wandverdickung mit weniger perikolischer Reaktion; die Mukosa ist oft hypoperfundiert.
 
-Appendagitis epiploica: Zeigt eine ovale, fettäquivalente Läsion mit hyperdensem Rand und zentralem Punkt (thrombosiertes Gefäß) ohne primäre Wandverdickung des Kolons.
+[[Appendagitis|Appendagitis]] epiploica: Zeigt eine ovale, fettäquivalente Läsion mit hyperdensem Rand und zentralem Punkt (thrombosiertes Gefäß) ohne primäre Wandverdickung des Kolons.
 
-Chronisch entzündliche Darmerkrankungen: Colitis ulcerosa beginnt im Rektum und zeigt keine perikolischen Fettgewebsreaktionen; Morbus Crohn zeigt oft Wandverdickungen im Dünndarm und Fisteln.
+Chronisch entzündliche Darmerkrankungen: [[Colitis ulcerosa|Colitis ulcerosa]] beginnt im Rektum und zeigt keine perikolischen Fettgewebsreaktionen; [[Morbus Crohn|Morbus Crohn]] zeigt oft Wandverdickungen im [[Dünndarm|Dünndarm]] und Fisteln.
 
 # Alles andere
 
 
 Nach Abklingen einer akuten Divertikulitis sollte im Intervall (ca. 4-6 Wochen) eine Koloskopie zum Ausschluss eines Karzinoms durchgeführt werden, da die Bildgebung allein im Akutstadium nicht beweisend ist. Die Therapie richtet sich nach dem Stadium (z. B. CDD-Klassifikation): Unkomplizierte Formen werden konservativ behandelt, Abszesse über 4-5 cm können CT-gesteuert drainiert werden, und bei freier Perforation oder Therapieversagen ist eine Operation indiziert,,.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=wqcW8hclz4c)
 
 # Quellen
 

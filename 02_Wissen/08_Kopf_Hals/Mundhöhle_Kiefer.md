@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=DHtBs319lfw)
+
 # Quellen
 
 - [Radiopaedia Suche: Mundhöhle Kiefer](https://radiopaedia.org/search?q=mundhöhle+kiefer)

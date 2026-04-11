@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Duodenaldivertikel sind Aussackungen der Duodenalwand, die in primäre und sekundäre Formen unterteilt werden. Primäre Divertikel entstehen durch Hernierung von Mukosa durch die Muscularis propria, befinden sich meist in der Pars II oder Pars III des Duodenums und liegen zu 75 Prozent in unmittelbarer Nachbarschaft der Papille (juxtapapilläre Divertikel). Sekundäre Divertikel sind Hernierungen von Mukosa und Muscularis mucosae, die fast ausschließlich in der Pars I (Bulbus) lokalisiert und meist Folge entzündlicher Veränderungen (Vernarbungen) sind. Die Prävalenz wird in ERCP-Studien mit bis zu 22 bis 25 Prozent angegeben,. Die Häufigkeit nimmt mit dem Alter zu und Frauen sind etwas häufiger betroffen. In 90 Prozent der Fälle sind die Divertikel symptomlos und stellen einen Zufallsbefund dar. Klinische Beschwerden entstehen meist durch Komplikationen wie Divertikulitis, Blutung, Perforation oder durch die Bildung von Enterolithen,. Eine spezifische Komplikation ist das Lemmel-Syndrom, bei dem das Divertikel den Ductus hepatocholedochus komprimiert und eine obstruktive Cholestase verursacht.
+[[Duodenaldivertikel|Duodenaldivertikel]] sind Aussackungen der Duodenalwand, die in primäre und sekundäre Formen unterteilt werden. Primäre Divertikel entstehen durch Hernierung von Mukosa durch die Muscularis propria, befinden sich meist in der Pars II oder Pars III des Duodenums und liegen zu 75 Prozent in unmittelbarer Nachbarschaft der Papille (juxtapapilläre Divertikel). Sekundäre Divertikel sind Hernierungen von Mukosa und Muscularis mucosae, die fast ausschließlich in der Pars I (Bulbus) lokalisiert und meist Folge entzündlicher Veränderungen (Vernarbungen) sind. Die Prävalenz wird in ERCP-Studien mit bis zu 22 bis 25 Prozent angegeben,. Die Häufigkeit nimmt mit dem Alter zu und Frauen sind etwas häufiger betroffen. In 90 Prozent der Fälle sind die Divertikel symptomlos und stellen einen Zufallsbefund dar. Klinische Beschwerden entstehen meist durch Komplikationen wie Divertikulitis, [[Schlaganfall_2_Blutung|Blutung]], Perforation oder durch die Bildung von Enterolithen,. Eine spezifische Komplikation ist das Lemmel-Syndrom, bei dem das Divertikel den Ductus hepatocholedochus komprimiert und eine obstruktive Cholestase verursacht.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -31,7 +31,7 @@ Duodenaldivertikel sind Aussackungen der Duodenalwand, die in primäre und sekun
 ### Zu welchen morphologischen Veränderungen kommt es?
  Je nach Füllungsgrad kann die Läsion unterschiedliche Ausmaße annehmen. 
 ### Zu welchen Komplikationen kann es kommen?
- Mögliche Komplikationen sind Entzündung, Perforation (mit freier Luft im Retroperitoneum oder Peritoneum), Blutung und Kompression benachbarter Strukturen wie des Gallengangs,.
+ Mögliche Komplikationen sind Entzündung, Perforation (mit freier Luft im [[Retroperitoneum|Retroperitoneum]] oder Peritoneum), [[Schlaganfall_2_Blutung|Blutung]] und Kompression benachbarter Strukturen wie des Gallengangs,.
 
 ## Sonografie
  
@@ -59,7 +59,7 @@ Duodenaldivertikel sind Aussackungen der Duodenalwand, die in primäre und sekun
 ### Was sieht man korrelierend in dieser Methode?
  In T2-gewichteten Sequenzen stellt sich das Divertikel bei Flüssigkeitsfüllung als signalreiche Raumforderung an der medialen Seite des Duodenums dar. 
 ### Gibt es wichtige Befunde/Aspekte, die man übersehen kann?
- Nach oraler Gabe von metallhaltigen Flüssigkeiten (zum Beispiel Blaubeersaft) kommt es zum Signalverlust des Divertikelinhalts, was die Diagnose bestätigen kann. Duodenaldivertikel können die Darstellung des distalen Ductus choledochus in der MRCP erschweren.
+ Nach oraler Gabe von metallhaltigen Flüssigkeiten (zum Beispiel Blaubeersaft) kommt es zum Signalverlust des Divertikelinhalts, was die Diagnose bestätigen kann. [[Duodenaldivertikel|Duodenaldivertikel]] können die Darstellung des distalen Ductus choledochus in der MRCP erschweren.
 
 # Differenzialdiagnosen
 
@@ -70,14 +70,18 @@ Periduodenaler Abszess: Dieser zeigt keine Öffnung zum Duodenallumen und geht m
 
 Perforiertes Duodenalulkus: Hier finden sich Flüssigkeit und Entzündungszeichen um das Ulkus sowie freie Luft.
 
-Choledochuszyste: Diese zeigt in modernen Schnittbildverfahren eine eindeutige Zuordnung zum Gallengang.
+[[Choledochuszyste|Choledochuszyste]]: Diese zeigt in modernen Schnittbildverfahren eine eindeutige Zuordnung zum Gallengang.
 
 Retroperitoneale Adenopathie: Flüssigkeitsgefüllte Divertikel können nekrotische Lymphknoten imitieren.
 
 # Alles andere
 
 
-Ein typischer Fehler ist die Fehlinterpretation des Divertikels als Pankreaspseudozyste, zystischer Tumor des Pankreaskopfs oder Abszess,,. Für den zuweisenden Kollegen ist der Ausschluss eines Tumors relevant. In der FDG-PET kann ein Duodenaldivertikel eine hypermetabole Raumforderung vortäuschen.
+Ein typischer Fehler ist die Fehlinterpretation des Divertikels als Pankreaspseudozyste, zystischer Tumor des Pankreaskopfs oder Abszess,,. Für den zuweisenden Kollegen ist der Ausschluss eines Tumors relevant. In der FDG-PET kann ein [[Duodenaldivertikel|Duodenaldivertikel]] eine hypermetabole Raumforderung vortäuschen.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=lQoMwDQXwvE)
 
 # Quellen
 

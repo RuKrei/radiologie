@@ -1,4 +1,4 @@
-# Halo Sign
+# [[Halo_Sign|Halo Sign]]
 
 ## Definition
 Milchglasartige Zone um einen pulmonalen Rundherd oder eine Konsolidierung.
@@ -24,3 +24,7 @@ Milchglasartige Zone um einen pulmonalen Rundherd oder eine Konsolidierung.
 
 ---
 Tags: #Radiologie #Thorax #Lunge #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=BYECB9gYBHc)
+

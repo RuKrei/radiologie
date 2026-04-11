@@ -1,4 +1,4 @@
-# Hourglass Sign
+# [[Hourglass_Sign|Hourglass Sign]]
 
 ## Definition
 Sanduhrförmige Einschnürung eines Tumors (meist Neurinom/Schwannom) beim Durchtritt durch das Neuroforamen. Ein Teil liegt intraspinal, der andere extraspinal.
@@ -15,3 +15,7 @@ Sanduhrförmige Einschnürung eines Tumors (meist Neurinom/Schwannom) beim Durch
 
 ---
 Tags: #Radiologie #Neuro #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=SLPOwiCaULs)
+

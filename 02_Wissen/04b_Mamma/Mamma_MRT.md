@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=uADWvYYd1hs)
+
 # Quellen
 
 - [Radiopaedia Suche: Mamma MRT](https://radiopaedia.org/search?q=breast+mrt)

@@ -1,4 +1,4 @@
-# Ice Cream Cone Sign
+# [[Ice_Cream_Cone_Sign|Ice Cream Cone Sign]]
 
 ## Definition
 Normale axiale CT-Anatomie der Gehörknöchelchen. Malleus-Kopf (Eis) und Incus-Körper (Waffel). Verlust dieses Zeichens deutet auf eine Luxation hin.
@@ -15,3 +15,7 @@ Normale axiale CT-Anatomie der Gehörknöchelchen. Malleus-Kopf (Eis) und Incus-
 
 ---
 Tags: #Radiologie #Neuro #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=aRLRXN8pexQ)
+

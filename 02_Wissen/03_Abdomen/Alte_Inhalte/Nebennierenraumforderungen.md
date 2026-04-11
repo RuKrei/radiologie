@@ -8,7 +8,7 @@ tags:
 - Endokrinologie
 ---
 ------
-PEG = Nebennieren-Inzidentalom, Nebennierenadenom, Phäochromozytom
+PEG = [[Nebennieren|Nebennieren]]-Inzidentalom, Nebennierenadenom, Phäochromozytom
 Erstellt: 2026-02-28
 Zuletzt bearbeitet: 2026-02-28
 Zuletzt gelesen: 2026-02-28
@@ -18,14 +18,14 @@ Tags: #Radiologie #Abdomen #Nebenniere #Onkologie #Endokrinologie
 Raumforderungen der Nebenniere sind oft asymptomatische Zufallsbefunde ("Inzidentalome" in 4-6% aller CTs). 
 - **Benigne (ca. 80%):** Inaktives Adenom (lipidreich).
 - **Hormonaktiv:** Cushing (Cortisol), Conn (Aldosteron), Phäochromozytom (Katecholamine).
-- **Maligne (ca. 2-5%):** Nebennierenkarzinom (ACC), Metastasen (Lunge, Mamma, Niere, Melanom).
+- **[[Knochentumoren_2_Maligne|Maligne]] (ca. 2-5%):** Nebennierenkarzinom (ACC), Metastasen (Lunge, Mamma, Niere, Melanom).
 - **Klinik:** Hypertonie (Conn/Phäochromozytom), Stammfettsucht (Cushing), Virilisierung (ACC).
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
 ## Allgemeines (auf alle Methoden anwendbar)
 ### Zu welchen pathologischen Veränderungen kommt es?
-Unterscheidung benigne (Adenom) vs. maligne (Metastase/Karzinom) basiert auf Fettgehalt (intrazelluläres Lipid) und Wash-out-Verhalten.
+Unterscheidung benigne (Adenom) vs. [[Knochentumoren_2_Maligne|maligne]] (Metastase/Karzinom) basiert auf Fettgehalt (intrazelluläres Lipid) und Wash-out-Verhalten.
 
 ### Zu welchen morphologischen Veränderungen kommt es?
 - **Adenom:** Rund, homogen, lipidreich (< 10 HU im nativen CT).
@@ -53,7 +53,7 @@ Unterscheidung benigne (Adenom) vs. maligne (Metastase/Karzinom) basiert auf Fet
         - **< 60%:** Metastase/Karzinom/Phäochromozytom.
     - **Relatives Wash-out (RPW):** (HUpv - HUdel) / HUpv * 100 (wenn HUnativ fehlt)
         - **> 40%:** Adenom.
-        - **< 40%:** Maligne.
+        - **< 40%:** [[Knochentumoren_2_Maligne|Maligne]].
 
 3.  **Größe:** < 4 cm meist benigne, > 4-6 cm malignitätsverdächtig -> OP/Biopsie.
 
@@ -87,7 +87,11 @@ Chemical-Shift-Imaging (CSI) zur Detektion von intrazellulärem Fett.
 # Alles andere
 - **Hormondiagnostik:** Bei jedem Inzidentalom > 1 cm empfohlen (Dexamethason-Hemmtest, Metanephrine im Plasma/Urin, Aldosteron-Renin-Quotient).
 - **Biopsie:** Nur bei V.a. Metastase und therapeutischer Konsequenz (nach Ausschluss Phäochromozytom!).
-- **FDG-PET/CT:** Hilfreich bei Unterscheidung benigne/maligne (Adenome meist photopenisch oder isometabol zur Leber; Metastasen/ACC hypermetabol).
+- **FDG-PET/CT:** Hilfreich bei Unterscheidung benigne/[[Knochentumoren_2_Maligne|maligne]] (Adenome meist photopenisch oder isometabol zur Leber; Metastasen/ACC hypermetabol).
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=UGXD7tviCrk)
 
 # Quellen
 

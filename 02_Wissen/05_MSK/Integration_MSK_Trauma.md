@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=kK_zy4wuzDQ)
+
 # Quellen
 
 - [Radiopaedia Suche: Integration MSK Trauma](https://radiopaedia.org/search?q=integration+msk+trauma)

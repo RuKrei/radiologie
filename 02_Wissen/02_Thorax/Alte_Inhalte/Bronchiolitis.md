@@ -18,7 +18,7 @@ Tags:
 -----
 Wer? (Epidemiologie und Symptome)
 
-Die Bronchiolitis ist eine Entzündung der kleinen Atemwege (Bronchioli), die keinen Knorpel enthalten und einen Durchmesser von weniger als 2 mm aufweisen. Im Kindesalter, insbesondere bei Kindern unter zwei Jahren, ist die akute infektiöse Bronchiolitis häufig und wird meist durch das Respiratory-Syncytial-Virus (RSV) verursacht. Klinisch zeigen diese Patienten Dyspnoe, Tachypnoe, Einziehungen und Giemen. Bei Erwachsenen ist die Bronchiolitis seltener eine isolierte Primärerkrankung. Sie tritt häufiger im Kontext anderer Erkrankungen auf, wie bei Kollagenosen (z. B. rheumatoide Arthritis, Sjögren-Syndrom), nach Transplantationen (Knochenmark, Lunge) oder durch Inhalationsnoxen. Eine spezifische Form ist die Respiratorische Bronchiolitis (RB), die fast ausschließlich Raucher betrifft und oft asymptomatisch ist oder milden Husten verursacht. Die konstriktive (obliterative) Bronchiolitis manifestiert sich meist durch progrediente Dyspnoe und trockenen Husten, oft mit einer nicht reversiblen obstruktiven Ventilationsstörung.
+Die [[Bronchiolitis|Bronchiolitis]] ist eine Entzündung der kleinen Atemwege (Bronchioli), die keinen Knorpel enthalten und einen Durchmesser von weniger als 2 mm aufweisen. Im Kindesalter, insbesondere bei Kindern unter zwei Jahren, ist die akute infektiöse [[Bronchiolitis|Bronchiolitis]] häufig und wird meist durch das Respiratory-Syncytial-Virus (RSV) verursacht. Klinisch zeigen diese Patienten Dyspnoe, Tachypnoe, Einziehungen und Giemen. Bei Erwachsenen ist die [[Bronchiolitis|Bronchiolitis]] seltener eine isolierte Primärerkrankung. Sie tritt häufiger im Kontext anderer Erkrankungen auf, wie bei Kollagenosen (z. B. [[Rheumatoide Arthritis|rheumatoide Arthritis]], Sjögren-Syndrom), nach Transplantationen (Knochenmark, Lunge) oder durch Inhalationsnoxen. Eine spezifische Form ist die Respiratorische Bronchiolitis (RB), die fast ausschließlich Raucher betrifft und oft asymptomatisch ist oder milden Husten verursacht. Die konstriktive (obliterative) Bronchiolitis manifestiert sich meist durch progrediente Dyspnoe und trockenen Husten, oft mit einer nicht reversiblen obstruktiven Ventilationsstörung.
 
 Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -66,13 +66,17 @@ Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Strukturelle Details 
 
 Differenzialdiagnosen
 
-Asthma bronchiale: Zeigt ebenfalls Überblähung und Bronchialwandverdickung, ist aber durch Reversibilität gekennzeichnet. Im Kindesalter radiologisch oft nicht von Bronchiolitis zu unterscheiden (Altersgrenze ca. 2 Jahre). Chronische Lungenembolie (CTEPH): Verursacht ebenfalls ein Mosaikmuster. Unterscheidung: Bei CTEPH kein Air Trapping in Exspiration; Gefäße in den lucenten Arealen sind kaliberschwach. Hypersensitivitätspneumonitis (Exogen-allergische Alveolitis): Zeigt zentrilobuläre Milchglasherde und oft auch Air Trapping (Kopfkäse-Zeichen / Headcheese sign bei Kombination aus Milchglas, normalem Lungengewebe und Air Trapping). Lymphangiosis carcinomatosa: Zeigt verdickte Interlobulärsepten (oft nodulär), was bei Bronchiolitis nicht typisch ist.
+Asthma bronchiale: Zeigt ebenfalls Überblähung und Bronchialwandverdickung, ist aber durch Reversibilität gekennzeichnet. Im Kindesalter radiologisch oft nicht von Bronchiolitis zu unterscheiden (Altersgrenze ca. 2 Jahre). Chronische Lungenembolie (CTEPH): Verursacht ebenfalls ein Mosaikmuster. Unterscheidung: Bei CTEPH kein Air Trapping in Exspiration; Gefäße in den lucenten Arealen sind kaliberschwach. Hypersensitivitätspneumonitis (Exogen-allergische Alveolitis): Zeigt zentrilobuläre Milchglasherde und oft auch Air Trapping (Kopfkäse-Zeichen / [[Headcheese_Sign|Headcheese sign]] bei Kombination aus Milchglas, normalem Lungengewebe und Air Trapping). Lymphangiosis carcinomatosa: Zeigt verdickte Interlobulärsepten (oft nodulär), was bei Bronchiolitis nicht typisch ist.
 
 Alles andere
 
 Das Swyer-James-MacLeod-Syndrom ist eine Folge einer Bronchiolitis obliterans im Kindesalter. Radiologisch zeigt sich eine einseitig helle Lunge (Hyperluzenz) mit verminderter Gefäßzeichnung und fehlender oder geringer Volumenzunahme (im Gegensatz zum Ventilpneu oder der Fremdkörperaspiration) sowie Air Trapping in der Exspiration. Die follikuläre Bronchiolitis ist eine lymphoproliferative Erkrankung, assoziiert mit rheumatoider Arthritis oder Sjögren-Syndrom, und zeigt zentrilobuläre Noduli und peribronchiale Verdichtungen.
 
 Quellen ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=YYn1RKJ3pyA)
+
 # Quellen
 
 - [Radiopaedia Suche: Bronchiolitis](https://radiopaedia.org/search?q=bronchiolitis)

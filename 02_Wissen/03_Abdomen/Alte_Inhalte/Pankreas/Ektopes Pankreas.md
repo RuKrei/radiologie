@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Das ektope Pankreas (auch aberrantes oder heterotopes Pankreas) ist eine seltene Entwicklungsstörung, bei der sich Pankreasgewebe ohne anatomische oder vaskuläre Verbindung zum Hauptorgan an einer anderen Stelle befindet. Die Prävalenz in der Allgemeinbevölkerung wird mit etwa 0,25 Prozent angegeben, während Sektionsstatistiken Häufigkeiten bis zu 14 Prozent nennen. Am häufigsten wird die Diagnose im Alter von 30 bis 50 Jahren gestellt, wobei Männer etwas häufiger betroffen sind. Die häufigsten Lokalisationen sind Magen (insbesondere Antrum), Duodenum und das proximale Jejunum,. Seltenere Orte sind Ösophagus, Ileum, Meckel-Divertikel oder die Gallenwege. Klinisch ist der Befund häufig asymptomatisch und wird zufällig entdeckt. Wenn Symptome auftreten, sind diese oft unspezifisch, wie abdominelle Schmerzen oder gastrointestinale Blutungen (z. B. durch Ulzera).
+Das ektope Pankreas (auch aberrantes oder heterotopes Pankreas) ist eine seltene Entwicklungsstörung, bei der sich Pankreasgewebe ohne anatomische oder vaskuläre Verbindung zum Hauptorgan an einer anderen Stelle befindet. Die Prävalenz in der Allgemeinbevölkerung wird mit etwa 0,25 Prozent angegeben, während Sektionsstatistiken Häufigkeiten bis zu 14 Prozent nennen. Am häufigsten wird die Diagnose im Alter von 30 bis 50 Jahren gestellt, wobei Männer etwas häufiger betroffen sind. Die häufigsten Lokalisationen sind Magen (insbesondere Antrum), Duodenum und das proximale Jejunum,. Seltenere Orte sind [[Ösophagus|Ösophagus]], Ileum, [[Meckel-Divertikel|Meckel-Divertikel]] oder die Gallenwege. Klinisch ist der Befund häufig asymptomatisch und wird zufällig entdeckt. Wenn Symptome auftreten, sind diese oft unspezifisch, wie abdominelle Schmerzen oder gastrointestinale Blutungen (z. B. durch Ulzera).
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -31,7 +31,7 @@ Das ektope Pankreas (auch aberrantes oder heterotopes Pankreas) ist eine seltene
 ### Zu welchen morphologischen Veränderungen kommt es?
  Typisch ist eine rundliche oder ovale Raumforderung, meist mit einem Durchmesser zwischen 5 und 25 mm, die submukös gelegen ist. Ein charakteristisches Merkmal ist eine zentrale Einziehung oder Mulde (Umbilikation), die einem rudimentären Ausführungsgang entspricht,. Das Gewebe verhält sich in Dichte und Kontrastmittelaufnahme ähnlich wie das reguläre Pankreas. 
 ### Zu welchen Komplikationen kann es kommen?
- Im ektopen Gewebe können sich pathologische Prozesse analog zum Hauptpankreas entwickeln, darunter akute oder chronische Pankreatitis, Zystenbildung, Blutungen und maligne Entartung (Pankreaskarzinom oder Inselzelltumoren),.
+ Im ektopen Gewebe können sich pathologische Prozesse analog zum Hauptpankreas entwickeln, darunter akute oder [[Chronische Pankreatitis|chronische Pankreatitis]], Zystenbildung, Blutungen und [[Knochentumoren_2_Maligne|maligne]] Entartung ([[Pankreaskarzinom|Pankreaskarzinom]] oder Inselzelltumoren),.
 
 ## Sonografie
  
@@ -72,9 +72,9 @@ Das ektope Pankreas (auch aberrantes oder heterotopes Pankreas) ist eine seltene
 # Differenzialdiagnosen
 
 
-Gastrointestinaler Stromatumor (GIST) / Leiomyom: Diese Tumoren wachsen eher exophytisch, liegen oft im Fundus oder Korpus des Magens und zeigen keine vermehrte Kontrastaufnahme der darüberliegenden Schleimhaut,.
+Gastrointestinaler Stromatumor (GIST) / Leiomyom: Diese [[Pankreas_2_Tumoren|Tumoren]] wachsen eher exophytisch, liegen oft im Fundus oder Korpus des Magens und zeigen keine vermehrte Kontrastaufnahme der darüberliegenden Schleimhaut,.
 
-Pankreaskarzinom (exzentrisch wachsend): Zeigt ein anderes Kontrastmittelverhalten als das Restpankreas, weist unscharfe Konturen mit Infiltration ins umgebende Gewebe auf und geht oft mit Leber- oder Lymphknotenmetastasen einher.
+[[Pankreaskarzinom|Pankreaskarzinom]] (exzentrisch wachsend): Zeigt ein anderes Kontrastmittelverhalten als das Restpankreas, weist unscharfe Konturen mit Infiltration ins umgebende Gewebe auf und geht oft mit Leber- oder Lymphknotenmetastasen einher.
 
 Adenom: Kann ebenfalls als solitärer Polyp auftreten.
 
@@ -84,6 +84,10 @@ Peptisches Ulkus: Kann bei ödematösem Randsaum ebenfalls als Target-Läsion (B
 
 
 Ein typischer Fehler ist die Verwechslung des ektopen Pankreas mit einem GIST oder Leiomyom. Für den zuweisenden Kollegen ist der Ausschluss eines malignen Tumors sowie der Hinweis auf mögliche Komplikationen wie eine Entzündung im aberranten Gewebe relevant.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=tnXdSOkVJs4)
 
 # Quellen
 

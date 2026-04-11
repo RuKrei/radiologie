@@ -1,7 +1,7 @@
-# Cord Sign
+# [[Cord_Sign|Cord Sign]]
 
 ## Definition
-Hyperdenser Sinus/Vene im Nativ-CT bei Thrombose (Pendant zum Dense MCA Sign).
+Hyperdenser Sinus/Vene im Nativ-CT bei Thrombose (Pendant zum [[Dense_MCA_Sign|Dense MCA Sign]]).
 
 ## Radiologisches Erscheinungsbild
 - Typisches Zeichen in der Bildgebung (Neuro).
@@ -15,3 +15,7 @@ Hyperdenser Sinus/Vene im Nativ-CT bei Thrombose (Pendant zum Dense MCA Sign).
 
 ---
 Tags: #Radiologie #Neuro #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=U8Hx-AkoD0o)
+

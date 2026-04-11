@@ -102,6 +102,10 @@ Das Volumen Profil ist keine Glaskugel, aber es ist die Landkarte. Es zeigt dir,
 
 Weiter zu: [[Glossar|Glossar]]
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=J-wjsissqHo)
+
 # Quellen
 
 - [Radiopaedia Suche: 01 Volume Profile](https://radiopaedia.org/search?q=01+volume+profile)

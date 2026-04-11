@@ -21,7 +21,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Die alveoläre Echinokokkose ist eine parasitäre Infektion, die durch das Larvenstadium des Fuchsbandwurms (Echinococcus multilocularis) verursacht wird. Die Infektion erfolgt durch Kontakt mit dem Endwirt, meist Füchsen, seltener Katzen und Hunden, oder über kontaminiertes Wasser beziehungsweise Nahrungsmittel. Die Embryonen gelangen durch die Darmmukosa über die Pfortader oder Lymphgefäße in die Leber, wo sie tumorähnlich und infiltrativ wachsen und kleine Zysten von 3 bis 20 mm bilden. Die Erkrankung ist endemisch in Zentraleuropa, insbesondere auf der Schwäbischen Alb, in Österreich, der Schweiz und dem Elsass, sowie im mittleren Westen der USA, Alaska, Kanada und Teilen von Russland. In Deutschland liegt die jährliche Inzidenz bei 0,05 Fällen je 100.000 Einwohner, in Süddeutschland jedoch bei 0,5 Fällen. Klinisch präsentieren sich die Patienten mit unspezifischen Symptomen wie Bauchschmerzen, Gewichtsverlust, Abgeschlagenheit und Ikterus,,.
+Die [[Alveoläre Echinokokkose|alveoläre Echinokokkose]] ist eine parasitäre Infektion, die durch das Larvenstadium des Fuchsbandwurms (Echinococcus multilocularis) verursacht wird. Die Infektion erfolgt durch Kontakt mit dem Endwirt, meist Füchsen, seltener Katzen und Hunden, oder über kontaminiertes Wasser beziehungsweise Nahrungsmittel. Die Embryonen gelangen durch die Darmmukosa über die Pfortader oder Lymphgefäße in die Leber, wo sie tumorähnlich und infiltrativ wachsen und kleine Zysten von 3 bis 20 mm bilden. Die Erkrankung ist endemisch in Zentraleuropa, insbesondere auf der Schwäbischen Alb, in Österreich, der Schweiz und dem Elsass, sowie im mittleren Westen der USA, Alaska, Kanada und Teilen von Russland. In Deutschland liegt die jährliche Inzidenz bei 0,05 Fällen je 100.000 Einwohner, in Süddeutschland jedoch bei 0,5 Fällen. Klinisch präsentieren sich die Patienten mit unspezifischen Symptomen wie Bauchschmerzen, Gewichtsverlust, Abgeschlagenheit und Ikterus,,.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -60,6 +60,10 @@ Metastasen: Gehen meist nicht mit einem Galleaufstau einher; konfluierende Metas
 
 
 Die FDG-PET-CT ist derzeit der Goldstandard für die Beurteilung der Aktivität der Erkrankung, wobei eine FDG-Mehrbelegung einer Läsion als Marker der Vitalität des Parasiten beziehungsweise als Zeichen der konsekutiven Entzündungsreaktion gewertet wird. Die WHO hat für die Erkrankung ein PNM-Staging (P = parasitic mass, N = involvement of neighbouring organs, M = metastasis) etabliert. Die Prognose ist schlecht, da die Erkrankung zum Zeitpunkt der Diagnose meist nicht mehr resezierbar ist,.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=jmn8ZeWWSFY)
 
 # Quellen
 

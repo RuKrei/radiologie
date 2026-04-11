@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=DjNaf0UAomU)
+
 # Quellen
 
 - [Radiopaedia Suche: Wirbelsaeule Trauma Vaskulaer](https://radiopaedia.org/search?q=spine+trauma+vaskulaer)

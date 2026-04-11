@@ -1,4 +1,4 @@
-# Coffee Bean Sign
+# [[Coffee_Bean_Sign|Coffee Bean Sign]]
 
 ## Definition
 Große, luftgefüllte Darmschlinge, die aus dem Becken aufsteigt und wie eine Kaffeebohne aussieht. Klassisch für Sigmavolvulus.
@@ -15,3 +15,7 @@ Große, luftgefüllte Darmschlinge, die aus dem Becken aufsteigt und wie eine Ka
 
 ---
 Tags: #Radiologie #Gastrointestinal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=dbiHO50aI3s)
+

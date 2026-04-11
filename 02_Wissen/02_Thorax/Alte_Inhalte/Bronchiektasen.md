@@ -18,7 +18,7 @@ Tags:
 -----
 Wer? (Epidemiologie und Symptome)
 
-Bronchiektasen sind definiert als irreversible Erweiterungen des Bronchiallumens, oft begleitet von einer Wandverdickung. Sie sind der Endzustand verschiedener pathologischer Prozesse. Zu den häufigsten Ursachen zählen vorausgegangene Infektionen (z. B. virale Infekte in der Kindheit, Tuberkulose, Mykobakteriosen), die Zystische Fibrose (Mukoviszidose), die allergische bronchopulmonale Aspergillose (ABPA), Immundefekte (z. B. Hypogammaglobulinämie), Ziliendyskinesien (z. B. Kartagener-Syndrom) sowie mechanische Obstruktionen (Tumor, Fremdkörper) oder Traktion durch Lungenfibrose. Klinisch präsentieren sich Patienten typischerweise mit chronischem Husten und Auswurf (oft eitrig/fötide), rezidivierenden bronchopulmonalen Infekten und Hämoptysen. Eine obstruktive Ventilationsstörung ist häufig nachweisbar.
+[[Bronchiektasen|Bronchiektasen]] sind definiert als irreversible Erweiterungen des Bronchiallumens, oft begleitet von einer Wandverdickung. Sie sind der Endzustand verschiedener pathologischer Prozesse. Zu den häufigsten Ursachen zählen vorausgegangene [[Infektionen|Infektionen]] (z. B. virale Infekte in der Kindheit, Tuberkulose, Mykobakteriosen), die Zystische Fibrose (Mukoviszidose), die allergische bronchopulmonale Aspergillose (ABPA), Immundefekte (z. B. Hypogammaglobulinämie), Ziliendyskinesien (z. B. Kartagener-Syndrom) sowie mechanische Obstruktionen (Tumor, Fremdkörper) oder Traktion durch Lungenfibrose. Klinisch präsentieren sich Patienten typischerweise mit chronischem Husten und Auswurf (oft eitrig/fötide), rezidivierenden bronchopulmonalen Infekten und Hämoptysen. Eine obstruktive Ventilationsstörung ist häufig nachweisbar.
 
 Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -32,7 +32,7 @@ Zu welchen Komplikationen kann es kommen? Wichtige Komplikationen sind rezidivie
 
 Sonografie
 
-Was sieht man korrelierend in dieser Methode? Die Sonografie spielt für die direkte Diagnostik der Bronchiektasen eine untergeordnete Rolle, da die luftgefüllte Lunge die Schallausbreitung behindert. Sie kann jedoch Begleitpathologien wie Pleuraergüsse oder pleuraständige Konsolidierungen (Pneumonie) detektieren.
+Was sieht man korrelierend in dieser Methode? Die Sonografie spielt für die direkte Diagnostik der [[Bronchiektasen|Bronchiektasen]] eine untergeordnete Rolle, da die luftgefüllte Lunge die Schallausbreitung behindert. Sie kann jedoch Begleitpathologien wie Pleuraergüsse oder pleuraständige Konsolidierungen (Pneumonie) detektieren.
 
 Was kann man nicht sehen? Die direkte Beurteilung der Bronchialmorphologie und -weite im Lungenparenchym ist nicht möglich.
 
@@ -40,7 +40,7 @@ Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Die Diagnose entzieht
 
 Röntgen
 
-Was sieht man korrelierend in dieser Methode? Die Sensitivität der Thoraxübersichtsaufnahme ist, insbesondere bei milden Formen, limitiert; der Befund kann normal sein. Direkte Zeichen sind: Tram-Lines (Schienenphänomen): Parallele lineare Verdichtungen, die verdickten Bronchialwänden im Längsschnitt entsprechen. Ringschatten: Dünnwandige zystische Strukturen (oft > 1 cm), die orthograd getroffenen, dilatierten Bronchien entsprechen; bei zystischen Bronchiektasen können Cluster ("Weintrauben") oder Spiegelbildungen (Air-Fluid-Levels) sichtbar sein. Handschuhfinger-Zeichen (Gloved Finger Sign): Tubuläre, verzweigte Verschattungen durch mit Mukus gefüllte Bronchien (Mukoidimpaktion), typisch z. B. bei ABPA. Volumenverlust: Atelektasen der betroffenen Lungenabschnitte.
+Was sieht man korrelierend in dieser Methode? Die Sensitivität der Thoraxübersichtsaufnahme ist, insbesondere bei milden Formen, limitiert; der Befund kann normal sein. Direkte Zeichen sind: Tram-Lines (Schienenphänomen): Parallele lineare Verdichtungen, die verdickten Bronchialwänden im Längsschnitt entsprechen. Ringschatten: Dünnwandige zystische Strukturen (oft > 1 cm), die orthograd getroffenen, dilatierten Bronchien entsprechen; bei zystischen [[Bronchiektasen|Bronchiektasen]] können Cluster ("Weintrauben") oder Spiegelbildungen (Air-Fluid-Levels) sichtbar sein. Handschuhfinger-Zeichen ([[Gloved_Finger_Sign|Gloved Finger Sign]]): Tubuläre, verzweigte Verschattungen durch mit Mukus gefüllte Bronchien (Mukoidimpaktion), typisch z. B. bei ABPA. Volumenverlust: Atelektasen der betroffenen Lungenabschnitte.
 
 Was kann man nicht sehen? Subtile zylindrische Bronchiektasen und frühe Stadien entgehen oft dem Nachweis.
 
@@ -48,7 +48,7 @@ Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Eine Verwechslung von
 
 CT
 
-Was sieht man korrelierend in dieser Methode? Die HRCT ist der Goldstandard. Siegelring-Zeichen (Signet Ring Sign): Der dilatierte Bronchus (Ring) ist im Querschnitt größer als die begleitende Pulmonalarterie (Siegel); das bronchoarterielle Ratio ist > 1 (bzw. > 1,5 für definitive Diagnose). Fehlende Verjüngung (Lack of Tapering): Der Bronchus behält seinen Durchmesser weit in die Peripherie bei. Sichtbarkeit in der Peripherie: Bronchien sind innerhalb von 1 cm zur Pleura sichtbar (normalerweise nicht sichtbar). Wandverdickung: Deutlich erkennbare Verdickung der Bronchialwand. Sekretretention: Mukoidimpaktion (tubuläre oder verzweigte Strukturen hoher Dichte), ggf. Spiegelbildungen. Mosaikmuster (Mosaic Attenuation): In Exspirationsaufnahmen nachweisbares Air Trapping als Zeichen der Obstruktion der kleinen Atemwege. Tree-in-Bud: Zentrilobuläre Knötchen und verzweigte Strukturen als Zeichen einer infektiösen Bronchiolitis. Bronchialarterien: Bei chronischer Entzündung können dilatierte Bronchialarterien als Ursache für Hämoptysen sichtbar sein.
+Was sieht man korrelierend in dieser Methode? Die HRCT ist der Goldstandard. Siegelring-Zeichen ([[Signet_Ring_Sign|Signet Ring Sign]]): Der dilatierte Bronchus (Ring) ist im Querschnitt größer als die begleitende Pulmonalarterie (Siegel); das bronchoarterielle Ratio ist > 1 (bzw. > 1,5 für definitive Diagnose). Fehlende Verjüngung (Lack of Tapering): Der Bronchus behält seinen Durchmesser weit in die Peripherie bei. Sichtbarkeit in der Peripherie: Bronchien sind innerhalb von 1 cm zur Pleura sichtbar (normalerweise nicht sichtbar). Wandverdickung: Deutlich erkennbare Verdickung der Bronchialwand. Sekretretention: Mukoidimpaktion (tubuläre oder verzweigte Strukturen hoher Dichte), ggf. Spiegelbildungen. Mosaikmuster (Mosaic Attenuation): In Exspirationsaufnahmen nachweisbares Air Trapping als Zeichen der Obstruktion der kleinen Atemwege. Tree-in-Bud: Zentrilobuläre Knötchen und verzweigte Strukturen als Zeichen einer infektiösen [[Bronchiolitis|Bronchiolitis]]. Bronchialarterien: Bei chronischer Entzündung können dilatierte Bronchialarterien als Ursache für Hämoptysen sichtbar sein.
 
 Was kann man nicht sehen? Reversible Bronchusdilatationen nach Pneumonien können morphologisch wie Bronchiektasen aussehen, bilden sich aber zurück.
 
@@ -64,13 +64,17 @@ Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Verkalkungen sind sch
 
 Differenzialdiagnosen
 
-Zystische Lungenerkrankungen (LCH, LAM): Zysten bei diesen Erkrankungen haben keine begleitende Arterie (kein Siegelring-Zeichen) und sind meist dünnwandiger. Lungenemphysem: Bullae haben keine erkennbare Wand oder nur eine sehr dünne Wand und keinen Bezug zum Bronchialbaum im Sinne einer Röhre. Kavernen: Meist dickwandiger, isoliert, oft mit Umgebungsreaktion. Traktionsbronchiektasen: Treten im Rahmen einer Lungenfibrose auf; das umgebende Parenchym zeigt Fibrosezeichen (Retikulation, Honigwabenmuster).
+Zystische Lungenerkrankungen (LCH, LAM): Zysten bei diesen Erkrankungen haben keine begleitende Arterie (kein Siegelring-Zeichen) und sind meist dünnwandiger. [[Lungenemphysem|Lungenemphysem]]: Bullae haben keine erkennbare Wand oder nur eine sehr dünne Wand und keinen Bezug zum Bronchialbaum im Sinne einer Röhre. Kavernen: Meist dickwandiger, isoliert, oft mit Umgebungsreaktion. Traktionsbronchiektasen: Treten im Rahmen einer Lungenfibrose auf; das umgebende Parenchym zeigt Fibrosezeichen (Retikulation, Honigwabenmuster).
 
 Alles andere
 
 Das Kartagener-Syndrom ist durch die Trias Situs inversus, Sinusitis und Bronchiektasen gekennzeichnet. Das Williams-Campbell-Syndrom resultiert aus einer Knorpeldefizienz der Bronchien 4. bis 6. Ordnung.
 
 Quellen ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=ZeVHI_GJlq4)
+
 # Quellen
 
 - [Radiopaedia Suche: Bronchiektasen](https://radiopaedia.org/search?q=bronchiektasen)

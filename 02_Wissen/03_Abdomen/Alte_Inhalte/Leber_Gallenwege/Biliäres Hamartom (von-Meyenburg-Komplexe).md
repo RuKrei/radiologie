@@ -64,7 +64,7 @@ Biliäre Hamartome, auch von-Meyenburg-Komplexe genannt, sind gutartige Malforma
 
 Leberzysten: Diese sind insbesondere sonografisch als solche zu erkennen und häufig größer als 1,5 cm.
 
-Caroli-Syndrom: Hier besteht ein Anschluss an das Gallengangsystem, es finden sich häufig größere zystische Erweiterungen, und die Erkrankung ist oft mit Konkrementen und einer Neigung zu Infektionen assoziiert.
+Caroli-Syndrom: Hier besteht ein Anschluss an das Gallengangsystem, es finden sich häufig größere zystische Erweiterungen, und die Erkrankung ist oft mit Konkrementen und einer Neigung zu [[Infektionen|Infektionen]] assoziiert.
 
 Metastasen: Diese sind selten rein zystisch (Ausnahme gastrointestinale Stromatumoren) und nehmen je nach Primärtumor Kontrastmittel auf. Neuroendokrine Metastasen können in T2-gewichteten Bildern hyperintens sein, sind aber meist nur mäßig und nicht markant hyperintens wie Hamartome.
 
@@ -72,6 +72,10 @@ Metastasen: Diese sind selten rein zystisch (Ausnahme gastrointestinale Stromatu
 
 
 Ein typischer Fehler ist die Verwechslung mit Metastasen, sowohl in der Bildgebung als auch bei Laparoskopien und Operationen. Die zufällige Verteilung multipler kleiner Knötchen in der Leber ohne größere Raumforderungen und ohne extrahepatische Erkrankung spricht für biliäre Hamartome. Für den zuweisenden Kollegen ist die Abgrenzung zu Metastasen die wichtigste Information.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=WUksDhGZuA8)
 
 # Quellen
 

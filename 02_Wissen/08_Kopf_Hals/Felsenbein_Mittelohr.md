@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=dF3Iel6cU_8)
+
 # Quellen
 
 - [Radiopaedia Suche: Felsenbein Mittelohr](https://radiopaedia.org/search?q=felsenbein+mittelohr)

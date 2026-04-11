@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=IHPE7ZYBVuM)
+
 # Quellen
 
 - [Radiopaedia Suche: Urogenital Peds](https://radiopaedia.org/search?q=urogenital+peds)

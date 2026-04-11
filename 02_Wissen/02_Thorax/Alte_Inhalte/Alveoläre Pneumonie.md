@@ -19,7 +19,7 @@ Tags:
 -----
 Wer? (Epidemiologie und Symptome)
 
-Die ambulant erworbene Pneumonie (CAP) ist die häufigste Form, wobei Streptococcus pneumoniae der führende Erreger der Lobärpneumonie ist,. Weitere typische Erreger sind Klebsiella pneumoniae (häufig bei Alkoholikern oder chronisch Kranken), Legionella pneumophila und Haemophilus influenzae,. Nosokomiale Pneumonien werden häufig durch gramnegative Keime (Pseudomonas, Enterobacter), Staphylokokken oder Anaerobier verursacht. Klinisch präsentiert sich die typische alveoläre Pneumonie akut mit hohem Fieber, Schüttelfrost, produktivem Husten (eitriger Auswurf), Dyspnoe, Tachypnoe und pleuritischen Thoraxschmerzen,. Bei älteren Patienten kann die Symptomatik blande sein.
+Die ambulant erworbene Pneumonie (CAP) ist die häufigste Form, wobei Streptococcus pneumoniae der führende Erreger der Lobärpneumonie ist,. Weitere typische Erreger sind Klebsiella pneumoniae (häufig bei Alkoholikern oder chronisch Kranken), Legionella pneumophila und Haemophilus influenzae,. Nosokomiale Pneumonien werden häufig durch gramnegative Keime (Pseudomonas, Enterobacter), Staphylokokken oder Anaerobier verursacht. Klinisch präsentiert sich die typische [[Alveoläre Pneumonie|alveoläre Pneumonie]] akut mit hohem Fieber, Schüttelfrost, produktivem Husten (eitriger Auswurf), Dyspnoe, Tachypnoe und pleuritischen Thoraxschmerzen,. Bei älteren Patienten kann die Symptomatik blande sein.
 
 Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -45,7 +45,7 @@ Was sieht man korrelierend in dieser Methode? Das Hauptmerkmal ist die homogene 
 
 Was kann man nicht sehen? Frühstadien (erste 12-24 Stunden) können radiologisch stumm sein. Dehydrierte Patienten zeigen eventuell erst nach Rehydratation Verschattungen. Kleine Einschmelzungen oder beginnende Abszesse können in der dichten Konsolidierung maskiert sein.
 
-Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Das "Bulging Fissure Sign" (konvexe Vorwölbung des Lappenspalts) deutet auf eine expansive Pneumonie hin, typisch für Klebsiella pneumoniae,. Die radiologische Rückbildung (Resolution) hinkt der klinischen Besserung oft hinterher (bis zu 6 Wochen),.
+Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Das "[[Bulging_Fissure_Sign|Bulging Fissure Sign]]" (konvexe Vorwölbung des Lappenspalts) deutet auf eine expansive Pneumonie hin, typisch für Klebsiella pneumoniae,. Die radiologische Rückbildung (Resolution) hinkt der klinischen Besserung oft hinterher (bis zu 6 Wochen),.
 
 CT
 
@@ -53,7 +53,7 @@ Was sieht man korrelierend in dieser Methode? Die CT zeigt Konsolidierungen mit 
 
 Was kann man nicht sehen? Die ätiologische Zuordnung des Erregers ist rein morphologisch nicht möglich, wenngleich bestimmte Muster (z. B. Abszedierung bei Staphylokokken) Hinweise geben können,.
 
-Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Kleine Abszesshöhlen oder Nekrosen innerhalb der Konsolidierung sind im CT frühzeitiger als im Röntgen erkennbar. Ein Empyem zeigt sich durch das "Split Pleura Sign" (Kontrastmittelaufnahme und Verdickung beider Pleurablätter),.
+Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Kleine Abszesshöhlen oder Nekrosen innerhalb der Konsolidierung sind im CT frühzeitiger als im Röntgen erkennbar. Ein Empyem zeigt sich durch das "[[Split_Pleura_Sign|Split Pleura Sign]]" (Kontrastmittelaufnahme und Verdickung beider Pleurablätter),.
 
 MRT
 
@@ -65,13 +65,17 @@ Gibt es wichtige Befunde/Aspekte, die man übersehen kann? Diffusionsgewichtete 
 
 Differenzialdiagnosen
 
-Atelektase: Zeigt Volumenminderung (Verziehung von Fissuren, Zwerchfellhochstand, Mediastinalverlagerung) im Gegensatz zur meist volumenneutralen Pneumonie,. Lungenödem: Meist bilateral, symmetrisch, schmetterlingsförmig oder gravitationsabhängig, oft begleitet von Kerley-Linien und Herzvergrößerung,. Lungenkarzinom (insb. invasives muzinöses Adenokarzinom/früher BAC): Kann als chronische, therapieresistente "Pneumonie" imponieren (Pneumonie-ähnliches Bild), oft mit Aerobronchogramm,. Lungeninfarkt: Keilförmige, pleuraständige Verdichtung (Hampton Hump), oft ohne Aerobronchogramm, vergesellschaftet mit Lungenembolie,. Organisierende Pneumonie (COP): Oft periphere oder peribronchiale Konsolidierungen, die wandern können und auf Antibiotika nicht ansprechen. Alveoläre Hämorrhagie: Diffuse oder fleckige Konsolidierungen/Milchglas, oft bei Vaskulitis oder Gerinnungsstörungen, klinisch Hämoptysen,.
+Atelektase: Zeigt Volumenminderung (Verziehung von Fissuren, Zwerchfellhochstand, Mediastinalverlagerung) im Gegensatz zur meist volumenneutralen Pneumonie,. Lungenödem: Meist bilateral, symmetrisch, schmetterlingsförmig oder gravitationsabhängig, oft begleitet von Kerley-Linien und Herzvergrößerung,. Lungenkarzinom (insb. invasives muzinöses Adenokarzinom/früher BAC): Kann als chronische, therapieresistente "Pneumonie" imponieren (Pneumonie-ähnliches Bild), oft mit Aerobronchogramm,. Lungeninfarkt: Keilförmige, pleuraständige Verdichtung ([[Hampton_Hump|Hampton Hump]]), oft ohne Aerobronchogramm, vergesellschaftet mit Lungenembolie,. Organisierende Pneumonie (COP): Oft periphere oder peribronchiale Konsolidierungen, die wandern können und auf Antibiotika nicht ansprechen. Alveoläre Hämorrhagie: Diffuse oder fleckige Konsolidierungen/Milchglas, oft bei Vaskulitis oder Gerinnungsstörungen, klinisch Hämoptysen,.
 
 Alles andere
 
-Bei "Slowly resolving pneumonia" (fehlende Rückbildung nach antibiotischer Therapie) muss an maligne Prozesse (Bronchialkarzinom), resistente Keime, Tuberkulose oder nicht-infektiöse Ursachen (COP, Vaskulitis) gedacht werden,. Das "Golden S Sign" (umgekehrtes S der Lappenspalte) deutet auf eine zentrale Raumforderung (Tumor) mit poststenotischer Atelektase/Pneumonie hin.
+Bei "Slowly resolving pneumonia" (fehlende Rückbildung nach antibiotischer Therapie) muss an [[Knochentumoren_2_Maligne|maligne]] Prozesse (Bronchialkarzinom), resistente Keime, Tuberkulose oder nicht-infektiöse Ursachen (COP, Vaskulitis) gedacht werden,. Das "[[Golden_S_Sign|Golden S Sign]]" (umgekehrtes S der Lappenspalte) deutet auf eine zentrale Raumforderung (Tumor) mit poststenotischer Atelektase/Pneumonie hin.
 
 Quellen ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=YDs9Y86r8Ug)
+
 # Quellen
 
 - [Radiopaedia Suche: Alveoläre Pneumonie](https://radiopaedia.org/search?q=alveoläre+pneumonie)

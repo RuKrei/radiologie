@@ -93,6 +93,10 @@ Im nächsten Kapitel lernen wir das Werkzeug kennen, das uns diese Zonen sichtba
 
 Weiter zu: [[Volumen-Profil-Basics|Volumen Profil Basics]]
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=GrdVYZLbmLA)
+
 # Quellen
 
 - [Radiopaedia Suche: 01 AMT Grundlagen](https://radiopaedia.org/search?q=01+amt+grundlagen)

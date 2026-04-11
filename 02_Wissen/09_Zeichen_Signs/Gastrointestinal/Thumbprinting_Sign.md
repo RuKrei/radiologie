@@ -1,7 +1,7 @@
-# Thumbprinting Sign
+# [[Thumbprinting_Sign|Thumbprinting Sign]]
 
 ## Definition
-Daumenabdruck-artige Einziehungen der Darmwand im Röntgen/CT durch ausgeprägtes submukosales Ödem (Ischämie, CED, infektiöse Kolitis).
+Daumenabdruck-artige Einziehungen der Darmwand im Röntgen/CT durch ausgeprägtes submukosales Ödem ([[Schlaganfall_1_Ischämie|Ischämie]], CED, infektiöse Kolitis).
 
 ## Radiologisches Erscheinungsbild
 - Typisches Zeichen in der Bildgebung (Gastrointestinal).
@@ -15,3 +15,7 @@ Daumenabdruck-artige Einziehungen der Darmwand im Röntgen/CT durch ausgeprägte
 
 ---
 Tags: #Radiologie #Gastrointestinal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=wSIUoF5e5Vs)
+

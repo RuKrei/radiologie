@@ -1,7 +1,7 @@
-# Apple Core Sign
+# [[Apple_Core_Sign|Apple Core Sign]]
 
 ## Definition
-Kurzstreckige, zirkuläre Stenose im Kolon (sieht aus wie abgenagter Apfel), typisch für Kolonkarzinom.
+Kurzstreckige, zirkuläre Stenose im Kolon (sieht aus wie abgenagter Apfel), typisch für [[Kolonkarzinom|Kolonkarzinom]].
 
 ## Radiologisches Erscheinungsbild
 - Typisches Zeichen in der Bildgebung (Gastrointestinal).
@@ -15,3 +15,7 @@ Kurzstreckige, zirkuläre Stenose im Kolon (sieht aus wie abgenagter Apfel), typ
 
 ---
 Tags: #Radiologie #Gastrointestinal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=neqHvHeD_9A)
+

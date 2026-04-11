@@ -1,4 +1,4 @@
-# Hot Cross Bun Sign
+# [[Hot_Cross_Bun_Sign|Hot Cross Bun Sign]]
 
 ## Definition
 Kreuzförmige Hyperintensität im Pons (T2) bei MSA-C (Multisystematrophie).
@@ -15,3 +15,7 @@ Kreuzförmige Hyperintensität im Pons (T2) bei MSA-C (Multisystematrophie).
 
 ---
 Tags: #Radiologie #Neuro #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=P_EapkoKfAU)
+

@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=LsxSUujmDrI)
+
 # Quellen
 
 - [Radiopaedia Suche: Knochentumoren 2 Maligne](https://radiopaedia.org/search?q=knochentumoren+2+maligne)

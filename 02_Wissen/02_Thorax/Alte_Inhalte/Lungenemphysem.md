@@ -18,7 +18,7 @@ Tags:
 -----
 Wer? (Epidemiologie und Symptome)
 
-Das Lungenemphysem ist definiert als eine abnormale, permanente Erweiterung der Lufträume distal der terminalen Bronchiolen, begleitet von einer Destruktion ihrer Wände ohne wesentliche Fibrosierung,,,. Es ist eine Hauptkomponente der COPD (Chronic Obstructive Pulmonary Disease). Hauptrisikofaktor ist Zigarettenrauchen, aber auch Umweltbelastungen spielen eine Rolle. Eine spezifische genetische Ursache ist der Alpha-1-Antitrypsin-Mangel, der zu einem frühzeitigen Beginn führen kann,. Klinisch präsentieren sich Patienten oft als "Pink Puffer" (dyspnoisch-pulmonaler Typ) mit Belastungsdyspnoe und trockenem Husten, im Gegensatz zum "Blue Bloater" (normopnoisch-bronchialer Typ), bei dem die chronische Bronchitis dominiert,. Lungenfunktionell zeigt sich eine irrehversible Obstruktion und eine verminderte Diffusionskapazität,.
+Das [[Lungenemphysem|Lungenemphysem]] ist definiert als eine abnormale, permanente Erweiterung der Lufträume distal der terminalen Bronchiolen, begleitet von einer Destruktion ihrer Wände ohne wesentliche Fibrosierung,,,. Es ist eine Hauptkomponente der COPD (Chronic Obstructive Pulmonary Disease). Hauptrisikofaktor ist Zigarettenrauchen, aber auch Umweltbelastungen spielen eine Rolle. Eine spezifische genetische Ursache ist der Alpha-1-Antitrypsin-Mangel, der zu einem frühzeitigen Beginn führen kann,. Klinisch präsentieren sich Patienten oft als "Pink Puffer" (dyspnoisch-pulmonaler Typ) mit Belastungsdyspnoe und trockenem Husten, im Gegensatz zum "Blue Bloater" (normopnoisch-bronchialer Typ), bei dem die [[Chronische Bronchitis|chronische Bronchitis]] dominiert,. Lungenfunktionell zeigt sich eine irrehversible Obstruktion und eine verminderte Diffusionskapazität,.
 
 Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -81,13 +81,17 @@ Differenzialdiagnosen
 Zystische Lungenerkrankungen (LAM, LCH):
 
 - Lymphangioleiomyomatose (LAM): Diffuse dünnwandige Zysten bei Frauen, keine Zerstörung der Architektur wie beim Emphysem, oft normale Lungenvolumina,,.
-- Langerhans-Zell-Histiozytose (LCH): Bizarre, oft dickwandige Zysten und Noduli, Oberlappenbetonung, Aussparung der kostophrenischen Winkel,,,. Honigwabenmuster (UIP/IPF): Subpleurale, dickwandige Zysten in mehreren Reihen (stacked cysts), assoziiert mit Fibrosezeichen (Traktionsbronchiektasen), meist basal betont,,. Bronchiektasen: Zystische Bronchiektasen haben Anschluss an das Bronchialsystem und oft eine dickere Wand ("Signet-Ring Sign"),. Swyer-James-Syndrom: Einseitige helle Lunge durch Bronchiolitis obliterans in der Kindheit, Air Trapping in Exspiration,,.
+- Langerhans-Zell-Histiozytose (LCH): Bizarre, oft dickwandige Zysten und Noduli, Oberlappenbetonung, Aussparung der kostophrenischen Winkel,,,. Honigwabenmuster (UIP/IPF): Subpleurale, dickwandige Zysten in mehreren Reihen (stacked cysts), assoziiert mit Fibrosezeichen (Traktionsbronchiektasen), meist basal betont,,. [[Bronchiektasen|Bronchiektasen]]: Zystische [[Bronchiektasen|Bronchiektasen]] haben Anschluss an das Bronchialsystem und oft eine dickere Wand ("Signet-Ring Sign"),. Swyer-James-Syndrom: Einseitige helle Lunge durch [[Bronchiolitis|Bronchiolitis]] obliterans in der Kindheit, Air Trapping in Exspiration,,.
 
 Alles andere
 
 Das Emphysem kann quantifiziert werden (Densitometrie, Pixel unter -950 HU), was für die Planung von lungenvolumenreduzierenden Eingriffen (LVRS, Ventile) wichtig ist,,. Ein "Saber-Sheath"-Trachea (Säbelscheidentrachea) ist ein starker Indikator für eine COPD/Emphysem,,.
 
 Quellen ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=kurysmzSoT4)
+
 # Quellen
 
 - [Radiopaedia Suche: Lungenemphysem](https://radiopaedia.org/search?q=lungenemphysem)

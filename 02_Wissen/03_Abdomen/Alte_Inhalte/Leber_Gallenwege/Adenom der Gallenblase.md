@@ -20,7 +20,7 @@ Tags:
 # Wer? (Epidemiologie und Symptome)
 
 
-Das Adenom der Gallenblase ist der häufigste gutartige Tumor dieses Organs. Der Altersgipfel liegt zwischen 40 und 65 Jahren, wobei Frauen häufiger betroffen sind als Männer. In über 50 Prozent der Fälle sind Adenome mit Gallensteinen und einer Cholezystitis vergesellschaftet. Als prädisponierende Faktoren gelten die familiäre Polypose und das Peutz-Jeghers-Syndrom, bei denen Adenome in der Gallenblase und in den Gallenwegen häufiger auftreten. Klinisch sind die Patienten in der Regel symptomlos.
+Das [[Adenom der Gallenblase|Adenom der Gallenblase]] ist der häufigste gutartige Tumor dieses Organs. Der Altersgipfel liegt zwischen 40 und 65 Jahren, wobei Frauen häufiger betroffen sind als Männer. In über 50 Prozent der Fälle sind Adenome mit Gallensteinen und einer Cholezystitis vergesellschaftet. Als prädisponierende Faktoren gelten die familiäre Polypose und das Peutz-Jeghers-Syndrom, bei denen Adenome in der Gallenblase und in den Gallenwegen häufiger auftreten. Klinisch sind die Patienten in der Regel symptomlos.
 
 # Bildgebung (morphologische/ pathologische Veränderungen)
 
@@ -74,6 +74,10 @@ Lipom: Diese zeigen in der Computertomografie und Magnetresonanztomografie fett�
 
 
 Ein typischer Fehler ist die Fehldiagnose als Cholesterolpolyp oder Gallenstein. Für den klinisch tätigen Kollegen sind Zeichen einer malignen Entartung sowie die Abgrenzung zu Cholesterolpolypen und Steinen von Bedeutung.
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=Qr2X2TIcXSY)
 
 # Quellen
 

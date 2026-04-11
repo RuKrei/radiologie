@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=hRV_2rdeoSE)
+
 # Quellen
 
 - [Radiopaedia Suche: Wirbelsäule 2 Tumoren Entzündung](https://radiopaedia.org/search?q=wirbelsäule+2+tumoren+entzündung)

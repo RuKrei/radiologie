@@ -1,4 +1,4 @@
-# Scottie Dog Sign
+# [[Scottie_Dog_Sign|Scottie Dog Sign]]
 
 ## Definition
 Erscheinungsbild der lumbalen Wirbel im Schrägbild. 'Halsband' = Spondylolyse.
@@ -15,3 +15,7 @@ Erscheinungsbild der lumbalen Wirbel im Schrägbild. 'Halsband' = Spondylolyse.
 
 ---
 Tags: #Radiologie #Muskuloskelettal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=yC49j1QIQ7U)
+

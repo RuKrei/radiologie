@@ -5,7 +5,7 @@ tags:
   - radiologie
   - MSK
   - anatomy
-  - Schulter
+  - [[schulter|Schulter]]
 mnemo_run: 1
 ---
 
@@ -32,6 +32,10 @@ Tags:
 ![[Pasted image 20251226174200.png]]
 ![[Pasted image 20251226174232.png]]
 ![[Pasted image 20251226174259.png]]
+
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=EmoCOrqbP2U)
 
 # Quellen
 

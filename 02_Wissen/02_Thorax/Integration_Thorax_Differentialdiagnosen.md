@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=eKzw5xX1hes)
+
 # Quellen
 
 - [Radiopaedia Suche: Integration Thorax Differentialdiagnosen](https://radiopaedia.org/search?q=integration+thorax+differentialdiagnosen)

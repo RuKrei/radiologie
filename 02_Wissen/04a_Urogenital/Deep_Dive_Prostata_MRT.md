@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=hcqXT6YH364)
+
 # Quellen
 
 - [Radiopaedia Suche: Deep Dive Prostata MRT](https://radiopaedia.org/search?q=deep+dive+prostata+mrt)

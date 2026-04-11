@@ -1,4 +1,4 @@
-# Bamboo Spine
+# [[Bamboo_Spine|Bamboo Spine]]
 
 ## Definition
 Verknöcherung der Wirbelsäulenbänder bei Morbus Bechterew (Spondylitis ankylosans).
@@ -15,3 +15,7 @@ Verknöcherung der Wirbelsäulenbänder bei Morbus Bechterew (Spondylitis ankylo
 
 ---
 Tags: #Radiologie #Muskuloskelettal #Zeichen #Sign
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=shPQFamCV0c)
+

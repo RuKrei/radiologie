@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=zoyWpyxynao)
+
 # Quellen
 
 - [Radiopaedia Suche: Muskeln Sehnen](https://radiopaedia.org/search?q=muskeln+sehnen)

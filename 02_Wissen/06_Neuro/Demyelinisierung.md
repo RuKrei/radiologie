@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=7rwEqrcGYvw)
+
 # Quellen
 
 - [Radiopaedia Suche: Demyelinisierung](https://radiopaedia.org/search?q=demyelinisierung)

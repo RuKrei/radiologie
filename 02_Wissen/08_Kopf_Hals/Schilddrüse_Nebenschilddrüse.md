@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=GyeXeqTibKs)
+
 # Quellen
 
 - [Radiopaedia Suche: Schilddrüse Nebenschilddrüse](https://radiopaedia.org/search?q=schilddrüse+nebenschilddrüse)

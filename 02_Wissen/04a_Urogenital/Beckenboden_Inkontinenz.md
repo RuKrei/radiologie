@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=R7yfw2UewPU)
+
 # Quellen
 
 - [Radiopaedia Suche: Beckenboden Inkontinenz](https://radiopaedia.org/search?q=beckenboden+inkontinenz)

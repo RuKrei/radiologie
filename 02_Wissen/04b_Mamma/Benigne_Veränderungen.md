@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=yrabCrSUou0)
+
 # Quellen
 
 - [Radiopaedia Suche: Benigne Veränderungen](https://radiopaedia.org/search?q=benigne+veränderungen)

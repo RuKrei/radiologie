@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=RyjePs2B6lk)
+
 # Quellen
 
 - [Radiopaedia Suche: Intervention Leber Galle](https://radiopaedia.org/search?q=intervention+liver+biliary)

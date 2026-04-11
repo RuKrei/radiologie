@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=LmurHrmLrbY)
+
 # Quellen
 
 - [Radiopaedia Suche: Hypophyse Sella](https://radiopaedia.org/search?q=hypophyse+sella)

@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=UWxIPshIzwE)
+
 # Quellen
 
 - [Radiopaedia Suche: Kontrastmittel Nephrotoxizität](https://radiopaedia.org/search?q=kontrastmittel+nephrotoxizität)

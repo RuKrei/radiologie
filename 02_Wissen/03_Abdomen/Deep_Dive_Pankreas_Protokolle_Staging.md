@@ -43,6 +43,10 @@ Tags:
 
 # Alles andere
 
+
+## Video-Empfehlung
+- [Kurzes Erklärvideo auf YouTube ansehen](https://www.youtube.com/watch?v=xcRhdymIrts)
+
 # Quellen
 
 - [Radiopaedia Suche: Deep Dive Pankreas Protokolle Staging](https://radiopaedia.org/search?q=deep+dive+pankreas+protokolle+staging)
